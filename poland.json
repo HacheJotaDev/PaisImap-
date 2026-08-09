@@ -1,0 +1,314 @@
+{
+  "country": "Poland",
+  "code": "PL",
+  "providers": [
+    {
+      "domain": "gmail.com",
+      "name": "Google Gmail",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "yahoo.com",
+      "name": "Yahoo Mail",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com",
+      "name": "Microsoft Outlook",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.com",
+      "name": "Microsoft Hotmail",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.com",
+      "name": "Microsoft Live",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "icloud.com",
+      "name": "Apple iCloud",
+      "imap": {
+        "host": "imap.mail.me.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.me.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "protonmail.com",
+      "name": "ProtonMail",
+      "imap": {
+        "host": "mail.protonmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.protonmail.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zoho.com",
+      "name": "Zoho Mail",
+      "imap": {
+        "host": "imap.zoho.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zoho.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "tutanota.com",
+      "name": "Tutanota",
+      "imap": {
+        "host": "imap.tutanota.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tutanota.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fastmail.com",
+      "name": "Fastmail",
+      "imap": {
+        "host": "imap.fastmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fastmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "wp.pl",
+      "name": "Wirtualna Polska",
+      "imap": {
+        "host": "imap.wp.pl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.wp.pl",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "onet.pl",
+      "name": "Onet.pl",
+      "imap": {
+        "host": "imap.onet.pl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.onet.pl",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "poczta.fm",
+      "name": "Poczta FM",
+      "imap": {
+        "host": "imap.poczta.fm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.poczta.fm",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "op.pl",
+      "name": "Orange Polska",
+      "imap": {
+        "host": "imap.op.pl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.op.pl",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "tlen.pl",
+      "name": "Tlen.pl",
+      "imap": {
+        "host": "imap.tlen.pl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tlen.pl",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "o2.pl",
+      "name": "o2.pl",
+      "imap": {
+        "host": "imap.o2.pl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.o2.pl",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "gazeta.pl",
+      "name": "Gazeta.pl",
+      "imap": {
+        "host": "imap.gazeta.pl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gazeta.pl",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "interia.pl",
+      "name": "Interia.pl",
+      "imap": {
+        "host": "imap.interia.pl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.interia.pl",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "poczta.onet.pl",
+      "name": "Poczta Onet",
+      "imap": {
+        "host": "imap.poczta.onet.pl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.poczta.onet.pl",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.pl",
+      "name": "Hotmail Polska",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "outlook.pl",
+      "name": "Outlook Polska",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "poczta.wp.pl",
+      "name": "WP Poczta",
+      "imap": {
+        "host": "imap.poczta.wp.pl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.poczta.wp.pl",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
+}

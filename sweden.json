@@ -1,0 +1,272 @@
+{
+  "country": "Sweden",
+  "code": "SE",
+  "providers": [
+    {
+      "domain": "gmail.com",
+      "name": "Google Gmail",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "yahoo.com",
+      "name": "Yahoo Mail",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com",
+      "name": "Microsoft Outlook",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.com",
+      "name": "Microsoft Hotmail",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.com",
+      "name": "Microsoft Live",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "icloud.com",
+      "name": "Apple iCloud",
+      "imap": {
+        "host": "imap.mail.me.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.me.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "protonmail.com",
+      "name": "ProtonMail",
+      "imap": {
+        "host": "mail.protonmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.protonmail.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zoho.com",
+      "name": "Zoho Mail",
+      "imap": {
+        "host": "imap.zoho.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zoho.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "tutanota.com",
+      "name": "Tutanota",
+      "imap": {
+        "host": "imap.tutanota.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tutanota.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fastmail.com",
+      "name": "Fastmail",
+      "imap": {
+        "host": "imap.fastmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fastmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "telia.com",
+      "name": "Telia",
+      "imap": {
+        "host": "imap.telia.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.telia.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "swipnet.se",
+      "name": "Telia Swipnet",
+      "imap": {
+        "host": "imap.swipnet.se",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.swipnet.se",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "spray.se",
+      "name": "Spray",
+      "imap": {
+        "host": "imap.spray.se",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.spray.se",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "gmail.se",
+      "name": "Gmail Sweden",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hotmail.se",
+      "name": "Hotmail Sweden",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.se",
+      "name": "Live Sweden",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "telia.se",
+      "name": "Telia SE",
+      "imap": {
+        "host": "imap.telia.se",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.telia.se",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "comhem.se",
+      "name": "Comhem",
+      "imap": {
+        "host": "imap.comhem.se",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.comhem.se",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "bredbandsbolaget.se",
+      "name": "Bredbandsbolaget",
+      "imap": {
+        "host": "imap.bredbandsbolaget.se",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bredbandsbolaget.se",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
+}

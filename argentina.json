@@ -1,0 +1,286 @@
+{
+  "country": "Argentina",
+  "code": "AR",
+  "providers": [
+    {
+      "domain": "gmail.com",
+      "name": "Google Gmail",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "yahoo.com",
+      "name": "Yahoo Mail",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com",
+      "name": "Microsoft Outlook",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.com",
+      "name": "Microsoft Hotmail",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.com",
+      "name": "Microsoft Live",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "icloud.com",
+      "name": "Apple iCloud",
+      "imap": {
+        "host": "imap.mail.me.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.me.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "protonmail.com",
+      "name": "ProtonMail",
+      "imap": {
+        "host": "mail.protonmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.protonmail.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zoho.com",
+      "name": "Zoho Mail",
+      "imap": {
+        "host": "imap.zoho.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zoho.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "tutanota.com",
+      "name": "Tutanota",
+      "imap": {
+        "host": "imap.tutanota.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tutanota.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fastmail.com",
+      "name": "Fastmail",
+      "imap": {
+        "host": "imap.fastmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fastmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hotmail.com.ar",
+      "name": "Hotmail Argentina",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "yahoo.com.ar",
+      "name": "Yahoo Argentina",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "gmail.com.ar",
+      "name": "Gmail Argentina",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com.ar",
+      "name": "Outlook Argentina",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fibertel.com.ar",
+      "name": "Fibertel",
+      "imap": {
+        "host": "imap.fibertel.com.ar",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fibertel.com.ar",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "speedy.com.ar",
+      "name": "Speedy",
+      "imap": {
+        "host": "imap.speedy.com.ar",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.speedy.com.ar",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "arnet.com.ar",
+      "name": "Arnet",
+      "imap": {
+        "host": "imap.arnet.com.ar",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.arnet.com.ar",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "telecentro.net.ar",
+      "name": "Telecentro",
+      "imap": {
+        "host": "imap.telecentro.net.ar",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.telecentro.net.ar",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ciudad.com.ar",
+      "name": "Ciudad",
+      "imap": {
+        "host": "imap.ciudad.com.ar",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ciudad.com.ar",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "infovia.com.ar",
+      "name": "Infovia",
+      "imap": {
+        "host": "imap.infovia.com.ar",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.infovia.com.ar",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
+}

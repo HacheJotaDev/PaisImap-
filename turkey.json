@@ -1,0 +1,258 @@
+{
+  "country": "Turkey",
+  "code": "TR",
+  "providers": [
+    {
+      "domain": "gmail.com",
+      "name": "Google Gmail",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "yahoo.com",
+      "name": "Yahoo Mail",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com",
+      "name": "Microsoft Outlook",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.com",
+      "name": "Microsoft Hotmail",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.com",
+      "name": "Microsoft Live",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "icloud.com",
+      "name": "Apple iCloud",
+      "imap": {
+        "host": "imap.mail.me.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.me.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "protonmail.com",
+      "name": "ProtonMail",
+      "imap": {
+        "host": "mail.protonmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.protonmail.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zoho.com",
+      "name": "Zoho Mail",
+      "imap": {
+        "host": "imap.zoho.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zoho.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "tutanota.com",
+      "name": "Tutanota",
+      "imap": {
+        "host": "imap.tutanota.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tutanota.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fastmail.com",
+      "name": "Fastmail",
+      "imap": {
+        "host": "imap.fastmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fastmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hotmail.com.tr",
+      "name": "Hotmail Turkey",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "gmail.com.tr",
+      "name": "Gmail Turkey",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com.tr",
+      "name": "Outlook Turkey",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "yahoo.com.tr",
+      "name": "Yahoo Turkey",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mynet.com",
+      "name": "Mynet",
+      "imap": {
+        "host": "imap.mynet.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mynet.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "superonline.com",
+      "name": "Superonline",
+      "imap": {
+        "host": "imap.superonline.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.superonline.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ttmail.com.tr",
+      "name": "Turk Telekom",
+      "imap": {
+        "host": "imap.ttmail.com.tr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ttmail.com.tr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ttnet.com.tr",
+      "name": "TTNet",
+      "imap": {
+        "host": "imap.ttnet.com.tr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ttnet.com.tr",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
+}

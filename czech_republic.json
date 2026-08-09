@@ -1,0 +1,258 @@
+{
+  "country": "Czech Republic",
+  "code": "CZ",
+  "providers": [
+    {
+      "domain": "gmail.com",
+      "name": "Google Gmail",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "yahoo.com",
+      "name": "Yahoo Mail",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com",
+      "name": "Microsoft Outlook",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.com",
+      "name": "Microsoft Hotmail",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.com",
+      "name": "Microsoft Live",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "icloud.com",
+      "name": "Apple iCloud",
+      "imap": {
+        "host": "imap.mail.me.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.me.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "protonmail.com",
+      "name": "ProtonMail",
+      "imap": {
+        "host": "mail.protonmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.protonmail.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zoho.com",
+      "name": "Zoho Mail",
+      "imap": {
+        "host": "imap.zoho.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zoho.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "tutanota.com",
+      "name": "Tutanota",
+      "imap": {
+        "host": "imap.tutanota.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tutanota.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fastmail.com",
+      "name": "Fastmail",
+      "imap": {
+        "host": "imap.fastmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fastmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "seznam.cz",
+      "name": "Seznam",
+      "imap": {
+        "host": "imap.seznam.cz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.seznam.cz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "email.cz",
+      "name": "Email.cz",
+      "imap": {
+        "host": "imap.email.cz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.email.cz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "post.cz",
+      "name": "Czech Post",
+      "imap": {
+        "host": "imap.post.cz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.post.cz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "centrum.cz",
+      "name": "Centrum",
+      "imap": {
+        "host": "imap.centrum.cz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.centrum.cz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "volny.cz",
+      "name": "Volny",
+      "imap": {
+        "host": "imap.volny.cz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.volny.cz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "quick.cz",
+      "name": "Quick.cz",
+      "imap": {
+        "host": "imap.quick.cz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.quick.cz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.cz",
+      "name": "Hotmail Czech",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "gmail.cz",
+      "name": "Gmail Czech",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
+}

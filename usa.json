@@ -1,0 +1,510 @@
+{
+  "country": "United States",
+  "code": "US",
+  "providers": [
+    {
+      "domain": "gmail.com",
+      "name": "Google Gmail",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "yahoo.com",
+      "name": "Yahoo Mail",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com",
+      "name": "Microsoft Outlook",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.com",
+      "name": "Microsoft Hotmail",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.com",
+      "name": "Microsoft Live",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "icloud.com",
+      "name": "Apple iCloud",
+      "imap": {
+        "host": "imap.mail.me.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.me.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "protonmail.com",
+      "name": "ProtonMail",
+      "imap": {
+        "host": "mail.protonmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.protonmail.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zoho.com",
+      "name": "Zoho Mail",
+      "imap": {
+        "host": "imap.zoho.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zoho.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "tutanota.com",
+      "name": "Tutanota",
+      "imap": {
+        "host": "imap.tutanota.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tutanota.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fastmail.com",
+      "name": "Fastmail",
+      "imap": {
+        "host": "imap.fastmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fastmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "aol.com",
+      "name": "AOL Mail",
+      "imap": {
+        "host": "imap.aol.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.aol.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "comcast.net",
+      "name": "Comcast Xfinity",
+      "imap": {
+        "host": "imap.comcast.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.comcast.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "att.net",
+      "name": "AT&T Mail",
+      "imap": {
+        "host": "imap.mail.att.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.att.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "sbcglobal.net",
+      "name": "AT&T SBCGlobal",
+      "imap": {
+        "host": "imap.mail.att.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.att.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "verizon.net",
+      "name": "Verizon",
+      "imap": {
+        "host": "incoming.verizon.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "outgoing.verizon.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "cox.net",
+      "name": "Cox Communications",
+      "imap": {
+        "host": "imap.cox.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cox.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "charter.net",
+      "name": "Spectrum Charter",
+      "imap": {
+        "host": "imap.charter.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.charter.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "spectrum.net",
+      "name": "Spectrum",
+      "imap": {
+        "host": "imap.charter.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.charter.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "twc.com",
+      "name": "Time Warner Cable",
+      "imap": {
+        "host": "imap.twc.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.twc.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "earthlink.net",
+      "name": "EarthLink",
+      "imap": {
+        "host": "imap.earthlink.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtpauth.earthlink.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "netscape.net",
+      "name": "Netscape (AOL)",
+      "imap": {
+        "host": "imap.aol.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.aol.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "aim.com",
+      "name": "AOL AIM",
+      "imap": {
+        "host": "imap.aol.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.aol.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mail.com",
+      "name": "Mail.com",
+      "imap": {
+        "host": "imap.mail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "rr.com",
+      "name": "Road Runner (TWC)",
+      "imap": {
+        "host": "imap.twc.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.twc.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "bellsouth.net",
+      "name": "AT&T Bellsouth",
+      "imap": {
+        "host": "imap.mail.att.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.att.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mindspring.com",
+      "name": "Mindspring",
+      "imap": {
+        "host": "imap.earthlink.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtpauth.earthlink.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "juno.com",
+      "name": "Juno",
+      "imap": {
+        "host": "imap.juno.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.juno.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "netzero.net",
+      "name": "NetZero",
+      "imap": {
+        "host": "imap.netzero.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.netzero.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "msn.com",
+      "name": "Microsoft MSN",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "proton.me",
+      "name": "Proton.me",
+      "imap": {
+        "host": "mail.proton.me",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.proton.me",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "frontier.com",
+      "name": "Frontier",
+      "imap": {
+        "host": "imap.frontier.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.frontier.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "centurylink.net",
+      "name": "CenturyLink",
+      "imap": {
+        "host": "imap.centurylink.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.centurylink.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "windstream.net",
+      "name": "Windstream",
+      "imap": {
+        "host": "imap.windstream.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.windstream.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hughes.net",
+      "name": "HughesNet",
+      "imap": {
+        "host": "imap.hughes.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.hughes.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mchsi.com",
+      "name": "Mediacom MCHSI",
+      "imap": {
+        "host": "imap.mchsi.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mchsi.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "wowway.com",
+      "name": "WOW! Internet",
+      "imap": {
+        "host": "imap.wowway.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.wowway.com",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
+}

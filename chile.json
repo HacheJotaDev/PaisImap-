@@ -1,0 +1,272 @@
+{
+  "country": "Chile",
+  "code": "CL",
+  "providers": [
+    {
+      "domain": "gmail.com",
+      "name": "Google Gmail",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "yahoo.com",
+      "name": "Yahoo Mail",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com",
+      "name": "Microsoft Outlook",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.com",
+      "name": "Microsoft Hotmail",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.com",
+      "name": "Microsoft Live",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "icloud.com",
+      "name": "Apple iCloud",
+      "imap": {
+        "host": "imap.mail.me.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.me.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "protonmail.com",
+      "name": "ProtonMail",
+      "imap": {
+        "host": "mail.protonmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.protonmail.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zoho.com",
+      "name": "Zoho Mail",
+      "imap": {
+        "host": "imap.zoho.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zoho.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "tutanota.com",
+      "name": "Tutanota",
+      "imap": {
+        "host": "imap.tutanota.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tutanota.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fastmail.com",
+      "name": "Fastmail",
+      "imap": {
+        "host": "imap.fastmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fastmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hotmail.com.cl",
+      "name": "Hotmail Chile",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "yahoo.com.cl",
+      "name": "Yahoo Chile",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "gmail.com.cl",
+      "name": "Gmail Chile",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com.cl",
+      "name": "Outlook Chile",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "mi.cl",
+      "name": "Mi Chile",
+      "imap": {
+        "host": "imap.mi.cl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mi.cl",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "entel.cl",
+      "name": "Entel Chile",
+      "imap": {
+        "host": "imap.entel.cl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.entel.cl",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "movistar.cl",
+      "name": "Movistar Chile",
+      "imap": {
+        "host": "imap.movistar.cl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.movistar.cl",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "vtr.cl",
+      "name": "VTR Chile",
+      "imap": {
+        "host": "imap.vtr.cl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.vtr.cl",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uc.cl",
+      "name": "Universidad Catolica Chile",
+      "imap": {
+        "host": "imap.uc.cl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uc.cl",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
+}

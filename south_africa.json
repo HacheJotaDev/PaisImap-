@@ -1,0 +1,286 @@
+{
+  "country": "South Africa",
+  "code": "ZA",
+  "providers": [
+    {
+      "domain": "gmail.com",
+      "name": "Google Gmail",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "yahoo.com",
+      "name": "Yahoo Mail",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com",
+      "name": "Microsoft Outlook",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.com",
+      "name": "Microsoft Hotmail",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.com",
+      "name": "Microsoft Live",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "icloud.com",
+      "name": "Apple iCloud",
+      "imap": {
+        "host": "imap.mail.me.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.me.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "protonmail.com",
+      "name": "ProtonMail",
+      "imap": {
+        "host": "mail.protonmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.protonmail.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zoho.com",
+      "name": "Zoho Mail",
+      "imap": {
+        "host": "imap.zoho.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zoho.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "tutanota.com",
+      "name": "Tutanota",
+      "imap": {
+        "host": "imap.tutanota.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tutanota.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fastmail.com",
+      "name": "Fastmail",
+      "imap": {
+        "host": "imap.fastmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fastmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mweb.co.za",
+      "name": "Mweb",
+      "imap": {
+        "host": "imap.mweb.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mweb.co.za",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "webafrica.co.za",
+      "name": "Web Africa",
+      "imap": {
+        "host": "imap.webafrica.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.webafrica.co.za",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "iafrica.com",
+      "name": "iAfrica",
+      "imap": {
+        "host": "imap.iafrica.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.iafrica.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "vodamail.co.za",
+      "name": "Vodamail",
+      "imap": {
+        "host": "imap.vodamail.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.vodamail.co.za",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "telkomsa.net",
+      "name": "TelkomSA",
+      "imap": {
+        "host": "imap.telkomsa.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.telkomsa.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "lantic.net",
+      "name": "Lantic",
+      "imap": {
+        "host": "imap.lantic.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.lantic.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "mtn.co.za",
+      "name": "MTN South Africa",
+      "imap": {
+        "host": "imap.mtn.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtn.co.za",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "gmail.com",
+      "name": "Google Gmail",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hotmail.com",
+      "name": "Microsoft Hotmail",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "yahoo.com",
+      "name": "Yahoo Mail",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "country": "Australia",
+  "code": "AU",
+  "providers": [
+    {
+      "domain": "gmail.com",
+      "name": "Google Gmail",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "yahoo.com",
+      "name": "Yahoo Mail",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com",
+      "name": "Microsoft Outlook",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.com",
+      "name": "Microsoft Hotmail",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.com",
+      "name": "Microsoft Live",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "icloud.com",
+      "name": "Apple iCloud",
+      "imap": {
+        "host": "imap.mail.me.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.me.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "protonmail.com",
+      "name": "ProtonMail",
+      "imap": {
+        "host": "mail.protonmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.protonmail.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zoho.com",
+      "name": "Zoho Mail",
+      "imap": {
+        "host": "imap.zoho.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zoho.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "tutanota.com",
+      "name": "Tutanota",
+      "imap": {
+        "host": "imap.tutanota.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tutanota.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fastmail.com",
+      "name": "Fastmail",
+      "imap": {
+        "host": "imap.fastmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fastmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "yahoo.com.au",
+      "name": "Yahoo Australia",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hotmail.com.au",
+      "name": "Hotmail Australia",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.com.au",
+      "name": "Live Australia",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "outlook.com.au",
+      "name": "Outlook Australia",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "gmail.com",
+      "name": "Google Gmail",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "bigpond.com",
+      "name": "BigPond (Telstra)",
+      "imap": {
+        "host": "imap.bigpond.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bigpond.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "bigpond.net.au",
+      "name": "BigPond Net",
+      "imap": {
+        "host": "imap.bigpond.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bigpond.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "optusnet.com.au",
+      "name": "OptusNet",
+      "imap": {
+        "host": "imap.optusnet.com.au",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.optusnet.com.au",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "optus.com.au",
+      "name": "Optus Australia",
+      "imap": {
+        "host": "imap.optus.com.au",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.optus.com.au",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "iinet.net.au",
+      "name": "iiNet",
+      "imap": {
+        "host": "imap.iinet.net.au",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.iinet.net.au",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "westnet.com.au",
+      "name": "Westnet",
+      "imap": {
+        "host": "imap.westnet.com.au",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.westnet.com.au",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "tpg.com.au",
+      "name": "TPG Australia",
+      "imap": {
+        "host": "imap.tpg.com.au",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tpg.com.au",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "tpg.com",
+      "name": "TPG",
+      "imap": {
+        "host": "imap.tpg.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tpg.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "internode.on.net",
+      "name": "Internode",
+      "imap": {
+        "host": "imap.internode.on.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.internode.on.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "exemail.com.au",
+      "name": "Exetel",
+      "imap": {
+        "host": "imap.exemail.com.au",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.exemail.com.au",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "netspace.net.au",
+      "name": "Netspace",
+      "imap": {
+        "host": "imap.netspace.net.au",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.netspace.net.au",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "macquarie.com.au",
+      "name": "Macquarie Telecom",
+      "imap": {
+        "host": "imap.macquarie.com.au",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.macquarie.com.au",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "aussiebb.com.au",
+      "name": "Aussie Broadband",
+      "imap": {
+        "host": "imap.aussiebb.com.au",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.aussiebb.com.au",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
+}

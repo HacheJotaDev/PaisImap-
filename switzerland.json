@@ -1,0 +1,258 @@
+{
+  "country": "Switzerland",
+  "code": "CH",
+  "providers": [
+    {
+      "domain": "gmail.com",
+      "name": "Google Gmail",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "yahoo.com",
+      "name": "Yahoo Mail",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com",
+      "name": "Microsoft Outlook",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.com",
+      "name": "Microsoft Hotmail",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.com",
+      "name": "Microsoft Live",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "icloud.com",
+      "name": "Apple iCloud",
+      "imap": {
+        "host": "imap.mail.me.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.me.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "protonmail.com",
+      "name": "ProtonMail",
+      "imap": {
+        "host": "mail.protonmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.protonmail.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zoho.com",
+      "name": "Zoho Mail",
+      "imap": {
+        "host": "imap.zoho.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zoho.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "tutanota.com",
+      "name": "Tutanota",
+      "imap": {
+        "host": "imap.tutanota.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tutanota.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fastmail.com",
+      "name": "Fastmail",
+      "imap": {
+        "host": "imap.fastmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fastmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "bluewin.ch",
+      "name": "Swisscom Bluewin",
+      "imap": {
+        "host": "imap.bluewin.ch",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bluewin.ch",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "gmx.ch",
+      "name": "GMX Switzerland",
+      "imap": {
+        "host": "imap.gmx.ch",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.gmx.ch",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hispeed.ch",
+      "name": "Hispeed (Swisscom)",
+      "imap": {
+        "host": "imap.hispeed.ch",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.hispeed.ch",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "swissonline.ch",
+      "name": "Swissonline",
+      "imap": {
+        "host": "imap.swissonline.ch",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.swissonline.ch",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "sunrise.ch",
+      "name": "Sunrise",
+      "imap": {
+        "host": "imap.sunrise.ch",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sunrise.ch",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ypu.ch",
+      "name": "ypu (Sunrise)",
+      "imap": {
+        "host": "imap.ypu.ch",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ypu.ch",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "windowslive.ch",
+      "name": "Windows Live CH",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.ch",
+      "name": "Hotmail CH",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
+}

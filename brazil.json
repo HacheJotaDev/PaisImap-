@@ -1,0 +1,370 @@
+{
+  "country": "Brazil",
+  "code": "BR",
+  "providers": [
+    {
+      "domain": "gmail.com",
+      "name": "Google Gmail",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "yahoo.com",
+      "name": "Yahoo Mail",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com",
+      "name": "Microsoft Outlook",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.com",
+      "name": "Microsoft Hotmail",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.com",
+      "name": "Microsoft Live",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "icloud.com",
+      "name": "Apple iCloud",
+      "imap": {
+        "host": "imap.mail.me.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.me.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "protonmail.com",
+      "name": "ProtonMail",
+      "imap": {
+        "host": "mail.protonmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.protonmail.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zoho.com",
+      "name": "Zoho Mail",
+      "imap": {
+        "host": "imap.zoho.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zoho.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "tutanota.com",
+      "name": "Tutanota",
+      "imap": {
+        "host": "imap.tutanota.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tutanota.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fastmail.com",
+      "name": "Fastmail",
+      "imap": {
+        "host": "imap.fastmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fastmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "bol.com.br",
+      "name": "BOL",
+      "imap": {
+        "host": "imap.bol.com.br",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bol.com.br",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uol.com.br",
+      "name": "UOL",
+      "imap": {
+        "host": "imap.uol.com.br",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uol.com.br",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "terra.com.br",
+      "name": "Terra Brasil",
+      "imap": {
+        "host": "imap.terra.com.br",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.terra.com.br",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ig.com.br",
+      "name": "iG Brasil",
+      "imap": {
+        "host": "imap.ig.com.br",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ig.com.br",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "globo.com",
+      "name": "Globo",
+      "imap": {
+        "host": "imap.globo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.globo.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "r7.com",
+      "name": "R7",
+      "imap": {
+        "host": "imap.r7.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.r7.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.com.br",
+      "name": "Hotmail Brasil",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "yahoo.com.br",
+      "name": "Yahoo Brasil",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "gmail.com.br",
+      "name": "Gmail Brasil",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com.br",
+      "name": "Outlook Brasil",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.com.br",
+      "name": "Live Brasil",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zipmail.com.br",
+      "name": "Zipmail",
+      "imap": {
+        "host": "imap.zipmail.com.br",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zipmail.com.br",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "superig.com.br",
+      "name": "Super iG",
+      "imap": {
+        "host": "imap.superig.com.br",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.superig.com.br",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "brturbo.com.br",
+      "name": "BrTurbo",
+      "imap": {
+        "host": "imap.brturbo.com.br",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.brturbo.com.br",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "oi.com.br",
+      "name": "OI Brasil",
+      "imap": {
+        "host": "imap.oi.com.br",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.oi.com.br",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uol.com",
+      "name": "UOL Global",
+      "imap": {
+        "host": "imap.uol.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uol.com",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
+}

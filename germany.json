@@ -1,0 +1,384 @@
+{
+  "country": "Germany",
+  "code": "DE",
+  "providers": [
+    {
+      "domain": "gmail.com",
+      "name": "Google Gmail",
+      "imap": {
+        "host": "imap.gmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "yahoo.com",
+      "name": "Yahoo Mail",
+      "imap": {
+        "host": "imap.mail.yahoo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.yahoo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "outlook.com",
+      "name": "Microsoft Outlook",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "hotmail.com",
+      "name": "Microsoft Hotmail",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "live.com",
+      "name": "Microsoft Live",
+      "imap": {
+        "host": "outlook.office365.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.office365.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "icloud.com",
+      "name": "Apple iCloud",
+      "imap": {
+        "host": "imap.mail.me.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.me.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "protonmail.com",
+      "name": "ProtonMail",
+      "imap": {
+        "host": "mail.protonmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.protonmail.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zoho.com",
+      "name": "Zoho Mail",
+      "imap": {
+        "host": "imap.zoho.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zoho.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "tutanota.com",
+      "name": "Tutanota",
+      "imap": {
+        "host": "imap.tutanota.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tutanota.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fastmail.com",
+      "name": "Fastmail",
+      "imap": {
+        "host": "imap.fastmail.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fastmail.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "t-online.de",
+      "name": "Telekom T-Online",
+      "imap": {
+        "host": "imap.t-online.de",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.t-online.de",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "t-online.com",
+      "name": "T-Online .com",
+      "imap": {
+        "host": "imap.t-online.de",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.t-online.de",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "gmx.de",
+      "name": "GMX Germany",
+      "imap": {
+        "host": "imap.gmx.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.gmx.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "gmx.net",
+      "name": "GMX Net",
+      "imap": {
+        "host": "imap.gmx.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "mail.gmx.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "web.de",
+      "name": "WEB.DE",
+      "imap": {
+        "host": "imap.web.de",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.web.de",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "mail.de",
+      "name": "mail.de",
+      "imap": {
+        "host": "imap.mail.de",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.de",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "freenet.de",
+      "name": "Freenet",
+      "imap": {
+        "host": "imap.freenet.de",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.freenet.de",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "arcor.de",
+      "name": "Arcor",
+      "imap": {
+        "host": "imap.arcor.de",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.arcor.de",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "1und1.de",
+      "name": "1&1 Germany",
+      "imap": {
+        "host": "imap.1und1.de",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.1und1.de",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ionos.de",
+      "name": "IONOS",
+      "imap": {
+        "host": "imap.ionos.de",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ionos.de",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "strato.de",
+      "name": "Strato",
+      "imap": {
+        "host": "imap.strato.de",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.strato.de",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "kabelmail.de",
+      "name": "Kabel Mail Vodafone",
+      "imap": {
+        "host": "imap.kabelmail.de",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.kabelmail.de",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "vodafone.de",
+      "name": "Vodafone Germany",
+      "imap": {
+        "host": "imap.vodafone.de",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.vodafone.de",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "posteo.de",
+      "name": "Posteo",
+      "imap": {
+        "host": "imap.posteo.de",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.posteo.de",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "mailbox.org",
+      "name": "Mailbox.org",
+      "imap": {
+        "host": "imap.mailbox.org",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mailbox.org",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "online.de",
+      "name": "Online.de",
+      "imap": {
+        "host": "imap.online.de",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.online.de",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "alice-dsl.de",
+      "name": "Alice DSL",
+      "imap": {
+        "host": "imap.alice-dsl.de",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.alice-dsl.de",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
+}
