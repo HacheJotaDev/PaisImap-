@@ -1,5 +1,48 @@
 {
   "country": "Botswana",
   "code": "BW",
-  "providers": []
+  "providers": [
+    {
+      "domain": "btc.bw",
+      "name": "Botswana Telecommunications",
+      "imap": {
+        "host": "imap.btc.bw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.btc.bw",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mascom.bw",
+      "name": "Mascom",
+      "imap": {
+        "host": "imap.mascom.bw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mascom.bw",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "be-mobile.co.bw",
+      "name": "Be Mobile",
+      "imap": {
+        "host": "imap.be-mobile.co.bw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.be-mobile.co.bw",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

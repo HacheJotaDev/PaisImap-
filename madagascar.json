@@ -1,5 +1,62 @@
 {
   "country": "Madagascar",
   "code": "MG",
-  "providers": []
+  "providers": [
+    {
+      "domain": "telecom-madagascar.mg",
+      "name": "Telma Madagascar",
+      "imap": {
+        "host": "imap.telecom-madagascar.mg",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.telecom-madagascar.mg",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "orange.mg",
+      "name": "Orange Madagascar",
+      "imap": {
+        "host": "imap.orange.mg",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.orange.mg",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "airtel.mg",
+      "name": "Airtel Madagascar",
+      "imap": {
+        "host": "imap.airtel.mg",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.airtel.mg",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "blueline.mg",
+      "name": "Blueline",
+      "imap": {
+        "host": "imap.blueline.mg",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.blueline.mg",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

@@ -1,5 +1,76 @@
 {
   "country": "Papua New Guinea",
   "code": "PG",
-  "providers": []
+  "providers": [
+    {
+      "domain": "datec.com.pg",
+      "name": "Datec PNG",
+      "imap": {
+        "host": "imap.datec.com.pg",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.datec.com.pg",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ipnet.com.pg",
+      "name": "IPNet PNG",
+      "imap": {
+        "host": "imap.ipnet.com.pg",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ipnet.com.pg",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "niugini.com.pg",
+      "name": "Niugini PNG",
+      "imap": {
+        "host": "imap.niugini.com.pg",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.niugini.com.pg",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "png-telecom.pg",
+      "name": "PNG Telecom",
+      "imap": {
+        "host": "imap.png-telecom.pg",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.png-telecom.pg",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digicelpng.com",
+      "name": "Digicel PNG",
+      "imap": {
+        "host": "imap.digicelpng.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digicelpng.com",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

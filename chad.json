@@ -1,5 +1,48 @@
 {
   "country": "Chad",
   "code": "TD",
-  "providers": []
+  "providers": [
+    {
+      "domain": "tchad.td",
+      "name": "Tchad Telecom",
+      "imap": {
+        "host": "imap.tchad.td",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tchad.td",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "sotel.td",
+      "name": "Sotel Tchad",
+      "imap": {
+        "host": "imap.sotel.td",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sotel.td",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "airtel.td",
+      "name": "Airtel Chad",
+      "imap": {
+        "host": "imap.airtel.td",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.airtel.td",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

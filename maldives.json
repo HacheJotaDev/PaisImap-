@@ -1,5 +1,62 @@
 {
   "country": "Maldives",
   "code": "MV",
-  "providers": []
+  "providers": [
+    {
+      "domain": "dhivehinet.net.mv",
+      "name": "Dhiraagu DhivehiNet",
+      "imap": {
+        "host": "imap.dhivehinet.net.mv",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.dhivehinet.net.mv",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ooredoo.mv",
+      "name": "Ooredoo Maldives",
+      "imap": {
+        "host": "imap.ooredoo.mv",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ooredoo.mv",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "wataniya.mv",
+      "name": "Wataniya (Ooredoo)",
+      "imap": {
+        "host": "imap.wataniya.mv",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.wataniya.mv",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "dhiraagu.mv",
+      "name": "Dhiraagu",
+      "imap": {
+        "host": "imap.dhiraagu.mv",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.dhiraagu.mv",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

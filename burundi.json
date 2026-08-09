@@ -1,5 +1,48 @@
 {
   "country": "Burundi",
   "code": "BI",
-  "providers": []
+  "providers": [
+    {
+      "domain": "ispa.bi",
+      "name": "ISPA Burundi",
+      "imap": {
+        "host": "imap.ispa.bi",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ispa.bi",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "burundi-telecom.bi",
+      "name": "Burundi Telecom",
+      "imap": {
+        "host": "imap.burundi-telecom.bi",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.burundi-telecom.bi",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "lumitel.bi",
+      "name": "Lumitel",
+      "imap": {
+        "host": "imap.lumitel.bi",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.lumitel.bi",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

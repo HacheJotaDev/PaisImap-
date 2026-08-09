@@ -1,5 +1,48 @@
 {
   "country": "Saint Vincent and the Grenadines",
   "code": "VC",
-  "providers": []
+  "providers": [
+    {
+      "domain": "flowsvg.com",
+      "name": "FLOW St. Vincent",
+      "imap": {
+        "host": "imap.flowsvg.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.flowsvg.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digicelsvg.com",
+      "name": "Digicel St. Vincent",
+      "imap": {
+        "host": "imap.digicelsvg.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digicelsvg.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "cablesvg.com",
+      "name": "Cable SVG",
+      "imap": {
+        "host": "imap.cablesvg.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cablesvg.com",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

@@ -1,5 +1,90 @@
 {
   "country": "Cambodia",
   "code": "KH",
-  "providers": []
+  "providers": [
+    {
+      "domain": "camnet.com.kh",
+      "name": "CamNet",
+      "imap": {
+        "host": "imap.camnet.com.kh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.camnet.com.kh",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "telekom.kh",
+      "name": "Telecom Cambodia",
+      "imap": {
+        "host": "imap.telekom.kh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.telekom.kh",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ezecom.com.kh",
+      "name": "EZECOM",
+      "imap": {
+        "host": "imap.ezecom.com.kh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ezecom.com.kh",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "wing.com.kh",
+      "name": "Wing Cambodia",
+      "imap": {
+        "host": "imap.wing.com.kh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.wing.com.kh",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "smart.com.kh",
+      "name": "Smart Axiata",
+      "imap": {
+        "host": "imap.smart.com.kh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.smart.com.kh",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "cellcard.com.kh",
+      "name": "Cellcard",
+      "imap": {
+        "host": "imap.cellcard.com.kh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cellcard.com.kh",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

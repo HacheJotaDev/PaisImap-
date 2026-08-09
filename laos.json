@@ -1,5 +1,62 @@
 {
   "country": "Laos",
   "code": "LA",
-  "providers": []
+  "providers": [
+    {
+      "domain": "laotel.la",
+      "name": "Lao Telecom",
+      "imap": {
+        "host": "imap.laotel.la",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.laotel.la",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "etl.la",
+      "name": "ETL (Enterprise of Telecommunications Lao)",
+      "imap": {
+        "host": "imap.etl.la",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.etl.la",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "unitel.la",
+      "name": "Unitel Lao",
+      "imap": {
+        "host": "imap.unitel.la",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.unitel.la",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "bevitec.la",
+      "name": "Bevitec",
+      "imap": {
+        "host": "imap.bevitec.la",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bevitec.la",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

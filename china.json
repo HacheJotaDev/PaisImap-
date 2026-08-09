@@ -99,6 +99,188 @@
         "port": 465,
         "ssl": true
       }
+    },
+    {
+      "domain": "tom.com",
+      "name": "Tom Mail",
+      "imap": {
+        "host": "imap.tom.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tom.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "yeah.net",
+      "name": "NetEase Yeah",
+      "imap": {
+        "host": "imap.yeah.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.yeah.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "189.cn",
+      "name": "China Telecom 189",
+      "imap": {
+        "host": "imap.189.cn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.189.cn",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "139.com",
+      "name": "China Mobile 139",
+      "imap": {
+        "host": "imap.139.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.139.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "wo.cn",
+      "name": "China Unicom Wo",
+      "imap": {
+        "host": "imap.wo.cn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.wo.cn",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "xinhua.org",
+      "name": "Xinhua News",
+      "imap": {
+        "host": "imap.xinhua.org",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.xinhua.org",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "people.com.cn",
+      "name": "People's Daily",
+      "imap": {
+        "host": "imap.people.com.cn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.people.com.cn",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "21cn.com",
+      "name": "21CN Mail",
+      "imap": {
+        "host": "imap.21cn.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.21cn.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "china.com",
+      "name": "China Mail",
+      "imap": {
+        "host": "imap.china.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.china.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "sogou.com",
+      "name": "Sogou Mail",
+      "imap": {
+        "host": "imap.sogou.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sogou.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "263.net",
+      "name": "263 Mail",
+      "imap": {
+        "host": "imap.263.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.263.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "pku.edu.cn",
+      "name": "Peking University",
+      "imap": {
+        "host": "imap.pku.edu.cn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.pku.edu.cn",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "tsinghua.edu.cn",
+      "name": "Tsinghua University",
+      "imap": {
+        "host": "imap.tsinghua.edu.cn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tsinghua.edu.cn",
+        "port": 587,
+        "ssl": false
+      }
     }
   ]
 }

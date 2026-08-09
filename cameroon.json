@@ -1,5 +1,90 @@
 {
   "country": "Cameroon",
   "code": "CM",
-  "providers": []
+  "providers": [
+    {
+      "domain": "camtel.cm",
+      "name": "Camtel",
+      "imap": {
+        "host": "imap.camtel.cm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.camtel.cm",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mtncameroon.cm",
+      "name": "MTN Cameroon",
+      "imap": {
+        "host": "imap.mtncameroon.cm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtncameroon.cm",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "orange.cm",
+      "name": "Orange Cameroon",
+      "imap": {
+        "host": "imap.orange.cm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.orange.cm",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "vodafone.cm",
+      "name": "Vodafone Cameroon",
+      "imap": {
+        "host": "imap.vodafone.cm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.vodafone.cm",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ylook.cm",
+      "name": "Ylook Cameroon",
+      "imap": {
+        "host": "imap.ylook.cm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ylook.cm",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "camoo.cm",
+      "name": "Camoo",
+      "imap": {
+        "host": "imap.camoo.cm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.camoo.cm",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

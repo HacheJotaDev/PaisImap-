@@ -1,5 +1,20 @@
 {
   "country": "Sao Tome and Principe",
   "code": "ST",
-  "providers": []
+  "providers": [
+    {
+      "domain": "cstome.st",
+      "name": "CST Comunicacoes STP",
+      "imap": {
+        "host": "imap.cstome.st",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cstome.st",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

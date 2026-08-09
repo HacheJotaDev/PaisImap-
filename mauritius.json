@@ -1,5 +1,62 @@
 {
   "country": "Mauritius",
   "code": "MU",
-  "providers": []
+  "providers": [
+    {
+      "domain": "intnet.mu",
+      "name": "Mauritius Telecom",
+      "imap": {
+        "host": "imap.intnet.mu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.intnet.mu",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "orange.mu",
+      "name": "Orange Mauritius",
+      "imap": {
+        "host": "imap.orange.mu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.orange.mu",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "emtel.mu",
+      "name": "Emtel",
+      "imap": {
+        "host": "imap.emtel.mu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.emtel.mu",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "deo.mu",
+      "name": "Deo.mu",
+      "imap": {
+        "host": "imap.deo.mu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.deo.mu",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

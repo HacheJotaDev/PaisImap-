@@ -1,5 +1,90 @@
 {
   "country": "Puerto Rico",
   "code": "PR",
-  "providers": []
+  "providers": [
+    {
+      "domain": "coqui.net",
+      "name": "Coqui Net Puerto Rico",
+      "imap": {
+        "host": "imap.coqui.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.coqui.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "upr.edu",
+      "name": "Universidad de Puerto Rico",
+      "imap": {
+        "host": "imap.upr.edu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.upr.edu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "estudiante.upr.edu",
+      "name": "UPR Estudiantes",
+      "imap": {
+        "host": "imap.estudiante.upr.edu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.estudiante.upr.edu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "mail.pr",
+      "name": "Mail Puerto Rico",
+      "imap": {
+        "host": "imap.mail.pr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mail.pr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "westernbbpr.com",
+      "name": "Western Broadband PR",
+      "imap": {
+        "host": "imap.westernbbpr.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.westernbbpr.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "libertypr.net",
+      "name": "Liberty Puerto Rico",
+      "imap": {
+        "host": "imap.libertypr.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.libertypr.net",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

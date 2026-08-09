@@ -1,5 +1,62 @@
 {
   "country": "Somalia",
   "code": "SO",
-  "providers": []
+  "providers": [
+    {
+      "domain": "somtel.so",
+      "name": "Somtel",
+      "imap": {
+        "host": "imap.somtel.so",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.somtel.so",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hormuud.com.so",
+      "name": "Hormuud Telecom",
+      "imap": {
+        "host": "imap.hormuud.com.so",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.hormuud.com.so",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "nationlink.net.so",
+      "name": "NationLink",
+      "imap": {
+        "host": "imap.nationlink.net.so",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.nationlink.net.so",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "golis-telecom.so",
+      "name": "Golis Telecom",
+      "imap": {
+        "host": "imap.golis-telecom.so",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.golis-telecom.so",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

@@ -29,6 +29,62 @@
         "port": 587,
         "ssl": false
       }
+    },
+    {
+      "domain": "viva.com.do",
+      "name": "Viva Dominicana",
+      "imap": {
+        "host": "imap.viva.com.do",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.viva.com.do",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "tricom.net.do",
+      "name": "Tricom Dominicana",
+      "imap": {
+        "host": "imap.tricom.net.do",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tricom.net.do",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digiceldo.com",
+      "name": "Digicel Dominicana",
+      "imap": {
+        "host": "imap.digiceldo.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digiceldo.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "uasd.edu.do",
+      "name": "UASD",
+      "imap": {
+        "host": "imap.uasd.edu.do",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uasd.edu.do",
+        "port": 587,
+        "ssl": false
+      }
     }
   ]
 }

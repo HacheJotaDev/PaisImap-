@@ -1,5 +1,48 @@
 {
   "country": "Greenland",
   "code": "GL",
-  "providers": []
+  "providers": [
+    {
+      "domain": "tele.gl",
+      "name": "Tele Greenland",
+      "imap": {
+        "host": "imap.tele.gl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tele.gl",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "apa.gl",
+      "name": "APA Greenland",
+      "imap": {
+        "host": "imap.apa.gl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.apa.gl",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "olympic.gl",
+      "name": "Olympic Greenland",
+      "imap": {
+        "host": "imap.olympic.gl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.olympic.gl",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

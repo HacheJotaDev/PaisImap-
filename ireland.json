@@ -45,20 +45,6 @@
       }
     },
     {
-      "domain": "hotmail.ie",
-      "name": "Hotmail Ireland",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
       "domain": "eir.ie",
       "name": "Eir",
       "imap": {

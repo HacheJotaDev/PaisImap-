@@ -43,6 +43,76 @@
         "port": 587,
         "ssl": false
       }
+    },
+    {
+      "domain": "amnet.co.cr",
+      "name": "Amnet Costa Rica",
+      "imap": {
+        "host": "imap.amnet.co.cr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.amnet.co.cr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "kolbi.cr",
+      "name": "Kolbi (ICE)",
+      "imap": {
+        "host": "imap.kolbi.cr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.kolbi.cr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "tigo.com.cr",
+      "name": "Tigo Costa Rica",
+      "imap": {
+        "host": "imap.tigo.com.cr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tigo.com.cr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "claro.com.cr",
+      "name": "Claro Costa Rica",
+      "imap": {
+        "host": "imap.claro.com.cr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.claro.com.cr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "movistar.com.cr",
+      "name": "Movistar Costa Rica",
+      "imap": {
+        "host": "imap.movistar.com.cr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.movistar.com.cr",
+        "port": 465,
+        "ssl": true
+      }
     }
   ]
 }

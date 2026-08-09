@@ -1,5 +1,48 @@
 {
   "country": "Guyana",
   "code": "GY",
-  "providers": []
+  "providers": [
+    {
+      "domain": "gtt.co.gy",
+      "name": "GTT Guyana Telephone",
+      "imap": {
+        "host": "imap.gtt.co.gy",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gtt.co.gy",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digicelgy.com",
+      "name": "Digicel Guyana",
+      "imap": {
+        "host": "imap.digicelgy.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digicelgy.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "e-networks.gy",
+      "name": "E-Networks Guyana",
+      "imap": {
+        "host": "imap.e-networks.gy",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.e-networks.gy",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

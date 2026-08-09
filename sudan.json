@@ -1,5 +1,62 @@
 {
   "country": "Sudan",
   "code": "SD",
-  "providers": []
+  "providers": [
+    {
+      "domain": "sudani.sd",
+      "name": "Sudani (Zain Sudan)",
+      "imap": {
+        "host": "imap.sudani.sd",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sudani.sd",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mtgsd.com",
+      "name": "MTN Sudan",
+      "imap": {
+        "host": "imap.mtgsd.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtgsd.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "canar.sd",
+      "name": "Canar Telecom",
+      "imap": {
+        "host": "imap.canar.sd",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.canar.sd",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "zain.sd",
+      "name": "Zain Sudan",
+      "imap": {
+        "host": "imap.zain.sd",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zain.sd",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

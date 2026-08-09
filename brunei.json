@@ -1,5 +1,62 @@
 {
   "country": "Brunei",
   "code": "BN",
-  "providers": []
+  "providers": [
+    {
+      "domain": "brunet.bn",
+      "name": "BruNET",
+      "imap": {
+        "host": "imap.brunet.bn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.brunet.bn",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "bmobile.com.bn",
+      "name": "B-Mobile",
+      "imap": {
+        "host": "imap.bmobile.com.bn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bmobile.com.bn",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "dst.com.bn",
+      "name": "DST Communications",
+      "imap": {
+        "host": "imap.dst.com.bn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.dst.com.bn",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "progresif.com.bn",
+      "name": "Progresif",
+      "imap": {
+        "host": "imap.progresif.com.bn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.progresif.com.bn",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

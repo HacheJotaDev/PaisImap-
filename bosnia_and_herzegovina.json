@@ -3,34 +3,6 @@
   "code": "BA",
   "providers": [
     {
-      "domain": "hotmail.ba",
-      "name": "Hotmail BiH",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
-      "domain": "gmail.ba",
-      "name": "Gmail BiH",
-      "imap": {
-        "host": "imap.gmail.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gmail.com",
-        "port": 465,
-        "ssl": true
-      }
-    },
-    {
       "domain": "telecom.rs",
       "name": "Telecom Srpske",
       "imap": {
@@ -40,6 +12,76 @@
       },
       "smtp": {
         "host": "smtp.telecom.rs",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "bhtelecom.ba",
+      "name": "BH Telecom",
+      "imap": {
+        "host": "imap.bhtelecom.ba",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bhtelecom.ba",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ht.com.ba",
+      "name": "HT Eronet",
+      "imap": {
+        "host": "imap.ht.com.ba",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ht.com.ba",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "mtel.ba",
+      "name": "m:tel BiH",
+      "imap": {
+        "host": "imap.mtel.ba",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtel.ba",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "logosoft.ba",
+      "name": "Logosoft",
+      "imap": {
+        "host": "imap.logosoft.ba",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.logosoft.ba",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "unsa.ba",
+      "name": "University of Sarajevo",
+      "imap": {
+        "host": "imap.unsa.ba",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.unsa.ba",
         "port": 587,
         "ssl": false
       }

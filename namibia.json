@@ -1,5 +1,62 @@
 {
   "country": "Namibia",
   "code": "NA",
-  "providers": []
+  "providers": [
+    {
+      "domain": "namimail.com.na",
+      "name": "Namibia Telecom (Namimail)",
+      "imap": {
+        "host": "imap.namimail.com.na",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.namimail.com.na",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mobile.na",
+      "name": "Mobile Telecommunications Namibia",
+      "imap": {
+        "host": "imap.mobile.na",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mobile.na",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mtn.com.na",
+      "name": "MTN Namibia",
+      "imap": {
+        "host": "imap.mtn.com.na",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtn.com.na",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "iway.na",
+      "name": "iWay Namibia",
+      "imap": {
+        "host": "imap.iway.na",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.iway.na",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

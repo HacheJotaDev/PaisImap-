@@ -1,5 +1,48 @@
 {
   "country": "North Korea",
   "code": "KP",
-  "providers": []
+  "providers": [
+    {
+      "domain": "star.co.kp",
+      "name": "Kwangmyong (Star JV)",
+      "imap": {
+        "host": "imap.star.co.kp",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.star.co.kp",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "byt.co.kp",
+      "name": "Byt North Korea",
+      "imap": {
+        "host": "imap.byt.co.kp",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.byt.co.kp",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "naenara.kp",
+      "name": "Naenara",
+      "imap": {
+        "host": "imap.naenara.kp",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.naenara.kp",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

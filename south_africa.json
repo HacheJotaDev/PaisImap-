@@ -99,6 +99,174 @@
         "port": 587,
         "ssl": false
       }
+    },
+    {
+      "domain": "afrihost.com",
+      "name": "Afrihost",
+      "imap": {
+        "host": "imap.afrihost.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.afrihost.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "telkom.co.za",
+      "name": "Telkom South Africa",
+      "imap": {
+        "host": "imap.telkom.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.telkom.co.za",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "neotel.co.za",
+      "name": "Neotel",
+      "imap": {
+        "host": "imap.neotel.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.neotel.co.za",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "rain.co.za",
+      "name": "Rain",
+      "imap": {
+        "host": "imap.rain.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.rain.co.za",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "liquidtelecom.co.za",
+      "name": "Liquid Telecom SA",
+      "imap": {
+        "host": "imap.liquidtelecom.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.liquidtelecom.co.za",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "vox.co.za",
+      "name": "Vox Telecom",
+      "imap": {
+        "host": "imap.vox.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.vox.co.za",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "cybersmart.co.za",
+      "name": "Cybersmart",
+      "imap": {
+        "host": "imap.cybersmart.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cybersmart.co.za",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "openweb.co.za",
+      "name": "OpenWeb",
+      "imap": {
+        "host": "imap.openweb.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.openweb.co.za",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "worldonline.co.za",
+      "name": "World Online",
+      "imap": {
+        "host": "imap.worldonline.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.worldonline.co.za",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "axxess.co.za",
+      "name": "Axxess",
+      "imap": {
+        "host": "imap.axxess.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.axxess.co.za",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "axxessdsl.co.za",
+      "name": "Axxess DSL",
+      "imap": {
+        "host": "imap.axxessdsl.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.axxessdsl.co.za",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "internet.co.za",
+      "name": "Internet Solutions (MWEB)",
+      "imap": {
+        "host": "imap.internet.co.za",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.internet.co.za",
+        "port": 465,
+        "ssl": true
+      }
     }
   ]
 }

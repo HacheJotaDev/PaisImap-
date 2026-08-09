@@ -3,62 +3,6 @@
   "code": "NZ",
   "providers": [
     {
-      "domain": "yahoo.co.nz",
-      "name": "Yahoo New Zealand",
-      "imap": {
-        "host": "imap.mail.yahoo.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.yahoo.com",
-        "port": 465,
-        "ssl": true
-      }
-    },
-    {
-      "domain": "hotmail.co.nz",
-      "name": "Hotmail New Zealand",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
-      "domain": "live.co.nz",
-      "name": "Live New Zealand",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
-      "domain": "outlook.co.nz",
-      "name": "Outlook New Zealand",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
       "domain": "xtra.co.nz",
       "name": "Xtra (Spark)",
       "imap": {
@@ -124,6 +68,216 @@
       },
       "smtp": {
         "host": "smtp.slingshot.co.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "snap.net.nz",
+      "name": "Snap (2degrees)",
+      "imap": {
+        "host": "imap.snap.net.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.snap.net.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "spark.co.nz",
+      "name": "Spark New Zealand",
+      "imap": {
+        "host": "imap.spark.co.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.spark.co.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "skinny.co.nz",
+      "name": "Skinny NZ",
+      "imap": {
+        "host": "imap.skinny.co.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.skinny.co.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "maxnet.co.nz",
+      "name": "Maxnet NZ",
+      "imap": {
+        "host": "imap.maxnet.co.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.maxnet.co.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "compass.net.nz",
+      "name": "Compass NZ",
+      "imap": {
+        "host": "imap.compass.net.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.compass.net.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "paradise.net.nz",
+      "name": "Paradise Net (Vodafone)",
+      "imap": {
+        "host": "imap.paradise.net.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.paradise.net.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "clear.net.nz",
+      "name": "Clear Net NZ",
+      "imap": {
+        "host": "imap.clear.net.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.clear.net.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "actrix.co.nz",
+      "name": "Actrix NZ",
+      "imap": {
+        "host": "imap.actrix.co.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.actrix.co.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "auckland.ac.nz",
+      "name": "University of Auckland",
+      "imap": {
+        "host": "imap.auckland.ac.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.auckland.ac.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "canterbury.ac.nz",
+      "name": "University of Canterbury",
+      "imap": {
+        "host": "imap.canterbury.ac.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.canterbury.ac.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "otago.ac.nz",
+      "name": "University of Otago",
+      "imap": {
+        "host": "imap.otago.ac.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.otago.ac.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "victoria.ac.nz",
+      "name": "Victoria University of Wellington",
+      "imap": {
+        "host": "imap.victoria.ac.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.victoria.ac.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "massey.ac.nz",
+      "name": "Massey University",
+      "imap": {
+        "host": "imap.massey.ac.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.massey.ac.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "waikato.ac.nz",
+      "name": "University of Waikato",
+      "imap": {
+        "host": "imap.waikato.ac.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.waikato.ac.nz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "aut.ac.nz",
+      "name": "Auckland University of Technology",
+      "imap": {
+        "host": "imap.aut.ac.nz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.aut.ac.nz",
         "port": 587,
         "ssl": false
       }

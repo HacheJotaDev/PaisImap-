@@ -1,5 +1,34 @@
 {
   "country": "Western Sahara",
   "code": "EH",
-  "providers": []
+  "providers": [
+    {
+      "domain": "sahara.press",
+      "name": "Sahara Press",
+      "imap": {
+        "host": "imap.sahara.press",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sahara.press",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "rasd-telecom.com",
+      "name": "RASD Telecom",
+      "imap": {
+        "host": "imap.rasd-telecom.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.rasd-telecom.com",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

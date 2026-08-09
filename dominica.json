@@ -1,5 +1,48 @@
 {
   "country": "Dominica",
   "code": "DM",
-  "providers": []
+  "providers": [
+    {
+      "domain": "marpin-telecoms.dm",
+      "name": "Marpin Telecoms Dominica",
+      "imap": {
+        "host": "imap.marpin-telecoms.dm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.marpin-telecoms.dm",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "flowdominica.com",
+      "name": "FLOW Dominica",
+      "imap": {
+        "host": "imap.flowdominica.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.flowdominica.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digicel.dm",
+      "name": "Digicel Dominica",
+      "imap": {
+        "host": "imap.digicel.dm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digicel.dm",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

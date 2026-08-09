@@ -1,5 +1,34 @@
 {
   "country": "Equatorial Guinea",
   "code": "GQ",
-  "providers": []
+  "providers": [
+    {
+      "domain": "getsa.gq",
+      "name": "GETSA Equatorial Guinea",
+      "imap": {
+        "host": "imap.getsa.gq",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.getsa.gq",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "guineasat.gq",
+      "name": "GuineaSat",
+      "imap": {
+        "host": "imap.guineasat.gq",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.guineasat.gq",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

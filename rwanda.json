@@ -1,5 +1,62 @@
 {
   "country": "Rwanda",
   "code": "RW",
-  "providers": []
+  "providers": [
+    {
+      "domain": "rwandatel.rw",
+      "name": "Rwandatel",
+      "imap": {
+        "host": "imap.rwandatel.rw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.rwandatel.rw",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mtlrwanda.co.rw",
+      "name": "MTN Rwanda",
+      "imap": {
+        "host": "imap.mtlrwanda.co.rw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtlrwanda.co.rw",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "airtel.rw",
+      "name": "Airtel Rwanda",
+      "imap": {
+        "host": "imap.airtel.rw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.airtel.rw",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ktr.rw",
+      "name": "KT Rwanda",
+      "imap": {
+        "host": "imap.ktr.rw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ktr.rw",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

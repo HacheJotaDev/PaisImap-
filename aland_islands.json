@@ -1,5 +1,62 @@
 {
   "country": "Aland Islands",
   "code": "AX",
-  "providers": []
+  "providers": [
+    {
+      "domain": "aland.net",
+      "name": "Aland Telecom",
+      "imap": {
+        "host": "imap.aland.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.aland.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "aland-telecom.ax",
+      "name": "Aland Telecom AX",
+      "imap": {
+        "host": "imap.aland-telecom.ax",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.aland-telecom.ax",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "visland.ax",
+      "name": "Visland",
+      "imap": {
+        "host": "imap.visland.ax",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.visland.ax",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "wiland.ax",
+      "name": "Wiland",
+      "imap": {
+        "host": "imap.wiland.ax",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.wiland.ax",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

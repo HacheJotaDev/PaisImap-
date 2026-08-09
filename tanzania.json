@@ -1,5 +1,90 @@
 {
   "country": "Tanzania",
   "code": "TZ",
-  "providers": []
+  "providers": [
+    {
+      "domain": "vodacom.co.tz",
+      "name": "Vodacom Tanzania",
+      "imap": {
+        "host": "imap.vodacom.co.tz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.vodacom.co.tz",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "airtel.co.tz",
+      "name": "Airtel Tanzania",
+      "imap": {
+        "host": "imap.airtel.co.tz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.airtel.co.tz",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ttcl.co.tz",
+      "name": "TTCL",
+      "imap": {
+        "host": "imap.ttcl.co.tz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ttcl.co.tz",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "halotel.co.tz",
+      "name": "Halotel",
+      "imap": {
+        "host": "imap.halotel.co.tz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.halotel.co.tz",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "uccmail.ac.tz",
+      "name": "University of Dar es Salaam",
+      "imap": {
+        "host": "imap.uccmail.ac.tz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uccmail.ac.tz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zantel.com",
+      "name": "Zantel",
+      "imap": {
+        "host": "imap.zantel.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zantel.com",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

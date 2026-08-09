@@ -1,5 +1,90 @@
 {
   "country": "Myanmar",
   "code": "MM",
-  "providers": []
+  "providers": [
+    {
+      "domain": "mpt.net.mm",
+      "name": "Myanma Posts and Telecommunications",
+      "imap": {
+        "host": "imap.mpt.net.mm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mpt.net.mm",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ooredoo.com.mm",
+      "name": "Ooredoo Myanmar",
+      "imap": {
+        "host": "imap.ooredoo.com.mm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ooredoo.com.mm",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "telenor.com.mm",
+      "name": "Telenor Myanmar",
+      "imap": {
+        "host": "imap.telenor.com.mm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.telenor.com.mm",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mptmail.net.mm",
+      "name": "MPT Mail",
+      "imap": {
+        "host": "imap.mptmail.net.mm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mptmail.net.mm",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mee.net.mm",
+      "name": "MEE Myanmar",
+      "imap": {
+        "host": "imap.mee.net.mm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mee.net.mm",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "myanmars.net",
+      "name": "Myanmar Internet",
+      "imap": {
+        "host": "imap.myanmars.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.myanmars.net",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

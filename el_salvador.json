@@ -29,6 +29,76 @@
         "port": 587,
         "ssl": false
       }
+    },
+    {
+      "domain": "movistar.com.sv",
+      "name": "Movistar El Salvador",
+      "imap": {
+        "host": "imap.movistar.com.sv",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.movistar.com.sv",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digicelsv.com",
+      "name": "Digicel El Salvador",
+      "imap": {
+        "host": "imap.digicelsv.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digicelsv.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uca.edu.sv",
+      "name": "Universidad Centroamericana",
+      "imap": {
+        "host": "imap.uca.edu.sv",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uca.edu.sv",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ues.edu.sv",
+      "name": "Universidad de El Salvador",
+      "imap": {
+        "host": "imap.ues.edu.sv",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ues.edu.sv",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "udb.edu.sv",
+      "name": "Universidad Don Bosco",
+      "imap": {
+        "host": "imap.udb.edu.sv",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.udb.edu.sv",
+        "port": 587,
+        "ssl": false
+      }
     }
   ]
 }

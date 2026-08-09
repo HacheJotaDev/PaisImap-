@@ -1,5 +1,90 @@
 {
   "country": "Ghana",
   "code": "GH",
-  "providers": []
+  "providers": [
+    {
+      "domain": "vodafone.com.gh",
+      "name": "Vodafone Ghana",
+      "imap": {
+        "host": "imap.vodafone.com.gh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.vodafone.com.gh",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mtn.com.gh",
+      "name": "MTN Ghana",
+      "imap": {
+        "host": "imap.mtn.com.gh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtn.com.gh",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "airtelgh.com",
+      "name": "Airtel Ghana",
+      "imap": {
+        "host": "imap.airtelgh.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.airtelgh.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "busyinternet.net",
+      "name": "BusyInternet",
+      "imap": {
+        "host": "imap.busyinternet.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.busyinternet.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ghana.gov.gh",
+      "name": "Government of Ghana",
+      "imap": {
+        "host": "imap.ghana.gov.gh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ghana.gov.gh",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ugspace.ug.edu.gh",
+      "name": "University of Ghana",
+      "imap": {
+        "host": "imap.ugspace.ug.edu.gh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ugspace.ug.edu.gh",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

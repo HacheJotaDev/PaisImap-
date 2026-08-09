@@ -15,6 +15,48 @@
         "port": 587,
         "ssl": false
       }
+    },
+    {
+      "domain": "flow.tt",
+      "name": "FLOW Trinidad & Tobago",
+      "imap": {
+        "host": "imap.flow.tt",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.flow.tt",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digiceltt.com",
+      "name": "Digicel Trinidad & Tobago",
+      "imap": {
+        "host": "imap.digiceltt.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digiceltt.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "namracott.com",
+      "name": "Namraco TT",
+      "imap": {
+        "host": "imap.namracott.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.namracott.com",
+        "port": 587,
+        "ssl": false
+      }
     }
   ]
 }

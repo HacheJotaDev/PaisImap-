@@ -101,31 +101,87 @@
       }
     },
     {
-      "domain": "gmail.ru",
-      "name": "Gmail Russia",
+      "domain": "km.ru",
+      "name": "KM.ru",
       "imap": {
-        "host": "imap.gmail.com",
+        "host": "imap.km.ru",
         "port": 993,
         "ssl": true
       },
       "smtp": {
-        "host": "smtp.gmail.com",
+        "host": "smtp.km.ru",
         "port": 465,
         "ssl": true
       }
     },
     {
-      "domain": "hotmail.ru",
-      "name": "Hotmail Russia",
+      "domain": "land.ru",
+      "name": "Land.ru",
       "imap": {
-        "host": "outlook.office365.com",
+        "host": "imap.land.ru",
         "port": 993,
         "ssl": true
       },
       "smtp": {
-        "host": "smtp.office365.com",
+        "host": "smtp.land.ru",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "smtp.ru",
+      "name": "SMTP.ru",
+      "imap": {
+        "host": "imap.smtp.ru",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.smtp.ru",
         "port": 587,
         "ssl": false
+      }
+    },
+    {
+      "domain": "ya.ru",
+      "name": "Ya.ru (Yandex)",
+      "imap": {
+        "host": "imap.ya.ru",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ya.ru",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "narod.ru",
+      "name": "Narod.ru (Yandex)",
+      "imap": {
+        "host": "imap.narod.ru",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.narod.ru",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "nm.ru",
+      "name": "NM.ru",
+      "imap": {
+        "host": "imap.nm.ru",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.nm.ru",
+        "port": 465,
+        "ssl": true
       }
     }
   ]

@@ -1,5 +1,48 @@
 {
   "country": "Vatican City",
   "code": "VA",
-  "providers": []
+  "providers": [
+    {
+      "domain": "vatican.va",
+      "name": "Vatican",
+      "imap": {
+        "host": "imap.vatican.va",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.vatican.va",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "osservatoreromano.va",
+      "name": "Osservatore Romano",
+      "imap": {
+        "host": "imap.osservatoreromano.va",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.osservatoreromano.va",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "holysee.va",
+      "name": "Holy See",
+      "imap": {
+        "host": "imap.holysee.va",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.holysee.va",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

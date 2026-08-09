@@ -3,62 +3,6 @@
   "code": "DK",
   "providers": [
     {
-      "domain": "gmail.dk",
-      "name": "Gmail Denmark",
-      "imap": {
-        "host": "imap.gmail.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gmail.com",
-        "port": 465,
-        "ssl": true
-      }
-    },
-    {
-      "domain": "hotmail.dk",
-      "name": "Hotmail Denmark",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
-      "domain": "live.dk",
-      "name": "Live Denmark",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
-      "domain": "outlook.dk",
-      "name": "Outlook Denmark",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
       "domain": "tiscali.dk",
       "name": "Tiscali Denmark",
       "imap": {

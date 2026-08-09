@@ -1,5 +1,48 @@
 {
   "country": "Libya",
   "code": "LY",
-  "providers": []
+  "providers": [
+    {
+      "domain": "libyana.ly",
+      "name": "Libyana",
+      "imap": {
+        "host": "imap.libyana.ly",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.libyana.ly",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "almadar.ly",
+      "name": "Almadar Aljadeed",
+      "imap": {
+        "host": "imap.almadar.ly",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.almadar.ly",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hatef.ly",
+      "name": "Hatef Libya",
+      "imap": {
+        "host": "imap.hatef.ly",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.hatef.ly",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

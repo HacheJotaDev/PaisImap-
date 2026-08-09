@@ -3,48 +3,6 @@
   "code": "HK",
   "providers": [
     {
-      "domain": "hotmail.com.hk",
-      "name": "Hotmail Hong Kong",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
-      "domain": "gmail.com.hk",
-      "name": "Gmail Hong Kong",
-      "imap": {
-        "host": "imap.gmail.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gmail.com",
-        "port": 465,
-        "ssl": true
-      }
-    },
-    {
-      "domain": "yahoo.com.hk",
-      "name": "Yahoo Hong Kong",
-      "imap": {
-        "host": "imap.mail.yahoo.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.yahoo.com",
-        "port": 465,
-        "ssl": true
-      }
-    },
-    {
       "domain": "netvigator.com",
       "name": "Netvigator (PCCW)",
       "imap": {
@@ -70,6 +28,132 @@
         "host": "smtp.ctimail3.com",
         "port": 587,
         "ssl": false
+      }
+    },
+    {
+      "domain": "hknet.com",
+      "name": "HKNet",
+      "imap": {
+        "host": "imap.hknet.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.hknet.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hutchcity.com",
+      "name": "3 Hong Kong",
+      "imap": {
+        "host": "imap.hutchcity.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.hutchcity.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "cmhk.com",
+      "name": "China Mobile HK",
+      "imap": {
+        "host": "imap.cmhk.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cmhk.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "cslnet.com",
+      "name": "CSL Net",
+      "imap": {
+        "host": "imap.cslnet.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cslnet.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ims.com.hk",
+      "name": "IMS Hong Kong",
+      "imap": {
+        "host": "imap.ims.com.hk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ims.com.hk",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hkbn.com.hk",
+      "name": "HKBN",
+      "imap": {
+        "host": "imap.hkbn.com.hk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.hkbn.com.hk",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "i-cable.com",
+      "name": "i-Cable",
+      "imap": {
+        "host": "imap.i-cable.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.i-cable.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "wtt.net",
+      "name": "WTT Hong Kong",
+      "imap": {
+        "host": "imap.wtt.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.wtt.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "pacific.net.hk",
+      "name": "Pacific Hong Kong",
+      "imap": {
+        "host": "imap.pacific.net.hk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.pacific.net.hk",
+        "port": 465,
+        "ssl": true
       }
     }
   ]

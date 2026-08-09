@@ -3,62 +3,6 @@
   "code": "CO",
   "providers": [
     {
-      "domain": "hotmail.com.co",
-      "name": "Hotmail Colombia",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
-      "domain": "yahoo.com.co",
-      "name": "Yahoo Colombia",
-      "imap": {
-        "host": "imap.mail.yahoo.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.yahoo.com",
-        "port": 465,
-        "ssl": true
-      }
-    },
-    {
-      "domain": "gmail.com.co",
-      "name": "Gmail Colombia",
-      "imap": {
-        "host": "imap.gmail.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gmail.com",
-        "port": 465,
-        "ssl": true
-      }
-    },
-    {
-      "domain": "outlook.com.co",
-      "name": "Outlook Colombia",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
       "domain": "etb.com.co",
       "name": "ETB Colombia",
       "imap": {
@@ -124,6 +68,314 @@
       },
       "smtp": {
         "host": "smtp.movistar.com.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ufpso.edu.co",
+      "name": "Universidad Francisco de Paula Santander",
+      "imap": {
+        "host": "imap.ufpso.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ufpso.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ufps.edu.co",
+      "name": "Universidad Francisco de Paula Santander Oca",
+      "imap": {
+        "host": "imap.ufps.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ufps.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "unal.edu.co",
+      "name": "Universidad Nacional de Colombia",
+      "imap": {
+        "host": "imap.unal.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.unal.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "andes.edu.co",
+      "name": "Universidad de los Andes",
+      "imap": {
+        "host": "imap.andes.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.andes.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "javeriana.edu.co",
+      "name": "Pontificia Universidad Javeriana",
+      "imap": {
+        "host": "imap.javeriana.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.javeriana.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "udea.edu.co",
+      "name": "Universidad de Antioquia",
+      "imap": {
+        "host": "imap.udea.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.udea.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "un.edu.co",
+      "name": "Universidad Nacional Colombia",
+      "imap": {
+        "host": "imap.un.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.un.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "univalle.edu.co",
+      "name": "Universidad del Valle",
+      "imap": {
+        "host": "imap.univalle.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.univalle.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uis.edu.co",
+      "name": "Universidad Industrial de Santander",
+      "imap": {
+        "host": "imap.uis.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uis.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "unab.edu.co",
+      "name": "Universidad Nacional Autonoma de Bucaramanga",
+      "imap": {
+        "host": "imap.unab.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.unab.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "unipamplona.edu.co",
+      "name": "Universidad de Pamplona",
+      "imap": {
+        "host": "imap.unipamplona.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.unipamplona.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "unad.edu.co",
+      "name": "Universidad Nacional Abierta y a Distancia",
+      "imap": {
+        "host": "imap.unad.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.unad.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uniminuto.edu.co",
+      "name": "Universidad Minuto de Dios",
+      "imap": {
+        "host": "imap.uniminuto.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uniminuto.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ucaldas.edu.co",
+      "name": "Universidad de Caldas",
+      "imap": {
+        "host": "imap.ucaldas.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ucaldas.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "unimagdalena.edu.co",
+      "name": "Universidad del Magdalena",
+      "imap": {
+        "host": "imap.unimagdalena.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.unimagdalena.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "unisucre.edu.co",
+      "name": "Universidad de Sucre",
+      "imap": {
+        "host": "imap.unisucre.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.unisucre.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uniguajira.edu.co",
+      "name": "Universidad de la Guajira",
+      "imap": {
+        "host": "imap.uniguajira.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uniguajira.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ucc.edu.co",
+      "name": "Universidad Cooperativa de Colombia",
+      "imap": {
+        "host": "imap.ucc.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ucc.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "udem.edu.co",
+      "name": "Universidad de Medellin",
+      "imap": {
+        "host": "imap.udem.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.udem.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ut.edu.co",
+      "name": "Universidad de Tolima",
+      "imap": {
+        "host": "imap.ut.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ut.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "utp.edu.co",
+      "name": "Universidad Tecnologica de Pereira",
+      "imap": {
+        "host": "imap.utp.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.utp.edu.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "udistrital.edu.co",
+      "name": "Universidad Distrital",
+      "imap": {
+        "host": "imap.udistrital.edu.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.udistrital.edu.co",
         "port": 587,
         "ssl": false
       }

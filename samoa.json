@@ -1,5 +1,48 @@
 {
   "country": "Samoa",
   "code": "WS",
-  "providers": []
+  "providers": [
+    {
+      "domain": "samoa-telecom.ws",
+      "name": "Samoa Telecom",
+      "imap": {
+        "host": "imap.samoa-telecom.ws",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.samoa-telecom.ws",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "bluesky.ws",
+      "name": "Bluesky Samoa",
+      "imap": {
+        "host": "imap.bluesky.ws",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bluesky.ws",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digicelsamoa.com",
+      "name": "Digicel Samoa",
+      "imap": {
+        "host": "imap.digicelsamoa.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digicelsamoa.com",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

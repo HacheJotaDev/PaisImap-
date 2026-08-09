@@ -1,5 +1,90 @@
 {
   "country": "Tajikistan",
   "code": "TJ",
-  "providers": []
+  "providers": [
+    {
+      "domain": "tj-telecom.tj",
+      "name": "Tajik Telecom",
+      "imap": {
+        "host": "imap.tj-telecom.tj",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tj-telecom.tj",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "tcell.tj",
+      "name": "TCell",
+      "imap": {
+        "host": "imap.tcell.tj",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tcell.tj",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "babilon-tj.com",
+      "name": "Babilon-T",
+      "imap": {
+        "host": "imap.babilon-tj.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.babilon-tj.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "somoncom.tj",
+      "name": "Somoncom",
+      "imap": {
+        "host": "imap.somoncom.tj",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.somoncom.tj",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "intra.tj",
+      "name": "Intra Tajikistan",
+      "imap": {
+        "host": "imap.intra.tj",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.intra.tj",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "maxcom.tj",
+      "name": "Maxcom",
+      "imap": {
+        "host": "imap.maxcom.tj",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.maxcom.tj",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

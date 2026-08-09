@@ -15,6 +15,76 @@
         "port": 587,
         "ssl": false
       }
+    },
+    {
+      "domain": "cwjamaica.com",
+      "name": "C&W Jamaica",
+      "imap": {
+        "host": "imap.cwjamaica.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cwjamaica.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digiceljamaica.com",
+      "name": "Digicel Jamaica",
+      "imap": {
+        "host": "imap.digiceljamaica.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digiceljamaica.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "jamaicabroadband.com",
+      "name": "Jamaica Broadband",
+      "imap": {
+        "host": "imap.jamaicabroadband.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.jamaicabroadband.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "utech.edu.jm",
+      "name": "UTech Jamaica",
+      "imap": {
+        "host": "imap.utech.edu.jm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.utech.edu.jm",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uwimona.edu.jm",
+      "name": "UWI Mona",
+      "imap": {
+        "host": "imap.uwimona.edu.jm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uwimona.edu.jm",
+        "port": 587,
+        "ssl": false
+      }
     }
   ]
 }

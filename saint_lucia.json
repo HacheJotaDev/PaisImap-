@@ -1,5 +1,48 @@
 {
   "country": "Saint Lucia",
   "code": "LC",
-  "providers": []
+  "providers": [
+    {
+      "domain": "flowstlucia.com",
+      "name": "FLOW St. Lucia",
+      "imap": {
+        "host": "imap.flowstlucia.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.flowstlucia.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digicelstlucia.com",
+      "name": "Digicel St. Lucia",
+      "imap": {
+        "host": "imap.digicelstlucia.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digicelstlucia.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "cablelucie.com",
+      "name": "Cable Lucie",
+      "imap": {
+        "host": "imap.cablelucie.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cablelucie.com",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

@@ -45,31 +45,171 @@
       }
     },
     {
-      "domain": "hotmail.hr",
-      "name": "Hotmail Croatia",
+      "domain": "iskon.hr",
+      "name": "Iskon",
       "imap": {
-        "host": "outlook.office365.com",
+        "host": "imap.iskon.hr",
         "port": 993,
         "ssl": true
       },
       "smtp": {
-        "host": "smtp.office365.com",
+        "host": "smtp.iskon.hr",
         "port": 587,
         "ssl": false
       }
     },
     {
-      "domain": "gmail.hr",
-      "name": "Gmail Croatia",
+      "domain": "vip.hr",
+      "name": "A1 VIPnet",
       "imap": {
-        "host": "imap.gmail.com",
+        "host": "imap.vip.hr",
         "port": 993,
         "ssl": true
       },
       "smtp": {
-        "host": "smtp.gmail.com",
-        "port": 465,
+        "host": "smtp.vip.hr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "croatia-telecom.hr",
+      "name": "Croatia Telecom",
+      "imap": {
+        "host": "imap.croatia-telecom.hr",
+        "port": 993,
         "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.croatia-telecom.hr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "meta.hr",
+      "name": "Meta.hr",
+      "imap": {
+        "host": "imap.meta.hr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.meta.hr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fer.hr",
+      "name": "FER Zagreb",
+      "imap": {
+        "host": "imap.fer.hr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fer.hr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "srce.hr",
+      "name": "SRCE",
+      "imap": {
+        "host": "imap.srce.hr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.srce.hr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "math.hr",
+      "name": "PMF Zagreb",
+      "imap": {
+        "host": "imap.math.hr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.math.hr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "zagreb.hr",
+      "name": "City of Zagreb",
+      "imap": {
+        "host": "imap.zagreb.hr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zagreb.hr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "carnet.hr",
+      "name": "CARNET",
+      "imap": {
+        "host": "imap.carnet.hr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.carnet.hr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "htnet.hr",
+      "name": "HTnet",
+      "imap": {
+        "host": "imap.htnet.hr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.htnet.hr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "amis.net",
+      "name": "Amis",
+      "imap": {
+        "host": "imap.amis.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.amis.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "optima-telekom.hr",
+      "name": "Optima Telekom",
+      "imap": {
+        "host": "imap.optima-telekom.hr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.optima-telekom.hr",
+        "port": 587,
+        "ssl": false
       }
     }
   ]

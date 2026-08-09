@@ -15,6 +15,48 @@
         "port": 587,
         "ssl": false
       }
+    },
+    {
+      "domain": "smartbelize.bz",
+      "name": "Smart Belize",
+      "imap": {
+        "host": "imap.smartbelize.bz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.smartbelize.bz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "speednet.bz",
+      "name": "SpeedNet Belize",
+      "imap": {
+        "host": "imap.speednet.bz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.speednet.bz",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ambergriscaye.com",
+      "name": "Ambergris Caye Belize",
+      "imap": {
+        "host": "imap.ambergriscaye.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ambergriscaye.com",
+        "port": 587,
+        "ssl": false
+      }
     }
   ]
 }

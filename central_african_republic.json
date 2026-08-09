@@ -1,5 +1,48 @@
 {
   "country": "Central African Republic",
   "code": "CF",
-  "providers": []
+  "providers": [
+    {
+      "domain": "centrafrique-telecom.cf",
+      "name": "Centrafrique Telecom",
+      "imap": {
+        "host": "imap.centrafrique-telecom.cf",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.centrafrique-telecom.cf",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "moov.africa",
+      "name": "Moov Africa (CAF)",
+      "imap": {
+        "host": "imap.moov.africa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.moov.africa",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "centratel.cf",
+      "name": "Centratel CAR",
+      "imap": {
+        "host": "imap.centratel.cf",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.centratel.cf",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

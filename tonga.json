@@ -1,5 +1,62 @@
 {
   "country": "Tonga",
   "code": "TO",
-  "providers": []
+  "providers": [
+    {
+      "domain": "kalianet.to",
+      "name": "Kalianet Tonga",
+      "imap": {
+        "host": "imap.kalianet.to",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.kalianet.to",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digicel.to",
+      "name": "Digicel Tonga",
+      "imap": {
+        "host": "imap.digicel.to",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digicel.to",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "tongacable.to",
+      "name": "Tonga Cable",
+      "imap": {
+        "host": "imap.tongacable.to",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tongacable.to",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "tongatelecom.to",
+      "name": "Tonga Telecom",
+      "imap": {
+        "host": "imap.tongatelecom.to",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tongatelecom.to",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

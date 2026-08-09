@@ -1,5 +1,160 @@
 {
   "country": "Nepal",
   "code": "NP",
-  "providers": []
+  "providers": [
+    {
+      "domain": "wlink.com.np",
+      "name": "WorldLink",
+      "imap": {
+        "host": "imap.wlink.com.np",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.wlink.com.np",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "vianet.com.np",
+      "name": "Vianet",
+      "imap": {
+        "host": "imap.vianet.com.np",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.vianet.com.np",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ntcl.com.np",
+      "name": "Nepal Telecom",
+      "imap": {
+        "host": "imap.ntcl.com.np",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ntcl.com.np",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ncell.com",
+      "name": "Ncell",
+      "imap": {
+        "host": "imap.ncell.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ncell.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "subisu.net.np",
+      "name": "Subisu",
+      "imap": {
+        "host": "imap.subisu.net.np",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.subisu.net.np",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "weblink.com.np",
+      "name": "Weblink Nepal",
+      "imap": {
+        "host": "imap.weblink.com.np",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.weblink.com.np",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mercantile.com.np",
+      "name": "Mercantile",
+      "imap": {
+        "host": "imap.mercantile.com.np",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mercantile.com.np",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "cablenet.com.np",
+      "name": "CableNet Nepal",
+      "imap": {
+        "host": "imap.cablenet.com.np",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cablenet.com.np",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "eastlink.com.np",
+      "name": "EastLink Nepal",
+      "imap": {
+        "host": "imap.eastlink.com.np",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.eastlink.com.np",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "pulchowk.edu.np",
+      "name": "IOE Pulchowk",
+      "imap": {
+        "host": "imap.pulchowk.edu.np",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.pulchowk.edu.np",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "tu.edu.np",
+      "name": "Tribhuvan University",
+      "imap": {
+        "host": "imap.tu.edu.np",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tu.edu.np",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

@@ -1,5 +1,62 @@
 {
   "country": "Niger",
   "code": "NE",
-  "providers": []
+  "providers": [
+    {
+      "domain": "intnet.ne",
+      "name": "Niger Telecom (IntNet)",
+      "imap": {
+        "host": "imap.intnet.ne",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.intnet.ne",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "sahelcom.ne",
+      "name": "SahelCom",
+      "imap": {
+        "host": "imap.sahelcom.ne",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sahelcom.ne",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "niger-telecom.ne",
+      "name": "Niger Telecom",
+      "imap": {
+        "host": "imap.niger-telecom.ne",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.niger-telecom.ne",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "zantel.ne",
+      "name": "Zantel Niger",
+      "imap": {
+        "host": "imap.zantel.ne",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zantel.ne",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

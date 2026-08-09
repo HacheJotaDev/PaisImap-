@@ -1,5 +1,34 @@
 {
   "country": "Eritrea",
   "code": "ER",
-  "providers": []
+  "providers": [
+    {
+      "domain": "eritrea-telecom.er",
+      "name": "Eritrea Telecom",
+      "imap": {
+        "host": "imap.eritrea-telecom.er",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.eritrea-telecom.er",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "teleservice.er",
+      "name": "Teleservice Eritrea",
+      "imap": {
+        "host": "imap.teleservice.er",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.teleservice.er",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

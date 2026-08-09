@@ -1,5 +1,62 @@
 {
   "country": "Sint Maarten",
   "code": "SX",
-  "providers": []
+  "providers": [
+    {
+      "domain": "telcell.sx",
+      "name": "Telcell Sint Maarten",
+      "imap": {
+        "host": "imap.telcell.sx",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.telcell.sx",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "flowsx.com",
+      "name": "FLOW Sint Maarten",
+      "imap": {
+        "host": "imap.flowsx.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.flowsx.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digicelsxm.com",
+      "name": "Digicel SXM",
+      "imap": {
+        "host": "imap.digicelsxm.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digicelsxm.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "sxmtelecom.com",
+      "name": "SXM Telecom",
+      "imap": {
+        "host": "imap.sxmtelecom.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sxmtelecom.com",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

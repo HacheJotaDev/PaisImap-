@@ -3,34 +3,6 @@
   "code": "RS",
   "providers": [
     {
-      "domain": "hotmail.rs",
-      "name": "Hotmail Serbia",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
-      "domain": "gmail.rs",
-      "name": "Gmail Serbia",
-      "imap": {
-        "host": "imap.gmail.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gmail.com",
-        "port": 465,
-        "ssl": true
-      }
-    },
-    {
       "domain": "mts.rs",
       "name": "MTS Serbia",
       "imap": {
@@ -54,6 +26,188 @@
       },
       "smtp": {
         "host": "smtp.yub.rs",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "yubc.net",
+      "name": "YUBC",
+      "imap": {
+        "host": "imap.yubc.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.yubc.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "orion.rs",
+      "name": "Orion",
+      "imap": {
+        "host": "imap.orion.rs",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.orion.rs",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "eunet.rs",
+      "name": "EUnet",
+      "imap": {
+        "host": "imap.eunet.rs",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.eunet.rs",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "beotel.net",
+      "name": "BeotelNet",
+      "imap": {
+        "host": "imap.beotel.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.beotel.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ptt.rs",
+      "name": "Posta Srbije",
+      "imap": {
+        "host": "imap.ptt.rs",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ptt.rs",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "sbb.rs",
+      "name": "SBB",
+      "imap": {
+        "host": "imap.sbb.rs",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sbb.rs",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "mtel.rs",
+      "name": "mt:s",
+      "imap": {
+        "host": "imap.mtel.rs",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtel.rs",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "verat.net",
+      "name": "Verat",
+      "imap": {
+        "host": "imap.verat.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.verat.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "infostud.com",
+      "name": "Infostud",
+      "imap": {
+        "host": "imap.infostud.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.infostud.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "math.rs",
+      "name": "Matematicki Fakultet",
+      "imap": {
+        "host": "imap.math.rs",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.math.rs",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uns.ac.rs",
+      "name": "University of Novi Sad",
+      "imap": {
+        "host": "imap.uns.ac.rs",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uns.ac.rs",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "bg.ac.rs",
+      "name": "University of Belgrade",
+      "imap": {
+        "host": "imap.bg.ac.rs",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bg.ac.rs",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ekologija.rs",
+      "name": "Ekologija",
+      "imap": {
+        "host": "imap.ekologija.rs",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ekologija.rs",
         "port": 587,
         "ssl": false
       }

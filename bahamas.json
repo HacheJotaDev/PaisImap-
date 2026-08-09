@@ -15,6 +15,62 @@
         "port": 587,
         "ssl": false
       }
+    },
+    {
+      "domain": "btc.bs",
+      "name": "BTC Bahamas",
+      "imap": {
+        "host": "imap.btc.bs",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.btc.bs",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "columbus.co",
+      "name": "Columbus Bahamas",
+      "imap": {
+        "host": "imap.columbus.co",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.columbus.co",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "islandcom.bs",
+      "name": "IslandCom Bahamas",
+      "imap": {
+        "host": "imap.islandcom.bs",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.islandcom.bs",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "bluehill.net.bs",
+      "name": "BlueHill Bahamas",
+      "imap": {
+        "host": "imap.bluehill.net.bs",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bluehill.net.bs",
+        "port": 587,
+        "ssl": false
+      }
     }
   ]
 }

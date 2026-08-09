@@ -1,5 +1,48 @@
 {
   "country": "Angola",
   "code": "AO",
-  "providers": []
+  "providers": [
+    {
+      "domain": "netangola.ao",
+      "name": "Angola Telecom",
+      "imap": {
+        "host": "imap.netangola.ao",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.netangola.ao",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "unitel.ao",
+      "name": "UNITEL",
+      "imap": {
+        "host": "imap.unitel.ao",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.unitel.ao",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "movicel.ao",
+      "name": "Movicel",
+      "imap": {
+        "host": "imap.movicel.ao",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.movicel.ao",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

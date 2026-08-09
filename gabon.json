@@ -1,5 +1,48 @@
 {
   "country": "Gabon",
   "code": "GA",
-  "providers": []
+  "providers": [
+    {
+      "domain": "gabontelecom.ga",
+      "name": "Gabon Telecom",
+      "imap": {
+        "host": "imap.gabontelecom.ga",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gabontelecom.ga",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "airtel.ga",
+      "name": "Airtel Gabon",
+      "imap": {
+        "host": "imap.airtel.ga",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.airtel.ga",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "moov.ga",
+      "name": "Moov Gabon",
+      "imap": {
+        "host": "imap.moov.ga",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.moov.ga",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

@@ -1,5 +1,118 @@
 {
   "country": "Moldova",
   "code": "MD",
-  "providers": []
+  "providers": [
+    {
+      "domain": "moldtelecom.md",
+      "name": "Moldtelecom",
+      "imap": {
+        "host": "imap.moldtelecom.md",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.moldtelecom.md",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "orange.md",
+      "name": "Orange Moldova",
+      "imap": {
+        "host": "imap.orange.md",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.orange.md",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "moldcell.md",
+      "name": "Moldcell",
+      "imap": {
+        "host": "imap.moldcell.md",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.moldcell.md",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "starnet.md",
+      "name": "Starnet",
+      "imap": {
+        "host": "imap.starnet.md",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.starnet.md",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "unimedia.md",
+      "name": "Unimedia",
+      "imap": {
+        "host": "imap.unimedia.md",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.unimedia.md",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "t.md",
+      "name": "Moldova T",
+      "imap": {
+        "host": "imap.t.md",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.t.md",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "umd.md",
+      "name": "Moldova State University (UMD)",
+      "imap": {
+        "host": "imap.umd.md",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.umd.md",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "usm.md",
+      "name": "State University of Moldova (USM)",
+      "imap": {
+        "host": "imap.usm.md",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.usm.md",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

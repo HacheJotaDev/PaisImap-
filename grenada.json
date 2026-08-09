@@ -1,5 +1,48 @@
 {
   "country": "Grenada",
   "code": "GD",
-  "providers": []
+  "providers": [
+    {
+      "domain": "flowgrenada.com",
+      "name": "FLOW Grenada",
+      "imap": {
+        "host": "imap.flowgrenada.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.flowgrenada.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digicelgrenada.com",
+      "name": "Digicel Grenada",
+      "imap": {
+        "host": "imap.digicelgrenada.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digicelgrenada.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "cablegrenada.com",
+      "name": "Cable Grenada",
+      "imap": {
+        "host": "imap.cablegrenada.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cablegrenada.com",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

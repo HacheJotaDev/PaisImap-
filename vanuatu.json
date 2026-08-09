@@ -1,5 +1,48 @@
 {
   "country": "Vanuatu",
   "code": "VU",
-  "providers": []
+  "providers": [
+    {
+      "domain": "vanuatu.com.vu",
+      "name": "Vanuatu Telecom",
+      "imap": {
+        "host": "imap.vanuatu.com.vu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.vanuatu.com.vu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digicel.vu",
+      "name": "Digicel Vanuatu",
+      "imap": {
+        "host": "imap.digicel.vu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digicel.vu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "tvl.com.vu",
+      "name": "TVL Vanuatu",
+      "imap": {
+        "host": "imap.tvl.com.vu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tvl.com.vu",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

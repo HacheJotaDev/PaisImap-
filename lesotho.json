@@ -1,5 +1,48 @@
 {
   "country": "Lesotho",
   "code": "LS",
-  "providers": []
+  "providers": [
+    {
+      "domain": "vodacom.co.ls",
+      "name": "Vodacom Lesotho",
+      "imap": {
+        "host": "imap.vodacom.co.ls",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.vodacom.co.ls",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "econettelecom.ls",
+      "name": "Econet Telecom Lesotho",
+      "imap": {
+        "host": "imap.econettelecom.ls",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.econettelecom.ls",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mascom.ls",
+      "name": "Mascom Lesotho",
+      "imap": {
+        "host": "imap.mascom.ls",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mascom.ls",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

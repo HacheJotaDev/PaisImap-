@@ -1,5 +1,34 @@
 {
   "country": "Comoros",
   "code": "KM",
-  "providers": []
+  "providers": [
+    {
+      "domain": "comorestelecom.km",
+      "name": "Comores Telecom",
+      "imap": {
+        "host": "imap.comorestelecom.km",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.comorestelecom.km",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "intsy.km",
+      "name": "INTSY Comores",
+      "imap": {
+        "host": "imap.intsy.km",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.intsy.km",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

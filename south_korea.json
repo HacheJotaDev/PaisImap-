@@ -73,15 +73,281 @@
       }
     },
     {
-      "domain": "hotmail.co.kr",
-      "name": "Hotmail Korea",
+      "domain": "korean.net",
+      "name": "Korea Telecom",
       "imap": {
-        "host": "outlook.office365.com",
+        "host": "imap.korean.net",
         "port": 993,
         "ssl": true
       },
       "smtp": {
-        "host": "smtp.office365.com",
+        "host": "smtp.korean.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "dreamwiz.com",
+      "name": "Dreamwiz",
+      "imap": {
+        "host": "imap.dreamwiz.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.dreamwiz.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hitel.net",
+      "name": "Hitel",
+      "imap": {
+        "host": "imap.hitel.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.hitel.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "chol.com",
+      "name": "Chollian",
+      "imap": {
+        "host": "imap.chol.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.chol.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "kornet.net",
+      "name": "Kornet (KT)",
+      "imap": {
+        "host": "imap.kornet.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.kornet.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "lycos.co.kr",
+      "name": "Lycos Korea",
+      "imap": {
+        "host": "imap.lycos.co.kr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.lycos.co.kr",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "empal.com",
+      "name": "Empal",
+      "imap": {
+        "host": "imap.empal.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.empal.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "sayclub.com",
+      "name": "SayClub",
+      "imap": {
+        "host": "imap.sayclub.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sayclub.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "freechal.com",
+      "name": "FreeChal",
+      "imap": {
+        "host": "imap.freechal.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.freechal.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hanafos.com",
+      "name": "Hanafos (KT)",
+      "imap": {
+        "host": "imap.hanafos.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.hanafos.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "netian.com",
+      "name": "Netian",
+      "imap": {
+        "host": "imap.netian.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.netian.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "korea.com",
+      "name": "Korea.com",
+      "imap": {
+        "host": "imap.korea.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.korea.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "paran.com",
+      "name": "Paran (SK)",
+      "imap": {
+        "host": "imap.paran.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.paran.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hanmir.com",
+      "name": "Hanmir",
+      "imap": {
+        "host": "imap.hanmir.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.hanmir.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "thrunet.com",
+      "name": "Thrunet",
+      "imap": {
+        "host": "imap.thrunet.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.thrunet.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "snu.ac.kr",
+      "name": "Seoul National University",
+      "imap": {
+        "host": "imap.snu.ac.kr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.snu.ac.kr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "kaist.ac.kr",
+      "name": "KAIST",
+      "imap": {
+        "host": "imap.kaist.ac.kr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.kaist.ac.kr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "yonsei.ac.kr",
+      "name": "Yonsei University",
+      "imap": {
+        "host": "imap.yonsei.ac.kr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.yonsei.ac.kr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "korea.ac.kr",
+      "name": "Korea University",
+      "imap": {
+        "host": "imap.korea.ac.kr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.korea.ac.kr",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "postech.ac.kr",
+      "name": "POSTECH",
+      "imap": {
+        "host": "imap.postech.ac.kr",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.postech.ac.kr",
         "port": 587,
         "ssl": false
       }

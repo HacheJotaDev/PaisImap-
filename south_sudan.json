@@ -1,5 +1,62 @@
 {
   "country": "South Sudan",
   "code": "SS",
-  "providers": []
+  "providers": [
+    {
+      "domain": "vivacell.net",
+      "name": "Vivacell South Sudan",
+      "imap": {
+        "host": "imap.vivacell.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.vivacell.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "nationlink-south-sudan.com",
+      "name": "NationLink South Sudan",
+      "imap": {
+        "host": "imap.nationlink-south-sudan.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.nationlink-south-sudan.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mtssc.com",
+      "name": "MTN South Sudan",
+      "imap": {
+        "host": "imap.mtssc.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtssc.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ssudantelecom.com",
+      "name": "SSudan Telecom",
+      "imap": {
+        "host": "imap.ssudantelecom.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ssudantelecom.com",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

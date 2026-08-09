@@ -3,34 +3,6 @@
   "code": "SA",
   "providers": [
     {
-      "domain": "hotmail.com.sa",
-      "name": "Hotmail Saudi Arabia",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
-      "domain": "gmail.com.sa",
-      "name": "Gmail Saudi Arabia",
-      "imap": {
-        "host": "imap.gmail.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gmail.com",
-        "port": 465,
-        "ssl": true
-      }
-    },
-    {
       "domain": "naseej.com",
       "name": "Naseej",
       "imap": {
@@ -40,6 +12,216 @@
       },
       "smtp": {
         "host": "smtp.naseej.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "stc.com.sa",
+      "name": "Saudi Telecom Company (STC)",
+      "imap": {
+        "host": "imap.stc.com.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.stc.com.sa",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mobily.com.sa",
+      "name": "Mobily",
+      "imap": {
+        "host": "imap.mobily.com.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mobily.com.sa",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "zain.sa",
+      "name": "Zain Saudi Arabia",
+      "imap": {
+        "host": "imap.zain.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zain.sa",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "go.sa",
+      "name": "GO Saudi",
+      "imap": {
+        "host": "imap.go.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.go.sa",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "elm.sa",
+      "name": "ELM",
+      "imap": {
+        "host": "imap.elm.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.elm.sa",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "sawa.sa",
+      "name": "STC Sawa",
+      "imap": {
+        "host": "imap.sawa.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sawa.sa",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "itc.com.sa",
+      "name": "Integrated Telecom Co (ITC)",
+      "imap": {
+        "host": "imap.itc.com.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.itc.com.sa",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mobily.sa",
+      "name": "Mobily SA",
+      "imap": {
+        "host": "imap.mobily.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mobily.sa",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "watani.com.sa",
+      "name": "Watani Telecom",
+      "imap": {
+        "host": "imap.watani.com.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.watani.com.sa",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "zajil.com.sa",
+      "name": "Zajil Telecom",
+      "imap": {
+        "host": "imap.zajil.com.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zajil.com.sa",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "najiz.sa",
+      "name": "Najiz",
+      "imap": {
+        "host": "imap.najiz.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.najiz.sa",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "bahri.sa",
+      "name": "Bahri",
+      "imap": {
+        "host": "imap.bahri.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bahri.sa",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ksu.edu.sa",
+      "name": "King Saud University (KSU)",
+      "imap": {
+        "host": "imap.ksu.edu.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ksu.edu.sa",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "kfupm.edu.sa",
+      "name": "KFUPM",
+      "imap": {
+        "host": "imap.kfupm.edu.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.kfupm.edu.sa",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ksuhs.edu.sa",
+      "name": "KSU Health Sciences",
+      "imap": {
+        "host": "imap.ksuhs.edu.sa",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ksuhs.edu.sa",
         "port": 587,
         "ssl": false
       }

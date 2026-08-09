@@ -1,5 +1,34 @@
 {
   "country": "Timor-Leste",
   "code": "TL",
-  "providers": []
+  "providers": [
+    {
+      "domain": "timor-telecom.tl",
+      "name": "Timor Telecom",
+      "imap": {
+        "host": "imap.timor-telecom.tl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.timor-telecom.tl",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "telkomcel.tl",
+      "name": "Telkomcel TL",
+      "imap": {
+        "host": "imap.telkomcel.tl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.telkomcel.tl",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

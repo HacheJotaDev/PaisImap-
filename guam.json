@@ -1,5 +1,62 @@
 {
   "country": "Guam",
   "code": "GU",
-  "providers": []
+  "providers": [
+    {
+      "domain": "guamtelecom.com",
+      "name": "GTA Guam",
+      "imap": {
+        "host": "imap.guamtelecom.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.guamtelecom.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "docomo-pacific.com",
+      "name": "Docomo Pacific Guam",
+      "imap": {
+        "host": "imap.docomo-pacific.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.docomo-pacific.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "docomopacific.com",
+      "name": "Docomo Pacific Guam",
+      "imap": {
+        "host": "imap.docomopacific.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.docomopacific.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "gta.gu",
+      "name": "GTA Guam",
+      "imap": {
+        "host": "imap.gta.gu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gta.gu",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

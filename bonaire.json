@@ -1,5 +1,48 @@
 {
   "country": "Bonaire",
   "code": "BQ",
-  "providers": []
+  "providers": [
+    {
+      "domain": "telbonet.an",
+      "name": "Telbo Bonaire",
+      "imap": {
+        "host": "imap.telbonet.an",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.telbonet.an",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "flowbonaire.com",
+      "name": "FLOW Bonaire",
+      "imap": {
+        "host": "imap.flowbonaire.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.flowbonaire.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digicelbonaire.com",
+      "name": "Digicel Bonaire",
+      "imap": {
+        "host": "imap.digicelbonaire.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digicelbonaire.com",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

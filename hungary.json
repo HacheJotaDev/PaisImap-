@@ -73,31 +73,129 @@
       }
     },
     {
-      "domain": "hotmail.hu",
-      "name": "Hotmail Hungary",
+      "domain": "interware.hu",
+      "name": "Interware",
       "imap": {
-        "host": "outlook.office365.com",
+        "host": "imap.interware.hu",
         "port": 993,
         "ssl": true
       },
       "smtp": {
-        "host": "smtp.office365.com",
+        "host": "smtp.interware.hu",
         "port": 587,
         "ssl": false
       }
     },
     {
-      "domain": "gmail.hu",
-      "name": "Gmail Hungary",
+      "domain": "axelero.hu",
+      "name": "Axelero",
       "imap": {
-        "host": "imap.gmail.com",
+        "host": "imap.axelero.hu",
         "port": 993,
         "ssl": true
       },
       "smtp": {
-        "host": "smtp.gmail.com",
-        "port": 465,
+        "host": "smtp.axelero.hu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "pannon.hu",
+      "name": "Pannon/Vodafone HU",
+      "imap": {
+        "host": "imap.pannon.hu",
+        "port": 993,
         "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.pannon.hu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "nki.hu",
+      "name": "NKI",
+      "imap": {
+        "host": "imap.nki.hu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.nki.hu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "mksz.hu",
+      "name": "MKSZ",
+      "imap": {
+        "host": "imap.mksz.hu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mksz.hu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "mt.hu",
+      "name": "Magyar Telekom",
+      "imap": {
+        "host": "imap.mt.hu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mt.hu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "elte.hu",
+      "name": "ELTE Budapest",
+      "imap": {
+        "host": "imap.elte.hu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.elte.hu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "bme.hu",
+      "name": "BME Budapest",
+      "imap": {
+        "host": "imap.bme.hu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bme.hu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "semmelweis.hu",
+      "name": "Semmelweis University",
+      "imap": {
+        "host": "imap.semmelweis.hu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.semmelweis.hu",
+        "port": 587,
+        "ssl": false
       }
     }
   ]

@@ -29,6 +29,62 @@
         "port": 587,
         "ssl": false
       }
+    },
+    {
+      "domain": "tigo.com.ni",
+      "name": "Tigo Nicaragua",
+      "imap": {
+        "host": "imap.tigo.com.ni",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tigo.com.ni",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "enitel.com.ni",
+      "name": "ENITEL Nicaragua",
+      "imap": {
+        "host": "imap.enitel.com.ni",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.enitel.com.ni",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uni.edu.ni",
+      "name": "Universidad Nacional de Ingenieria NI",
+      "imap": {
+        "host": "imap.uni.edu.ni",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uni.edu.ni",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "una.edu.ni",
+      "name": "Universidad Nacional Agraria Nicaragua",
+      "imap": {
+        "host": "imap.una.edu.ni",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.una.edu.ni",
+        "port": 587,
+        "ssl": false
+      }
     }
   ]
 }

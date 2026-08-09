@@ -1,5 +1,48 @@
 {
   "country": "Gibraltar",
   "code": "GI",
-  "providers": []
+  "providers": [
+    {
+      "domain": "gibnet.gi",
+      "name": "GibNet",
+      "imap": {
+        "host": "imap.gibnet.gi",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gibnet.gi",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "sapphire.gi",
+      "name": "Sapphire",
+      "imap": {
+        "host": "imap.sapphire.gi",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sapphire.gi",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "logitel.gi",
+      "name": "Logitel",
+      "imap": {
+        "host": "imap.logitel.gi",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.logitel.gi",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

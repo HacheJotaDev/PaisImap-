@@ -1,5 +1,48 @@
 {
   "country": "Republic of the Congo",
   "code": "CG",
-  "providers": []
+  "providers": [
+    {
+      "domain": "congo-telecom.cg",
+      "name": "Congo Telecom",
+      "imap": {
+        "host": "imap.congo-telecom.cg",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.congo-telecom.cg",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "airtel.cg",
+      "name": "Airtel Congo",
+      "imap": {
+        "host": "imap.airtel.cg",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.airtel.cg",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mtncg",
+      "name": "MTN Congo",
+      "imap": {
+        "host": "imap.mtncg",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtncg",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

@@ -3,48 +3,6 @@
   "code": "BO",
   "providers": [
     {
-      "domain": "hotmail.com.bo",
-      "name": "Hotmail Bolivia",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
-      "domain": "gmail.com.bo",
-      "name": "Gmail Bolivia",
-      "imap": {
-        "host": "imap.gmail.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gmail.com",
-        "port": 465,
-        "ssl": true
-      }
-    },
-    {
-      "domain": "yahoo.com.bo",
-      "name": "Yahoo Bolivia",
-      "imap": {
-        "host": "imap.mail.yahoo.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.yahoo.com",
-        "port": 465,
-        "ssl": true
-      }
-    },
-    {
       "domain": "entel.bo",
       "name": "Entel Bolivia",
       "imap": {
@@ -82,6 +40,62 @@
       },
       "smtp": {
         "host": "smtp.viva.com.bo",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "comteco.com.bo",
+      "name": "COMTECO Bolivia",
+      "imap": {
+        "host": "imap.comteco.com.bo",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.comteco.com.bo",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uagrm.edu.bo",
+      "name": "Universidad Autonoma Gabriel Rene Moreno",
+      "imap": {
+        "host": "imap.uagrm.edu.bo",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uagrm.edu.bo",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uabob.edu.bo",
+      "name": "Universidad Autonoma de Beni",
+      "imap": {
+        "host": "imap.uabob.edu.bo",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uabob.edu.bo",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "umss.edu.bo",
+      "name": "Universidad Mayor de San Simon",
+      "imap": {
+        "host": "imap.umss.edu.bo",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.umss.edu.bo",
         "port": 587,
         "ssl": false
       }

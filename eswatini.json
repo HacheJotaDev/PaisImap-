@@ -1,5 +1,48 @@
 {
   "country": "Eswatini",
   "code": "SZ",
-  "providers": []
+  "providers": [
+    {
+      "domain": "swazi-telecom.sz",
+      "name": "Swazi Telecom",
+      "imap": {
+        "host": "imap.swazi-telecom.sz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.swazi-telecom.sz",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mtn.sz",
+      "name": "MTN Eswatini",
+      "imap": {
+        "host": "imap.mtn.sz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtn.sz",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "eswatini-telecom.sz",
+      "name": "Eswatini Telecom",
+      "imap": {
+        "host": "imap.eswatini-telecom.sz",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.eswatini-telecom.sz",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

@@ -1,5 +1,48 @@
 {
   "country": "Zambia",
   "code": "ZM",
-  "providers": []
+  "providers": [
+    {
+      "domain": "zamnet.zm",
+      "name": "Zamnet",
+      "imap": {
+        "host": "imap.zamnet.zm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zamnet.zm",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mtnzm.co.zm",
+      "name": "MTN Zambia",
+      "imap": {
+        "host": "imap.mtnzm.co.zm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtnzm.co.zm",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "airtel.zm",
+      "name": "Airtel Zambia",
+      "imap": {
+        "host": "imap.airtel.zm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.airtel.zm",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

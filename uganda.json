@@ -1,5 +1,104 @@
 {
   "country": "Uganda",
   "code": "UG",
-  "providers": []
+  "providers": [
+    {
+      "domain": "ugonline.co.ug",
+      "name": "Uganda Telecom",
+      "imap": {
+        "host": "imap.ugonline.co.ug",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ugonline.co.ug",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "airtel.co.ug",
+      "name": "Airtel Uganda",
+      "imap": {
+        "host": "imap.airtel.co.ug",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.airtel.co.ug",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mtn.co.ug",
+      "name": "MTN Uganda",
+      "imap": {
+        "host": "imap.mtn.co.ug",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtn.co.ug",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mweb.co.ug",
+      "name": "Liquid Telecom Uganda",
+      "imap": {
+        "host": "imap.mweb.co.ug",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mweb.co.ug",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "dmark.co.ug",
+      "name": "Dmark",
+      "imap": {
+        "host": "imap.dmark.co.ug",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.dmark.co.ug",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "one2net.co.ug",
+      "name": "One2Net",
+      "imap": {
+        "host": "imap.one2net.co.ug",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.one2net.co.ug",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "africaonline.co.ug",
+      "name": "Africa Online Uganda",
+      "imap": {
+        "host": "imap.africaonline.co.ug",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.africaonline.co.ug",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

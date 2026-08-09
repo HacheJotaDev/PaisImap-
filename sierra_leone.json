@@ -1,5 +1,48 @@
 {
   "country": "Sierra Leone",
   "code": "SL",
-  "providers": []
+  "providers": [
+    {
+      "domain": "sierratel.sl",
+      "name": "Sierratel",
+      "imap": {
+        "host": "imap.sierratel.sl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sierratel.sl",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "afrikcom.sl",
+      "name": "Afrikcom",
+      "imap": {
+        "host": "imap.afrikcom.sl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.afrikcom.sl",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "orange.sl",
+      "name": "Orange Sierra Leone",
+      "imap": {
+        "host": "imap.orange.sl",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.orange.sl",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

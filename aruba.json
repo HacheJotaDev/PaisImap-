@@ -1,5 +1,48 @@
 {
   "country": "Aruba",
   "code": "AW",
-  "providers": []
+  "providers": [
+    {
+      "domain": "setar.aw",
+      "name": "SETAR Aruba",
+      "imap": {
+        "host": "imap.setar.aw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.setar.aw",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digicel-aruba.com",
+      "name": "Digicel Aruba",
+      "imap": {
+        "host": "imap.digicel-aruba.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digicel-aruba.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "setarnet.aw",
+      "name": "SetarNet Aruba",
+      "imap": {
+        "host": "imap.setarnet.aw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.setarnet.aw",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

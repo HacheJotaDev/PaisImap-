@@ -3,34 +3,6 @@
   "code": "LK",
   "providers": [
     {
-      "domain": "hotmail.com.lk",
-      "name": "Hotmail Sri Lanka",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
-      "domain": "gmail.com.lk",
-      "name": "Gmail Sri Lanka",
-      "imap": {
-        "host": "imap.gmail.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gmail.com",
-        "port": 465,
-        "ssl": true
-      }
-    },
-    {
       "domain": "slt.lk",
       "name": "SLT Sri Lanka",
       "imap": {
@@ -40,6 +12,146 @@
       },
       "smtp": {
         "host": "smtp.slt.lk",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "dialog.lk",
+      "name": "Dialog Axiata",
+      "imap": {
+        "host": "imap.dialog.lk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.dialog.lk",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mobitel.lk",
+      "name": "Mobitel",
+      "imap": {
+        "host": "imap.mobitel.lk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mobitel.lk",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "airtel.lk",
+      "name": "Airtel Sri Lanka",
+      "imap": {
+        "host": "imap.airtel.lk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.airtel.lk",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "hutch.lk",
+      "name": "Hutch Sri Lanka",
+      "imap": {
+        "host": "imap.hutch.lk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.hutch.lk",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "lankabell.com",
+      "name": "Lanka Bell",
+      "imap": {
+        "host": "imap.lankabell.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.lankabell.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "eax.lk",
+      "name": "EAZYZONE",
+      "imap": {
+        "host": "imap.eax.lk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.eax.lk",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "sri.lk",
+      "name": "Sri Lanka Domain",
+      "imap": {
+        "host": "imap.sri.lk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sri.lk",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "sampath.lk",
+      "name": "Sampath Internet",
+      "imap": {
+        "host": "imap.sampath.lk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sampath.lk",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "uom.lk",
+      "name": "University of Moratuwa",
+      "imap": {
+        "host": "imap.uom.lk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uom.lk",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "cmb.ac.lk",
+      "name": "University of Colombo",
+      "imap": {
+        "host": "imap.cmb.ac.lk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cmb.ac.lk",
         "port": 587,
         "ssl": false
       }

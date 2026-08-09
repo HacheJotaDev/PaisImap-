@@ -1,5 +1,132 @@
 {
   "country": "Kuwait",
   "code": "KW",
-  "providers": []
+  "providers": [
+    {
+      "domain": "qualitynet.net",
+      "name": "QualityNet Kuwait",
+      "imap": {
+        "host": "imap.qualitynet.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.qualitynet.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "fastelco.com",
+      "name": "Fast Telco",
+      "imap": {
+        "host": "imap.fastelco.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fastelco.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "zainkw.com",
+      "name": "Zain Kuwait",
+      "imap": {
+        "host": "imap.zainkw.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zainkw.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ooredoo.com.kw",
+      "name": "Ooredoo Kuwait",
+      "imap": {
+        "host": "imap.ooredoo.com.kw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ooredoo.com.kw",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "stc.com.kw",
+      "name": "STC Kuwait",
+      "imap": {
+        "host": "imap.stc.com.kw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.stc.com.kw",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "viva.com.kw",
+      "name": "Viva Kuwait",
+      "imap": {
+        "host": "imap.viva.com.kw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.viva.com.kw",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "kuwaitnet.net",
+      "name": "KuwaitNet",
+      "imap": {
+        "host": "imap.kuwaitnet.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.kuwaitnet.net",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "gulfnet.com.kw",
+      "name": "GulfNet Kuwait",
+      "imap": {
+        "host": "imap.gulfnet.com.kw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.gulfnet.com.kw",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ncc.com.kw",
+      "name": "NCC Kuwait",
+      "imap": {
+        "host": "imap.ncc.com.kw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ncc.com.kw",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

@@ -43,6 +43,48 @@
         "port": 587,
         "ssl": false
       }
+    },
+    {
+      "domain": "telenet.lu",
+      "name": "Telenet Luxembourg",
+      "imap": {
+        "host": "imap.telenet.lu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.telenet.lu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "university.lu",
+      "name": "University of Luxembourg",
+      "imap": {
+        "host": "imap.university.lu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.university.lu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "restena.lu",
+      "name": "RESTENA",
+      "imap": {
+        "host": "imap.restena.lu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.restena.lu",
+        "port": 587,
+        "ssl": false
+      }
     }
   ]
 }

@@ -1,5 +1,104 @@
 {
   "country": "Albania",
   "code": "AL",
-  "providers": []
+  "providers": [
+    {
+      "domain": "abcom.al",
+      "name": "Albanian Broadband",
+      "imap": {
+        "host": "imap.abcom.al",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.abcom.al",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "adanet.al",
+      "name": "AdaNet",
+      "imap": {
+        "host": "imap.adanet.al",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.adanet.al",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "one.al",
+      "name": "Vodafone Albania (ONE)",
+      "imap": {
+        "host": "imap.one.al",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.one.al",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "telesat.al",
+      "name": "Telesat",
+      "imap": {
+        "host": "imap.telesat.al",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.telesat.al",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "albania-telecom.al",
+      "name": "Albania Telecom",
+      "imap": {
+        "host": "imap.albania-telecom.al",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.albania-telecom.al",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "accl.al",
+      "name": "ACCL",
+      "imap": {
+        "host": "imap.accl.al",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.accl.al",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ual.al",
+      "name": "University of Albania",
+      "imap": {
+        "host": "imap.ual.al",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ual.al",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

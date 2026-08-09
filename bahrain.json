@@ -1,5 +1,90 @@
 {
   "country": "Bahrain",
   "code": "BH",
-  "providers": []
+  "providers": [
+    {
+      "domain": "batelco.com.bh",
+      "name": "Batelco Bahrain",
+      "imap": {
+        "host": "imap.batelco.com.bh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.batelco.com.bh",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "zain.bh",
+      "name": "Zain Bahrain",
+      "imap": {
+        "host": "imap.zain.bh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.zain.bh",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "stc.com.bh",
+      "name": "STC Bahrain",
+      "imap": {
+        "host": "imap.stc.com.bh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.stc.com.bh",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "viva.com.bh",
+      "name": "Viva Bahrain",
+      "imap": {
+        "host": "imap.viva.com.bh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.viva.com.bh",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "bahrainonline.bh",
+      "name": "Bahrain Online",
+      "imap": {
+        "host": "imap.bahrainonline.bh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bahrainonline.bh",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "inet.bh",
+      "name": "Inet Bahrain",
+      "imap": {
+        "host": "imap.inet.bh",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.inet.bh",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

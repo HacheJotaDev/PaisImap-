@@ -1,5 +1,48 @@
 {
   "country": "Andorra",
   "code": "AD",
-  "providers": []
+  "providers": [
+    {
+      "domain": "andorra.ad",
+      "name": "Andorra Telecom",
+      "imap": {
+        "host": "imap.andorra.ad",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.andorra.ad",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "sta.ad",
+      "name": "STA Andorra",
+      "imap": {
+        "host": "imap.sta.ad",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sta.ad",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "sao.ad",
+      "name": "SAO Andorra",
+      "imap": {
+        "host": "imap.sao.ad",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sao.ad",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

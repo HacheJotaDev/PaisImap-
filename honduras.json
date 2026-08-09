@@ -29,6 +29,62 @@
         "port": 587,
         "ssl": false
       }
+    },
+    {
+      "domain": "tigo.com.hn",
+      "name": "Tigo Honduras",
+      "imap": {
+        "host": "imap.tigo.com.hn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tigo.com.hn",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "digicelhn.com",
+      "name": "Digicel Honduras",
+      "imap": {
+        "host": "imap.digicelhn.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.digicelhn.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "unah.edu.hn",
+      "name": "Universidad Nacional Autonoma de Honduras",
+      "imap": {
+        "host": "imap.unah.edu.hn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.unah.edu.hn",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "unenah.edu.hn",
+      "name": "UNAH Honduras",
+      "imap": {
+        "host": "imap.unenah.edu.hn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.unenah.edu.hn",
+        "port": 587,
+        "ssl": false
+      }
     }
   ]
 }

@@ -1,5 +1,48 @@
 {
   "country": "Mali",
   "code": "ML",
-  "providers": []
+  "providers": [
+    {
+      "domain": "malitel.ml",
+      "name": "Malitel",
+      "imap": {
+        "host": "imap.malitel.ml",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.malitel.ml",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "orange.ml",
+      "name": "Orange Mali",
+      "imap": {
+        "host": "imap.orange.ml",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.orange.ml",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "sotelma.ml",
+      "name": "Sotelma Mali",
+      "imap": {
+        "host": "imap.sotelma.ml",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sotelma.ml",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

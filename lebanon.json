@@ -1,5 +1,146 @@
 {
   "country": "Lebanon",
   "code": "LB",
-  "providers": []
+  "providers": [
+    {
+      "domain": "terra.net.lb",
+      "name": "Terra Net",
+      "imap": {
+        "host": "imap.terra.net.lb",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.terra.net.lb",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "cyberia.net.lb",
+      "name": "Cyberia",
+      "imap": {
+        "host": "imap.cyberia.net.lb",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cyberia.net.lb",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "idm.net.lb",
+      "name": "IDM",
+      "imap": {
+        "host": "imap.idm.net.lb",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.idm.net.lb",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "terra.com.lb",
+      "name": "Terra Lebanon",
+      "imap": {
+        "host": "imap.terra.com.lb",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.terra.com.lb",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ogero.gov.lb",
+      "name": "Ogero Government",
+      "imap": {
+        "host": "imap.ogero.gov.lb",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ogero.gov.lb",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "inco.com.lb",
+      "name": "Inco",
+      "imap": {
+        "host": "imap.inco.com.lb",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.inco.com.lb",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "softsolutions.lb",
+      "name": "Soft Solutions",
+      "imap": {
+        "host": "imap.softsolutions.lb",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.softsolutions.lb",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ispnet.net.lb",
+      "name": "ISP Net Lebanon",
+      "imap": {
+        "host": "imap.ispnet.net.lb",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ispnet.net.lb",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "aub.edu.lb",
+      "name": "American University of Beirut",
+      "imap": {
+        "host": "imap.aub.edu.lb",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.aub.edu.lb",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "lau.edu.lb",
+      "name": "Lebanese American University",
+      "imap": {
+        "host": "imap.lau.edu.lb",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.lau.edu.lb",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }

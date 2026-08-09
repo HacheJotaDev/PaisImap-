@@ -1,5 +1,104 @@
 {
   "country": "Syria",
   "code": "SY",
-  "providers": []
+  "providers": [
+    {
+      "domain": "syriatel.sy",
+      "name": "Syriatel",
+      "imap": {
+        "host": "imap.syriatel.sy",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.syriatel.sy",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mtgsyria.sy",
+      "name": "MTN Syria",
+      "imap": {
+        "host": "imap.mtgsyria.sy",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtgsyria.sy",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "damas-hamjouk.com",
+      "name": "Damas Hamjouk",
+      "imap": {
+        "host": "imap.damas-hamjouk.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.damas-hamjouk.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "scs-net.org",
+      "name": "SCS-Net Syria",
+      "imap": {
+        "host": "imap.scs-net.org",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.scs-net.org",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ste.sy",
+      "name": "Syrian Telecom Establishment",
+      "imap": {
+        "host": "imap.ste.sy",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ste.sy",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "syria-telecom.sy",
+      "name": "Syria Telecom",
+      "imap": {
+        "host": "imap.syria-telecom.sy",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.syria-telecom.sy",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "souria.com",
+      "name": "Souria",
+      "imap": {
+        "host": "imap.souria.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.souria.com",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

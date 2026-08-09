@@ -3,34 +3,6 @@
   "code": "MT",
   "providers": [
     {
-      "domain": "hotmail.com.mt",
-      "name": "Hotmail Malta",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
-      "domain": "gmail.com.mt",
-      "name": "Gmail Malta",
-      "imap": {
-        "host": "imap.gmail.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gmail.com",
-        "port": 465,
-        "ssl": true
-      }
-    },
-    {
       "domain": "onvol.net",
       "name": "OnVol",
       "imap": {
@@ -40,6 +12,76 @@
       },
       "smtp": {
         "host": "smtp.onvol.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "maltanet.net",
+      "name": "GO Maltanet",
+      "imap": {
+        "host": "imap.maltanet.net",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.maltanet.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "vodafone.com.mt",
+      "name": "Vodafone Malta",
+      "imap": {
+        "host": "imap.vodafone.com.mt",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.vodafone.com.mt",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "melita.com",
+      "name": "Melita",
+      "imap": {
+        "host": "imap.melita.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.melita.com",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "mdi.com.mt",
+      "name": "MDI Malta",
+      "imap": {
+        "host": "imap.mdi.com.mt",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mdi.com.mt",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "um.edu.mt",
+      "name": "University of Malta",
+      "imap": {
+        "host": "imap.um.edu.mt",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.um.edu.mt",
         "port": 587,
         "ssl": false
       }

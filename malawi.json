@@ -1,5 +1,48 @@
 {
   "country": "Malawi",
   "code": "MW",
-  "providers": []
+  "providers": [
+    {
+      "domain": "malawi-telecom.mw",
+      "name": "Malawi Telecom",
+      "imap": {
+        "host": "imap.malawi-telecom.mw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.malawi-telecom.mw",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "airtel.mw",
+      "name": "Airtel Malawi",
+      "imap": {
+        "host": "imap.airtel.mw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.airtel.mw",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "tnmsmart.mw",
+      "name": "TNM Smart",
+      "imap": {
+        "host": "imap.tnmsmart.mw",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.tnmsmart.mw",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

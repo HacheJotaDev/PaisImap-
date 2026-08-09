@@ -1,5 +1,62 @@
 {
   "country": "Guinea",
   "code": "GN",
-  "providers": []
+  "providers": [
+    {
+      "domain": "guineenet.gn",
+      "name": "GuineeNet",
+      "imap": {
+        "host": "imap.guineenet.gn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.guineenet.gn",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "sotelgui.gn",
+      "name": "Sotelgui",
+      "imap": {
+        "host": "imap.sotelgui.gn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sotelgui.gn",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "orange.gn",
+      "name": "Orange Guinee",
+      "imap": {
+        "host": "imap.orange.gn",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.orange.gn",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "mtnguinea.com",
+      "name": "MTN Guinea",
+      "imap": {
+        "host": "imap.mtnguinea.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mtnguinea.com",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

@@ -45,15 +45,99 @@
       }
     },
     {
-      "domain": "hotmail.si",
-      "name": "Hotmail Slovenia",
+      "domain": "t-2.net",
+      "name": "T-2",
       "imap": {
-        "host": "outlook.office365.com",
+        "host": "imap.t-2.net",
         "port": 993,
         "ssl": true
       },
       "smtp": {
-        "host": "smtp.office365.com",
+        "host": "smtp.t-2.net",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "telemach.si",
+      "name": "Telemach",
+      "imap": {
+        "host": "imap.telemach.si",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.telemach.si",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ami.si",
+      "name": "AMI",
+      "imap": {
+        "host": "imap.ami.si",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ami.si",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "luka.si",
+      "name": "Luka",
+      "imap": {
+        "host": "imap.luka.si",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.luka.si",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uni-lj.si",
+      "name": "University of Ljubljana",
+      "imap": {
+        "host": "imap.uni-lj.si",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uni-lj.si",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fmf.uni-lj.si",
+      "name": "FMF Ljubljana",
+      "imap": {
+        "host": "imap.fmf.uni-lj.si",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fmf.uni-lj.si",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uni-mb.si",
+      "name": "University of Maribor",
+      "imap": {
+        "host": "imap.uni-mb.si",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uni-mb.si",
         "port": 587,
         "ssl": false
       }

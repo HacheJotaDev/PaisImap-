@@ -1,5 +1,104 @@
 {
   "country": "Oman",
   "code": "OM",
-  "providers": []
+  "providers": [
+    {
+      "domain": "omanet.om",
+      "name": "Omanet",
+      "imap": {
+        "host": "imap.omanet.om",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.omanet.om",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "omantel.om",
+      "name": "Omantel",
+      "imap": {
+        "host": "imap.omantel.om",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.omantel.om",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "oman-telecom.om",
+      "name": "Oman Telecom",
+      "imap": {
+        "host": "imap.oman-telecom.om",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.oman-telecom.om",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "ooredoo.om",
+      "name": "Ooredoo Oman",
+      "imap": {
+        "host": "imap.ooredoo.om",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ooredoo.om",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "awasr.om",
+      "name": "Awasr",
+      "imap": {
+        "host": "imap.awasr.om",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.awasr.om",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "omantel.net.om",
+      "name": "Omantel Net",
+      "imap": {
+        "host": "imap.omantel.net.om",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.omantel.net.om",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "nawras.om",
+      "name": "Nawras (Ooredoo)",
+      "imap": {
+        "host": "imap.nawras.om",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.nawras.om",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

@@ -1,5 +1,48 @@
 {
   "country": "Turkmenistan",
   "code": "TM",
-  "providers": []
+  "providers": [
+    {
+      "domain": "turkmentelecom.tm",
+      "name": "Turkmen Telecom",
+      "imap": {
+        "host": "imap.turkmentelecom.tm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.turkmentelecom.tm",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "altyn.asia",
+      "name": "Altyn",
+      "imap": {
+        "host": "imap.altyn.asia",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.altyn.asia",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "online.tm",
+      "name": "Online TM",
+      "imap": {
+        "host": "imap.online.tm",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.online.tm",
+        "port": 465,
+        "ssl": true
+      }
+    }
+  ]
 }

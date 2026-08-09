@@ -29,6 +29,216 @@
         "port": 587,
         "ssl": false
       }
+    },
+    {
+      "domain": "enet.cu",
+      "name": "ETECSA Enet",
+      "imap": {
+        "host": "imap.enet.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.enet.cu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "cubarte.cu",
+      "name": "Cubarte",
+      "imap": {
+        "host": "imap.cubarte.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cubarte.cu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "infomed.sld.cu",
+      "name": "Infomed Cuba",
+      "imap": {
+        "host": "imap.infomed.sld.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.infomed.sld.cu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uci.cu",
+      "name": "Universidad de Ciencias Informaticas",
+      "imap": {
+        "host": "imap.uci.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uci.cu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "cujae.edu.cu",
+      "name": "CUJAE",
+      "imap": {
+        "host": "imap.cujae.edu.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.cujae.edu.cu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uclv.edu.cu",
+      "name": "Universidad Central de Las Villas",
+      "imap": {
+        "host": "imap.uclv.edu.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uclv.edu.cu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uho.edu.cu",
+      "name": "Universidad de Holguin",
+      "imap": {
+        "host": "imap.uho.edu.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uho.edu.cu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "umcc.cu",
+      "name": "Universidad Marta Abreu",
+      "imap": {
+        "host": "imap.umcc.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.umcc.cu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "escolaed.cu",
+      "name": "Escuelas Cuba",
+      "imap": {
+        "host": "imap.escolaed.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.escolaed.cu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "censa.edu.cu",
+      "name": "CENSA Cuba",
+      "imap": {
+        "host": "imap.censa.edu.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.censa.edu.cu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ucf.edu.cu",
+      "name": "UCF Cuba",
+      "imap": {
+        "host": "imap.ucf.edu.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ucf.edu.cu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "reduniv.edu.cu",
+      "name": "Red Universitaria Cuba",
+      "imap": {
+        "host": "imap.reduniv.edu.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.reduniv.edu.cu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "mes.edu.cu",
+      "name": "MES Cuba",
+      "imap": {
+        "host": "imap.mes.edu.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.mes.edu.cu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "sld.cu",
+      "name": "SLD Cuba",
+      "imap": {
+        "host": "imap.sld.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.sld.cu",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "acimed.cu",
+      "name": "ACIMED Cuba",
+      "imap": {
+        "host": "imap.acimed.cu",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.acimed.cu",
+        "port": 587,
+        "ssl": false
+      }
     }
   ]
 }

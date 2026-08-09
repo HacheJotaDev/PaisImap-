@@ -45,31 +45,171 @@
       }
     },
     {
-      "domain": "hotmail.sk",
-      "name": "Hotmail Slovakia",
+      "domain": "zoznam.sk",
+      "name": "Zoznam",
       "imap": {
-        "host": "outlook.office365.com",
+        "host": "imap.zoznam.sk",
         "port": 993,
         "ssl": true
       },
       "smtp": {
-        "host": "smtp.office365.com",
+        "host": "smtp.zoznam.sk",
         "port": 587,
         "ssl": false
       }
     },
     {
-      "domain": "gmail.sk",
-      "name": "Gmail Slovakia",
+      "domain": "post.sk",
+      "name": "Slovak Post",
       "imap": {
-        "host": "imap.gmail.com",
+        "host": "imap.post.sk",
         "port": 993,
         "ssl": true
       },
       "smtp": {
-        "host": "smtp.gmail.com",
-        "port": 465,
+        "host": "smtp.post.sk",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "atlas.sk",
+      "name": "Atlas.sk",
+      "imap": {
+        "host": "imap.atlas.sk",
+        "port": 993,
         "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.atlas.sk",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "inmail.sk",
+      "name": "Inmail",
+      "imap": {
+        "host": "imap.inmail.sk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.inmail.sk",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "t-com.sk",
+      "name": "Slovak Telecom",
+      "imap": {
+        "host": "imap.t-com.sk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.t-com.sk",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "orange.sk",
+      "name": "Orange Slovensko",
+      "imap": {
+        "host": "imap.orange.sk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.orange.sk",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "o2.sk",
+      "name": "O2 Slovakia",
+      "imap": {
+        "host": "imap.o2.sk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.o2.sk",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "swan.sk",
+      "name": "Swan",
+      "imap": {
+        "host": "imap.swan.sk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.swan.sk",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "stuba.edu.sk",
+      "name": "STU Bratislava",
+      "imap": {
+        "host": "imap.stuba.edu.sk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.stuba.edu.sk",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "fiit.stuba.sk",
+      "name": "FIIT STUBA",
+      "imap": {
+        "host": "imap.fiit.stuba.sk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.fiit.stuba.sk",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "uniba.sk",
+      "name": "UniBA",
+      "imap": {
+        "host": "imap.uniba.sk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.uniba.sk",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ukf.sk",
+      "name": "UKF",
+      "imap": {
+        "host": "imap.ukf.sk",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ukf.sk",
+        "port": 587,
+        "ssl": false
       }
     }
   ]

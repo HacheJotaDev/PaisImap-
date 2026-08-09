@@ -1,5 +1,132 @@
 {
   "country": "Azerbaijan",
   "code": "AZ",
-  "providers": []
+  "providers": [
+    {
+      "domain": "baktelecom.az",
+      "name": "Baktelecom",
+      "imap": {
+        "host": "imap.baktelecom.az",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.baktelecom.az",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "azercell.com",
+      "name": "Azercell",
+      "imap": {
+        "host": "imap.azercell.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.azercell.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "bakcell.com",
+      "name": "Bakcell",
+      "imap": {
+        "host": "imap.bakcell.com",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.bakcell.com",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "adanet.az",
+      "name": "Adanet",
+      "imap": {
+        "host": "imap.adanet.az",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.adanet.az",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "nar.az",
+      "name": "Nar Mobile",
+      "imap": {
+        "host": "imap.nar.az",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.nar.az",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "aztelekom.az",
+      "name": "Aztelekom",
+      "imap": {
+        "host": "imap.aztelekom.az",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.aztelekom.az",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "catel.az",
+      "name": "Catel",
+      "imap": {
+        "host": "imap.catel.az",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.catel.az",
+        "port": 465,
+        "ssl": true
+      }
+    },
+    {
+      "domain": "unec.az",
+      "name": "ASOIU",
+      "imap": {
+        "host": "imap.unec.az",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.unec.az",
+        "port": 587,
+        "ssl": false
+      }
+    },
+    {
+      "domain": "ada.edu.az",
+      "name": "ADA University",
+      "imap": {
+        "host": "imap.ada.edu.az",
+        "port": 993,
+        "ssl": true
+      },
+      "smtp": {
+        "host": "smtp.ada.edu.az",
+        "port": 587,
+        "ssl": false
+      }
+    }
+  ]
 }
