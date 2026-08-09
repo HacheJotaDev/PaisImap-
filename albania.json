@@ -5,100 +5,44 @@
     {
       "domain": "abcom.al",
       "name": "Albanian Broadband",
-      "imap": {
-        "host": "imap.abcom.al",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.abcom.al",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.abcom.al",
+      "smtp": "smtp.abcom.al"
     },
     {
       "domain": "adanet.al",
       "name": "AdaNet",
-      "imap": {
-        "host": "imap.adanet.al",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.adanet.al",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.adanet.al",
+      "smtp": "smtp.adanet.al"
     },
     {
       "domain": "one.al",
       "name": "Vodafone Albania (ONE)",
-      "imap": {
-        "host": "imap.one.al",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.one.al",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.one.al",
+      "smtp": "smtp.one.al"
     },
     {
       "domain": "telesat.al",
       "name": "Telesat",
-      "imap": {
-        "host": "imap.telesat.al",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telesat.al",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telesat.al",
+      "smtp": "smtp.telesat.al"
     },
     {
       "domain": "albania-telecom.al",
       "name": "Albania Telecom",
-      "imap": {
-        "host": "imap.albania-telecom.al",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.albania-telecom.al",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.albania-telecom.al",
+      "smtp": "smtp.albania-telecom.al"
     },
     {
       "domain": "accl.al",
       "name": "ACCL",
-      "imap": {
-        "host": "imap.accl.al",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.accl.al",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.accl.al",
+      "smtp": "smtp.accl.al"
     },
     {
       "domain": "ual.al",
       "name": "University of Albania",
-      "imap": {
-        "host": "imap.ual.al",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ual.al",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ual.al",
+      "smtp": "smtp.ual.al"
     }
   ]
 }

@@ -5,44 +5,14 @@
     {
       "domain": "walla.co.il",
       "name": "Walla",
-      "imap": {
-        "host": "imap.walla.co.il",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.walla.co.il",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.walla.co.il",
+      "smtp": "smtp.walla.co.il"
     },
     {
       "domain": "netvision.net.il",
       "name": "Netvision",
-      "imap": {
-        "host": "imap.netvision.net.il",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.netvision.net.il",
-        "port": 587,
-        "ssl": false
-      }
-    },
-    {
-      "domain": " bezeqint.net",
-      "name": "Bezeq International",
-      "imap": {
-        "host": "imap.bezeqint.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bezeqint.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.netvision.net.il",
+      "smtp": "smtp.netvision.net.il"
     }
   ]
 }

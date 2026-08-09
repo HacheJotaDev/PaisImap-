@@ -5,142 +5,62 @@
     {
       "domain": "one.lt",
       "name": "One.lt",
-      "imap": {
-        "host": "imap.one.lt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.one.lt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.one.lt",
+      "smtp": "smtp.one.lt"
     },
     {
       "domain": "takas.lt",
       "name": "Takas",
-      "imap": {
-        "host": "imap.takas.lt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.takas.lt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.takas.lt",
+      "smtp": "smtp.takas.lt"
     },
     {
       "domain": "delfi.lt",
       "name": "Delfi Lithuania",
-      "imap": {
-        "host": "imap.delfi.lt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.delfi.lt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.delfi.lt",
+      "smtp": "smtp.delfi.lt"
     },
     {
       "domain": "mail.lt",
       "name": "Penki Kontinentai",
-      "imap": {
-        "host": "imap.mail.lt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.lt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mail.lt",
+      "smtp": "smtp.mail.lt"
     },
     {
       "domain": "omnitel.lt",
       "name": "Telia Lietuva (Omnitel)",
-      "imap": {
-        "host": "imap.omnitel.lt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.omnitel.lt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.omnitel.lt",
+      "smtp": "smtp.omnitel.lt"
     },
     {
       "domain": "bite.lt",
       "name": "Bite Lietuva",
-      "imap": {
-        "host": "imap.bite.lt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bite.lt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bite.lt",
+      "smtp": "smtp.bite.lt"
     },
     {
       "domain": "lrytas.lt",
       "name": "Lrytas.lt",
-      "imap": {
-        "host": "imap.lrytas.lt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.lrytas.lt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.lrytas.lt",
+      "smtp": "smtp.lrytas.lt"
     },
     {
       "domain": "vu.lt",
       "name": "Vilnius University",
-      "imap": {
-        "host": "imap.vu.lt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vu.lt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vu.lt",
+      "smtp": "smtp.vu.lt"
     },
     {
       "domain": "ktu.lt",
       "name": "KTU",
-      "imap": {
-        "host": "imap.ktu.lt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ktu.lt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ktu.lt",
+      "smtp": "smtp.ktu.lt"
     },
     {
       "domain": "vgtu.lt",
       "name": "VGTU",
-      "imap": {
-        "host": "imap.vgtu.lt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vgtu.lt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vgtu.lt",
+      "smtp": "smtp.vgtu.lt"
     }
   ]
 }

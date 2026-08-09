@@ -5,86 +5,38 @@
     {
       "domain": "batelco.com.bh",
       "name": "Batelco Bahrain",
-      "imap": {
-        "host": "imap.batelco.com.bh",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.batelco.com.bh",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.batelco.com.bh",
+      "smtp": "smtp.batelco.com.bh"
     },
     {
       "domain": "zain.bh",
       "name": "Zain Bahrain",
-      "imap": {
-        "host": "imap.zain.bh",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.zain.bh",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.zain.bh",
+      "smtp": "smtp.zain.bh"
     },
     {
       "domain": "stc.com.bh",
       "name": "STC Bahrain",
-      "imap": {
-        "host": "imap.stc.com.bh",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.stc.com.bh",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.stc.com.bh",
+      "smtp": "smtp.stc.com.bh"
     },
     {
       "domain": "viva.com.bh",
       "name": "Viva Bahrain",
-      "imap": {
-        "host": "imap.viva.com.bh",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.viva.com.bh",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.viva.com.bh",
+      "smtp": "smtp.viva.com.bh"
     },
     {
       "domain": "bahrainonline.bh",
       "name": "Bahrain Online",
-      "imap": {
-        "host": "imap.bahrainonline.bh",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bahrainonline.bh",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.bahrainonline.bh",
+      "smtp": "smtp.bahrainonline.bh"
     },
     {
       "domain": "inet.bh",
       "name": "Inet Bahrain",
-      "imap": {
-        "host": "imap.inet.bh",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.inet.bh",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.inet.bh",
+      "smtp": "smtp.inet.bh"
     }
   ]
 }

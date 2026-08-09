@@ -5,100 +5,44 @@
     {
       "domain": "tigo.com.py",
       "name": "Tigo Paraguay",
-      "imap": {
-        "host": "imap.tigo.com.py",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tigo.com.py",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tigo.com.py",
+      "smtp": "smtp.tigo.com.py"
     },
     {
       "domain": "claro.com.py",
       "name": "Claro Paraguay",
-      "imap": {
-        "host": "imap.claro.com.py",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.claro.com.py",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.claro.com.py",
+      "smtp": "smtp.claro.com.py"
     },
     {
       "domain": "personal.com.py",
       "name": "Personal Paraguay",
-      "imap": {
-        "host": "imap.personal.com.py",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.personal.com.py",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.personal.com.py",
+      "smtp": "smtp.personal.com.py"
     },
     {
       "domain": "copaco.com.py",
       "name": "COPACO Paraguay",
-      "imap": {
-        "host": "imap.copaco.com.py",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.copaco.com.py",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.copaco.com.py",
+      "smtp": "smtp.copaco.com.py"
     },
     {
       "domain": "voxy.com.py",
       "name": "Voxeo Paraguay",
-      "imap": {
-        "host": "imap.voxy.com.py",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.voxy.com.py",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.voxy.com.py",
+      "smtp": "smtp.voxy.com.py"
     },
     {
       "domain": "un.py",
       "name": "Universidad Nacional de Asuncion",
-      "imap": {
-        "host": "imap.un.py",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.un.py",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.un.py",
+      "smtp": "smtp.un.py"
     },
     {
       "domain": "una.py",
       "name": "Universidad Nacional del Este",
-      "imap": {
-        "host": "imap.una.py",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.una.py",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.una.py",
+      "smtp": "smtp.una.py"
     }
   ]
 }

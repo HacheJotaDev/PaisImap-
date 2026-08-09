@@ -5,226 +5,98 @@
     {
       "domain": "cantv.net",
       "name": "CANTV",
-      "imap": {
-        "host": "imap.cantv.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cantv.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cantv.net",
+      "smtp": "smtp.cantv.net"
     },
     {
       "domain": "movistar.com.ve",
       "name": "Movistar Venezuela",
-      "imap": {
-        "host": "imap.movistar.com.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.movistar.com.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.movistar.com.ve",
+      "smtp": "smtp.movistar.com.ve"
     },
     {
       "domain": "movilnet.com.ve",
       "name": "Movilnet",
-      "imap": {
-        "host": "imap.movilnet.com.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.movilnet.com.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.movilnet.com.ve",
+      "smtp": "smtp.movilnet.com.ve"
     },
     {
       "domain": "intercable.net.ve",
       "name": "InterCable",
-      "imap": {
-        "host": "imap.intercable.net.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.intercable.net.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.intercable.net.ve",
+      "smtp": "smtp.intercable.net.ve"
     },
     {
       "domain": "cantv.com.ve",
       "name": "CANTV Venezuela",
-      "imap": {
-        "host": "imap.cantv.com.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cantv.com.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cantv.com.ve",
+      "smtp": "smtp.cantv.com.ve"
     },
     {
       "domain": "digitel.com.ve",
       "name": "Digitel Venezuela",
-      "imap": {
-        "host": "imap.digitel.com.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digitel.com.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digitel.com.ve",
+      "smtp": "smtp.digitel.com.ve"
     },
     {
       "domain": "inter.com.ve",
       "name": "Inter Venezuela",
-      "imap": {
-        "host": "imap.inter.com.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.inter.com.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.inter.com.ve",
+      "smtp": "smtp.inter.com.ve"
     },
     {
       "domain": "ucv.ve",
       "name": "Universidad Central de Venezuela",
-      "imap": {
-        "host": "imap.ucv.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ucv.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ucv.ve",
+      "smtp": "smtp.ucv.ve"
     },
     {
       "domain": "usb.ve",
       "name": "Universidad Simon Bolivar",
-      "imap": {
-        "host": "imap.usb.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.usb.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.usb.ve",
+      "smtp": "smtp.usb.ve"
     },
     {
       "domain": "ucab.edu.ve",
       "name": "Universidad Catolica Andres Bello",
-      "imap": {
-        "host": "imap.ucab.edu.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ucab.edu.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ucab.edu.ve",
+      "smtp": "smtp.ucab.edu.ve"
     },
     {
       "domain": "udo.edu.ve",
       "name": "Universidad de Oriente",
-      "imap": {
-        "host": "imap.udo.edu.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.udo.edu.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.udo.edu.ve",
+      "smtp": "smtp.udo.edu.ve"
     },
     {
       "domain": "ula.edu.ve",
       "name": "Universidad de los Andes Venezuela",
-      "imap": {
-        "host": "imap.ula.edu.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ula.edu.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ula.edu.ve",
+      "smtp": "smtp.ula.edu.ve"
     },
     {
       "domain": "unet.edu.ve",
       "name": "Universidad Nacional Experimental del Tachira",
-      "imap": {
-        "host": "imap.unet.edu.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unet.edu.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unet.edu.ve",
+      "smtp": "smtp.unet.edu.ve"
     },
     {
       "domain": "unefm.edu.ve",
       "name": "Universidad Nacional Experimental Francisco de Miranda",
-      "imap": {
-        "host": "imap.unefm.edu.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unefm.edu.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unefm.edu.ve",
+      "smtp": "smtp.unefm.edu.ve"
     },
     {
       "domain": "luv.edu.ve",
       "name": "Universidad de Valencia",
-      "imap": {
-        "host": "imap.luv.edu.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.luv.edu.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.luv.edu.ve",
+      "smtp": "smtp.luv.edu.ve"
     },
     {
       "domain": "uneg.edu.ve",
       "name": "Universidad Nacional Experimental de Guayana",
-      "imap": {
-        "host": "imap.uneg.edu.ve",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uneg.edu.ve",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uneg.edu.ve",
+      "smtp": "smtp.uneg.edu.ve"
     }
   ]
 }

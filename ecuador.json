@@ -5,156 +5,68 @@
     {
       "domain": "tigo.com.ec",
       "name": "Tigo Ecuador",
-      "imap": {
-        "host": "imap.tigo.com.ec",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tigo.com.ec",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tigo.com.ec",
+      "smtp": "smtp.tigo.com.ec"
     },
     {
       "domain": "movistar.com.ec",
       "name": "Movistar Ecuador",
-      "imap": {
-        "host": "imap.movistar.com.ec",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.movistar.com.ec",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.movistar.com.ec",
+      "smtp": "smtp.movistar.com.ec"
     },
     {
       "domain": "cnt.net.ec",
       "name": "CNT Ecuador",
-      "imap": {
-        "host": "imap.cnt.net.ec",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cnt.net.ec",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cnt.net.ec",
+      "smtp": "smtp.cnt.net.ec"
     },
     {
       "domain": "puce.edu.ec",
       "name": "Pontificia Universidad Catolica del Ecuador",
-      "imap": {
-        "host": "imap.puce.edu.ec",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.puce.edu.ec",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.puce.edu.ec",
+      "smtp": "smtp.puce.edu.ec"
     },
     {
       "domain": "uio.edu.ec",
       "name": "Universidad Central del Ecuador",
-      "imap": {
-        "host": "imap.uio.edu.ec",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uio.edu.ec",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uio.edu.ec",
+      "smtp": "smtp.uio.edu.ec"
     },
     {
       "domain": "usfq.edu.ec",
       "name": "Universidad San Francisco de Quito",
-      "imap": {
-        "host": "imap.usfq.edu.ec",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.usfq.edu.ec",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.usfq.edu.ec",
+      "smtp": "smtp.usfq.edu.ec"
     },
     {
       "domain": "ug.edu.ec",
       "name": "Universidad de Guayaquil",
-      "imap": {
-        "host": "imap.ug.edu.ec",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ug.edu.ec",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ug.edu.ec",
+      "smtp": "smtp.ug.edu.ec"
     },
     {
       "domain": "uta.edu.ec",
       "name": "Universidad Tecnica de Ambato",
-      "imap": {
-        "host": "imap.uta.edu.ec",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uta.edu.ec",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uta.edu.ec",
+      "smtp": "smtp.uta.edu.ec"
     },
     {
       "domain": "ucuenca.edu.ec",
       "name": "Universidad de Cuenca",
-      "imap": {
-        "host": "imap.ucuenca.edu.ec",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ucuenca.edu.ec",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ucuenca.edu.ec",
+      "smtp": "smtp.ucuenca.edu.ec"
     },
     {
       "domain": "espol.edu.ec",
       "name": "ESPOL",
-      "imap": {
-        "host": "imap.espol.edu.ec",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.espol.edu.ec",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.espol.edu.ec",
+      "smtp": "smtp.espol.edu.ec"
     },
     {
       "domain": "uti.edu.ec",
       "name": "Universidad Tecnologica Indoamerica",
-      "imap": {
-        "host": "imap.uti.edu.ec",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uti.edu.ec",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uti.edu.ec",
+      "smtp": "smtp.uti.edu.ec"
     }
   ]
 }

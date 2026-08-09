@@ -5,198 +5,86 @@
     {
       "domain": "streamyx.com",
       "name": "Streamyx (TM)",
-      "imap": {
-        "host": "imap.streamyx.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.streamyx.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.streamyx.com",
+      "smtp": "smtp.streamyx.com"
     },
     {
       "domain": "tm.net.my",
       "name": "Telekom Malaysia",
-      "imap": {
-        "host": "imap.tm.net.my",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tm.net.my",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tm.net.my",
+      "smtp": "smtp.tm.net.my"
     },
     {
       "domain": "jaring.my",
       "name": "JARING",
-      "imap": {
-        "host": "imap.jaring.my",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.jaring.my",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.jaring.my",
+      "smtp": "smtp.jaring.my"
     },
     {
       "domain": "maxis.com.my",
       "name": "Maxis",
-      "imap": {
-        "host": "imap.maxis.com.my",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.maxis.com.my",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.maxis.com.my",
+      "smtp": "smtp.maxis.com.my"
     },
     {
       "domain": "celcom.com.my",
       "name": "Celcom",
-      "imap": {
-        "host": "imap.celcom.com.my",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.celcom.com.my",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.celcom.com.my",
+      "smtp": "smtp.celcom.com.my"
     },
     {
       "domain": "digi.com.my",
       "name": "Digi",
-      "imap": {
-        "host": "imap.digi.com.my",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digi.com.my",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.digi.com.my",
+      "smtp": "smtp.digi.com.my"
     },
     {
       "domain": "time.net.my",
       "name": "TIME",
-      "imap": {
-        "host": "imap.time.net.my",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.time.net.my",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.time.net.my",
+      "smtp": "smtp.time.net.my"
     },
     {
       "domain": "unifi.my",
       "name": "TM UniFi",
-      "imap": {
-        "host": "imap.unifi.my",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unifi.my",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.unifi.my",
+      "smtp": "smtp.unifi.my"
     },
     {
       "domain": "malaysiaairlines.com",
       "name": "Malaysia Airlines",
-      "imap": {
-        "host": "imap.malaysiaairlines.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.malaysiaairlines.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.malaysiaairlines.com",
+      "smtp": "smtp.malaysiaairlines.com"
     },
     {
       "domain": "p1.com.my",
       "name": "P1 (Webe)",
-      "imap": {
-        "host": "imap.p1.com.my",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.p1.com.my",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.p1.com.my",
+      "smtp": "smtp.p1.com.my"
     },
     {
       "domain": "yes.my",
       "name": "YTL Yes",
-      "imap": {
-        "host": "imap.yes.my",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.yes.my",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.yes.my",
+      "smtp": "smtp.yes.my"
     },
     {
       "domain": "um.edu.my",
       "name": "University of Malaya",
-      "imap": {
-        "host": "imap.um.edu.my",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.um.edu.my",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.um.edu.my",
+      "smtp": "smtp.um.edu.my"
     },
     {
       "domain": "upm.edu.my",
       "name": "UPM",
-      "imap": {
-        "host": "imap.upm.edu.my",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.upm.edu.my",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.upm.edu.my",
+      "smtp": "smtp.upm.edu.my"
     },
     {
       "domain": "utm.my",
       "name": "UTM",
-      "imap": {
-        "host": "imap.utm.my",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.utm.my",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.utm.my",
+      "smtp": "smtp.utm.my"
     }
   ]
 }

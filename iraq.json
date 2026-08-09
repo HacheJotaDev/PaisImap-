@@ -5,114 +5,50 @@
     {
       "domain": "iraq-telecom.iq",
       "name": "Iraq Telecom",
-      "imap": {
-        "host": "imap.iraq-telecom.iq",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.iraq-telecom.iq",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.iraq-telecom.iq",
+      "smtp": "smtp.iraq-telecom.iq"
     },
     {
       "domain": "zain.iq",
       "name": "Zain Iraq",
-      "imap": {
-        "host": "imap.zain.iq",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.zain.iq",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.zain.iq",
+      "smtp": "smtp.zain.iq"
     },
     {
       "domain": "asiacell.iq",
       "name": "AsiaCell",
-      "imap": {
-        "host": "imap.asiacell.iq",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.asiacell.iq",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.asiacell.iq",
+      "smtp": "smtp.asiacell.iq"
     },
     {
       "domain": "korek.iq",
       "name": "Korek Telecom",
-      "imap": {
-        "host": "imap.korek.iq",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.korek.iq",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.korek.iq",
+      "smtp": "smtp.korek.iq"
     },
     {
       "domain": "earthlink.iq",
       "name": "EarthLink Iraq",
-      "imap": {
-        "host": "imap.earthlink.iq",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.earthlink.iq",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.earthlink.iq",
+      "smtp": "smtp.earthlink.iq"
     },
     {
       "domain": "uruklink.net",
       "name": "Uruklink",
-      "imap": {
-        "host": "imap.uruklink.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uruklink.net",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.uruklink.net",
+      "smtp": "smtp.uruklink.net"
     },
     {
       "domain": "alsard.net",
       "name": "Alsard",
-      "imap": {
-        "host": "imap.alsard.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.alsard.net",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.alsard.net",
+      "smtp": "smtp.alsard.net"
     },
     {
       "domain": "uobabylon.edu.iq",
       "name": "University of Babylon",
-      "imap": {
-        "host": "imap.uobabylon.edu.iq",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uobabylon.edu.iq",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uobabylon.edu.iq",
+      "smtp": "smtp.uobabylon.edu.iq"
     }
   ]
 }

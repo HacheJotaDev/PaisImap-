@@ -5,156 +5,68 @@
     {
       "domain": "bol.com.br",
       "name": "BOL",
-      "imap": {
-        "host": "imap.bol.com.br",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bol.com.br",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bol.com.br",
+      "smtp": "smtp.bol.com.br"
     },
     {
       "domain": "uol.com.br",
       "name": "UOL",
-      "imap": {
-        "host": "imap.uol.com.br",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uol.com.br",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uol.com.br",
+      "smtp": "smtp.uol.com.br"
     },
     {
       "domain": "terra.com.br",
       "name": "Terra Brasil",
-      "imap": {
-        "host": "imap.terra.com.br",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.terra.com.br",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.terra.com.br",
+      "smtp": "smtp.terra.com.br"
     },
     {
       "domain": "ig.com.br",
       "name": "iG Brasil",
-      "imap": {
-        "host": "imap.ig.com.br",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ig.com.br",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ig.com.br",
+      "smtp": "smtp.ig.com.br"
     },
     {
       "domain": "globo.com",
       "name": "Globo",
-      "imap": {
-        "host": "imap.globo.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.globo.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.globo.com",
+      "smtp": "smtp.globo.com"
     },
     {
       "domain": "r7.com",
       "name": "R7",
-      "imap": {
-        "host": "imap.r7.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.r7.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.r7.com",
+      "smtp": "smtp.r7.com"
     },
     {
       "domain": "zipmail.com.br",
       "name": "Zipmail",
-      "imap": {
-        "host": "imap.zipmail.com.br",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.zipmail.com.br",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.zipmail.com.br",
+      "smtp": "smtp.zipmail.com.br"
     },
     {
       "domain": "superig.com.br",
       "name": "Super iG",
-      "imap": {
-        "host": "imap.superig.com.br",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.superig.com.br",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.superig.com.br",
+      "smtp": "smtp.superig.com.br"
     },
     {
       "domain": "brturbo.com.br",
       "name": "BrTurbo",
-      "imap": {
-        "host": "imap.brturbo.com.br",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.brturbo.com.br",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.brturbo.com.br",
+      "smtp": "smtp.brturbo.com.br"
     },
     {
       "domain": "oi.com.br",
       "name": "OI Brasil",
-      "imap": {
-        "host": "imap.oi.com.br",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.oi.com.br",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.oi.com.br",
+      "smtp": "smtp.oi.com.br"
     },
     {
       "domain": "uol.com",
       "name": "UOL Global",
-      "imap": {
-        "host": "imap.uol.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uol.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uol.com",
+      "smtp": "smtp.uol.com"
     }
   ]
 }

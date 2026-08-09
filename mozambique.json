@@ -5,44 +5,20 @@
     {
       "domain": "tdm.co.mz",
       "name": "Mozambique Telecom (TDM)",
-      "imap": {
-        "host": "imap.tdm.co.mz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tdm.co.mz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.tdm.co.mz",
+      "smtp": "smtp.tdm.co.mz"
     },
     {
       "domain": "vodacom.co.mz",
       "name": "Vodacom Mozambique",
-      "imap": {
-        "host": "imap.vodacom.co.mz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vodacom.co.mz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.vodacom.co.mz",
+      "smtp": "smtp.vodacom.co.mz"
     },
     {
       "domain": "movitel.co.mz",
       "name": "Movitel",
-      "imap": {
-        "host": "imap.movitel.co.mz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.movitel.co.mz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.movitel.co.mz",
+      "smtp": "smtp.movitel.co.mz"
     }
   ]
 }

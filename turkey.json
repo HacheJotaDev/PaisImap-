@@ -5,58 +5,26 @@
     {
       "domain": "mynet.com",
       "name": "Mynet",
-      "imap": {
-        "host": "imap.mynet.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mynet.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mynet.com",
+      "smtp": "smtp.mynet.com"
     },
     {
       "domain": "superonline.com",
       "name": "Superonline",
-      "imap": {
-        "host": "imap.superonline.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.superonline.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.superonline.com",
+      "smtp": "smtp.superonline.com"
     },
     {
       "domain": "ttmail.com.tr",
       "name": "Turk Telekom",
-      "imap": {
-        "host": "imap.ttmail.com.tr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ttmail.com.tr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ttmail.com.tr",
+      "smtp": "smtp.ttmail.com.tr"
     },
     {
       "domain": "ttnet.com.tr",
       "name": "TTNet",
-      "imap": {
-        "host": "imap.ttnet.com.tr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ttnet.com.tr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ttnet.com.tr",
+      "smtp": "smtp.ttnet.com.tr"
     }
   ]
 }

@@ -5,72 +5,62 @@
     {
       "domain": "cablebahamas.com",
       "name": "Cable Bahamas",
-      "imap": {
-        "host": "imap.cablebahamas.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cablebahamas.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cablebahamas.com",
+      "smtp": "smtp.cablebahamas.com"
     },
     {
       "domain": "btc.bs",
       "name": "BTC Bahamas",
-      "imap": {
-        "host": "imap.btc.bs",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.btc.bs",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.btc.bs",
+      "smtp": "smtp.btc.bs"
     },
     {
       "domain": "columbus.co",
       "name": "Columbus Bahamas",
-      "imap": {
-        "host": "imap.columbus.co",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.columbus.co",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.columbus.co",
+      "smtp": "smtp.columbus.co"
     },
     {
       "domain": "islandcom.bs",
       "name": "IslandCom Bahamas",
-      "imap": {
-        "host": "imap.islandcom.bs",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.islandcom.bs",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.islandcom.bs",
+      "smtp": "smtp.islandcom.bs"
     },
     {
       "domain": "bluehill.net.bs",
       "name": "BlueHill Bahamas",
-      "imap": {
-        "host": "imap.bluehill.net.bs",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bluehill.net.bs",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bluehill.net.bs",
+      "smtp": "smtp.bluehill.net.bs"
+    },
+    {
+      "domain": "digicelbahamas.com",
+      "name": "Digicel Bahamas",
+      "imap": "imap.digicelbahamas.com",
+      "smtp": "smtp.digicelbahamas.com"
+    },
+    {
+      "domain": "aliv.com",
+      "name": "ALIV Bahamas",
+      "imap": "imap.aliv.com",
+      "smtp": "smtp.aliv.com"
+    },
+    {
+      "domain": "broadbandbs.com",
+      "name": "Broadband BS",
+      "imap": "imap.broadbandbs.com",
+      "smtp": "smtp.broadbandbs.com"
+    },
+    {
+      "domain": "bahamaslocal.com",
+      "name": "Bahamas Local",
+      "imap": "imap.bahamaslocal.com",
+      "smtp": "smtp.bahamaslocal.com"
+    },
+    {
+      "domain": "ub.edu.bs",
+      "name": "University of Bahamas",
+      "imap": "imap.ub.edu.bs",
+      "smtp": "smtp.ub.edu.bs"
     }
   ]
 }

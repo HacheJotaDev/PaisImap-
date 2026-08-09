@@ -5,282 +5,122 @@
     {
       "domain": "163.com",
       "name": "NetEase 163",
-      "imap": {
-        "host": "imap.163.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.163.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.163.com",
+      "smtp": "smtp.163.com"
     },
     {
       "domain": "126.com",
       "name": "NetEase 126",
-      "imap": {
-        "host": "imap.126.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.126.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.126.com",
+      "smtp": "smtp.126.com"
     },
     {
       "domain": "qq.com",
       "name": "Tencent QQ",
-      "imap": {
-        "host": "imap.qq.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.qq.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.qq.com",
+      "smtp": "smtp.qq.com"
     },
     {
       "domain": "foxmail.com",
       "name": "Foxmail (Tencent)",
-      "imap": {
-        "host": "imap.qq.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.qq.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.qq.com",
+      "smtp": "smtp.qq.com"
     },
     {
       "domain": "sina.com",
       "name": "Sina Mail",
-      "imap": {
-        "host": "imap.sina.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sina.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.sina.com",
+      "smtp": "smtp.sina.com"
     },
     {
       "domain": "sohu.com",
       "name": "Sohu Mail",
-      "imap": {
-        "host": "imap.sohu.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sohu.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.sohu.com",
+      "smtp": "smtp.sohu.com"
     },
     {
       "domain": "aliyun.com",
       "name": "Aliyun Mail",
-      "imap": {
-        "host": "imap.aliyun.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.aliyun.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.aliyun.com",
+      "smtp": "smtp.aliyun.com"
     },
     {
       "domain": "tom.com",
       "name": "Tom Mail",
-      "imap": {
-        "host": "imap.tom.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tom.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.tom.com",
+      "smtp": "smtp.tom.com"
     },
     {
       "domain": "yeah.net",
       "name": "NetEase Yeah",
-      "imap": {
-        "host": "imap.yeah.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.yeah.net",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.yeah.net",
+      "smtp": "smtp.yeah.net"
     },
     {
       "domain": "189.cn",
       "name": "China Telecom 189",
-      "imap": {
-        "host": "imap.189.cn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.189.cn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.189.cn",
+      "smtp": "smtp.189.cn"
     },
     {
       "domain": "139.com",
       "name": "China Mobile 139",
-      "imap": {
-        "host": "imap.139.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.139.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.139.com",
+      "smtp": "smtp.139.com"
     },
     {
       "domain": "wo.cn",
       "name": "China Unicom Wo",
-      "imap": {
-        "host": "imap.wo.cn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.wo.cn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.wo.cn",
+      "smtp": "smtp.wo.cn"
     },
     {
       "domain": "xinhua.org",
       "name": "Xinhua News",
-      "imap": {
-        "host": "imap.xinhua.org",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.xinhua.org",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.xinhua.org",
+      "smtp": "smtp.xinhua.org"
     },
     {
       "domain": "people.com.cn",
       "name": "People's Daily",
-      "imap": {
-        "host": "imap.people.com.cn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.people.com.cn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.people.com.cn",
+      "smtp": "smtp.people.com.cn"
     },
     {
       "domain": "21cn.com",
       "name": "21CN Mail",
-      "imap": {
-        "host": "imap.21cn.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.21cn.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.21cn.com",
+      "smtp": "smtp.21cn.com"
     },
     {
       "domain": "china.com",
       "name": "China Mail",
-      "imap": {
-        "host": "imap.china.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.china.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.china.com",
+      "smtp": "smtp.china.com"
     },
     {
       "domain": "sogou.com",
       "name": "Sogou Mail",
-      "imap": {
-        "host": "imap.sogou.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sogou.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.sogou.com",
+      "smtp": "smtp.sogou.com"
     },
     {
       "domain": "263.net",
       "name": "263 Mail",
-      "imap": {
-        "host": "imap.263.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.263.net",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.263.net",
+      "smtp": "smtp.263.net"
     },
     {
       "domain": "pku.edu.cn",
       "name": "Peking University",
-      "imap": {
-        "host": "imap.pku.edu.cn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pku.edu.cn",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.pku.edu.cn",
+      "smtp": "smtp.pku.edu.cn"
     },
     {
       "domain": "tsinghua.edu.cn",
       "name": "Tsinghua University",
-      "imap": {
-        "host": "imap.tsinghua.edu.cn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tsinghua.edu.cn",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tsinghua.edu.cn",
+      "smtp": "smtp.tsinghua.edu.cn"
     }
   ]
 }

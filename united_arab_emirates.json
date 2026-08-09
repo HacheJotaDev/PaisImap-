@@ -5,86 +5,38 @@
     {
       "domain": "emirates.net.ae",
       "name": "Emirates Internet",
-      "imap": {
-        "host": "imap.emirates.net.ae",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.emirates.net.ae",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.emirates.net.ae",
+      "smtp": "smtp.emirates.net.ae"
     },
     {
       "domain": "etisalat.ae",
       "name": "Etisalat",
-      "imap": {
-        "host": "imap.etisalat.ae",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.etisalat.ae",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.etisalat.ae",
+      "smtp": "smtp.etisalat.ae"
     },
     {
       "domain": "du.ae",
       "name": "Du UAE",
-      "imap": {
-        "host": "imap.du.ae",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.du.ae",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.du.ae",
+      "smtp": "smtp.du.ae"
     },
     {
       "domain": "thuraya.com",
       "name": "Thuraya Telecom",
-      "imap": {
-        "host": "imap.thuraya.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.thuraya.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.thuraya.com",
+      "smtp": "smtp.thuraya.com"
     },
     {
       "domain": "eim.ae",
       "name": "Etisalat Internet Mail",
-      "imap": {
-        "host": "imap.eim.ae",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.eim.ae",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.eim.ae",
+      "smtp": "smtp.eim.ae"
     },
     {
       "domain": "emirates.ae",
       "name": "Emirates",
-      "imap": {
-        "host": "imap.emirates.ae",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.emirates.ae",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.emirates.ae",
+      "smtp": "smtp.emirates.ae"
     }
   ]
 }

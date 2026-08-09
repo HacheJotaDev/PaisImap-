@@ -5,156 +5,68 @@
     {
       "domain": "pldtdsl.net",
       "name": "PLDT DSL",
-      "imap": {
-        "host": "imap.pldtdsl.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pldtdsl.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.pldtdsl.net",
+      "smtp": "smtp.pldtdsl.net"
     },
     {
       "domain": "skybroadband.com.ph",
       "name": "Sky Broadband",
-      "imap": {
-        "host": "imap.skybroadband.com.ph",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.skybroadband.com.ph",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.skybroadband.com.ph",
+      "smtp": "smtp.skybroadband.com.ph"
     },
     {
       "domain": "globe.com.ph",
       "name": "Globe",
-      "imap": {
-        "host": "imap.globe.com.ph",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.globe.com.ph",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.globe.com.ph",
+      "smtp": "smtp.globe.com.ph"
     },
     {
       "domain": "smart.com.ph",
       "name": "Smart Communications",
-      "imap": {
-        "host": "imap.smart.com.ph",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.smart.com.ph",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.smart.com.ph",
+      "smtp": "smtp.smart.com.ph"
     },
     {
       "domain": "sun.com.ph",
       "name": "Sun Cellular",
-      "imap": {
-        "host": "imap.sun.com.ph",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sun.com.ph",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.sun.com.ph",
+      "smtp": "smtp.sun.com.ph"
     },
     {
       "domain": "pldt.com.ph",
       "name": "PLDT",
-      "imap": {
-        "host": "imap.pldt.com.ph",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pldt.com.ph",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.pldt.com.ph",
+      "smtp": "smtp.pldt.com.ph"
     },
     {
       "domain": "bayantel.com.ph",
       "name": "BayanTel",
-      "imap": {
-        "host": "imap.bayantel.com.ph",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bayantel.com.ph",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.bayantel.com.ph",
+      "smtp": "smtp.bayantel.com.ph"
     },
     {
       "domain": "digitel.ph",
       "name": "Digitel (Sun)",
-      "imap": {
-        "host": "imap.digitel.ph",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digitel.ph",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.digitel.ph",
+      "smtp": "smtp.digitel.ph"
     },
     {
       "domain": "dlsu.edu.ph",
       "name": "DLSU",
-      "imap": {
-        "host": "imap.dlsu.edu.ph",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dlsu.edu.ph",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.dlsu.edu.ph",
+      "smtp": "smtp.dlsu.edu.ph"
     },
     {
       "domain": "up.edu.ph",
       "name": "University of the Philippines",
-      "imap": {
-        "host": "imap.up.edu.ph",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.up.edu.ph",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.up.edu.ph",
+      "smtp": "smtp.up.edu.ph"
     },
     {
       "domain": "admu.edu.ph",
       "name": "Ateneo de Manila",
-      "imap": {
-        "host": "imap.admu.edu.ph",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.admu.edu.ph",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.admu.edu.ph",
+      "smtp": "smtp.admu.edu.ph"
     }
   ]
 }

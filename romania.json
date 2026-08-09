@@ -5,268 +5,116 @@
     {
       "domain": "k.ro",
       "name": "K.ro",
-      "imap": {
-        "host": "imap.k.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.k.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.k.ro",
+      "smtp": "smtp.k.ro"
     },
     {
       "domain": "emaii.com",
       "name": "Email.com",
-      "imap": {
-        "host": "imap.email.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.email.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.email.com",
+      "smtp": "smtp.email.com"
     },
     {
       "domain": "rdslink.ro",
       "name": "RCS-RDS",
-      "imap": {
-        "host": "imap.rdslink.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.rdslink.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.rdslink.ro",
+      "smtp": "smtp.rdslink.ro"
     },
     {
       "domain": "romtelecom.ro",
       "name": "Telekom Romania",
-      "imap": {
-        "host": "imap.romtelecom.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.romtelecom.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.romtelecom.ro",
+      "smtp": "smtp.romtelecom.ro"
     },
     {
       "domain": "clicknet.ro",
       "name": "ClickNet",
-      "imap": {
-        "host": "imap.clicknet.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.clicknet.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.clicknet.ro",
+      "smtp": "smtp.clicknet.ro"
     },
     {
       "domain": "astral.ro",
       "name": "Astral",
-      "imap": {
-        "host": "imap.astral.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.astral.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.astral.ro",
+      "smtp": "smtp.astral.ro"
     },
     {
       "domain": "ptt.ro",
       "name": "Posta Romana",
-      "imap": {
-        "host": "imap.ptt.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ptt.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ptt.ro",
+      "smtp": "smtp.ptt.ro"
     },
     {
       "domain": "xnet.ro",
       "name": "Xnet",
-      "imap": {
-        "host": "imap.xnet.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.xnet.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.xnet.ro",
+      "smtp": "smtp.xnet.ro"
     },
     {
       "domain": "digitex.ro",
       "name": "Digitex",
-      "imap": {
-        "host": "imap.digitex.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digitex.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digitex.ro",
+      "smtp": "smtp.digitex.ro"
     },
     {
       "domain": "evolva.ro",
       "name": "Evolva",
-      "imap": {
-        "host": "imap.evolva.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.evolva.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.evolva.ro",
+      "smtp": "smtp.evolva.ro"
     },
     {
       "domain": "upb.ro",
       "name": "UPB Bucharest",
-      "imap": {
-        "host": "imap.upb.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.upb.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.upb.ro",
+      "smtp": "smtp.upb.ro"
     },
     {
       "domain": "uaic.ro",
       "name": "UAIC Iasi",
-      "imap": {
-        "host": "imap.uaic.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uaic.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uaic.ro",
+      "smtp": "smtp.uaic.ro"
     },
     {
       "domain": "ub.ro",
       "name": "University of Bucharest",
-      "imap": {
-        "host": "imap.ub.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ub.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ub.ro",
+      "smtp": "smtp.ub.ro"
     },
     {
       "domain": "utcluj.ro",
       "name": "UTCN Cluj-Napoca",
-      "imap": {
-        "host": "imap.utcluj.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.utcluj.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.utcluj.ro",
+      "smtp": "smtp.utcluj.ro"
     },
     {
       "domain": "ase.ro",
       "name": "ASE Bucharest",
-      "imap": {
-        "host": "imap.ase.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ase.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ase.ro",
+      "smtp": "smtp.ase.ro"
     },
     {
       "domain": "pmc.ro",
       "name": "PMC",
-      "imap": {
-        "host": "imap.pmc.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pmc.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.pmc.ro",
+      "smtp": "smtp.pmc.ro"
     },
     {
       "domain": "csd.ro",
       "name": "UT Romania",
-      "imap": {
-        "host": "imap.csd.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.csd.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.csd.ro",
+      "smtp": "smtp.csd.ro"
     },
     {
       "domain": "unfp.ro",
       "name": "UNFP",
-      "imap": {
-        "host": "imap.unfp.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unfp.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unfp.ro",
+      "smtp": "smtp.unfp.ro"
     },
     {
       "domain": "netbridge.ro",
       "name": "Netbridge",
-      "imap": {
-        "host": "imap.netbridge.ro",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.netbridge.ro",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.netbridge.ro",
+      "smtp": "smtp.netbridge.ro"
     }
   ]
 }

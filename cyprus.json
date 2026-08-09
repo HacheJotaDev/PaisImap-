@@ -5,114 +5,50 @@
     {
       "domain": "cytanet.com.cy",
       "name": "Cytanet",
-      "imap": {
-        "host": "imap.cytanet.com.cy",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cytanet.com.cy",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cytanet.com.cy",
+      "smtp": "smtp.cytanet.com.cy"
     },
     {
       "domain": "primehome.com",
       "name": "Primetel",
-      "imap": {
-        "host": "imap.primehome.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.primehome.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.primehome.com",
+      "smtp": "smtp.primehome.com"
     },
     {
       "domain": "cablenet.com.cy",
       "name": "Cablenet",
-      "imap": {
-        "host": "imap.cablenet.com.cy",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cablenet.com.cy",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cablenet.com.cy",
+      "smtp": "smtp.cablenet.com.cy"
     },
     {
       "domain": "mtncyprus.com",
       "name": "MTN Cyprus",
-      "imap": {
-        "host": "imap.mtncyprus.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mtncyprus.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mtncyprus.com",
+      "smtp": "smtp.mtncyprus.com"
     },
     {
       "domain": "epic.com.cy",
       "name": "Epic Cyprus",
-      "imap": {
-        "host": "imap.epic.com.cy",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.epic.com.cy",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.epic.com.cy",
+      "smtp": "smtp.epic.com.cy"
     },
     {
       "domain": "otenet.com.cy",
       "name": "Cytanet/Cyta",
-      "imap": {
-        "host": "imap.otenet.com.cy",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.otenet.com.cy",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.otenet.com.cy",
+      "smtp": "smtp.otenet.com.cy"
     },
     {
       "domain": "ucy.ac.cy",
       "name": "University of Cyprus",
-      "imap": {
-        "host": "imap.ucy.ac.cy",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ucy.ac.cy",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ucy.ac.cy",
+      "smtp": "smtp.ucy.ac.cy"
     },
     {
       "domain": "cut.ac.cy",
       "name": "Cyprus University of Technology",
-      "imap": {
-        "host": "imap.cut.ac.cy",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cut.ac.cy",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cut.ac.cy",
+      "smtp": "smtp.cut.ac.cy"
     }
   ]
 }

@@ -5,30 +5,14 @@
     {
       "domain": "eritrea-telecom.er",
       "name": "Eritrea Telecom",
-      "imap": {
-        "host": "imap.eritrea-telecom.er",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.eritrea-telecom.er",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.eritrea-telecom.er",
+      "smtp": "smtp.eritrea-telecom.er"
     },
     {
       "domain": "teleservice.er",
       "name": "Teleservice Eritrea",
-      "imap": {
-        "host": "imap.teleservice.er",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.teleservice.er",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.teleservice.er",
+      "smtp": "smtp.teleservice.er"
     }
   ]
 }

@@ -5,44 +5,20 @@
     {
       "domain": "sierratel.sl",
       "name": "Sierratel",
-      "imap": {
-        "host": "imap.sierratel.sl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sierratel.sl",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.sierratel.sl",
+      "smtp": "smtp.sierratel.sl"
     },
     {
       "domain": "afrikcom.sl",
       "name": "Afrikcom",
-      "imap": {
-        "host": "imap.afrikcom.sl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.afrikcom.sl",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.afrikcom.sl",
+      "smtp": "smtp.afrikcom.sl"
     },
     {
       "domain": "orange.sl",
       "name": "Orange Sierra Leone",
-      "imap": {
-        "host": "imap.orange.sl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.orange.sl",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.orange.sl",
+      "smtp": "smtp.orange.sl"
     }
   ]
 }

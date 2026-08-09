@@ -5,44 +5,14 @@
     {
       "domain": "congo-telecom.cg",
       "name": "Congo Telecom",
-      "imap": {
-        "host": "imap.congo-telecom.cg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.congo-telecom.cg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.congo-telecom.cg",
+      "smtp": "smtp.congo-telecom.cg"
     },
     {
       "domain": "airtel.cg",
       "name": "Airtel Congo",
-      "imap": {
-        "host": "imap.airtel.cg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.airtel.cg",
-        "port": 465,
-        "ssl": true
-      }
-    },
-    {
-      "domain": "mtncg",
-      "name": "MTN Congo",
-      "imap": {
-        "host": "imap.mtncg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mtncg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.airtel.cg",
+      "smtp": "smtp.airtel.cg"
     }
   ]
 }

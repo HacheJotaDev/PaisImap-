@@ -5,44 +5,20 @@
     {
       "domain": "bluesk.as",
       "name": "Bluesky American Samoa",
-      "imap": {
-        "host": "imap.bluesk.as",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bluesk.as",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bluesk.as",
+      "smtp": "smtp.bluesk.as"
     },
     {
       "domain": "astca.org",
       "name": "ASTCA American Samoa",
-      "imap": {
-        "host": "imap.astca.org",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.astca.org",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.astca.org",
+      "smtp": "smtp.astca.org"
     },
     {
       "domain": "bluesky.as",
       "name": "Bluesky American Samoa",
-      "imap": {
-        "host": "imap.bluesky.as",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bluesky.as",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.bluesky.as",
+      "smtp": "smtp.bluesky.as"
     }
   ]
 }

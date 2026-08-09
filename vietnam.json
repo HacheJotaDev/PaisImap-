@@ -5,184 +5,80 @@
     {
       "domain": "fpt.vn",
       "name": "FPT Internet",
-      "imap": {
-        "host": "imap.fpt.vn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.fpt.vn",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.fpt.vn",
+      "smtp": "smtp.fpt.vn"
     },
     {
       "domain": "vnn.vn",
       "name": "VNN Vietnam",
-      "imap": {
-        "host": "imap.vnn.vn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vnn.vn",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vnn.vn",
+      "smtp": "smtp.vnn.vn"
     },
     {
       "domain": "vnpt.vn",
       "name": "VNPT",
-      "imap": {
-        "host": "imap.vnpt.vn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vnpt.vn",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vnpt.vn",
+      "smtp": "smtp.vnpt.vn"
     },
     {
       "domain": "viettel.vn",
       "name": "Viettel",
-      "imap": {
-        "host": "imap.viettel.vn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.viettel.vn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.viettel.vn",
+      "smtp": "smtp.viettel.vn"
     },
     {
       "domain": "netnam.vn",
       "name": "Netnam",
-      "imap": {
-        "host": "imap.netnam.vn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.netnam.vn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.netnam.vn",
+      "smtp": "smtp.netnam.vn"
     },
     {
       "domain": "hcm.vnn.vn",
       "name": "VNN Ho Chi Minh",
-      "imap": {
-        "host": "imap.hcm.vnn.vn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.hcm.vnn.vn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.hcm.vnn.vn",
+      "smtp": "smtp.hcm.vnn.vn"
     },
     {
       "domain": "tuoi.vn",
       "name": "Tuoi Online",
-      "imap": {
-        "host": "imap.tuoi.vn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tuoi.vn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.tuoi.vn",
+      "smtp": "smtp.tuoi.vn"
     },
     {
       "domain": "vietnamnet.vn",
       "name": "VietnamNet",
-      "imap": {
-        "host": "imap.vietnamnet.vn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vietnamnet.vn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.vietnamnet.vn",
+      "smtp": "smtp.vietnamnet.vn"
     },
     {
       "domain": "saigonnet.vn",
       "name": "SaigonNet",
-      "imap": {
-        "host": "imap.saigonnet.vn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.saigonnet.vn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.saigonnet.vn",
+      "smtp": "smtp.saigonnet.vn"
     },
     {
       "domain": "hanoi.vnn.vn",
       "name": "VNN Hanoi",
-      "imap": {
-        "host": "imap.hanoi.vnn.vn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.hanoi.vnn.vn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.hanoi.vnn.vn",
+      "smtp": "smtp.hanoi.vnn.vn"
     },
     {
       "domain": "spt.vn",
       "name": "SPT Vietnam",
-      "imap": {
-        "host": "imap.spt.vn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.spt.vn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.spt.vn",
+      "smtp": "smtp.spt.vn"
     },
     {
       "domain": "daklak.vn",
       "name": "DakLak Net",
-      "imap": {
-        "host": "imap.daklak.vn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.daklak.vn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.daklak.vn",
+      "smtp": "smtp.daklak.vn"
     },
     {
       "domain": "mail.tuoi.vn",
       "name": "Tuoi Mail",
-      "imap": {
-        "host": "imap.mail.tuoi.vn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.tuoi.vn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mail.tuoi.vn",
+      "smtp": "smtp.mail.tuoi.vn"
     }
   ]
 }

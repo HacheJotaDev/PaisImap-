@@ -5,44 +5,20 @@
     {
       "domain": "lagoon.nc",
       "name": "Lagoon (OPT)",
-      "imap": {
-        "host": "imap.lagoon.nc",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.lagoon.nc",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.lagoon.nc",
+      "smtp": "smtp.lagoon.nc"
     },
     {
       "domain": "offratel.nc",
       "name": "Offratel (OPT NC)",
-      "imap": {
-        "host": "imap.offratel.nc",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.offratel.nc",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.offratel.nc",
+      "smtp": "smtp.offratel.nc"
     },
     {
       "domain": "canl.nc",
       "name": "Canal+ New Caledonia",
-      "imap": {
-        "host": "imap.canl.nc",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.canl.nc",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.canl.nc",
+      "smtp": "smtp.canl.nc"
     }
   ]
 }

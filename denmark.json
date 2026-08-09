@@ -5,58 +5,26 @@
     {
       "domain": "tiscali.dk",
       "name": "Tiscali Denmark",
-      "imap": {
-        "host": "imap.tiscali.dk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tiscali.dk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tiscali.dk",
+      "smtp": "smtp.tiscali.dk"
     },
     {
       "domain": "tdcadsl.dk",
       "name": "TDC ADSL",
-      "imap": {
-        "host": "imap.tdcadsl.dk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tdcadsl.dk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tdcadsl.dk",
+      "smtp": "smtp.tdcadsl.dk"
     },
     {
       "domain": "image.dk",
       "name": "Image DK",
-      "imap": {
-        "host": "imap.image.dk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.image.dk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.image.dk",
+      "smtp": "smtp.image.dk"
     },
     {
       "domain": "mail.dk",
       "name": "Mail.dk",
-      "imap": {
-        "host": "imap.mail.dk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.dk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mail.dk",
+      "smtp": "smtp.mail.dk"
     }
   ]
 }

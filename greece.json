@@ -5,282 +5,122 @@
     {
       "domain": "otenet.gr",
       "name": "OTEnet",
-      "imap": {
-        "host": "imap.otenet.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.otenet.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.otenet.gr",
+      "smtp": "smtp.otenet.gr"
     },
     {
       "domain": "forthnet.gr",
       "name": "Forthnet",
-      "imap": {
-        "host": "imap.forthnet.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.forthnet.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.forthnet.gr",
+      "smtp": "smtp.forthnet.gr"
     },
     {
       "domain": "hol.gr",
       "name": "HOL.gr",
-      "imap": {
-        "host": "imap.hol.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.hol.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.hol.gr",
+      "smtp": "smtp.hol.gr"
     },
     {
       "domain": "spark.gr",
       "name": "Spark",
-      "imap": {
-        "host": "imap.spark.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.spark.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.spark.gr",
+      "smtp": "smtp.spark.gr"
     },
     {
       "domain": "cosmote.gr",
       "name": "Cosmote",
-      "imap": {
-        "host": "imap.cosmote.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cosmote.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cosmote.gr",
+      "smtp": "smtp.cosmote.gr"
     },
     {
       "domain": "wind.gr",
       "name": "Wind/Vodafone GR",
-      "imap": {
-        "host": "imap.wind.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.wind.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.wind.gr",
+      "smtp": "smtp.wind.gr"
     },
     {
       "domain": "vodafone.gr",
       "name": "Vodafone Greece",
-      "imap": {
-        "host": "imap.vodafone.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vodafone.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vodafone.gr",
+      "smtp": "smtp.vodafone.gr"
     },
     {
       "domain": "nova.gr",
       "name": "Nova Greece",
-      "imap": {
-        "host": "imap.nova.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nova.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.nova.gr",
+      "smtp": "smtp.nova.gr"
     },
     {
       "domain": "panafonet.gr",
       "name": "Panafonet",
-      "imap": {
-        "host": "imap.panafonet.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.panafonet.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.panafonet.gr",
+      "smtp": "smtp.panafonet.gr"
     },
     {
       "domain": "hellas-on-line.gr",
       "name": "Hellas On-Line",
-      "imap": {
-        "host": "imap.hellas-on-line.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.hellas-on-line.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.hellas-on-line.gr",
+      "smtp": "smtp.hellas-on-line.gr"
     },
     {
       "domain": "sch.gr",
       "name": "Greek School Network",
-      "imap": {
-        "host": "imap.sch.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sch.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.sch.gr",
+      "smtp": "smtp.sch.gr"
     },
     {
       "domain": "uoa.gr",
       "name": "University of Athens",
-      "imap": {
-        "host": "imap.uoa.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uoa.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uoa.gr",
+      "smtp": "smtp.uoa.gr"
     },
     {
       "domain": "ntua.gr",
       "name": "NTUA",
-      "imap": {
-        "host": "imap.ntua.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ntua.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ntua.gr",
+      "smtp": "smtp.ntua.gr"
     },
     {
       "domain": "auth.gr",
       "name": "Aristotle University",
-      "imap": {
-        "host": "imap.auth.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.auth.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.auth.gr",
+      "smtp": "smtp.auth.gr"
     },
     {
       "domain": "uoc.gr",
       "name": "University of Crete",
-      "imap": {
-        "host": "imap.uoc.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uoc.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uoc.gr",
+      "smtp": "smtp.uoc.gr"
     },
     {
       "domain": "upatras.gr",
       "name": "University of Patras",
-      "imap": {
-        "host": "imap.upatras.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.upatras.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.upatras.gr",
+      "smtp": "smtp.upatras.gr"
     },
     {
       "domain": "aueb.gr",
       "name": "AUEB",
-      "imap": {
-        "host": "imap.aueb.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.aueb.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.aueb.gr",
+      "smtp": "smtp.aueb.gr"
     },
     {
       "domain": "panteion.gr",
       "name": "Panteion University",
-      "imap": {
-        "host": "imap.panteion.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.panteion.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.panteion.gr",
+      "smtp": "smtp.panteion.gr"
     },
     {
       "domain": "uoi.gr",
       "name": "University of Ioannina",
-      "imap": {
-        "host": "imap.uoi.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uoi.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uoi.gr",
+      "smtp": "smtp.uoi.gr"
     },
     {
       "domain": "uowm.gr",
       "name": "UOWM",
-      "imap": {
-        "host": "imap.uowm.gr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uowm.gr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uowm.gr",
+      "smtp": "smtp.uowm.gr"
     }
   ]
 }

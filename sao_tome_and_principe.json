@@ -5,16 +5,8 @@
     {
       "domain": "cstome.st",
       "name": "CST Comunicacoes STP",
-      "imap": {
-        "host": "imap.cstome.st",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cstome.st",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.cstome.st",
+      "smtp": "smtp.cstome.st"
     }
   ]
 }

@@ -5,114 +5,50 @@
     {
       "domain": "armentel.am",
       "name": "ArmenTel (Beeline)",
-      "imap": {
-        "host": "imap.armentel.am",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.armentel.am",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.armentel.am",
+      "smtp": "smtp.armentel.am"
     },
     {
       "domain": "vivacell.am",
       "name": "VivaCell MTS",
-      "imap": {
-        "host": "imap.vivacell.am",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vivacell.am",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.vivacell.am",
+      "smtp": "smtp.vivacell.am"
     },
     {
       "domain": "ucom.am",
       "name": "Ucom",
-      "imap": {
-        "host": "imap.ucom.am",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ucom.am",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ucom.am",
+      "smtp": "smtp.ucom.am"
     },
     {
       "domain": "gnc.am",
       "name": "GNC-ALFA",
-      "imap": {
-        "host": "imap.gnc.am",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gnc.am",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.gnc.am",
+      "smtp": "smtp.gnc.am"
     },
     {
       "domain": "arminco.com",
       "name": "Arminco",
-      "imap": {
-        "host": "imap.arminco.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.arminco.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.arminco.com",
+      "smtp": "smtp.arminco.com"
     },
     {
       "domain": "web.am",
       "name": "Web Armenia",
-      "imap": {
-        "host": "imap.web.am",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.web.am",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.web.am",
+      "smtp": "smtp.web.am"
     },
     {
       "domain": "freenet.am",
       "name": "Freenet Armenia",
-      "imap": {
-        "host": "imap.freenet.am",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.freenet.am",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.freenet.am",
+      "smtp": "smtp.freenet.am"
     },
     {
       "domain": "ysu.am",
       "name": "Yerevan State University",
-      "imap": {
-        "host": "imap.ysu.am",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ysu.am",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ysu.am",
+      "smtp": "smtp.ysu.am"
     }
   ]
 }

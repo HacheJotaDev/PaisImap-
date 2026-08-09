@@ -5,142 +5,62 @@
     {
       "domain": "siol.net",
       "name": "SiOL",
-      "imap": {
-        "host": "imap.siol.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.siol.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.siol.net",
+      "smtp": "smtp.siol.net"
     },
     {
       "domain": "arnes.si",
       "name": "Arnes",
-      "imap": {
-        "host": "imap.arnes.si",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.arnes.si",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.arnes.si",
+      "smtp": "smtp.arnes.si"
     },
     {
       "domain": "najdi.si",
       "name": "Najdi",
-      "imap": {
-        "host": "imap.najdi.si",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.najdi.si",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.najdi.si",
+      "smtp": "smtp.najdi.si"
     },
     {
       "domain": "t-2.net",
       "name": "T-2",
-      "imap": {
-        "host": "imap.t-2.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.t-2.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.t-2.net",
+      "smtp": "smtp.t-2.net"
     },
     {
       "domain": "telemach.si",
       "name": "Telemach",
-      "imap": {
-        "host": "imap.telemach.si",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telemach.si",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telemach.si",
+      "smtp": "smtp.telemach.si"
     },
     {
       "domain": "ami.si",
       "name": "AMI",
-      "imap": {
-        "host": "imap.ami.si",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ami.si",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ami.si",
+      "smtp": "smtp.ami.si"
     },
     {
       "domain": "luka.si",
       "name": "Luka",
-      "imap": {
-        "host": "imap.luka.si",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.luka.si",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.luka.si",
+      "smtp": "smtp.luka.si"
     },
     {
       "domain": "uni-lj.si",
       "name": "University of Ljubljana",
-      "imap": {
-        "host": "imap.uni-lj.si",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uni-lj.si",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uni-lj.si",
+      "smtp": "smtp.uni-lj.si"
     },
     {
       "domain": "fmf.uni-lj.si",
       "name": "FMF Ljubljana",
-      "imap": {
-        "host": "imap.fmf.uni-lj.si",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.fmf.uni-lj.si",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.fmf.uni-lj.si",
+      "smtp": "smtp.fmf.uni-lj.si"
     },
     {
       "domain": "uni-mb.si",
       "name": "University of Maribor",
-      "imap": {
-        "host": "imap.uni-mb.si",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uni-mb.si",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uni-mb.si",
+      "smtp": "smtp.uni-mb.si"
     }
   ]
 }

@@ -5,86 +5,38 @@
     {
       "domain": "camnet.com.kh",
       "name": "CamNet",
-      "imap": {
-        "host": "imap.camnet.com.kh",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.camnet.com.kh",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.camnet.com.kh",
+      "smtp": "smtp.camnet.com.kh"
     },
     {
       "domain": "telekom.kh",
       "name": "Telecom Cambodia",
-      "imap": {
-        "host": "imap.telekom.kh",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telekom.kh",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.telekom.kh",
+      "smtp": "smtp.telekom.kh"
     },
     {
       "domain": "ezecom.com.kh",
       "name": "EZECOM",
-      "imap": {
-        "host": "imap.ezecom.com.kh",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ezecom.com.kh",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ezecom.com.kh",
+      "smtp": "smtp.ezecom.com.kh"
     },
     {
       "domain": "wing.com.kh",
       "name": "Wing Cambodia",
-      "imap": {
-        "host": "imap.wing.com.kh",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.wing.com.kh",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.wing.com.kh",
+      "smtp": "smtp.wing.com.kh"
     },
     {
       "domain": "smart.com.kh",
       "name": "Smart Axiata",
-      "imap": {
-        "host": "imap.smart.com.kh",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.smart.com.kh",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.smart.com.kh",
+      "smtp": "smtp.smart.com.kh"
     },
     {
       "domain": "cellcard.com.kh",
       "name": "Cellcard",
-      "imap": {
-        "host": "imap.cellcard.com.kh",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cellcard.com.kh",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.cellcard.com.kh",
+      "smtp": "smtp.cellcard.com.kh"
     }
   ]
 }

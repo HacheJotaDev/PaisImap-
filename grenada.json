@@ -5,44 +5,20 @@
     {
       "domain": "flowgrenada.com",
       "name": "FLOW Grenada",
-      "imap": {
-        "host": "imap.flowgrenada.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.flowgrenada.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.flowgrenada.com",
+      "smtp": "smtp.flowgrenada.com"
     },
     {
       "domain": "digicelgrenada.com",
       "name": "Digicel Grenada",
-      "imap": {
-        "host": "imap.digicelgrenada.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digicelgrenada.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digicelgrenada.com",
+      "smtp": "smtp.digicelgrenada.com"
     },
     {
       "domain": "cablegrenada.com",
       "name": "Cable Grenada",
-      "imap": {
-        "host": "imap.cablegrenada.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cablegrenada.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cablegrenada.com",
+      "smtp": "smtp.cablegrenada.com"
     }
   ]
 }

@@ -5,100 +5,44 @@
     {
       "domain": "aon.at",
       "name": "Aon Austria",
-      "imap": {
-        "host": "imap.aon.at",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.aon.at",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.aon.at",
+      "smtp": "smtp.aon.at"
     },
     {
       "domain": "chello.at",
       "name": "Chello",
-      "imap": {
-        "host": "imap.chello.at",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.chello.at",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.chello.at",
+      "smtp": "smtp.chello.at"
     },
     {
       "domain": "gmx.at",
       "name": "GMX Austria",
-      "imap": {
-        "host": "imap.gmx.at",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "mail.gmx.at",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.gmx.at",
+      "smtp": "mail.gmx.at"
     },
     {
       "domain": "netway.at",
       "name": "Netway",
-      "imap": {
-        "host": "imap.netway.at",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.netway.at",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.netway.at",
+      "smtp": "smtp.netway.at"
     },
     {
       "domain": "vienna.at",
       "name": "Vienna Online",
-      "imap": {
-        "host": "imap.vienna.at",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vienna.at",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vienna.at",
+      "smtp": "smtp.vienna.at"
     },
     {
       "domain": "inode.at",
       "name": "inode (Magenta)",
-      "imap": {
-        "host": "imap.inode.at",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.inode.at",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.inode.at",
+      "smtp": "smtp.inode.at"
     },
     {
       "domain": "magenta.at",
       "name": "Magenta Telekom",
-      "imap": {
-        "host": "imap.magenta.at",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.magenta.at",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.magenta.at",
+      "smtp": "smtp.magenta.at"
     }
   ]
 }

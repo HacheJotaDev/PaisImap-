@@ -5,72 +5,32 @@
     {
       "domain": "caribsurf.com",
       "name": "CaribSurf (C&W/FLOW)",
-      "imap": {
-        "host": "imap.caribsurf.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.caribsurf.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.caribsurf.com",
+      "smtp": "smtp.caribsurf.com"
     },
     {
       "domain": "digicelbarbados.com",
       "name": "Digicel Barbados",
-      "imap": {
-        "host": "imap.digicelbarbados.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digicelbarbados.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digicelbarbados.com",
+      "smtp": "smtp.digicelbarbados.com"
     },
     {
       "domain": "flowbarbados.com",
       "name": "FLOW Barbados",
-      "imap": {
-        "host": "imap.flowbarbados.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.flowbarbados.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.flowbarbados.com",
+      "smtp": "smtp.flowbarbados.com"
     },
     {
       "domain": "sunbeach.net",
       "name": "SunBeach Barbados",
-      "imap": {
-        "host": "imap.sunbeach.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sunbeach.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.sunbeach.net",
+      "smtp": "smtp.sunbeach.net"
     },
     {
       "domain": "telebarbados.com",
       "name": "TeleBarbados",
-      "imap": {
-        "host": "imap.telebarbados.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telebarbados.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telebarbados.com",
+      "smtp": "smtp.telebarbados.com"
     }
   ]
 }

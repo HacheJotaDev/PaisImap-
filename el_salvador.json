@@ -5,100 +5,50 @@
     {
       "domain": "tigo.com.sv",
       "name": "Tigo El Salvador",
-      "imap": {
-        "host": "imap.tigo.com.sv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tigo.com.sv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tigo.com.sv",
+      "smtp": "smtp.tigo.com.sv"
     },
     {
       "domain": "claro.com.sv",
       "name": "Claro El Salvador",
-      "imap": {
-        "host": "imap.claro.com.sv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.claro.com.sv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.claro.com.sv",
+      "smtp": "smtp.claro.com.sv"
     },
     {
       "domain": "movistar.com.sv",
       "name": "Movistar El Salvador",
-      "imap": {
-        "host": "imap.movistar.com.sv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.movistar.com.sv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.movistar.com.sv",
+      "smtp": "smtp.movistar.com.sv"
     },
     {
       "domain": "digicelsv.com",
       "name": "Digicel El Salvador",
-      "imap": {
-        "host": "imap.digicelsv.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digicelsv.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digicelsv.com",
+      "smtp": "smtp.digicelsv.com"
     },
     {
       "domain": "uca.edu.sv",
       "name": "Universidad Centroamericana",
-      "imap": {
-        "host": "imap.uca.edu.sv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uca.edu.sv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uca.edu.sv",
+      "smtp": "smtp.uca.edu.sv"
     },
     {
       "domain": "ues.edu.sv",
       "name": "Universidad de El Salvador",
-      "imap": {
-        "host": "imap.ues.edu.sv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ues.edu.sv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ues.edu.sv",
+      "smtp": "smtp.ues.edu.sv"
     },
     {
       "domain": "udb.edu.sv",
       "name": "Universidad Don Bosco",
-      "imap": {
-        "host": "imap.udb.edu.sv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.udb.edu.sv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.udb.edu.sv",
+      "smtp": "smtp.udb.edu.sv"
+    },
+    {
+      "domain": "uam.edu.sv",
+      "name": "UAM El Salvador",
+      "imap": "imap.uam.edu.sv",
+      "smtp": "smtp.uam.edu.sv"
     }
   ]
 }

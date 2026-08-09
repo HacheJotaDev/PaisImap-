@@ -5,72 +5,32 @@
     {
       "domain": "skynet.be",
       "name": "Skynet (Proximus)",
-      "imap": {
-        "host": "imap.skynet.be",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.skynet.be",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.skynet.be",
+      "smtp": "smtp.skynet.be"
     },
     {
       "domain": "belgacom.net",
       "name": "Belgacom",
-      "imap": {
-        "host": "imap.skynet.be",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.skynet.be",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.skynet.be",
+      "smtp": "smtp.skynet.be"
     },
     {
       "domain": "voo.be",
       "name": "Voo",
-      "imap": {
-        "host": "imap.voo.be",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.voo.be",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.voo.be",
+      "smtp": "smtp.voo.be"
     },
     {
       "domain": "telenet.be",
       "name": "Telenet",
-      "imap": {
-        "host": "imap.telenet.be",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telenet.be",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telenet.be",
+      "smtp": "smtp.telenet.be"
     },
     {
       "domain": "scarlet.be",
       "name": "Scarlet",
-      "imap": {
-        "host": "imap.scarlet.be",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.scarlet.be",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.scarlet.be",
+      "smtp": "smtp.scarlet.be"
     }
   ]
 }

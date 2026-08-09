@@ -5,58 +5,26 @@
     {
       "domain": "guyane.net",
       "name": "Orange Guyane",
-      "imap": {
-        "host": "imap.guyane.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.guyane.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.guyane.net",
+      "smtp": "smtp.guyane.net"
     },
     {
       "domain": "orange.fr",
       "name": "Orange French Guiana",
-      "imap": {
-        "host": "imap.orange.fr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.orange.fr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.orange.fr",
+      "smtp": "smtp.orange.fr"
     },
     {
       "domain": "canalplusguyane.com",
       "name": "Canal+ Guyane",
-      "imap": {
-        "host": "imap.canalplusguyane.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.canalplusguyane.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.canalplusguyane.com",
+      "smtp": "smtp.canalplusguyane.com"
     },
     {
       "domain": "mediapostguyane.com",
       "name": "Mediapost Guyane",
-      "imap": {
-        "host": "imap.mediapostguyane.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mediapostguyane.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mediapostguyane.com",
+      "smtp": "smtp.mediapostguyane.com"
     }
   ]
 }

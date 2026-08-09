@@ -5,254 +5,110 @@
     {
       "domain": "cyber.net.pk",
       "name": "Cybernet Pakistan",
-      "imap": {
-        "host": "imap.cyber.net.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cyber.net.pk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cyber.net.pk",
+      "smtp": "smtp.cyber.net.pk"
     },
     {
       "domain": "ptcl.net.pk",
       "name": "PTCL",
-      "imap": {
-        "host": "imap.ptcl.net.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ptcl.net.pk",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ptcl.net.pk",
+      "smtp": "smtp.ptcl.net.pk"
     },
     {
       "domain": "jazz.com.pk",
       "name": "Jazz (VEON)",
-      "imap": {
-        "host": "imap.jazz.com.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.jazz.com.pk",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.jazz.com.pk",
+      "smtp": "smtp.jazz.com.pk"
     },
     {
       "domain": "zong.com.pk",
       "name": "Zong",
-      "imap": {
-        "host": "imap.zong.com.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.zong.com.pk",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.zong.com.pk",
+      "smtp": "smtp.zong.com.pk"
     },
     {
       "domain": "ufone.com",
       "name": "UFone",
-      "imap": {
-        "host": "imap.ufone.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ufone.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ufone.com",
+      "smtp": "smtp.ufone.com"
     },
     {
       "domain": "multinet.com.pk",
       "name": "Multinet",
-      "imap": {
-        "host": "imap.multinet.com.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.multinet.com.pk",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.multinet.com.pk",
+      "smtp": "smtp.multinet.com.pk"
     },
     {
       "domain": "nayatel.com",
       "name": "Nayatel",
-      "imap": {
-        "host": "imap.nayatel.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nayatel.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.nayatel.com",
+      "smtp": "smtp.nayatel.com"
     },
     {
       "domain": "witribe.pk",
       "name": "WiTribe",
-      "imap": {
-        "host": "imap.witribe.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.witribe.pk",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.witribe.pk",
+      "smtp": "smtp.witribe.pk"
     },
     {
       "domain": "cyberinternet.pk",
       "name": "CyberInternet",
-      "imap": {
-        "host": "imap.cyberinternet.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cyberinternet.pk",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.cyberinternet.pk",
+      "smtp": "smtp.cyberinternet.pk"
     },
     {
       "domain": "brain.net.pk",
       "name": "BrainNet",
-      "imap": {
-        "host": "imap.brain.net.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.brain.net.pk",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.brain.net.pk",
+      "smtp": "smtp.brain.net.pk"
     },
     {
       "domain": "supernet.net.pk",
       "name": "SuperNet",
-      "imap": {
-        "host": "imap.supernet.net.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.supernet.net.pk",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.supernet.net.pk",
+      "smtp": "smtp.supernet.net.pk"
     },
     {
       "domain": "dancom.com.pk",
       "name": "Dancom",
-      "imap": {
-        "host": "imap.dancom.com.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dancom.com.pk",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.dancom.com.pk",
+      "smtp": "smtp.dancom.com.pk"
     },
     {
       "domain": "cyberaccess.net.pk",
       "name": "CyberAccess",
-      "imap": {
-        "host": "imap.cyberaccess.net.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cyberaccess.net.pk",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.cyberaccess.net.pk",
+      "smtp": "smtp.cyberaccess.net.pk"
     },
     {
       "domain": "comsats.edu.pk",
       "name": "COMSATS",
-      "imap": {
-        "host": "imap.comsats.edu.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.comsats.edu.pk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.comsats.edu.pk",
+      "smtp": "smtp.comsats.edu.pk"
     },
     {
       "domain": "lums.edu.pk",
       "name": "LUMS",
-      "imap": {
-        "host": "imap.lums.edu.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.lums.edu.pk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.lums.edu.pk",
+      "smtp": "smtp.lums.edu.pk"
     },
     {
       "domain": "nu.edu.pk",
       "name": "FAST-NUCES",
-      "imap": {
-        "host": "imap.nu.edu.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nu.edu.pk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.nu.edu.pk",
+      "smtp": "smtp.nu.edu.pk"
     },
     {
       "domain": "fast.edu.pk",
       "name": "FAST NUCES",
-      "imap": {
-        "host": "imap.fast.edu.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.fast.edu.pk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.fast.edu.pk",
+      "smtp": "smtp.fast.edu.pk"
     },
     {
       "domain": "ned.edu.pk",
       "name": "NED University",
-      "imap": {
-        "host": "imap.ned.edu.pk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ned.edu.pk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ned.edu.pk",
+      "smtp": "smtp.ned.edu.pk"
     }
   ]
 }

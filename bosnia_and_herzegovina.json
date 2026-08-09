@@ -5,86 +5,38 @@
     {
       "domain": "telecom.rs",
       "name": "Telecom Srpske",
-      "imap": {
-        "host": "imap.telecom.rs",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telecom.rs",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telecom.rs",
+      "smtp": "smtp.telecom.rs"
     },
     {
       "domain": "bhtelecom.ba",
       "name": "BH Telecom",
-      "imap": {
-        "host": "imap.bhtelecom.ba",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bhtelecom.ba",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bhtelecom.ba",
+      "smtp": "smtp.bhtelecom.ba"
     },
     {
       "domain": "ht.com.ba",
       "name": "HT Eronet",
-      "imap": {
-        "host": "imap.ht.com.ba",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ht.com.ba",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ht.com.ba",
+      "smtp": "smtp.ht.com.ba"
     },
     {
       "domain": "mtel.ba",
       "name": "m:tel BiH",
-      "imap": {
-        "host": "imap.mtel.ba",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mtel.ba",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mtel.ba",
+      "smtp": "smtp.mtel.ba"
     },
     {
       "domain": "logosoft.ba",
       "name": "Logosoft",
-      "imap": {
-        "host": "imap.logosoft.ba",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.logosoft.ba",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.logosoft.ba",
+      "smtp": "smtp.logosoft.ba"
     },
     {
       "domain": "unsa.ba",
       "name": "University of Sarajevo",
-      "imap": {
-        "host": "imap.unsa.ba",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unsa.ba",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unsa.ba",
+      "smtp": "smtp.unsa.ba"
     }
   ]
 }

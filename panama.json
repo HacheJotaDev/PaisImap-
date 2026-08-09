@@ -5,72 +5,74 @@
     {
       "domain": "cableonda.net",
       "name": "Cable Onda",
-      "imap": {
-        "host": "imap.cableonda.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cableonda.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cableonda.net",
+      "smtp": "smtp.cableonda.net"
     },
     {
       "domain": "cwpanama.net",
       "name": "Cable & Wireless Panama",
-      "imap": {
-        "host": "imap.cwpanama.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cwpanama.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cwpanama.net",
+      "smtp": "smtp.cwpanama.net"
     },
     {
       "domain": "movistar.com.pa",
       "name": "Movistar Panama",
-      "imap": {
-        "host": "imap.movistar.com.pa",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.movistar.com.pa",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.movistar.com.pa",
+      "smtp": "smtp.movistar.com.pa"
     },
     {
       "domain": "claro.com.pa",
       "name": "Claro Panama",
-      "imap": {
-        "host": "imap.claro.com.pa",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.claro.com.pa",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.claro.com.pa",
+      "smtp": "smtp.claro.com.pa"
     },
     {
       "domain": "up.ac.pa",
       "name": "Universidad de Panama",
-      "imap": {
-        "host": "imap.up.ac.pa",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.up.ac.pa",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.up.ac.pa",
+      "smtp": "smtp.up.ac.pa"
+    },
+    {
+      "domain": "digicel.com.pa",
+      "name": "Digicel Panama",
+      "imap": "imap.digicel.com.pa",
+      "smtp": "smtp.digicel.com.pa"
+    },
+    {
+      "domain": "masmovil.pa",
+      "name": "Mas Movil Panama",
+      "imap": "imap.masmovil.pa",
+      "smtp": "smtp.masmovil.pa"
+    },
+    {
+      "domain": "utp.ac.pa",
+      "name": "UTP Panama",
+      "imap": "imap.utp.ac.pa",
+      "smtp": "smtp.utp.ac.pa"
+    },
+    {
+      "domain": "usma.ac.pa",
+      "name": "USMA",
+      "imap": "imap.usma.ac.pa",
+      "smtp": "smtp.usma.ac.pa"
+    },
+    {
+      "domain": "utec.ac.pa",
+      "name": "UTEC Panama",
+      "imap": "imap.utec.ac.pa",
+      "smtp": "smtp.utec.ac.pa"
+    },
+    {
+      "domain": "latam.pa",
+      "name": "Latam Panama",
+      "imap": "imap.latam.pa",
+      "smtp": "smtp.latam.pa"
+    },
+    {
+      "domain": "tropigas.com.pa",
+      "name": "Tropigas",
+      "imap": "imap.tropigas.com.pa",
+      "smtp": "smtp.tropigas.com.pa"
     }
   ]
 }

@@ -5,44 +5,20 @@
     {
       "domain": "vodacom.co.ls",
       "name": "Vodacom Lesotho",
-      "imap": {
-        "host": "imap.vodacom.co.ls",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vodacom.co.ls",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.vodacom.co.ls",
+      "smtp": "smtp.vodacom.co.ls"
     },
     {
       "domain": "econettelecom.ls",
       "name": "Econet Telecom Lesotho",
-      "imap": {
-        "host": "imap.econettelecom.ls",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.econettelecom.ls",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.econettelecom.ls",
+      "smtp": "smtp.econettelecom.ls"
     },
     {
       "domain": "mascom.ls",
       "name": "Mascom Lesotho",
-      "imap": {
-        "host": "imap.mascom.ls",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mascom.ls",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mascom.ls",
+      "smtp": "smtp.mascom.ls"
     }
   ]
 }

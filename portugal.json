@@ -5,86 +5,38 @@
     {
       "domain": "sapo.pt",
       "name": "SAPO",
-      "imap": {
-        "host": "imap.sapo.pt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sapo.pt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.sapo.pt",
+      "smtp": "smtp.sapo.pt"
     },
     {
       "domain": "clix.pt",
       "name": "Clix",
-      "imap": {
-        "host": "imap.clix.pt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.clix.pt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.clix.pt",
+      "smtp": "smtp.clix.pt"
     },
     {
       "domain": "netcabo.pt",
       "name": "Netcabo NOS",
-      "imap": {
-        "host": "imap.netcabo.pt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.netcabo.pt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.netcabo.pt",
+      "smtp": "smtp.netcabo.pt"
     },
     {
       "domain": "nos.pt",
       "name": "NOS",
-      "imap": {
-        "host": "imap.nos.pt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nos.pt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.nos.pt",
+      "smtp": "smtp.nos.pt"
     },
     {
       "domain": "vodafone.pt",
       "name": "Vodafone Portugal",
-      "imap": {
-        "host": "imap.vodafone.pt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vodafone.pt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vodafone.pt",
+      "smtp": "smtp.vodafone.pt"
     },
     {
       "domain": "meo.pt",
       "name": "MEO",
-      "imap": {
-        "host": "imap.meo.pt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.meo.pt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.meo.pt",
+      "smtp": "smtp.meo.pt"
     }
   ]
 }

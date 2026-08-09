@@ -5,58 +5,26 @@
     {
       "domain": "telcell.sx",
       "name": "Telcell Sint Maarten",
-      "imap": {
-        "host": "imap.telcell.sx",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telcell.sx",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telcell.sx",
+      "smtp": "smtp.telcell.sx"
     },
     {
       "domain": "flowsx.com",
       "name": "FLOW Sint Maarten",
-      "imap": {
-        "host": "imap.flowsx.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.flowsx.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.flowsx.com",
+      "smtp": "smtp.flowsx.com"
     },
     {
       "domain": "digicelsxm.com",
       "name": "Digicel SXM",
-      "imap": {
-        "host": "imap.digicelsxm.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digicelsxm.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digicelsxm.com",
+      "smtp": "smtp.digicelsxm.com"
     },
     {
       "domain": "sxmtelecom.com",
       "name": "SXM Telecom",
-      "imap": {
-        "host": "imap.sxmtelecom.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sxmtelecom.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.sxmtelecom.com",
+      "smtp": "smtp.sxmtelecom.com"
     }
   ]
 }

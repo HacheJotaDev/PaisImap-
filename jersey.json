@@ -5,58 +5,26 @@
     {
       "domain": "jtglobal.com",
       "name": "Jersey Telecom (JT)",
-      "imap": {
-        "host": "imap.jtglobal.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.jtglobal.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.jtglobal.com",
+      "smtp": "smtp.jtglobal.com"
     },
     {
       "domain": "cwgsy.net",
       "name": "C&W Jersey",
-      "imap": {
-        "host": "imap.cwgsy.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cwgsy.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cwgsy.net",
+      "smtp": "smtp.cwgsy.net"
     },
     {
       "domain": "sure.je",
       "name": "Sure Jersey",
-      "imap": {
-        "host": "imap.sure.je",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sure.je",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.sure.je",
+      "smtp": "smtp.sure.je"
     },
     {
       "domain": "wifi.je",
       "name": "WiFi Jersey",
-      "imap": {
-        "host": "imap.wifi.je",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.wifi.je",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.wifi.je",
+      "smtp": "smtp.wifi.je"
     }
   ]
 }

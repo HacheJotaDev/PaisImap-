@@ -5,86 +5,68 @@
     {
       "domain": "claro.com.ni",
       "name": "Claro Nicaragua",
-      "imap": {
-        "host": "imap.claro.com.ni",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.claro.com.ni",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.claro.com.ni",
+      "smtp": "smtp.claro.com.ni"
     },
     {
       "domain": "movistar.com.ni",
       "name": "Movistar Nicaragua",
-      "imap": {
-        "host": "imap.movistar.com.ni",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.movistar.com.ni",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.movistar.com.ni",
+      "smtp": "smtp.movistar.com.ni"
     },
     {
       "domain": "tigo.com.ni",
       "name": "Tigo Nicaragua",
-      "imap": {
-        "host": "imap.tigo.com.ni",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tigo.com.ni",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tigo.com.ni",
+      "smtp": "smtp.tigo.com.ni"
     },
     {
       "domain": "enitel.com.ni",
       "name": "ENITEL Nicaragua",
-      "imap": {
-        "host": "imap.enitel.com.ni",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.enitel.com.ni",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.enitel.com.ni",
+      "smtp": "smtp.enitel.com.ni"
     },
     {
       "domain": "uni.edu.ni",
       "name": "Universidad Nacional de Ingenieria NI",
-      "imap": {
-        "host": "imap.uni.edu.ni",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uni.edu.ni",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uni.edu.ni",
+      "smtp": "smtp.uni.edu.ni"
     },
     {
       "domain": "una.edu.ni",
       "name": "Universidad Nacional Agraria Nicaragua",
-      "imap": {
-        "host": "imap.una.edu.ni",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.una.edu.ni",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.una.edu.ni",
+      "smtp": "smtp.una.edu.ni"
+    },
+    {
+      "domain": "uca.edu.ni",
+      "name": "UCA Nicaragua",
+      "imap": "imap.uca.edu.ni",
+      "smtp": "smtp.uca.edu.ni"
+    },
+    {
+      "domain": "unan.edu.ni",
+      "name": "UNAN Nicaragua",
+      "imap": "imap.unan.edu.ni",
+      "smtp": "smtp.unan.edu.ni"
+    },
+    {
+      "domain": "unan-managua.edu.ni",
+      "name": "UNAN Managua",
+      "imap": "imap.unan-managua.edu.ni",
+      "smtp": "smtp.unan-managua.edu.ni"
+    },
+    {
+      "domain": "nitel.com.ni",
+      "name": "Nitel Nicaragua",
+      "imap": "imap.nitel.com.ni",
+      "smtp": "smtp.nitel.com.ni"
+    },
+    {
+      "domain": "bce.com.ni",
+      "name": "BCE Nicaragua",
+      "imap": "imap.bce.com.ni",
+      "smtp": "smtp.bce.com.ni"
     }
   ]
 }

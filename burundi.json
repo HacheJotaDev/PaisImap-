@@ -5,44 +5,20 @@
     {
       "domain": "ispa.bi",
       "name": "ISPA Burundi",
-      "imap": {
-        "host": "imap.ispa.bi",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ispa.bi",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ispa.bi",
+      "smtp": "smtp.ispa.bi"
     },
     {
       "domain": "burundi-telecom.bi",
       "name": "Burundi Telecom",
-      "imap": {
-        "host": "imap.burundi-telecom.bi",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.burundi-telecom.bi",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.burundi-telecom.bi",
+      "smtp": "smtp.burundi-telecom.bi"
     },
     {
       "domain": "lumitel.bi",
       "name": "Lumitel",
-      "imap": {
-        "host": "imap.lumitel.bi",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.lumitel.bi",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.lumitel.bi",
+      "smtp": "smtp.lumitel.bi"
     }
   ]
 }

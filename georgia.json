@@ -5,128 +5,56 @@
     {
       "domain": "magti.com.ge",
       "name": "Magti",
-      "imap": {
-        "host": "imap.magti.com.ge",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.magti.com.ge",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.magti.com.ge",
+      "smtp": "smtp.magti.com.ge"
     },
     {
       "domain": "geocell.ge",
       "name": "Geocell",
-      "imap": {
-        "host": "imap.geocell.ge",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.geocell.ge",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.geocell.ge",
+      "smtp": "smtp.geocell.ge"
     },
     {
       "domain": "silknet.ge",
       "name": "Silknet",
-      "imap": {
-        "host": "imap.silknet.ge",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.silknet.ge",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.silknet.ge",
+      "smtp": "smtp.silknet.ge"
     },
     {
       "domain": "caucasus.net",
       "name": "Caucasus Online",
-      "imap": {
-        "host": "imap.caucasus.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.caucasus.net",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.caucasus.net",
+      "smtp": "smtp.caucasus.net"
     },
     {
       "domain": "wanex.ge",
       "name": "Wanex",
-      "imap": {
-        "host": "imap.wanex.ge",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.wanex.ge",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.wanex.ge",
+      "smtp": "smtp.wanex.ge"
     },
     {
       "domain": "sa.ge",
       "name": "SA Georgia",
-      "imap": {
-        "host": "imap.sa.ge",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sa.ge",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.sa.ge",
+      "smtp": "smtp.sa.ge"
     },
     {
       "domain": "dst.ge",
       "name": "DST Georgia",
-      "imap": {
-        "host": "imap.dst.ge",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dst.ge",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.dst.ge",
+      "smtp": "smtp.dst.ge"
     },
     {
       "domain": "tsu.ge",
       "name": "Tbilisi State University",
-      "imap": {
-        "host": "imap.tsu.ge",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tsu.ge",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tsu.ge",
+      "smtp": "smtp.tsu.ge"
     },
     {
       "domain": "freeuni.edu.ge",
       "name": "Free University of Tbilisi",
-      "imap": {
-        "host": "imap.freeuni.edu.ge",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.freeuni.edu.ge",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.freeuni.edu.ge",
+      "smtp": "smtp.freeuni.edu.ge"
     }
   ]
 }

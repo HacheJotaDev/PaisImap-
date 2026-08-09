@@ -5,72 +5,32 @@
     {
       "domain": "crnogorskitelekom.me",
       "name": "Crnogorski Telekom",
-      "imap": {
-        "host": "imap.crnogorskitelekom.me",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.crnogorskitelekom.me",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.crnogorskitelekom.me",
+      "smtp": "smtp.crnogorskitelekom.me"
     },
     {
       "domain": "t-com.me",
       "name": "T-Com Montenegro",
-      "imap": {
-        "host": "imap.t-com.me",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.t-com.me",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.t-com.me",
+      "smtp": "smtp.t-com.me"
     },
     {
       "domain": "mtel.me",
       "name": "m:tel Montenegro",
-      "imap": {
-        "host": "imap.mtel.me",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mtel.me",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mtel.me",
+      "smtp": "smtp.mtel.me"
     },
     {
       "domain": "one.me",
       "name": "One Montenegro",
-      "imap": {
-        "host": "imap.one.me",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.one.me",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.one.me",
+      "smtp": "smtp.one.me"
     },
     {
       "domain": "ucg.me",
       "name": "University of Montenegro",
-      "imap": {
-        "host": "imap.ucg.me",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ucg.me",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ucg.me",
+      "smtp": "smtp.ucg.me"
     }
   ]
 }

@@ -5,44 +5,20 @@
     {
       "domain": "cwgsy.net",
       "name": "C&W Guernsey",
-      "imap": {
-        "host": "imap.cwgsy.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cwgsy.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cwgsy.net",
+      "smtp": "smtp.cwgsy.net"
     },
     {
       "domain": "sure.ci",
       "name": "Sure Guernsey",
-      "imap": {
-        "host": "imap.sure.ci",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sure.ci",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.sure.ci",
+      "smtp": "smtp.sure.ci"
     },
     {
       "domain": "jtglobal.com",
       "name": "JT Global Guernsey",
-      "imap": {
-        "host": "imap.jtglobal.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.jtglobal.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.jtglobal.com",
+      "smtp": "smtp.jtglobal.com"
     }
   ]
 }

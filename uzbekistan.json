@@ -5,128 +5,56 @@
     {
       "domain": "uztelecom.uz",
       "name": "Uztelecom",
-      "imap": {
-        "host": "imap.uztelecom.uz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uztelecom.uz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.uztelecom.uz",
+      "smtp": "smtp.uztelecom.uz"
     },
     {
       "domain": "beeline.uz",
       "name": "Beeline Uzbekistan",
-      "imap": {
-        "host": "imap.beeline.uz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.beeline.uz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.beeline.uz",
+      "smtp": "smtp.beeline.uz"
     },
     {
       "domain": "ucell.uz",
       "name": "Ucell",
-      "imap": {
-        "host": "imap.ucell.uz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ucell.uz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ucell.uz",
+      "smtp": "smtp.ucell.uz"
     },
     {
       "domain": "uzonline.uz",
       "name": "UzOnline",
-      "imap": {
-        "host": "imap.uzonline.uz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uzonline.uz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.uzonline.uz",
+      "smtp": "smtp.uzonline.uz"
     },
     {
       "domain": "superpage.uz",
       "name": "SuperPage",
-      "imap": {
-        "host": "imap.superpage.uz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.superpage.uz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.superpage.uz",
+      "smtp": "smtp.superpage.uz"
     },
     {
       "domain": "sarkor.uz",
       "name": "Sarkor Telecom",
-      "imap": {
-        "host": "imap.sarkor.uz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sarkor.uz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.sarkor.uz",
+      "smtp": "smtp.sarkor.uz"
     },
     {
       "domain": "true.uz",
       "name": "True Uzbekistan",
-      "imap": {
-        "host": "imap.true.uz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.true.uz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.true.uz",
+      "smtp": "smtp.true.uz"
     },
     {
       "domain": "registon.uz",
       "name": "Registon",
-      "imap": {
-        "host": "imap.registon.uz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.registon.uz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.registon.uz",
+      "smtp": "smtp.registon.uz"
     },
     {
       "domain": "easttelecom.uz",
       "name": "East Telecom",
-      "imap": {
-        "host": "imap.easttelecom.uz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.easttelecom.uz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.easttelecom.uz",
+      "smtp": "smtp.easttelecom.uz"
     }
   ]
 }

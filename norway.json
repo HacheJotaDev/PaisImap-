@@ -5,58 +5,26 @@
     {
       "domain": "online.no",
       "name": "Online.no",
-      "imap": {
-        "host": "imap.online.no",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.online.no",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.online.no",
+      "smtp": "smtp.online.no"
     },
     {
       "domain": "telenor.no",
       "name": "Telenor Norway",
-      "imap": {
-        "host": "imap.telenor.no",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telenor.no",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telenor.no",
+      "smtp": "smtp.telenor.no"
     },
     {
       "domain": "lyse.no",
       "name": "Lyse",
-      "imap": {
-        "host": "imap.lyse.no",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.lyse.no",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.lyse.no",
+      "smtp": "smtp.lyse.no"
     },
     {
       "domain": "getmail.no",
       "name": "Getmail",
-      "imap": {
-        "host": "imap.getmail.no",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.getmail.no",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.getmail.no",
+      "smtp": "smtp.getmail.no"
     }
   ]
 }

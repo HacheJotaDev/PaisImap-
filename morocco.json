@@ -5,58 +5,26 @@
     {
       "domain": "menara.ma",
       "name": "Menara (Maroc Telecom)",
-      "imap": {
-        "host": "imap.menara.ma",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.menara.ma",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.menara.ma",
+      "smtp": "smtp.menara.ma"
     },
     {
       "domain": "inwi.ma",
       "name": "INWI",
-      "imap": {
-        "host": "imap.inwi.ma",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.inwi.ma",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.inwi.ma",
+      "smtp": "smtp.inwi.ma"
     },
     {
       "domain": "meditel.ma",
       "name": "Orange Morocco (Meditel)",
-      "imap": {
-        "host": "imap.meditel.ma",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.meditel.ma",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.meditel.ma",
+      "smtp": "smtp.meditel.ma"
     },
     {
       "domain": "maroc.ma",
       "name": "Maroc Telecom",
-      "imap": {
-        "host": "imap.maroc.ma",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.maroc.ma",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.maroc.ma",
+      "smtp": "smtp.maroc.ma"
     }
   ]
 }

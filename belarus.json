@@ -5,114 +5,50 @@
     {
       "domain": "tut.by",
       "name": "Tut.by",
-      "imap": {
-        "host": "imap.tut.by",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tut.by",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tut.by",
+      "smtp": "smtp.tut.by"
     },
     {
       "domain": "beltelecom.by",
       "name": "Beltelecom",
-      "imap": {
-        "host": "imap.beltelecom.by",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.beltelecom.by",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.beltelecom.by",
+      "smtp": "smtp.beltelecom.by"
     },
     {
       "domain": "mtis.by",
       "name": "MTS Belarus",
-      "imap": {
-        "host": "imap.mtis.by",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mtis.by",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mtis.by",
+      "smtp": "smtp.mtis.by"
     },
     {
       "domain": "velcom.by",
       "name": "A1 Belarus (Velcom)",
-      "imap": {
-        "host": "imap.velcom.by",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.velcom.by",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.velcom.by",
+      "smtp": "smtp.velcom.by"
     },
     {
       "domain": "life.com.by",
       "name": "life:) Belarus",
-      "imap": {
-        "host": "imap.life.com.by",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.life.com.by",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.life.com.by",
+      "smtp": "smtp.life.com.by"
     },
     {
       "domain": "unibel.by",
       "name": "UniBel",
-      "imap": {
-        "host": "imap.unibel.by",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unibel.by",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unibel.by",
+      "smtp": "smtp.unibel.by"
     },
     {
       "domain": "bsu.by",
       "name": "Belarusian State University (BSU)",
-      "imap": {
-        "host": "imap.bsu.by",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bsu.by",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bsu.by",
+      "smtp": "smtp.bsu.by"
     },
     {
       "domain": "bntu.by",
       "name": "BNTU",
-      "imap": {
-        "host": "imap.bntu.by",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bntu.by",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bntu.by",
+      "smtp": "smtp.bntu.by"
     }
   ]
 }

@@ -5,436 +5,188 @@
     {
       "domain": "bigpond.com",
       "name": "BigPond (Telstra)",
-      "imap": {
-        "host": "imap.bigpond.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bigpond.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.bigpond.com",
+      "smtp": "smtp.bigpond.com"
     },
     {
       "domain": "bigpond.net.au",
       "name": "BigPond Net",
-      "imap": {
-        "host": "imap.bigpond.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bigpond.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.bigpond.com",
+      "smtp": "smtp.bigpond.com"
     },
     {
       "domain": "optusnet.com.au",
       "name": "OptusNet",
-      "imap": {
-        "host": "imap.optusnet.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.optusnet.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.optusnet.com.au",
+      "smtp": "smtp.optusnet.com.au"
     },
     {
       "domain": "optus.com.au",
       "name": "Optus Australia",
-      "imap": {
-        "host": "imap.optus.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.optus.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.optus.com.au",
+      "smtp": "smtp.optus.com.au"
     },
     {
       "domain": "iinet.net.au",
       "name": "iiNet",
-      "imap": {
-        "host": "imap.iinet.net.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.iinet.net.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.iinet.net.au",
+      "smtp": "smtp.iinet.net.au"
     },
     {
       "domain": "westnet.com.au",
       "name": "Westnet",
-      "imap": {
-        "host": "imap.westnet.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.westnet.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.westnet.com.au",
+      "smtp": "smtp.westnet.com.au"
     },
     {
       "domain": "tpg.com.au",
       "name": "TPG Australia",
-      "imap": {
-        "host": "imap.tpg.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tpg.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tpg.com.au",
+      "smtp": "smtp.tpg.com.au"
     },
     {
       "domain": "tpg.com",
       "name": "TPG",
-      "imap": {
-        "host": "imap.tpg.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tpg.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tpg.com",
+      "smtp": "smtp.tpg.com"
     },
     {
       "domain": "internode.on.net",
       "name": "Internode",
-      "imap": {
-        "host": "imap.internode.on.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.internode.on.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.internode.on.net",
+      "smtp": "smtp.internode.on.net"
     },
     {
       "domain": "exemail.com.au",
       "name": "Exetel",
-      "imap": {
-        "host": "imap.exemail.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.exemail.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.exemail.com.au",
+      "smtp": "smtp.exemail.com.au"
     },
     {
       "domain": "netspace.net.au",
       "name": "Netspace",
-      "imap": {
-        "host": "imap.netspace.net.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.netspace.net.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.netspace.net.au",
+      "smtp": "smtp.netspace.net.au"
     },
     {
       "domain": "macquarie.com.au",
       "name": "Macquarie Telecom",
-      "imap": {
-        "host": "imap.macquarie.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.macquarie.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.macquarie.com.au",
+      "smtp": "smtp.macquarie.com.au"
     },
     {
       "domain": "aussiebb.com.au",
       "name": "Aussie Broadband",
-      "imap": {
-        "host": "imap.aussiebb.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.aussiebb.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.aussiebb.com.au",
+      "smtp": "smtp.aussiebb.com.au"
     },
     {
       "domain": "dodo.com.au",
       "name": "Dodo Australia",
-      "imap": {
-        "host": "imap.dodo.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dodo.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.dodo.com.au",
+      "smtp": "smtp.dodo.com.au"
     },
     {
       "domain": "exetel.com.au",
       "name": "Exetel",
-      "imap": {
-        "host": "imap.exetel.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.exetel.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.exetel.com.au",
+      "smtp": "smtp.exetel.com.au"
     },
     {
       "domain": "skymesh.com.au",
       "name": "SkyMesh",
-      "imap": {
-        "host": "imap.skymesh.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.skymesh.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.skymesh.com.au",
+      "smtp": "smtp.skymesh.com.au"
     },
     {
       "domain": "activ8me.com.au",
       "name": "Activ8me",
-      "imap": {
-        "host": "imap.activ8me.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.activ8me.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.activ8me.com.au",
+      "smtp": "smtp.activ8me.com.au"
     },
     {
       "domain": "iprimus.com.au",
       "name": "Primus Australia",
-      "imap": {
-        "host": "imap.iprimus.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.iprimus.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.iprimus.com.au",
+      "smtp": "smtp.iprimus.com.au"
     },
     {
       "domain": "aapt.com.au",
       "name": "AAPT/Telstra",
-      "imap": {
-        "host": "imap.aapt.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.aapt.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.aapt.com.au",
+      "smtp": "smtp.aapt.com.au"
     },
     {
       "domain": "ozemail.com.au",
       "name": "OzEmail (iiNet)",
-      "imap": {
-        "host": "imap.ozemail.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ozemail.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ozemail.com.au",
+      "smtp": "smtp.ozemail.com.au"
     },
     {
       "domain": "swiftdsl.com.au",
       "name": "SwiftDSL",
-      "imap": {
-        "host": "imap.swiftdsl.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.swiftdsl.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.swiftdsl.com.au",
+      "smtp": "smtp.swiftdsl.com.au"
     },
     {
       "domain": "adam.com.au",
       "name": "Adam Internet (iiNet)",
-      "imap": {
-        "host": "imap.adam.com.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.adam.com.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.adam.com.au",
+      "smtp": "smtp.adam.com.au"
     },
     {
       "domain": "onthe.net.au",
       "name": "OnTheNet",
-      "imap": {
-        "host": "imap.onthe.net.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.onthe.net.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.onthe.net.au",
+      "smtp": "smtp.onthe.net.au"
     },
     {
       "domain": "aarnet.edu.au",
       "name": "AARNet",
-      "imap": {
-        "host": "imap.aarnet.edu.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.aarnet.edu.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.aarnet.edu.au",
+      "smtp": "smtp.aarnet.edu.au"
     },
     {
       "domain": "unimelb.edu.au",
       "name": "University of Melbourne",
-      "imap": {
-        "host": "imap.unimelb.edu.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unimelb.edu.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unimelb.edu.au",
+      "smtp": "smtp.unimelb.edu.au"
     },
     {
       "domain": "usyd.edu.au",
       "name": "University of Sydney",
-      "imap": {
-        "host": "imap.usyd.edu.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.usyd.edu.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.usyd.edu.au",
+      "smtp": "smtp.usyd.edu.au"
     },
     {
       "domain": "unsw.edu.au",
       "name": "UNSW Sydney",
-      "imap": {
-        "host": "imap.unsw.edu.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unsw.edu.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unsw.edu.au",
+      "smtp": "smtp.unsw.edu.au"
     },
     {
       "domain": "uq.edu.au",
       "name": "University of Queensland",
-      "imap": {
-        "host": "imap.uq.edu.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uq.edu.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uq.edu.au",
+      "smtp": "smtp.uq.edu.au"
     },
     {
       "domain": "monash.edu",
       "name": "Monash University",
-      "imap": {
-        "host": "imap.monash.edu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.monash.edu",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.monash.edu",
+      "smtp": "smtp.monash.edu"
     },
     {
       "domain": "anu.edu.au",
       "name": "Australian National University",
-      "imap": {
-        "host": "imap.anu.edu.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.anu.edu.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.anu.edu.au",
+      "smtp": "smtp.anu.edu.au"
     },
     {
       "domain": "uwa.edu.au",
       "name": "University of Western Australia",
-      "imap": {
-        "host": "imap.uwa.edu.au",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uwa.edu.au",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uwa.edu.au",
+      "smtp": "smtp.uwa.edu.au"
     }
   ]
 }

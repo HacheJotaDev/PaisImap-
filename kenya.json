@@ -5,114 +5,50 @@
     {
       "domain": "kenya-telecom.co.ke",
       "name": "Telkom Kenya",
-      "imap": {
-        "host": "imap.kenya-telecom.co.ke",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kenya-telecom.co.ke",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.kenya-telecom.co.ke",
+      "smtp": "smtp.kenya-telecom.co.ke"
     },
     {
       "domain": "safaricom.com.ke",
       "name": "Safaricom",
-      "imap": {
-        "host": "imap.safaricom.com.ke",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.safaricom.com.ke",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.safaricom.com.ke",
+      "smtp": "smtp.safaricom.com.ke"
     },
     {
       "domain": "airtel.co.ke",
       "name": "Airtel Kenya",
-      "imap": {
-        "host": "imap.airtel.co.ke",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.airtel.co.ke",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.airtel.co.ke",
+      "smtp": "smtp.airtel.co.ke"
     },
     {
       "domain": "kenyaweb.com",
       "name": "KenyaWeb",
-      "imap": {
-        "host": "imap.kenyaweb.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kenyaweb.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.kenyaweb.com",
+      "smtp": "smtp.kenyaweb.com"
     },
     {
       "domain": "uonbi.ac.ke",
       "name": "University of Nairobi",
-      "imap": {
-        "host": "imap.uonbi.ac.ke",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uonbi.ac.ke",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uonbi.ac.ke",
+      "smtp": "smtp.uonbi.ac.ke"
     },
     {
       "domain": "kismail.ac.ke",
       "name": "KIST",
-      "imap": {
-        "host": "imap.kismail.ac.ke",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kismail.ac.ke",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.kismail.ac.ke",
+      "smtp": "smtp.kismail.ac.ke"
     },
     {
       "domain": "muto.co.ke",
       "name": "Muto",
-      "imap": {
-        "host": "imap.muto.co.ke",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.muto.co.ke",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.muto.co.ke",
+      "smtp": "smtp.muto.co.ke"
     },
     {
       "domain": "wananchi.com",
       "name": "Wananchi",
-      "imap": {
-        "host": "imap.wananchi.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.wananchi.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.wananchi.com",
+      "smtp": "smtp.wananchi.com"
     }
   ]
 }

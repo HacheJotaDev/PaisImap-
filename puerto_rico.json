@@ -5,86 +5,140 @@
     {
       "domain": "coqui.net",
       "name": "Coqui Net Puerto Rico",
-      "imap": {
-        "host": "imap.coqui.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.coqui.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.coqui.net",
+      "smtp": "smtp.coqui.net"
     },
     {
       "domain": "upr.edu",
       "name": "Universidad de Puerto Rico",
-      "imap": {
-        "host": "imap.upr.edu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.upr.edu",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.upr.edu",
+      "smtp": "smtp.upr.edu"
     },
     {
       "domain": "estudiante.upr.edu",
       "name": "UPR Estudiantes",
-      "imap": {
-        "host": "imap.estudiante.upr.edu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.estudiante.upr.edu",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.estudiante.upr.edu",
+      "smtp": "smtp.estudiante.upr.edu"
     },
     {
       "domain": "mail.pr",
       "name": "Mail Puerto Rico",
-      "imap": {
-        "host": "imap.mail.pr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.pr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mail.pr",
+      "smtp": "smtp.mail.pr"
     },
     {
       "domain": "westernbbpr.com",
       "name": "Western Broadband PR",
-      "imap": {
-        "host": "imap.westernbbpr.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.westernbbpr.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.westernbbpr.com",
+      "smtp": "smtp.westernbbpr.com"
     },
     {
       "domain": "libertypr.net",
       "name": "Liberty Puerto Rico",
-      "imap": {
-        "host": "imap.libertypr.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.libertypr.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.libertypr.net",
+      "smtp": "smtp.libertypr.net"
+    },
+    {
+      "domain": "clarnet.com",
+      "name": "Claro PR",
+      "imap": "imap.clarnet.com",
+      "smtp": "smtp.clarnet.com"
+    },
+    {
+      "domain": "caribe.net",
+      "name": "Caribe Net",
+      "imap": "imap.caribe.net",
+      "smtp": "smtp.caribe.net"
+    },
+    {
+      "domain": "prtc.net",
+      "name": "PRTC",
+      "imap": "imap.prtc.net",
+      "smtp": "smtp.prtc.net"
+    },
+    {
+      "domain": "wapa.tv",
+      "name": "WAPA TV",
+      "imap": "imap.wapa.tv",
+      "smtp": "smtp.wapa.tv"
+    },
+    {
+      "domain": "noticel.com",
+      "name": "Noticel",
+      "imap": "imap.noticel.com",
+      "smtp": "smtp.noticel.com"
+    },
+    {
+      "domain": "emersonpr.com",
+      "name": "Emerson PR",
+      "imap": "imap.emersonpr.com",
+      "smtp": "smtp.emersonpr.com"
+    },
+    {
+      "domain": "iprnet.com",
+      "name": "IPRNet",
+      "imap": "imap.iprnet.com",
+      "smtp": "smtp.iprnet.com"
+    },
+    {
+      "domain": "aadnetpr.com",
+      "name": "AADNet PR",
+      "imap": "imap.aadnetpr.com",
+      "smtp": "smtp.aadnetpr.com"
+    },
+    {
+      "domain": "prepa.com",
+      "name": "PREPA",
+      "imap": "imap.prepa.com",
+      "smtp": "smtp.prepa.com"
+    },
+    {
+      "domain": "aic.pr",
+      "name": "AIC Puerto Rico",
+      "imap": "imap.aic.pr",
+      "smtp": "smtp.aic.pr"
+    },
+    {
+      "domain": "inter.edu",
+      "name": "Sistema UPR",
+      "imap": "imap.inter.edu",
+      "smtp": "smtp.inter.edu"
+    },
+    {
+      "domain": "suagm.edu",
+      "name": "SUAGM",
+      "imap": "imap.suagm.edu",
+      "smtp": "smtp.suagm.edu"
+    },
+    {
+      "domain": "aninal.edu",
+      "name": "Ana G Mendez",
+      "imap": "imap.aninal.edu",
+      "smtp": "smtp.aninal.edu"
+    },
+    {
+      "domain": "polypr.org",
+      "name": "Poly PR",
+      "imap": "imap.polypr.org",
+      "smtp": "smtp.polypr.org"
+    },
+    {
+      "domain": "uprb.edu",
+      "name": "UPR Bayamon",
+      "imap": "imap.uprb.edu",
+      "smtp": "smtp.uprb.edu"
+    },
+    {
+      "domain": "uprm.edu",
+      "name": "UPR Mayaguez",
+      "imap": "imap.uprm.edu",
+      "smtp": "smtp.uprm.edu"
+    },
+    {
+      "domain": "uprrp.edu",
+      "name": "UPR Rio Piedras",
+      "imap": "imap.uprrp.edu",
+      "smtp": "smtp.uprrp.edu"
     }
   ]
 }

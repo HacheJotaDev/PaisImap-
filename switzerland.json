@@ -5,86 +5,38 @@
     {
       "domain": "bluewin.ch",
       "name": "Swisscom Bluewin",
-      "imap": {
-        "host": "imap.bluewin.ch",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bluewin.ch",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bluewin.ch",
+      "smtp": "smtp.bluewin.ch"
     },
     {
       "domain": "gmx.ch",
       "name": "GMX Switzerland",
-      "imap": {
-        "host": "imap.gmx.ch",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "mail.gmx.ch",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.gmx.ch",
+      "smtp": "mail.gmx.ch"
     },
     {
       "domain": "hispeed.ch",
       "name": "Hispeed (Swisscom)",
-      "imap": {
-        "host": "imap.hispeed.ch",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.hispeed.ch",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.hispeed.ch",
+      "smtp": "smtp.hispeed.ch"
     },
     {
       "domain": "swissonline.ch",
       "name": "Swissonline",
-      "imap": {
-        "host": "imap.swissonline.ch",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.swissonline.ch",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.swissonline.ch",
+      "smtp": "smtp.swissonline.ch"
     },
     {
       "domain": "sunrise.ch",
       "name": "Sunrise",
-      "imap": {
-        "host": "imap.sunrise.ch",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sunrise.ch",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.sunrise.ch",
+      "smtp": "smtp.sunrise.ch"
     },
     {
       "domain": "ypu.ch",
       "name": "ypu (Sunrise)",
-      "imap": {
-        "host": "imap.ypu.ch",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ypu.ch",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ypu.ch",
+      "smtp": "smtp.ypu.ch"
     }
   ]
 }

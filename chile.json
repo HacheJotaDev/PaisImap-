@@ -5,380 +5,164 @@
     {
       "domain": "mi.cl",
       "name": "Mi Chile",
-      "imap": {
-        "host": "imap.mi.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mi.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mi.cl",
+      "smtp": "smtp.mi.cl"
     },
     {
       "domain": "entel.cl",
       "name": "Entel Chile",
-      "imap": {
-        "host": "imap.entel.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.entel.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.entel.cl",
+      "smtp": "smtp.entel.cl"
     },
     {
       "domain": "movistar.cl",
       "name": "Movistar Chile",
-      "imap": {
-        "host": "imap.movistar.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.movistar.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.movistar.cl",
+      "smtp": "smtp.movistar.cl"
     },
     {
       "domain": "vtr.cl",
       "name": "VTR Chile",
-      "imap": {
-        "host": "imap.vtr.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vtr.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vtr.cl",
+      "smtp": "smtp.vtr.cl"
     },
     {
       "domain": "uc.cl",
       "name": "Universidad Catolica Chile",
-      "imap": {
-        "host": "imap.uc.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uc.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uc.cl",
+      "smtp": "smtp.uc.cl"
     },
     {
       "domain": "chile.cl",
       "name": "Chile.cl",
-      "imap": {
-        "host": "imap.chile.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.chile.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.chile.cl",
+      "smtp": "smtp.chile.cl"
     },
     {
       "domain": "tie.cl",
       "name": "TIE Chile",
-      "imap": {
-        "host": "imap.tie.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tie.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tie.cl",
+      "smtp": "smtp.tie.cl"
     },
     {
       "domain": "gtd.cl",
       "name": "GTD/Manquehue Chile",
-      "imap": {
-        "host": "imap.gtd.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gtd.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.gtd.cl",
+      "smtp": "smtp.gtd.cl"
     },
     {
       "domain": "claro.cl",
       "name": "Claro Chile",
-      "imap": {
-        "host": "imap.claro.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.claro.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.claro.cl",
+      "smtp": "smtp.claro.cl"
     },
     {
       "domain": "wom.cl",
       "name": "WOM Chile",
-      "imap": {
-        "host": "imap.wom.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.wom.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.wom.cl",
+      "smtp": "smtp.wom.cl"
     },
     {
       "domain": "cam.cl",
       "name": "CAM Chile",
-      "imap": {
-        "host": "imap.cam.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cam.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cam.cl",
+      "smtp": "smtp.cam.cl"
     },
     {
       "domain": "uchile.cl",
       "name": "Universidad de Chile",
-      "imap": {
-        "host": "imap.uchile.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uchile.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uchile.cl",
+      "smtp": "smtp.uchile.cl"
     },
     {
       "domain": "puc.cl",
       "name": "Pontificia Universidad Catolica de Chile",
-      "imap": {
-        "host": "imap.puc.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.puc.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.puc.cl",
+      "smtp": "smtp.puc.cl"
     },
     {
       "domain": "utalca.cl",
       "name": "Universidad de Talca",
-      "imap": {
-        "host": "imap.utalca.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.utalca.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.utalca.cl",
+      "smtp": "smtp.utalca.cl"
     },
     {
       "domain": "udec.cl",
       "name": "Universidad de Concepcion",
-      "imap": {
-        "host": "imap.udec.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.udec.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.udec.cl",
+      "smtp": "smtp.udec.cl"
     },
     {
       "domain": "usach.cl",
       "name": "Universidad de Santiago de Chile",
-      "imap": {
-        "host": "imap.usach.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.usach.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.usach.cl",
+      "smtp": "smtp.usach.cl"
     },
     {
       "domain": "uv.cl",
       "name": "Universidad de Valparaiso",
-      "imap": {
-        "host": "imap.uv.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uv.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uv.cl",
+      "smtp": "smtp.uv.cl"
     },
     {
       "domain": "uach.cl",
       "name": "Universidad Austral de Chile",
-      "imap": {
-        "host": "imap.uach.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uach.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uach.cl",
+      "smtp": "smtp.uach.cl"
     },
     {
       "domain": "umag.cl",
       "name": "Universidad de Magallanes",
-      "imap": {
-        "host": "imap.umag.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.umag.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.umag.cl",
+      "smtp": "smtp.umag.cl"
     },
     {
       "domain": "ufro.cl",
       "name": "Universidad de la Frontera",
-      "imap": {
-        "host": "imap.ufro.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ufro.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ufro.cl",
+      "smtp": "smtp.ufro.cl"
     },
     {
       "domain": "uantof.cl",
       "name": "Universidad de Antofagasta",
-      "imap": {
-        "host": "imap.uantof.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uantof.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uantof.cl",
+      "smtp": "smtp.uantof.cl"
     },
     {
       "domain": "ucv.cl",
       "name": "Universidad Cientifica del Sur",
-      "imap": {
-        "host": "imap.ucv.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ucv.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ucv.cl",
+      "smtp": "smtp.ucv.cl"
     },
     {
       "domain": "uai.cl",
       "name": "Universidad Adolfo Ibanez",
-      "imap": {
-        "host": "imap.uai.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uai.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uai.cl",
+      "smtp": "smtp.uai.cl"
     },
     {
       "domain": "unab.cl",
       "name": "Universidad Nacional Andres Bello",
-      "imap": {
-        "host": "imap.unab.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unab.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unab.cl",
+      "smtp": "smtp.unab.cl"
     },
     {
       "domain": "udp.cl",
       "name": "Universidad Diego Portales",
-      "imap": {
-        "host": "imap.udp.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.udp.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.udp.cl",
+      "smtp": "smtp.udp.cl"
     },
     {
       "domain": "udd.cl",
       "name": "Universidad del Desarrollo",
-      "imap": {
-        "host": "imap.udd.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.udd.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.udd.cl",
+      "smtp": "smtp.udd.cl"
     },
     {
       "domain": "ucentral.cl",
       "name": "Universidad Central de Chile",
-      "imap": {
-        "host": "imap.ucentral.cl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ucentral.cl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ucentral.cl",
+      "smtp": "smtp.ucentral.cl"
     }
   ]
 }

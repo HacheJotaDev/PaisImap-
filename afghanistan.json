@@ -5,72 +5,32 @@
     {
       "domain": "afghan-wireless.com",
       "name": "Afghan Wireless",
-      "imap": {
-        "host": "imap.afghan-wireless.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.afghan-wireless.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.afghan-wireless.com",
+      "smtp": "smtp.afghan-wireless.com"
     },
     {
       "domain": "roshan.af",
       "name": "Roshan",
-      "imap": {
-        "host": "imap.roshan.af",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.roshan.af",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.roshan.af",
+      "smtp": "smtp.roshan.af"
     },
     {
       "domain": "etisalat.af",
       "name": "Etisalat Afghanistan",
-      "imap": {
-        "host": "imap.etisalat.af",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.etisalat.af",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.etisalat.af",
+      "smtp": "smtp.etisalat.af"
     },
     {
       "domain": "mtn.af",
       "name": "MTN Afghanistan",
-      "imap": {
-        "host": "imap.mtn.af",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mtn.af",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mtn.af",
+      "smtp": "smtp.mtn.af"
     },
     {
       "domain": "kabul.edu.af",
       "name": "Kabul University",
-      "imap": {
-        "host": "imap.kabul.edu.af",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kabul.edu.af",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.kabul.edu.af",
+      "smtp": "smtp.kabul.edu.af"
     }
   ]
 }

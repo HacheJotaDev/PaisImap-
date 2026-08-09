@@ -5,58 +5,26 @@
     {
       "domain": "cvtelecom.cv",
       "name": "CV Telecom",
-      "imap": {
-        "host": "imap.cvtelecom.cv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cvtelecom.cv",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.cvtelecom.cv",
+      "smtp": "smtp.cvtelecom.cv"
     },
     {
       "domain": "mail.cv",
       "name": "Mail CV",
-      "imap": {
-        "host": "imap.mail.cv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.cv",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mail.cv",
+      "smtp": "smtp.mail.cv"
     },
     {
       "domain": "cabonettv.cv",
       "name": "Cabonet CV",
-      "imap": {
-        "host": "imap.cabonettv.cv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cabonettv.cv",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.cabonettv.cv",
+      "smtp": "smtp.cabonettv.cv"
     },
     {
       "domain": "cabo.cv",
       "name": "Cabo CV",
-      "imap": {
-        "host": "imap.cabo.cv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cabo.cv",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.cabo.cv",
+      "smtp": "smtp.cabo.cv"
     }
   ]
 }

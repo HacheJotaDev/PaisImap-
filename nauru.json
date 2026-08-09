@@ -5,30 +5,14 @@
     {
       "domain": "cenpac.net.nr",
       "name": "CenPac Nauru",
-      "imap": {
-        "host": "imap.cenpac.net.nr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cenpac.net.nr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cenpac.net.nr",
+      "smtp": "smtp.cenpac.net.nr"
     },
     {
       "domain": "nauru-telecom.nr",
       "name": "Nauru Telecom",
-      "imap": {
-        "host": "imap.nauru-telecom.nr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nauru-telecom.nr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.nauru-telecom.nr",
+      "smtp": "smtp.nauru-telecom.nr"
     }
   ]
 }

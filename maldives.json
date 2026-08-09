@@ -5,58 +5,26 @@
     {
       "domain": "dhivehinet.net.mv",
       "name": "Dhiraagu DhivehiNet",
-      "imap": {
-        "host": "imap.dhivehinet.net.mv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dhivehinet.net.mv",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.dhivehinet.net.mv",
+      "smtp": "smtp.dhivehinet.net.mv"
     },
     {
       "domain": "ooredoo.mv",
       "name": "Ooredoo Maldives",
-      "imap": {
-        "host": "imap.ooredoo.mv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ooredoo.mv",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ooredoo.mv",
+      "smtp": "smtp.ooredoo.mv"
     },
     {
       "domain": "wataniya.mv",
       "name": "Wataniya (Ooredoo)",
-      "imap": {
-        "host": "imap.wataniya.mv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.wataniya.mv",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.wataniya.mv",
+      "smtp": "smtp.wataniya.mv"
     },
     {
       "domain": "dhiraagu.mv",
       "name": "Dhiraagu",
-      "imap": {
-        "host": "imap.dhiraagu.mv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dhiraagu.mv",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.dhiraagu.mv",
+      "smtp": "smtp.dhiraagu.mv"
     }
   ]
 }

@@ -5,58 +5,26 @@
     {
       "domain": "telecom.li",
       "name": "Telecom Liechtenstein",
-      "imap": {
-        "host": "imap.telecom.li",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telecom.li",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telecom.li",
+      "smtp": "smtp.telecom.li"
     },
     {
       "domain": "llv.li",
       "name": "LLV Liechtenstein",
-      "imap": {
-        "host": "imap.llv.li",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.llv.li",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.llv.li",
+      "smtp": "smtp.llv.li"
     },
     {
       "domain": "iuk.li",
       "name": "Internationale Universitat Liechtenstein",
-      "imap": {
-        "host": "imap.iuk.li",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.iuk.li",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.iuk.li",
+      "smtp": "smtp.iuk.li"
     },
     {
       "domain": "uni.li",
       "name": "University of Liechtenstein",
-      "imap": {
-        "host": "imap.uni.li",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uni.li",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uni.li",
+      "smtp": "smtp.uni.li"
     }
   ]
 }

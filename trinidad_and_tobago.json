@@ -5,58 +5,80 @@
     {
       "domain": "tstt.co.tt",
       "name": "TSTT",
-      "imap": {
-        "host": "imap.tstt.co.tt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tstt.co.tt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tstt.co.tt",
+      "smtp": "smtp.tstt.co.tt"
     },
     {
       "domain": "flow.tt",
       "name": "FLOW Trinidad & Tobago",
-      "imap": {
-        "host": "imap.flow.tt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.flow.tt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.flow.tt",
+      "smtp": "smtp.flow.tt"
     },
     {
       "domain": "digiceltt.com",
       "name": "Digicel Trinidad & Tobago",
-      "imap": {
-        "host": "imap.digiceltt.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digiceltt.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digiceltt.com",
+      "smtp": "smtp.digiceltt.com"
     },
     {
       "domain": "namracott.com",
       "name": "Namraco TT",
-      "imap": {
-        "host": "imap.namracott.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.namracott.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.namracott.com",
+      "smtp": "smtp.namracott.com"
+    },
+    {
+      "domain": "greenetworkstt.com",
+      "name": "Green Networks TT",
+      "imap": "imap.greenetworkstt.com",
+      "smtp": "smtp.greenetworkstt.com"
+    },
+    {
+      "domain": "uwitt.edu.tt",
+      "name": "UWI Trinidad",
+      "imap": "imap.uwitt.edu.tt",
+      "smtp": "smtp.uwitt.edu.tt"
+    },
+    {
+      "domain": "utt.edu.tt",
+      "name": "UTT Trinidad",
+      "imap": "imap.utt.edu.tt",
+      "smtp": "smtp.utt.edu.tt"
+    },
+    {
+      "domain": "costaatt.edu.tt",
+      "name": "COSTAATT",
+      "imap": "imap.costaatt.edu.tt",
+      "smtp": "smtp.costaatt.edu.tt"
+    },
+    {
+      "domain": "fstt.org.tt",
+      "name": "FSTT",
+      "imap": "imap.fstt.org.tt",
+      "smtp": "smtp.fstt.org.tt"
+    },
+    {
+      "domain": "nalis.gov.tt",
+      "name": "NALIS",
+      "imap": "imap.nalis.gov.tt",
+      "smtp": "smtp.nalis.gov.tt"
+    },
+    {
+      "domain": "tntg.gov.tt",
+      "name": "TNTG",
+      "imap": "imap.tntg.gov.tt",
+      "smtp": "smtp.tntg.gov.tt"
+    },
+    {
+      "domain": "tstp.org.tt",
+      "name": "TSTP",
+      "imap": "imap.tstp.org.tt",
+      "smtp": "smtp.tstp.org.tt"
+    },
+    {
+      "domain": "caribbeanjobs.com",
+      "name": "CaribbeanJobs TT",
+      "imap": "imap.caribbeanjobs.com",
+      "smtp": "smtp.caribbeanjobs.com"
     }
   ]
 }

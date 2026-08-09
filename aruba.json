@@ -5,44 +5,20 @@
     {
       "domain": "setar.aw",
       "name": "SETAR Aruba",
-      "imap": {
-        "host": "imap.setar.aw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.setar.aw",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.setar.aw",
+      "smtp": "smtp.setar.aw"
     },
     {
       "domain": "digicel-aruba.com",
       "name": "Digicel Aruba",
-      "imap": {
-        "host": "imap.digicel-aruba.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digicel-aruba.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digicel-aruba.com",
+      "smtp": "smtp.digicel-aruba.com"
     },
     {
       "domain": "setarnet.aw",
       "name": "SetarNet Aruba",
-      "imap": {
-        "host": "imap.setarnet.aw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.setarnet.aw",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.setarnet.aw",
+      "smtp": "smtp.setarnet.aw"
     }
   ]
 }

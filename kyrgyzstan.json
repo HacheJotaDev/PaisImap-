@@ -5,114 +5,50 @@
     {
       "domain": "kyrgyztelecom.kg",
       "name": "Kyrgyztelecom",
-      "imap": {
-        "host": "imap.kyrgyztelecom.kg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kyrgyztelecom.kg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.kyrgyztelecom.kg",
+      "smtp": "smtp.kyrgyztelecom.kg"
     },
     {
       "domain": "beeline.kg",
       "name": "Beeline Kyrgyzstan",
-      "imap": {
-        "host": "imap.beeline.kg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.beeline.kg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.beeline.kg",
+      "smtp": "smtp.beeline.kg"
     },
     {
       "domain": "megacom.kg",
       "name": "MegaCom",
-      "imap": {
-        "host": "imap.megacom.kg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.megacom.kg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.megacom.kg",
+      "smtp": "smtp.megacom.kg"
     },
     {
       "domain": "o.kg",
       "name": "O! (Nur Telecom)",
-      "imap": {
-        "host": "imap.o.kg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.o.kg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.o.kg",
+      "smtp": "smtp.o.kg"
     },
     {
       "domain": "nur.kg",
       "name": "Nur Telecom",
-      "imap": {
-        "host": "imap.nur.kg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nur.kg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.nur.kg",
+      "smtp": "smtp.nur.kg"
     },
     {
       "domain": "aktel.kg",
       "name": "Aktel",
-      "imap": {
-        "host": "imap.aktel.kg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.aktel.kg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.aktel.kg",
+      "smtp": "smtp.aktel.kg"
     },
     {
       "domain": "elcat.kg",
       "name": "Elcat",
-      "imap": {
-        "host": "imap.elcat.kg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.elcat.kg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.elcat.kg",
+      "smtp": "smtp.elcat.kg"
     },
     {
       "domain": "saimanet.kg",
       "name": "SaimaNet",
-      "imap": {
-        "host": "imap.saimanet.kg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.saimanet.kg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.saimanet.kg",
+      "smtp": "smtp.saimanet.kg"
     }
   ]
 }

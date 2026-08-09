@@ -5,58 +5,26 @@
     {
       "domain": "intnet.mu",
       "name": "Mauritius Telecom",
-      "imap": {
-        "host": "imap.intnet.mu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.intnet.mu",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.intnet.mu",
+      "smtp": "smtp.intnet.mu"
     },
     {
       "domain": "orange.mu",
       "name": "Orange Mauritius",
-      "imap": {
-        "host": "imap.orange.mu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.orange.mu",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.orange.mu",
+      "smtp": "smtp.orange.mu"
     },
     {
       "domain": "emtel.mu",
       "name": "Emtel",
-      "imap": {
-        "host": "imap.emtel.mu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.emtel.mu",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.emtel.mu",
+      "smtp": "smtp.emtel.mu"
     },
     {
       "domain": "deo.mu",
       "name": "Deo.mu",
-      "imap": {
-        "host": "imap.deo.mu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.deo.mu",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.deo.mu",
+      "smtp": "smtp.deo.mu"
     }
   ]
 }

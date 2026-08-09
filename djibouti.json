@@ -5,30 +5,14 @@
     {
       "domain": "djibouti-telecom.dj",
       "name": "Djibouti Telecom",
-      "imap": {
-        "host": "imap.djibouti-telecom.dj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.djibouti-telecom.dj",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.djibouti-telecom.dj",
+      "smtp": "smtp.djibouti-telecom.dj"
     },
     {
       "domain": "evatis.dj",
       "name": "Evatis Djibouti",
-      "imap": {
-        "host": "imap.evatis.dj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.evatis.dj",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.evatis.dj",
+      "smtp": "smtp.evatis.dj"
     }
   ]
 }

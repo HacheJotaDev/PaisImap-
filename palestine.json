@@ -5,72 +5,32 @@
     {
       "domain": "paltel.ps",
       "name": "Palestine Telecom (Paltel)",
-      "imap": {
-        "host": "imap.paltel.ps",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.paltel.ps",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.paltel.ps",
+      "smtp": "smtp.paltel.ps"
     },
     {
       "domain": "hadara.ps",
       "name": "Hadara",
-      "imap": {
-        "host": "imap.hadara.ps",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.hadara.ps",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.hadara.ps",
+      "smtp": "smtp.hadara.ps"
     },
     {
       "domain": "jawwal.ps",
       "name": "Jawwal",
-      "imap": {
-        "host": "imap.jawwal.ps",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.jawwal.ps",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.jawwal.ps",
+      "smtp": "smtp.jawwal.ps"
     },
     {
       "domain": "palnet.com",
       "name": "Palnet",
-      "imap": {
-        "host": "imap.palnet.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.palnet.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.palnet.com",
+      "smtp": "smtp.palnet.com"
     },
     {
       "domain": "gaza.net",
       "name": "Gaza Net",
-      "imap": {
-        "host": "imap.gaza.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gaza.net",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.gaza.net",
+      "smtp": "smtp.gaza.net"
     }
   ]
 }

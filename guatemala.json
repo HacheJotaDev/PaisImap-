@@ -5,114 +5,80 @@
     {
       "domain": "tigo.com.gt",
       "name": "Tigo Guatemala",
-      "imap": {
-        "host": "imap.tigo.com.gt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tigo.com.gt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tigo.com.gt",
+      "smtp": "smtp.tigo.com.gt"
     },
     {
       "domain": "claro.com.gt",
       "name": "Claro Guatemala",
-      "imap": {
-        "host": "imap.claro.com.gt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.claro.com.gt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.claro.com.gt",
+      "smtp": "smtp.claro.com.gt"
     },
     {
       "domain": "usac.edu.gt",
       "name": "USAC",
-      "imap": {
-        "host": "imap.usac.edu.gt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.usac.edu.gt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.usac.edu.gt",
+      "smtp": "smtp.usac.edu.gt"
     },
     {
       "domain": "movistar.com.gt",
       "name": "Movistar Guatemala",
-      "imap": {
-        "host": "imap.movistar.com.gt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.movistar.com.gt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.movistar.com.gt",
+      "smtp": "smtp.movistar.com.gt"
     },
     {
       "domain": "digicelgt.com",
       "name": "Digicel Guatemala",
-      "imap": {
-        "host": "imap.digicelgt.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digicelgt.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digicelgt.com",
+      "smtp": "smtp.digicelgt.com"
     },
     {
       "domain": "ufm.edu.gt",
       "name": "Universidad Francisco Marroquin",
-      "imap": {
-        "host": "imap.ufm.edu.gt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ufm.edu.gt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ufm.edu.gt",
+      "smtp": "smtp.ufm.edu.gt"
     },
     {
       "domain": "url.edu.gt",
       "name": "Universidad Rafael Landivar",
-      "imap": {
-        "host": "imap.url.edu.gt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.url.edu.gt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.url.edu.gt",
+      "smtp": "smtp.url.edu.gt"
     },
     {
       "domain": "ufm.edu",
       "name": "UFM Guatemala",
-      "imap": {
-        "host": "imap.ufm.edu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ufm.edu",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ufm.edu",
+      "smtp": "smtp.ufm.edu"
+    },
+    {
+      "domain": "cablenetgt.com",
+      "name": "Cablenet Guatemala",
+      "imap": "imap.cablenetgt.com",
+      "smtp": "smtp.cablenetgt.com"
+    },
+    {
+      "domain": "marcopolo.com.gt",
+      "name": "Marcopolo GT",
+      "imap": "imap.marcopolo.com.gt",
+      "smtp": "smtp.marcopolo.com.gt"
+    },
+    {
+      "domain": "uvgt.edu.gt",
+      "name": "UVG Guatemala",
+      "imap": "imap.uvgt.edu.gt",
+      "smtp": "smtp.uvgt.edu.gt"
+    },
+    {
+      "domain": "landivar.edu",
+      "name": "Landivar",
+      "imap": "imap.landivar.edu",
+      "smtp": "smtp.landivar.edu"
+    },
+    {
+      "domain": "marroquin.edu.gt",
+      "name": "Marroquin",
+      "imap": "imap.marroquin.edu.gt",
+      "smtp": "smtp.marroquin.edu.gt"
     }
   ]
 }

@@ -5,142 +5,62 @@
     {
       "domain": "terra.es",
       "name": "Terra Espana",
-      "imap": {
-        "host": "imap.terra.es",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.terra.es",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.terra.es",
+      "smtp": "smtp.terra.es"
     },
     {
       "domain": "telefonica.net",
       "name": "Telefonica",
-      "imap": {
-        "host": "imap.telefonica.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telefonica.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telefonica.net",
+      "smtp": "smtp.telefonica.net"
     },
     {
       "domain": "movistar.es",
       "name": "Movistar",
-      "imap": {
-        "host": "imap.movistar.es",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.movistar.es",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.movistar.es",
+      "smtp": "smtp.movistar.es"
     },
     {
       "domain": "orange.es",
       "name": "Orange Espana",
-      "imap": {
-        "host": "imap.orange.es",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.orange.es",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.orange.es",
+      "smtp": "smtp.orange.es"
     },
     {
       "domain": "vodafone.es",
       "name": "Vodafone Espana",
-      "imap": {
-        "host": "imap.vodafone.es",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vodafone.es",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vodafone.es",
+      "smtp": "smtp.vodafone.es"
     },
     {
       "domain": "ono.com",
       "name": "ONO Vodafone",
-      "imap": {
-        "host": "imap.ono.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ono.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ono.com",
+      "smtp": "smtp.ono.com"
     },
     {
       "domain": "jazztel.es",
       "name": "Jazztel Orange",
-      "imap": {
-        "host": "imap.jazztel.es",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.jazztel.es",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.jazztel.es",
+      "smtp": "smtp.jazztel.es"
     },
     {
       "domain": "ub.edu",
       "name": "Universitat de Barcelona",
-      "imap": {
-        "host": "imap.ub.edu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ub.edu",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ub.edu",
+      "smtp": "smtp.ub.edu"
     },
     {
       "domain": "upm.es",
       "name": "UPM Madrid",
-      "imap": {
-        "host": "imap.upm.es",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.upm.es",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.upm.es",
+      "smtp": "smtp.upm.es"
     },
     {
       "domain": "ucm.es",
       "name": "UCM Madrid",
-      "imap": {
-        "host": "imap.ucm.es",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ucm.es",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ucm.es",
+      "smtp": "smtp.ucm.es"
     }
   ]
 }

@@ -5,212 +5,92 @@
     {
       "domain": "ymail.com",
       "name": "Yahoo YMail",
-      "imap": {
-        "host": "imap.mail.yahoo.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.yahoo.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mail.yahoo.com",
+      "smtp": "smtp.mail.yahoo.com"
     },
     {
       "domain": "nitda.gov.ng",
       "name": "NITDA Nigeria",
-      "imap": {
-        "host": "imap.nitda.gov.ng",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nitda.gov.ng",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.nitda.gov.ng",
+      "smtp": "smtp.nitda.gov.ng"
     },
     {
       "domain": "nnpcgroup.com",
       "name": "NNPC Group",
-      "imap": {
-        "host": "imap.nnpcgroup.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nnpcgroup.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.nnpcgroup.com",
+      "smtp": "smtp.nnpcgroup.com"
     },
     {
       "domain": "mtnbusiness.ng",
       "name": "MTN Business Nigeria",
-      "imap": {
-        "host": "imap.mtnbusiness.ng",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mtnbusiness.ng",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mtnbusiness.ng",
+      "smtp": "smtp.mtnbusiness.ng"
     },
     {
       "domain": "airtel.ng",
       "name": "Airtel Nigeria",
-      "imap": {
-        "host": "imap.airtel.ng",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.airtel.ng",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.airtel.ng",
+      "smtp": "smtp.airtel.ng"
     },
     {
       "domain": "9mobile.com.ng",
       "name": "9mobile (Etisalat)",
-      "imap": {
-        "host": "imap.9mobile.com.ng",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.9mobile.com.ng",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.9mobile.com.ng",
+      "smtp": "smtp.9mobile.com.ng"
     },
     {
       "domain": "spectranet.com.ng",
       "name": "Spectranet Nigeria",
-      "imap": {
-        "host": "imap.spectranet.com.ng",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.spectranet.com.ng",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.spectranet.com.ng",
+      "smtp": "smtp.spectranet.com.ng"
     },
     {
       "domain": "smile.ng",
       "name": "Smile Communications",
-      "imap": {
-        "host": "imap.smile.ng",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.smile.ng",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.smile.ng",
+      "smtp": "smtp.smile.ng"
     },
     {
       "domain": "cobranet.com.ng",
       "name": "Cobranet",
-      "imap": {
-        "host": "imap.cobranet.com.ng",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cobranet.com.ng",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.cobranet.com.ng",
+      "smtp": "smtp.cobranet.com.ng"
     },
     {
       "domain": "ipnxng.com",
       "name": "ipNX Nigeria",
-      "imap": {
-        "host": "imap.ipnxng.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ipnxng.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ipnxng.com",
+      "smtp": "smtp.ipnxng.com"
     },
     {
       "domain": "galaxybackbone.com",
       "name": "Galaxy Backbone",
-      "imap": {
-        "host": "imap.galaxybackbone.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.galaxybackbone.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.galaxybackbone.com",
+      "smtp": "smtp.galaxybackbone.com"
     },
     {
       "domain": "visafone.com",
       "name": "Visafone",
-      "imap": {
-        "host": "imap.visafone.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.visafone.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.visafone.com",
+      "smtp": "smtp.visafone.com"
     },
     {
       "domain": "ui.edu.ng",
       "name": "University of Ibadan",
-      "imap": {
-        "host": "imap.ui.edu.ng",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ui.edu.ng",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ui.edu.ng",
+      "smtp": "smtp.ui.edu.ng"
     },
     {
       "domain": "unilag.edu.ng",
       "name": "University of Lagos",
-      "imap": {
-        "host": "imap.unilag.edu.ng",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unilag.edu.ng",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unilag.edu.ng",
+      "smtp": "smtp.unilag.edu.ng"
     },
     {
       "domain": "uniben.edu.ng",
       "name": "University of Benin",
-      "imap": {
-        "host": "imap.uniben.edu.ng",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uniben.edu.ng",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uniben.edu.ng",
+      "smtp": "smtp.uniben.edu.ng"
     }
   ]
 }

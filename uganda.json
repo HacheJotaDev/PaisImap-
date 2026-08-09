@@ -5,100 +5,44 @@
     {
       "domain": "ugonline.co.ug",
       "name": "Uganda Telecom",
-      "imap": {
-        "host": "imap.ugonline.co.ug",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ugonline.co.ug",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ugonline.co.ug",
+      "smtp": "smtp.ugonline.co.ug"
     },
     {
       "domain": "airtel.co.ug",
       "name": "Airtel Uganda",
-      "imap": {
-        "host": "imap.airtel.co.ug",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.airtel.co.ug",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.airtel.co.ug",
+      "smtp": "smtp.airtel.co.ug"
     },
     {
       "domain": "mtn.co.ug",
       "name": "MTN Uganda",
-      "imap": {
-        "host": "imap.mtn.co.ug",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mtn.co.ug",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mtn.co.ug",
+      "smtp": "smtp.mtn.co.ug"
     },
     {
       "domain": "mweb.co.ug",
       "name": "Liquid Telecom Uganda",
-      "imap": {
-        "host": "imap.mweb.co.ug",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mweb.co.ug",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mweb.co.ug",
+      "smtp": "smtp.mweb.co.ug"
     },
     {
       "domain": "dmark.co.ug",
       "name": "Dmark",
-      "imap": {
-        "host": "imap.dmark.co.ug",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dmark.co.ug",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.dmark.co.ug",
+      "smtp": "smtp.dmark.co.ug"
     },
     {
       "domain": "one2net.co.ug",
       "name": "One2Net",
-      "imap": {
-        "host": "imap.one2net.co.ug",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.one2net.co.ug",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.one2net.co.ug",
+      "smtp": "smtp.one2net.co.ug"
     },
     {
       "domain": "africaonline.co.ug",
       "name": "Africa Online Uganda",
-      "imap": {
-        "host": "imap.africaonline.co.ug",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.africaonline.co.ug",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.africaonline.co.ug",
+      "smtp": "smtp.africaonline.co.ug"
     }
   ]
 }

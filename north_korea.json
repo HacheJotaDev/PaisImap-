@@ -5,44 +5,20 @@
     {
       "domain": "star.co.kp",
       "name": "Kwangmyong (Star JV)",
-      "imap": {
-        "host": "imap.star.co.kp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.star.co.kp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.star.co.kp",
+      "smtp": "smtp.star.co.kp"
     },
     {
       "domain": "byt.co.kp",
       "name": "Byt North Korea",
-      "imap": {
-        "host": "imap.byt.co.kp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.byt.co.kp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.byt.co.kp",
+      "smtp": "smtp.byt.co.kp"
     },
     {
       "domain": "naenara.kp",
       "name": "Naenara",
-      "imap": {
-        "host": "imap.naenara.kp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.naenara.kp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.naenara.kp",
+      "smtp": "smtp.naenara.kp"
     }
   ]
 }

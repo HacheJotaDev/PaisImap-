@@ -5,58 +5,26 @@
     {
       "domain": "vodacom.cd",
       "name": "Vodacom DRC",
-      "imap": {
-        "host": "imap.vodacom.cd",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vodacom.cd",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.vodacom.cd",
+      "smtp": "smtp.vodacom.cd"
     },
     {
       "domain": "airtel.cd",
       "name": "Airtel DRC",
-      "imap": {
-        "host": "imap.airtel.cd",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.airtel.cd",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.airtel.cd",
+      "smtp": "smtp.airtel.cd"
     },
     {
       "domain": "orange.cd",
       "name": "Orange DRC",
-      "imap": {
-        "host": "imap.orange.cd",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.orange.cd",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.orange.cd",
+      "smtp": "smtp.orange.cd"
     },
     {
       "domain": "tigo.cd",
       "name": "Tigo DRC",
-      "imap": {
-        "host": "imap.tigo.cd",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tigo.cd",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.tigo.cd",
+      "smtp": "smtp.tigo.cd"
     }
   ]
 }

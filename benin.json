@@ -5,58 +5,26 @@
     {
       "domain": "benintelecom.bj",
       "name": "Benin Telecom",
-      "imap": {
-        "host": "imap.benintelecom.bj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.benintelecom.bj",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.benintelecom.bj",
+      "smtp": "smtp.benintelecom.bj"
     },
     {
       "domain": "lo.bj",
       "name": "Lo.Bj",
-      "imap": {
-        "host": "imap.lo.bj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.lo.bj",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.lo.bj",
+      "smtp": "smtp.lo.bj"
     },
     {
       "domain": "inet.bj",
       "name": "INET Benin",
-      "imap": {
-        "host": "imap.inet.bj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.inet.bj",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.inet.bj",
+      "smtp": "smtp.inet.bj"
     },
     {
       "domain": "isoc.bj",
       "name": "ISOC Benin",
-      "imap": {
-        "host": "imap.isoc.bj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.isoc.bj",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.isoc.bj",
+      "smtp": "smtp.isoc.bj"
     }
   ]
 }

@@ -5,44 +5,20 @@
     {
       "domain": "seychelles.net",
       "name": "Seychelles Net",
-      "imap": {
-        "host": "imap.seychelles.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.seychelles.net",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.seychelles.net",
+      "smtp": "smtp.seychelles.net"
     },
     {
       "domain": "cableseychelles.com",
       "name": "Cable & Wireless Seychelles",
-      "imap": {
-        "host": "imap.cableseychelles.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cableseychelles.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.cableseychelles.com",
+      "smtp": "smtp.cableseychelles.com"
     },
     {
       "domain": "airtel.se",
       "name": "Airtel Seychelles",
-      "imap": {
-        "host": "imap.airtel.se",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.airtel.se",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.airtel.se",
+      "smtp": "smtp.airtel.se"
     }
   ]
 }

@@ -5,30 +5,14 @@
     {
       "domain": "fsmtelecom.fm",
       "name": "FSM Telecom",
-      "imap": {
-        "host": "imap.fsmtelecom.fm",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.fsmtelecom.fm",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.fsmtelecom.fm",
+      "smtp": "smtp.fsmtelecom.fm"
     },
     {
       "domain": "pats.fm",
       "name": "PATS FM",
-      "imap": {
-        "host": "imap.pats.fm",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pats.fm",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.pats.fm",
+      "smtp": "smtp.pats.fm"
     }
   ]
 }

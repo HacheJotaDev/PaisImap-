@@ -5,72 +5,32 @@
     {
       "domain": "kall.fo",
       "name": "Faroe Telecom (Kall)",
-      "imap": {
-        "host": "imap.kall.fo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kall.fo",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.kall.fo",
+      "smtp": "smtp.kall.fo"
     },
     {
       "domain": "portal.fo",
       "name": "Portal.fo",
-      "imap": {
-        "host": "imap.portal.fo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.portal.fo",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.portal.fo",
+      "smtp": "smtp.portal.fo"
     },
     {
       "domain": "olivant.fo",
       "name": "Olivant",
-      "imap": {
-        "host": "imap.olivant.fo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.olivant.fo",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.olivant.fo",
+      "smtp": "smtp.olivant.fo"
     },
     {
       "domain": "pfs.fo",
       "name": "P/F Sim Faroe",
-      "imap": {
-        "host": "imap.pfs.fo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pfs.fo",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.pfs.fo",
+      "smtp": "smtp.pfs.fo"
     },
     {
       "domain": "fo-telecom.fo",
       "name": "FO Telecom",
-      "imap": {
-        "host": "imap.fo-telecom.fo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.fo-telecom.fo",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.fo-telecom.fo",
+      "smtp": "smtp.fo-telecom.fo"
     }
   ]
 }

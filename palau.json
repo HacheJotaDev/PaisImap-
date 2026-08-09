@@ -5,44 +5,20 @@
     {
       "domain": "palau-telecom.com",
       "name": "Palau Telecom",
-      "imap": {
-        "host": "imap.palau-telecom.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.palau-telecom.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.palau-telecom.com",
+      "smtp": "smtp.palau-telecom.com"
     },
     {
       "domain": "belau.net",
       "name": "Belau Net (Palau Telecom)",
-      "imap": {
-        "host": "imap.belau.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.belau.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.belau.net",
+      "smtp": "smtp.belau.net"
     },
     {
       "domain": "pnccpalau.com",
       "name": "PNCC Palau",
-      "imap": {
-        "host": "imap.pnccpalau.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pnccpalau.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.pnccpalau.com",
+      "smtp": "smtp.pnccpalau.com"
     }
   ]
 }

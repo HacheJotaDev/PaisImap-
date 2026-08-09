@@ -5,44 +5,20 @@
     {
       "domain": "netangola.ao",
       "name": "Angola Telecom",
-      "imap": {
-        "host": "imap.netangola.ao",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.netangola.ao",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.netangola.ao",
+      "smtp": "smtp.netangola.ao"
     },
     {
       "domain": "unitel.ao",
       "name": "UNITEL",
-      "imap": {
-        "host": "imap.unitel.ao",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unitel.ao",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.unitel.ao",
+      "smtp": "smtp.unitel.ao"
     },
     {
       "domain": "movicel.ao",
       "name": "Movicel",
-      "imap": {
-        "host": "imap.movicel.ao",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.movicel.ao",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.movicel.ao",
+      "smtp": "smtp.movicel.ao"
     }
   ]
 }

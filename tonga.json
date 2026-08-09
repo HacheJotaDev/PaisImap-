@@ -5,58 +5,26 @@
     {
       "domain": "kalianet.to",
       "name": "Kalianet Tonga",
-      "imap": {
-        "host": "imap.kalianet.to",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kalianet.to",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.kalianet.to",
+      "smtp": "smtp.kalianet.to"
     },
     {
       "domain": "digicel.to",
       "name": "Digicel Tonga",
-      "imap": {
-        "host": "imap.digicel.to",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digicel.to",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digicel.to",
+      "smtp": "smtp.digicel.to"
     },
     {
       "domain": "tongacable.to",
       "name": "Tonga Cable",
-      "imap": {
-        "host": "imap.tongacable.to",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tongacable.to",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tongacable.to",
+      "smtp": "smtp.tongacable.to"
     },
     {
       "domain": "tongatelecom.to",
       "name": "Tonga Telecom",
-      "imap": {
-        "host": "imap.tongatelecom.to",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tongatelecom.to",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tongatelecom.to",
+      "smtp": "smtp.tongatelecom.to"
     }
   ]
 }

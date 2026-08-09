@@ -5,324 +5,140 @@
     {
       "domain": "seznam.cz",
       "name": "Seznam",
-      "imap": {
-        "host": "imap.seznam.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.seznam.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.seznam.cz",
+      "smtp": "smtp.seznam.cz"
     },
     {
       "domain": "email.cz",
       "name": "Email.cz",
-      "imap": {
-        "host": "imap.email.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.email.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.email.cz",
+      "smtp": "smtp.email.cz"
     },
     {
       "domain": "post.cz",
       "name": "Czech Post",
-      "imap": {
-        "host": "imap.post.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.post.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.post.cz",
+      "smtp": "smtp.post.cz"
     },
     {
       "domain": "centrum.cz",
       "name": "Centrum",
-      "imap": {
-        "host": "imap.centrum.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.centrum.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.centrum.cz",
+      "smtp": "smtp.centrum.cz"
     },
     {
       "domain": "volny.cz",
       "name": "Volny",
-      "imap": {
-        "host": "imap.volny.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.volny.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.volny.cz",
+      "smtp": "smtp.volny.cz"
     },
     {
       "domain": "quick.cz",
       "name": "Quick.cz",
-      "imap": {
-        "host": "imap.quick.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.quick.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.quick.cz",
+      "smtp": "smtp.quick.cz"
     },
     {
       "domain": "tiscali.cz",
       "name": "Tiscali.cz",
-      "imap": {
-        "host": "imap.tiscali.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tiscali.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tiscali.cz",
+      "smtp": "smtp.tiscali.cz"
     },
     {
       "domain": "atlas.cz",
       "name": "Atlas.cz",
-      "imap": {
-        "host": "imap.atlas.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.atlas.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.atlas.cz",
+      "smtp": "smtp.atlas.cz"
     },
     {
       "domain": "iol.cz",
       "name": "IOL.cz",
-      "imap": {
-        "host": "imap.iol.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.iol.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.iol.cz",
+      "smtp": "smtp.iol.cz"
     },
     {
       "domain": "chello.cz",
       "name": "UPC Czech (Chello)",
-      "imap": {
-        "host": "imap.chello.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.chello.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.chello.cz",
+      "smtp": "smtp.chello.cz"
     },
     {
       "domain": "o2.cz",
       "name": "O2 Czech",
-      "imap": {
-        "host": "imap.o2.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.o2.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.o2.cz",
+      "smtp": "smtp.o2.cz"
     },
     {
       "domain": "t-mobile.cz",
       "name": "T-Mobile Czech",
-      "imap": {
-        "host": "imap.t-mobile.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.t-mobile.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.t-mobile.cz",
+      "smtp": "smtp.t-mobile.cz"
     },
     {
       "domain": "vodafone.cz",
       "name": "Vodafone Czech",
-      "imap": {
-        "host": "imap.vodafone.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vodafone.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vodafone.cz",
+      "smtp": "smtp.vodafone.cz"
     },
     {
       "domain": "cvut.cz",
       "name": "CVUT Prague",
-      "imap": {
-        "host": "imap.cvut.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cvut.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cvut.cz",
+      "smtp": "smtp.cvut.cz"
     },
     {
       "domain": "cuni.cz",
       "name": "Charles University",
-      "imap": {
-        "host": "imap.cuni.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cuni.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cuni.cz",
+      "smtp": "smtp.cuni.cz"
     },
     {
       "domain": "muni.cz",
       "name": "Masaryk University",
-      "imap": {
-        "host": "imap.muni.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.muni.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.muni.cz",
+      "smtp": "smtp.muni.cz"
     },
     {
       "domain": "vutbr.cz",
       "name": "VUT Brno",
-      "imap": {
-        "host": "imap.vutbr.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vutbr.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vutbr.cz",
+      "smtp": "smtp.vutbr.cz"
     },
     {
       "domain": "zcu.cz",
       "name": "ZCU Plzen",
-      "imap": {
-        "host": "imap.zcu.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.zcu.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.zcu.cz",
+      "smtp": "smtp.zcu.cz"
     },
     {
       "domain": "upol.cz",
       "name": "Palacky University",
-      "imap": {
-        "host": "imap.upol.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.upol.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.upol.cz",
+      "smtp": "smtp.upol.cz"
     },
     {
       "domain": "vscht.cz",
       "name": "VSCHT Prague",
-      "imap": {
-        "host": "imap.vscht.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vscht.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vscht.cz",
+      "smtp": "smtp.vscht.cz"
     },
     {
       "domain": "fel.cvut.cz",
       "name": "FEL CVUT",
-      "imap": {
-        "host": "imap.fel.cvut.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.fel.cvut.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.fel.cvut.cz",
+      "smtp": "smtp.fel.cvut.cz"
     },
     {
       "domain": "fit.cvut.cz",
       "name": "FIT CVUT",
-      "imap": {
-        "host": "imap.fit.cvut.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.fit.cvut.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.fit.cvut.cz",
+      "smtp": "smtp.fit.cvut.cz"
     },
     {
       "domain": "pse.cz",
       "name": "PSE",
-      "imap": {
-        "host": "imap.pse.cz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pse.cz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.pse.cz",
+      "smtp": "smtp.pse.cz"
     }
   ]
 }

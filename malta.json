@@ -5,86 +5,38 @@
     {
       "domain": "onvol.net",
       "name": "OnVol",
-      "imap": {
-        "host": "imap.onvol.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.onvol.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.onvol.net",
+      "smtp": "smtp.onvol.net"
     },
     {
       "domain": "maltanet.net",
       "name": "GO Maltanet",
-      "imap": {
-        "host": "imap.maltanet.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.maltanet.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.maltanet.net",
+      "smtp": "smtp.maltanet.net"
     },
     {
       "domain": "vodafone.com.mt",
       "name": "Vodafone Malta",
-      "imap": {
-        "host": "imap.vodafone.com.mt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vodafone.com.mt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vodafone.com.mt",
+      "smtp": "smtp.vodafone.com.mt"
     },
     {
       "domain": "melita.com",
       "name": "Melita",
-      "imap": {
-        "host": "imap.melita.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.melita.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.melita.com",
+      "smtp": "smtp.melita.com"
     },
     {
       "domain": "mdi.com.mt",
       "name": "MDI Malta",
-      "imap": {
-        "host": "imap.mdi.com.mt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mdi.com.mt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mdi.com.mt",
+      "smtp": "smtp.mdi.com.mt"
     },
     {
       "domain": "um.edu.mt",
       "name": "University of Malta",
-      "imap": {
-        "host": "imap.um.edu.mt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.um.edu.mt",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.um.edu.mt",
+      "smtp": "smtp.um.edu.mt"
     }
   ]
 }

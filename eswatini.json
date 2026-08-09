@@ -5,44 +5,20 @@
     {
       "domain": "swazi-telecom.sz",
       "name": "Swazi Telecom",
-      "imap": {
-        "host": "imap.swazi-telecom.sz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.swazi-telecom.sz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.swazi-telecom.sz",
+      "smtp": "smtp.swazi-telecom.sz"
     },
     {
       "domain": "mtn.sz",
       "name": "MTN Eswatini",
-      "imap": {
-        "host": "imap.mtn.sz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mtn.sz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mtn.sz",
+      "smtp": "smtp.mtn.sz"
     },
     {
       "domain": "eswatini-telecom.sz",
       "name": "Eswatini Telecom",
-      "imap": {
-        "host": "imap.eswatini-telecom.sz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.eswatini-telecom.sz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.eswatini-telecom.sz",
+      "smtp": "smtp.eswatini-telecom.sz"
     }
   ]
 }

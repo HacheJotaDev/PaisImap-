@@ -5,114 +5,50 @@
     {
       "domain": "magicnet.mn",
       "name": "Magicnet Mongolia",
-      "imap": {
-        "host": "imap.magicnet.mn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.magicnet.mn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.magicnet.mn",
+      "smtp": "smtp.magicnet.mn"
     },
     {
       "domain": "mongol-telecom.mn",
       "name": "Mongolia Telecom",
-      "imap": {
-        "host": "imap.mongol-telecom.mn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mongol-telecom.mn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mongol-telecom.mn",
+      "smtp": "smtp.mongol-telecom.mn"
     },
     {
       "domain": "mobicom.mn",
       "name": "MobiCom",
-      "imap": {
-        "host": "imap.mobicom.mn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mobicom.mn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mobicom.mn",
+      "smtp": "smtp.mobicom.mn"
     },
     {
       "domain": "unitel.mn",
       "name": "Unitel",
-      "imap": {
-        "host": "imap.unitel.mn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unitel.mn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.unitel.mn",
+      "smtp": "smtp.unitel.mn"
     },
     {
       "domain": "skytel.mn",
       "name": "Skytel",
-      "imap": {
-        "host": "imap.skytel.mn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.skytel.mn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.skytel.mn",
+      "smtp": "smtp.skytel.mn"
     },
     {
       "domain": "gmobile.mn",
       "name": "G-Mobile",
-      "imap": {
-        "host": "imap.gmobile.mn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gmobile.mn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.gmobile.mn",
+      "smtp": "smtp.gmobile.mn"
     },
     {
       "domain": "info.mn",
       "name": "Info Mongolia",
-      "imap": {
-        "host": "imap.info.mn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.info.mn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.info.mn",
+      "smtp": "smtp.info.mn"
     },
     {
       "domain": "num.edu.mn",
       "name": "National University of Mongolia",
-      "imap": {
-        "host": "imap.num.edu.mn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.num.edu.mn",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.num.edu.mn",
+      "smtp": "smtp.num.edu.mn"
     }
   ]
 }

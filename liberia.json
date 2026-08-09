@@ -5,44 +5,20 @@
     {
       "domain": "lonestarcell.com",
       "name": "Lonestar Cell Liberia",
-      "imap": {
-        "host": "imap.lonestarcell.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.lonestarcell.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.lonestarcell.com",
+      "smtp": "smtp.lonestarcell.com"
     },
     {
       "domain": "libtelco.com.ln",
       "name": "Liberia Telecommunications",
-      "imap": {
-        "host": "imap.libtelco.com.ln",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.libtelco.com.ln",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.libtelco.com.ln",
+      "smtp": "smtp.libtelco.com.ln"
     },
     {
       "domain": "libtelco.com",
       "name": "LibTelCo",
-      "imap": {
-        "host": "imap.libtelco.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.libtelco.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.libtelco.com",
+      "smtp": "smtp.libtelco.com"
     }
   ]
 }

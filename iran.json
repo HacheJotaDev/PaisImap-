@@ -5,240 +5,104 @@
     {
       "domain": "mail.ir",
       "name": "Iran Mail",
-      "imap": {
-        "host": "imap.mail.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.ir",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mail.ir",
+      "smtp": "smtp.mail.ir"
     },
     {
       "domain": "tci.ir",
       "name": "Telecom Company of Iran (TCI)",
-      "imap": {
-        "host": "imap.tci.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tci.ir",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.tci.ir",
+      "smtp": "smtp.tci.ir"
     },
     {
       "domain": "mci.ir",
       "name": "Mobile Communication Iran (MCI)",
-      "imap": {
-        "host": "imap.mci.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mci.ir",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mci.ir",
+      "smtp": "smtp.mci.ir"
     },
     {
       "domain": "rightel.ir",
       "name": "Rightel",
-      "imap": {
-        "host": "imap.rightel.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.rightel.ir",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.rightel.ir",
+      "smtp": "smtp.rightel.ir"
     },
     {
       "domain": "shatel.ir",
       "name": "Shatel ISP",
-      "imap": {
-        "host": "imap.shatel.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.shatel.ir",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.shatel.ir",
+      "smtp": "smtp.shatel.ir"
     },
     {
       "domain": "pars-online.ir",
       "name": "Pars Online",
-      "imap": {
-        "host": "imap.pars-online.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pars-online.ir",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.pars-online.ir",
+      "smtp": "smtp.pars-online.ir"
     },
     {
       "domain": "asretelecom.ir",
       "name": "Asre Telecom",
-      "imap": {
-        "host": "imap.asretelecom.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.asretelecom.ir",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.asretelecom.ir",
+      "smtp": "smtp.asretelecom.ir"
     },
     {
       "domain": "datam.ir",
       "name": "Datam",
-      "imap": {
-        "host": "imap.datam.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.datam.ir",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.datam.ir",
+      "smtp": "smtp.datam.ir"
     },
     {
       "domain": "mehr.ir",
       "name": "Mehr ISP",
-      "imap": {
-        "host": "imap.mehr.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mehr.ir",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mehr.ir",
+      "smtp": "smtp.mehr.ir"
     },
     {
       "domain": "dci.ir",
       "name": "Datacenter Iran",
-      "imap": {
-        "host": "imap.dci.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dci.ir",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.dci.ir",
+      "smtp": "smtp.dci.ir"
     },
     {
       "domain": "arvancloud.ir",
       "name": "Arvan Cloud",
-      "imap": {
-        "host": "imap.arvancloud.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.arvancloud.ir",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.arvancloud.ir",
+      "smtp": "smtp.arvancloud.ir"
     },
     {
       "domain": "sepanta.ir",
       "name": "Sepanta",
-      "imap": {
-        "host": "imap.sepanta.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sepanta.ir",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.sepanta.ir",
+      "smtp": "smtp.sepanta.ir"
     },
     {
       "domain": "iranserver.com",
       "name": "Iran Server",
-      "imap": {
-        "host": "imap.iranserver.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.iranserver.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.iranserver.com",
+      "smtp": "smtp.iranserver.com"
     },
     {
       "domain": "rayandar.ir",
       "name": "Rayandar",
-      "imap": {
-        "host": "imap.rayandar.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.rayandar.ir",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.rayandar.ir",
+      "smtp": "smtp.rayandar.ir"
     },
     {
       "domain": "sharif.edu",
       "name": "Sharif University of Technology",
-      "imap": {
-        "host": "imap.sharif.edu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sharif.edu",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.sharif.edu",
+      "smtp": "smtp.sharif.edu"
     },
     {
       "domain": "tehran.ac.ir",
       "name": "University of Tehran",
-      "imap": {
-        "host": "imap.tehran.ac.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tehran.ac.ir",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tehran.ac.ir",
+      "smtp": "smtp.tehran.ac.ir"
     },
     {
       "domain": "ut.ac.ir",
       "name": "University of Tehran (UT)",
-      "imap": {
-        "host": "imap.ut.ac.ir",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ut.ac.ir",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ut.ac.ir",
+      "smtp": "smtp.ut.ac.ir"
     }
   ]
 }

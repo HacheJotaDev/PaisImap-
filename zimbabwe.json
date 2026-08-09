@@ -5,72 +5,32 @@
     {
       "domain": "telone.co.zw",
       "name": "TelOne",
-      "imap": {
-        "host": "imap.telone.co.zw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telone.co.zw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.telone.co.zw",
+      "smtp": "smtp.telone.co.zw"
     },
     {
       "domain": "econet.co.zw",
       "name": "Econet Zimbabwe",
-      "imap": {
-        "host": "imap.econet.co.zw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.econet.co.zw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.econet.co.zw",
+      "smtp": "smtp.econet.co.zw"
     },
     {
       "domain": "liquidtelecom.co.zw",
       "name": "Liquid Telecom Zimbabwe",
-      "imap": {
-        "host": "imap.liquidtelecom.co.zw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.liquidtelecom.co.zw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.liquidtelecom.co.zw",
+      "smtp": "smtp.liquidtelecom.co.zw"
     },
     {
       "domain": "zol.co.zw",
       "name": "ZOL Zimbabwe",
-      "imap": {
-        "host": "imap.zol.co.zw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.zol.co.zw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.zol.co.zw",
+      "smtp": "smtp.zol.co.zw"
     },
     {
       "domain": "powertel.co.zw",
       "name": "PowerTel",
-      "imap": {
-        "host": "imap.powertel.co.zw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.powertel.co.zw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.powertel.co.zw",
+      "smtp": "smtp.powertel.co.zw"
     }
   ]
 }

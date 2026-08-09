@@ -5,86 +5,62 @@
     {
       "domain": "tigohn.com",
       "name": "Tigo Honduras",
-      "imap": {
-        "host": "imap.tigohn.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tigohn.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tigohn.com",
+      "smtp": "smtp.tigohn.com"
     },
     {
       "domain": "claro.com.hn",
       "name": "Claro Honduras",
-      "imap": {
-        "host": "imap.claro.com.hn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.claro.com.hn",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.claro.com.hn",
+      "smtp": "smtp.claro.com.hn"
     },
     {
       "domain": "tigo.com.hn",
       "name": "Tigo Honduras",
-      "imap": {
-        "host": "imap.tigo.com.hn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tigo.com.hn",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tigo.com.hn",
+      "smtp": "smtp.tigo.com.hn"
     },
     {
       "domain": "digicelhn.com",
       "name": "Digicel Honduras",
-      "imap": {
-        "host": "imap.digicelhn.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digicelhn.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digicelhn.com",
+      "smtp": "smtp.digicelhn.com"
     },
     {
       "domain": "unah.edu.hn",
       "name": "Universidad Nacional Autonoma de Honduras",
-      "imap": {
-        "host": "imap.unah.edu.hn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unah.edu.hn",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unah.edu.hn",
+      "smtp": "smtp.unah.edu.hn"
     },
     {
       "domain": "unenah.edu.hn",
       "name": "UNAH Honduras",
-      "imap": {
-        "host": "imap.unenah.edu.hn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unenah.edu.hn",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unenah.edu.hn",
+      "smtp": "smtp.unenah.edu.hn"
+    },
+    {
+      "domain": "movistar.com.hn",
+      "name": "Movistar Honduras",
+      "imap": "imap.movistar.com.hn",
+      "smtp": "smtp.movistar.com.hn"
+    },
+    {
+      "domain": "hondutel.hn",
+      "name": "Hondutel",
+      "imap": "imap.hondutel.hn",
+      "smtp": "smtp.hondutel.hn"
+    },
+    {
+      "domain": "upnfm.edu.hn",
+      "name": "UPNFM",
+      "imap": "imap.upnfm.edu.hn",
+      "smtp": "smtp.upnfm.edu.hn"
+    },
+    {
+      "domain": "unicah.edu",
+      "name": "UNICAH",
+      "imap": "imap.unicah.edu",
+      "smtp": "smtp.unicah.edu"
     }
   ]
 }

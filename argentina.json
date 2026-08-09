@@ -5,464 +5,200 @@
     {
       "domain": "fibertel.com.ar",
       "name": "Fibertel",
-      "imap": {
-        "host": "imap.fibertel.com.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.fibertel.com.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.fibertel.com.ar",
+      "smtp": "smtp.fibertel.com.ar"
     },
     {
       "domain": "speedy.com.ar",
       "name": "Speedy",
-      "imap": {
-        "host": "imap.speedy.com.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.speedy.com.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.speedy.com.ar",
+      "smtp": "smtp.speedy.com.ar"
     },
     {
       "domain": "arnet.com.ar",
       "name": "Arnet",
-      "imap": {
-        "host": "imap.arnet.com.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.arnet.com.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.arnet.com.ar",
+      "smtp": "smtp.arnet.com.ar"
     },
     {
       "domain": "telecentro.net.ar",
       "name": "Telecentro",
-      "imap": {
-        "host": "imap.telecentro.net.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telecentro.net.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telecentro.net.ar",
+      "smtp": "smtp.telecentro.net.ar"
     },
     {
       "domain": "ciudad.com.ar",
       "name": "Ciudad",
-      "imap": {
-        "host": "imap.ciudad.com.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ciudad.com.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ciudad.com.ar",
+      "smtp": "smtp.ciudad.com.ar"
     },
     {
       "domain": "infovia.com.ar",
       "name": "Infovia",
-      "imap": {
-        "host": "imap.infovia.com.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.infovia.com.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.infovia.com.ar",
+      "smtp": "smtp.infovia.com.ar"
     },
     {
       "domain": "ambar.com.ar",
       "name": "Ambar Telecom Argentina",
-      "imap": {
-        "host": "imap.ambar.com.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ambar.com.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ambar.com.ar",
+      "smtp": "smtp.ambar.com.ar"
     },
     {
       "domain": "mp.educ.ar",
       "name": "Educ.ar (Ministerio de Educacion)",
-      "imap": {
-        "host": "imap.mp.educ.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mp.educ.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mp.educ.ar",
+      "smtp": "smtp.mp.educ.ar"
     },
     {
       "domain": "uba.ar",
       "name": "Universidad de Buenos Aires",
-      "imap": {
-        "host": "imap.uba.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uba.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uba.ar",
+      "smtp": "smtp.uba.ar"
     },
     {
       "domain": "unlp.edu.ar",
       "name": "Universidad Nacional de La Plata",
-      "imap": {
-        "host": "imap.unlp.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unlp.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unlp.edu.ar",
+      "smtp": "smtp.unlp.edu.ar"
     },
     {
       "domain": "unc.edu.ar",
       "name": "Universidad Nacional de Cordoba",
-      "imap": {
-        "host": "imap.unc.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unc.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unc.edu.ar",
+      "smtp": "smtp.unc.edu.ar"
     },
     {
       "domain": "fi.uba.ar",
       "name": "Facultad de Ingenieria UBA",
-      "imap": {
-        "host": "imap.fi.uba.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.fi.uba.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.fi.uba.ar",
+      "smtp": "smtp.fi.uba.ar"
     },
     {
       "domain": "dc.uba.ar",
       "name": "Departamento de Computacion UBA",
-      "imap": {
-        "host": "imap.dc.uba.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dc.uba.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.dc.uba.ar",
+      "smtp": "smtp.dc.uba.ar"
     },
     {
       "domain": "uade.edu.ar",
       "name": "Universidad Argentina de la Empresa",
-      "imap": {
-        "host": "imap.uade.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uade.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uade.edu.ar",
+      "smtp": "smtp.uade.edu.ar"
     },
     {
       "domain": "uces.edu.ar",
       "name": "Universidad de Ciencias Empresariales",
-      "imap": {
-        "host": "imap.uces.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uces.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uces.edu.ar",
+      "smtp": "smtp.uces.edu.ar"
     },
     {
       "domain": "ucema.edu.ar",
       "name": "UCEMA",
-      "imap": {
-        "host": "imap.ucema.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ucema.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ucema.edu.ar",
+      "smtp": "smtp.ucema.edu.ar"
     },
     {
       "domain": "uca.edu.ar",
       "name": "Universidad Catolica Argentina",
-      "imap": {
-        "host": "imap.uca.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uca.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uca.edu.ar",
+      "smtp": "smtp.uca.edu.ar"
     },
     {
       "domain": "itba.edu.ar",
       "name": "ITBA",
-      "imap": {
-        "host": "imap.itba.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.itba.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.itba.edu.ar",
+      "smtp": "smtp.itba.edu.ar"
     },
     {
       "domain": "utn.edu.ar",
       "name": "Universidad Tecnologica Nacional",
-      "imap": {
-        "host": "imap.utn.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.utn.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.utn.edu.ar",
+      "smtp": "smtp.utn.edu.ar"
     },
     {
       "domain": "unq.edu.ar",
       "name": "Universidad Nacional de Quilmes",
-      "imap": {
-        "host": "imap.unq.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unq.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unq.edu.ar",
+      "smtp": "smtp.unq.edu.ar"
     },
     {
       "domain": "unlam.edu.ar",
       "name": "Universidad Nacional de Lomas de Zamora",
-      "imap": {
-        "host": "imap.unlam.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unlam.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unlam.edu.ar",
+      "smtp": "smtp.unlam.edu.ar"
     },
     {
       "domain": "unlu.edu.ar",
       "name": "Universidad Nacional de Lujan",
-      "imap": {
-        "host": "imap.unlu.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unlu.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unlu.edu.ar",
+      "smtp": "smtp.unlu.edu.ar"
     },
     {
       "domain": "unr.edu.ar",
       "name": "Universidad Nacional de Rosario",
-      "imap": {
-        "host": "imap.unr.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unr.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unr.edu.ar",
+      "smtp": "smtp.unr.edu.ar"
     },
     {
       "domain": "uns.edu.ar",
       "name": "Universidad Nacional del Sur",
-      "imap": {
-        "host": "imap.uns.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uns.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uns.edu.ar",
+      "smtp": "smtp.uns.edu.ar"
     },
     {
       "domain": "unsl.edu.ar",
       "name": "Universidad Nacional de San Luis",
-      "imap": {
-        "host": "imap.unsl.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unsl.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unsl.edu.ar",
+      "smtp": "smtp.unsl.edu.ar"
     },
     {
       "domain": "unju.edu.ar",
       "name": "Universidad Nacional de Jujuy",
-      "imap": {
-        "host": "imap.unju.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unju.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unju.edu.ar",
+      "smtp": "smtp.unju.edu.ar"
     },
     {
       "domain": "unca.edu.ar",
       "name": "Universidad Nacional de Catamarca",
-      "imap": {
-        "host": "imap.unca.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unca.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unca.edu.ar",
+      "smtp": "smtp.unca.edu.ar"
     },
     {
       "domain": "unse.edu.ar",
       "name": "Universidad Nacional de Santiago del Estero",
-      "imap": {
-        "host": "imap.unse.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unse.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unse.edu.ar",
+      "smtp": "smtp.unse.edu.ar"
     },
     {
       "domain": "unrc.edu.ar",
       "name": "Universidad Nacional de Rio Cuarto",
-      "imap": {
-        "host": "imap.unrc.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unrc.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unrc.edu.ar",
+      "smtp": "smtp.unrc.edu.ar"
     },
     {
       "domain": "uncomahue.edu.ar",
       "name": "Universidad Nacional del Comahue",
-      "imap": {
-        "host": "imap.uncomahue.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uncomahue.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uncomahue.edu.ar",
+      "smtp": "smtp.uncomahue.edu.ar"
     },
     {
       "domain": "unrn.edu.ar",
       "name": "Universidad Nacional de Rio Negro",
-      "imap": {
-        "host": "imap.unrn.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unrn.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unrn.edu.ar",
+      "smtp": "smtp.unrn.edu.ar"
     },
     {
       "domain": "untdf.edu.ar",
       "name": "Universidad Nacional de Tierra del Fuego",
-      "imap": {
-        "host": "imap.untdf.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.untdf.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.untdf.edu.ar",
+      "smtp": "smtp.untdf.edu.ar"
     },
     {
       "domain": "unab.edu.ar",
       "name": "Universidad Nacional de Asuncion AR",
-      "imap": {
-        "host": "imap.unab.edu.ar",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unab.edu.ar",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unab.edu.ar",
+      "smtp": "smtp.unab.edu.ar"
     }
   ]
 }

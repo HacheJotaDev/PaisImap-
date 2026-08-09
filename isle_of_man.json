@@ -5,58 +5,26 @@
     {
       "domain": "manx.net",
       "name": "Manx Telecom",
-      "imap": {
-        "host": "imap.manx.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.manx.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.manx.net",
+      "smtp": "smtp.manx.net"
     },
     {
       "domain": "cwgsy.net",
       "name": "C&W Isle of Man",
-      "imap": {
-        "host": "imap.cwgsy.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cwgsy.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cwgsy.net",
+      "smtp": "smtp.cwgsy.net"
     },
     {
       "domain": "sure.im",
       "name": "Sure Isle of Man",
-      "imap": {
-        "host": "imap.sure.im",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sure.im",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.sure.im",
+      "smtp": "smtp.sure.im"
     },
     {
       "domain": "dukesonline.im",
       "name": "Dukes Online",
-      "imap": {
-        "host": "imap.dukesonline.im",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dukesonline.im",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.dukesonline.im",
+      "smtp": "smtp.dukesonline.im"
     }
   ]
 }

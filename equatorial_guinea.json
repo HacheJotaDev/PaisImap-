@@ -5,30 +5,14 @@
     {
       "domain": "getsa.gq",
       "name": "GETSA Equatorial Guinea",
-      "imap": {
-        "host": "imap.getsa.gq",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.getsa.gq",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.getsa.gq",
+      "smtp": "smtp.getsa.gq"
     },
     {
       "domain": "guineasat.gq",
       "name": "GuineaSat",
-      "imap": {
-        "host": "imap.guineasat.gq",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.guineasat.gq",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.guineasat.gq",
+      "smtp": "smtp.guineasat.gq"
     }
   ]
 }

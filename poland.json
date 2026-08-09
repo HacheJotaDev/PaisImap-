@@ -5,478 +5,206 @@
     {
       "domain": "wp.pl",
       "name": "Wirtualna Polska",
-      "imap": {
-        "host": "imap.wp.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.wp.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.wp.pl",
+      "smtp": "smtp.wp.pl"
     },
     {
       "domain": "onet.pl",
       "name": "Onet.pl",
-      "imap": {
-        "host": "imap.onet.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.onet.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.onet.pl",
+      "smtp": "smtp.onet.pl"
     },
     {
       "domain": "poczta.fm",
       "name": "Poczta FM",
-      "imap": {
-        "host": "imap.poczta.fm",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.poczta.fm",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.poczta.fm",
+      "smtp": "smtp.poczta.fm"
     },
     {
       "domain": "op.pl",
       "name": "Orange Polska",
-      "imap": {
-        "host": "imap.op.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.op.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.op.pl",
+      "smtp": "smtp.op.pl"
     },
     {
       "domain": "tlen.pl",
       "name": "Tlen.pl",
-      "imap": {
-        "host": "imap.tlen.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tlen.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tlen.pl",
+      "smtp": "smtp.tlen.pl"
     },
     {
       "domain": "o2.pl",
       "name": "o2.pl",
-      "imap": {
-        "host": "imap.o2.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.o2.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.o2.pl",
+      "smtp": "smtp.o2.pl"
     },
     {
       "domain": "gazeta.pl",
       "name": "Gazeta.pl",
-      "imap": {
-        "host": "imap.gazeta.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gazeta.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.gazeta.pl",
+      "smtp": "smtp.gazeta.pl"
     },
     {
       "domain": "interia.pl",
       "name": "Interia.pl",
-      "imap": {
-        "host": "imap.interia.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.interia.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.interia.pl",
+      "smtp": "smtp.interia.pl"
     },
     {
       "domain": "poczta.onet.pl",
       "name": "Poczta Onet",
-      "imap": {
-        "host": "imap.poczta.onet.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.poczta.onet.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.poczta.onet.pl",
+      "smtp": "smtp.poczta.onet.pl"
     },
     {
       "domain": "poczta.wp.pl",
       "name": "WP Poczta",
-      "imap": {
-        "host": "imap.poczta.wp.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.poczta.wp.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.poczta.wp.pl",
+      "smtp": "smtp.poczta.wp.pl"
     },
     {
       "domain": "neostrada.pl",
       "name": "Orange Neostrada",
-      "imap": {
-        "host": "imap.neostrada.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.neostrada.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.neostrada.pl",
+      "smtp": "smtp.neostrada.pl"
     },
     {
       "domain": "tvn.pl",
       "name": "TVN",
-      "imap": {
-        "host": "imap.tvn.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tvn.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tvn.pl",
+      "smtp": "smtp.tvn.pl"
     },
     {
       "domain": "polbox.pl",
       "name": "Polbox",
-      "imap": {
-        "host": "imap.polbox.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.polbox.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.polbox.pl",
+      "smtp": "smtp.polbox.pl"
     },
     {
       "domain": "amorki.pl",
       "name": "Amorki.pl",
-      "imap": {
-        "host": "imap.amorki.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.amorki.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.amorki.pl",
+      "smtp": "smtp.amorki.pl"
     },
     {
       "domain": "poczta.interia.pl",
       "name": "Poczta Interia",
-      "imap": {
-        "host": "imap.poczta.interia.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.poczta.interia.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.poczta.interia.pl",
+      "smtp": "smtp.poczta.interia.pl"
     },
     {
       "domain": "chello.pl",
       "name": "UPC Poland (Chello)",
-      "imap": {
-        "host": "imap.chello.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.chello.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.chello.pl",
+      "smtp": "smtp.chello.pl"
     },
     {
       "domain": "netia.pl",
       "name": "Netia",
-      "imap": {
-        "host": "imap.netia.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.netia.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.netia.pl",
+      "smtp": "smtp.netia.pl"
     },
     {
       "domain": "inea.pl",
       "name": "Inea",
-      "imap": {
-        "host": "imap.inea.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.inea.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.inea.pl",
+      "smtp": "smtp.inea.pl"
     },
     {
       "domain": "multimedia.pl",
       "name": "Multimedia",
-      "imap": {
-        "host": "imap.multimedia.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.multimedia.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.multimedia.pl",
+      "smtp": "smtp.multimedia.pl"
     },
     {
       "domain": "exatel.pl",
       "name": "Exatel",
-      "imap": {
-        "host": "imap.exatel.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.exatel.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.exatel.pl",
+      "smtp": "smtp.exatel.pl"
     },
     {
       "domain": "tp.pl",
       "name": "Telekomunikacja Polska",
-      "imap": {
-        "host": "imap.tp.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tp.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tp.pl",
+      "smtp": "smtp.tp.pl"
     },
     {
       "domain": "gts.pl",
       "name": "GTS Poland",
-      "imap": {
-        "host": "imap.gts.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gts.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.gts.pl",
+      "smtp": "smtp.gts.pl"
     },
     {
       "domain": "home.pl",
       "name": "home.pl",
-      "imap": {
-        "host": "imap.home.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.home.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.home.pl",
+      "smtp": "smtp.home.pl"
     },
     {
       "domain": "agh.edu.pl",
       "name": "AGH Krakow",
-      "imap": {
-        "host": "imap.agh.edu.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.agh.edu.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.agh.edu.pl",
+      "smtp": "smtp.agh.edu.pl"
     },
     {
       "domain": "uw.edu.pl",
       "name": "University of Warsaw",
-      "imap": {
-        "host": "imap.uw.edu.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uw.edu.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uw.edu.pl",
+      "smtp": "smtp.uw.edu.pl"
     },
     {
       "domain": "pw.edu.pl",
       "name": "PW Warsaw",
-      "imap": {
-        "host": "imap.pw.edu.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pw.edu.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.pw.edu.pl",
+      "smtp": "smtp.pw.edu.pl"
     },
     {
       "domain": "pwr.edu.pl",
       "name": "PWr Wroclaw",
-      "imap": {
-        "host": "imap.pwr.edu.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pwr.edu.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.pwr.edu.pl",
+      "smtp": "smtp.pwr.edu.pl"
     },
     {
       "domain": "uj.edu.pl",
       "name": "Jagiellonian University",
-      "imap": {
-        "host": "imap.uj.edu.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uj.edu.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uj.edu.pl",
+      "smtp": "smtp.uj.edu.pl"
     },
     {
       "domain": "us.edu.pl",
       "name": "University of Silesia",
-      "imap": {
-        "host": "imap.us.edu.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.us.edu.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.us.edu.pl",
+      "smtp": "smtp.us.edu.pl"
     },
     {
       "domain": "umk.pl",
       "name": "UMK Torun",
-      "imap": {
-        "host": "imap.umk.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.umk.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.umk.pl",
+      "smtp": "smtp.umk.pl"
     },
     {
       "domain": "put.poznan.pl",
       "name": "PUT Poznan",
-      "imap": {
-        "host": "imap.put.poznan.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.put.poznan.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.put.poznan.pl",
+      "smtp": "smtp.put.poznan.pl"
     },
     {
       "domain": "p.lodz.pl",
       "name": "Lodz University of Technology",
-      "imap": {
-        "host": "imap.p.lodz.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.p.lodz.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.p.lodz.pl",
+      "smtp": "smtp.p.lodz.pl"
     },
     {
       "domain": "mimuw.edu.pl",
       "name": "MIMUW",
-      "imap": {
-        "host": "imap.mimuw.edu.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mimuw.edu.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mimuw.edu.pl",
+      "smtp": "smtp.mimuw.edu.pl"
     },
     {
       "domain": "fuw.edu.pl",
       "name": "FUW Warsaw",
-      "imap": {
-        "host": "imap.fuw.edu.pl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.fuw.edu.pl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.fuw.edu.pl",
+      "smtp": "smtp.fuw.edu.pl"
     }
   ]
 }

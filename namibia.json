@@ -5,58 +5,26 @@
     {
       "domain": "namimail.com.na",
       "name": "Namibia Telecom (Namimail)",
-      "imap": {
-        "host": "imap.namimail.com.na",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.namimail.com.na",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.namimail.com.na",
+      "smtp": "smtp.namimail.com.na"
     },
     {
       "domain": "mobile.na",
       "name": "Mobile Telecommunications Namibia",
-      "imap": {
-        "host": "imap.mobile.na",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mobile.na",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mobile.na",
+      "smtp": "smtp.mobile.na"
     },
     {
       "domain": "mtn.com.na",
       "name": "MTN Namibia",
-      "imap": {
-        "host": "imap.mtn.com.na",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mtn.com.na",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mtn.com.na",
+      "smtp": "smtp.mtn.com.na"
     },
     {
       "domain": "iway.na",
       "name": "iWay Namibia",
-      "imap": {
-        "host": "imap.iway.na",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.iway.na",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.iway.na",
+      "smtp": "smtp.iway.na"
     }
   ]
 }

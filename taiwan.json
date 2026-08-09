@@ -5,184 +5,80 @@
     {
       "domain": "seed.net.tw",
       "name": "SeedNet",
-      "imap": {
-        "host": "imap.seed.net.tw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.seed.net.tw",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.seed.net.tw",
+      "smtp": "smtp.seed.net.tw"
     },
     {
       "domain": "hinet.net",
       "name": "HiNet",
-      "imap": {
-        "host": "imap.hinet.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.hinet.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.hinet.net",
+      "smtp": "smtp.hinet.net"
     },
     {
       "domain": "url.com.tw",
       "name": "URL Taiwan",
-      "imap": {
-        "host": "imap.url.com.tw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.url.com.tw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.url.com.tw",
+      "smtp": "smtp.url.com.tw"
     },
     {
       "domain": "pchome.com.tw",
       "name": "PChome",
-      "imap": {
-        "host": "imap.pchome.com.tw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pchome.com.tw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.pchome.com.tw",
+      "smtp": "smtp.pchome.com.tw"
     },
     {
       "domain": "xuite.net",
       "name": "Xuite",
-      "imap": {
-        "host": "imap.xuite.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.xuite.net",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.xuite.net",
+      "smtp": "smtp.xuite.net"
     },
     {
       "domain": "yam.com",
       "name": "Yam (蕃薯藤)",
-      "imap": {
-        "host": "imap.yam.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.yam.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.yam.com",
+      "smtp": "smtp.yam.com"
     },
     {
       "domain": "mobile01.com",
       "name": "Mobile01",
-      "imap": {
-        "host": "imap.mobile01.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mobile01.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mobile01.com",
+      "smtp": "smtp.mobile01.com"
     },
     {
       "domain": "giga.net.tw",
       "name": "Giga Taiwan",
-      "imap": {
-        "host": "imap.giga.net.tw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.giga.net.tw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.giga.net.tw",
+      "smtp": "smtp.giga.net.tw"
     },
     {
       "domain": "twnic.net.tw",
       "name": "TWNIC",
-      "imap": {
-        "host": "imap.twnic.net.tw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.twnic.net.tw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.twnic.net.tw",
+      "smtp": "smtp.twnic.net.tw"
     },
     {
       "domain": "twmail.org",
       "name": "TW Mail",
-      "imap": {
-        "host": "imap.twmail.org",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.twmail.org",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.twmail.org",
+      "smtp": "smtp.twmail.org"
     },
     {
       "domain": "ntu.edu.tw",
       "name": "National Taiwan University",
-      "imap": {
-        "host": "imap.ntu.edu.tw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ntu.edu.tw",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ntu.edu.tw",
+      "smtp": "smtp.ntu.edu.tw"
     },
     {
       "domain": "nthu.edu.tw",
       "name": "National Tsing Hua University",
-      "imap": {
-        "host": "imap.nthu.edu.tw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nthu.edu.tw",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.nthu.edu.tw",
+      "smtp": "smtp.nthu.edu.tw"
     },
     {
       "domain": "ncku.edu.tw",
       "name": "National Cheng Kung University",
-      "imap": {
-        "host": "imap.ncku.edu.tw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ncku.edu.tw",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ncku.edu.tw",
+      "smtp": "smtp.ncku.edu.tw"
     }
   ]
 }

@@ -5,44 +5,20 @@
     {
       "domain": "btc.bw",
       "name": "Botswana Telecommunications",
-      "imap": {
-        "host": "imap.btc.bw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.btc.bw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.btc.bw",
+      "smtp": "smtp.btc.bw"
     },
     {
       "domain": "mascom.bw",
       "name": "Mascom",
-      "imap": {
-        "host": "imap.mascom.bw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mascom.bw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mascom.bw",
+      "smtp": "smtp.mascom.bw"
     },
     {
       "domain": "be-mobile.co.bw",
       "name": "Be Mobile",
-      "imap": {
-        "host": "imap.be-mobile.co.bw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.be-mobile.co.bw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.be-mobile.co.bw",
+      "smtp": "smtp.be-mobile.co.bw"
     }
   ]
 }

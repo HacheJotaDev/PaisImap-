@@ -5,72 +5,32 @@
     {
       "domain": "mana.pf",
       "name": "Mana French Polynesia",
-      "imap": {
-        "host": "imap.mana.pf",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mana.pf",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mana.pf",
+      "smtp": "smtp.mana.pf"
     },
     {
       "domain": "tahiti.pf",
       "name": "Tahiti Internet",
-      "imap": {
-        "host": "imap.tahiti.pf",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tahiti.pf",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tahiti.pf",
+      "smtp": "smtp.tahiti.pf"
     },
     {
       "domain": "vini.pf",
       "name": "Vini (OPT)",
-      "imap": {
-        "host": "imap.vini.pf",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vini.pf",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vini.pf",
+      "smtp": "smtp.vini.pf"
     },
     {
       "domain": "offratel.pf",
       "name": "Offratel (OPT)",
-      "imap": {
-        "host": "imap.offratel.pf",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.offratel.pf",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.offratel.pf",
+      "smtp": "smtp.offratel.pf"
     },
     {
       "domain": "tiki.pf",
       "name": "Tiki French Polynesia",
-      "imap": {
-        "host": "imap.tiki.pf",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tiki.pf",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tiki.pf",
+      "smtp": "smtp.tiki.pf"
     }
   ]
 }

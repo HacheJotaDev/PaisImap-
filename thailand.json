@@ -5,198 +5,86 @@
     {
       "domain": "sanook.com",
       "name": "Sanook",
-      "imap": {
-        "host": "imap.sanook.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sanook.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.sanook.com",
+      "smtp": "smtp.sanook.com"
     },
     {
       "domain": "ksc.co.th",
       "name": "KSC Internet",
-      "imap": {
-        "host": "imap.ksc.co.th",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ksc.co.th",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ksc.co.th",
+      "smtp": "smtp.ksc.co.th"
     },
     {
       "domain": "thai.com",
       "name": "TOT (Thai Telecom)",
-      "imap": {
-        "host": "imap.thai.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.thai.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.thai.com",
+      "smtp": "smtp.thai.com"
     },
     {
       "domain": "cscoms.com",
       "name": "CS LoxInfo",
-      "imap": {
-        "host": "imap.cscoms.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cscoms.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.cscoms.com",
+      "smtp": "smtp.cscoms.com"
     },
     {
       "domain": "cattelecom.com",
       "name": "CAT Telecom",
-      "imap": {
-        "host": "imap.cattelecom.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cattelecom.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.cattelecom.com",
+      "smtp": "smtp.cattelecom.com"
     },
     {
       "domain": "ais.co.th",
       "name": "AIS",
-      "imap": {
-        "host": "imap.ais.co.th",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ais.co.th",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ais.co.th",
+      "smtp": "smtp.ais.co.th"
     },
     {
       "domain": "dtac.co.th",
       "name": "DTAC",
-      "imap": {
-        "host": "imap.dtac.co.th",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dtac.co.th",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.dtac.co.th",
+      "smtp": "smtp.dtac.co.th"
     },
     {
       "domain": "truecorp.co.th",
       "name": "True Corporation",
-      "imap": {
-        "host": "imap.truecorp.co.th",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.truecorp.co.th",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.truecorp.co.th",
+      "smtp": "smtp.truecorp.co.th"
     },
     {
       "domain": "ji-net.com",
       "name": "Ji-Net",
-      "imap": {
-        "host": "imap.ji-net.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ji-net.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ji-net.com",
+      "smtp": "smtp.ji-net.com"
     },
     {
       "domain": "asiantel.co.th",
       "name": "Asian Telecom",
-      "imap": {
-        "host": "imap.asiantel.co.th",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.asiantel.co.th",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.asiantel.co.th",
+      "smtp": "smtp.asiantel.co.th"
     },
     {
       "domain": "etl.co.th",
       "name": "ETL Thailand",
-      "imap": {
-        "host": "imap.etl.co.th",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.etl.co.th",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.etl.co.th",
+      "smtp": "smtp.etl.co.th"
     },
     {
       "domain": "3bb.co.th",
       "name": "3BB (Triple T)",
-      "imap": {
-        "host": "imap.3bb.co.th",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.3bb.co.th",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.3bb.co.th",
+      "smtp": "smtp.3bb.co.th"
     },
     {
       "domain": "inet.co.th",
       "name": "INET Thailand",
-      "imap": {
-        "host": "imap.inet.co.th",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.inet.co.th",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.inet.co.th",
+      "smtp": "smtp.inet.co.th"
     },
     {
       "domain": "mozart.co.th",
       "name": "Mozart",
-      "imap": {
-        "host": "imap.mozart.co.th",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mozart.co.th",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mozart.co.th",
+      "smtp": "smtp.mozart.co.th"
     }
   ]
 }

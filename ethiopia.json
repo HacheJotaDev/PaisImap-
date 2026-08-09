@@ -5,44 +5,20 @@
     {
       "domain": "ethio-telecom.et",
       "name": "Ethio Telecom",
-      "imap": {
-        "host": "imap.ethio-telecom.et",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ethio-telecom.et",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ethio-telecom.et",
+      "smtp": "smtp.ethio-telecom.et"
     },
     {
       "domain": "ethiopianairlines.com",
       "name": "Ethiopian Airlines",
-      "imap": {
-        "host": "imap.ethiopianairlines.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ethiopianairlines.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ethiopianairlines.com",
+      "smtp": "smtp.ethiopianairlines.com"
     },
     {
       "domain": "aau.edu.et",
       "name": "Addis Ababa University",
-      "imap": {
-        "host": "imap.aau.edu.et",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.aau.edu.et",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.aau.edu.et",
+      "smtp": "smtp.aau.edu.et"
     }
   ]
 }

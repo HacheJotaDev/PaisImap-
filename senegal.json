@@ -5,72 +5,32 @@
     {
       "domain": "sentoo.sn",
       "name": "Sentoo",
-      "imap": {
-        "host": "imap.sentoo.sn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sentoo.sn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.sentoo.sn",
+      "smtp": "smtp.sentoo.sn"
     },
     {
       "domain": "orange.sn",
       "name": "Orange Senegal",
-      "imap": {
-        "host": "imap.orange.sn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.orange.sn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.orange.sn",
+      "smtp": "smtp.orange.sn"
     },
     {
       "domain": "tigo.sn",
       "name": "Tigo Senegal (Free)",
-      "imap": {
-        "host": "imap.tigo.sn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tigo.sn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.tigo.sn",
+      "smtp": "smtp.tigo.sn"
     },
     {
       "domain": "sonatel.sn",
       "name": "Sonatel",
-      "imap": {
-        "host": "imap.sonatel.sn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sonatel.sn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.sonatel.sn",
+      "smtp": "smtp.sonatel.sn"
     },
     {
       "domain": "expresso.sn",
       "name": "Expresso Senegal",
-      "imap": {
-        "host": "imap.expresso.sn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.expresso.sn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.expresso.sn",
+      "smtp": "smtp.expresso.sn"
     }
   ]
 }

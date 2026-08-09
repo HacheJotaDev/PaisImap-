@@ -5,114 +5,50 @@
     {
       "domain": "topnet.tn",
       "name": "TopNet",
-      "imap": {
-        "host": "imap.topnet.tn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.topnet.tn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.topnet.tn",
+      "smtp": "smtp.topnet.tn"
     },
     {
       "domain": "planet.tn",
       "name": "Planet Tunisie",
-      "imap": {
-        "host": "imap.planet.tn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.planet.tn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.planet.tn",
+      "smtp": "smtp.planet.tn"
     },
     {
       "domain": "mail.tn",
       "name": "Mail TN",
-      "imap": {
-        "host": "imap.mail.tn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.tn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mail.tn",
+      "smtp": "smtp.mail.tn"
     },
     {
       "domain": "hexabyte.tn",
       "name": "HexaByte",
-      "imap": {
-        "host": "imap.hexabyte.tn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.hexabyte.tn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.hexabyte.tn",
+      "smtp": "smtp.hexabyte.tn"
     },
     {
       "domain": "attijari.com.tn",
       "name": "Attijari Bank Tunisia",
-      "imap": {
-        "host": "imap.attijari.com.tn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.attijari.com.tn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.attijari.com.tn",
+      "smtp": "smtp.attijari.com.tn"
     },
     {
       "domain": "tunisie-telecom.tn",
       "name": "Tunisie Telecom",
-      "imap": {
-        "host": "imap.tunisie-telecom.tn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tunisie-telecom.tn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.tunisie-telecom.tn",
+      "smtp": "smtp.tunisie-telecom.tn"
     },
     {
       "domain": "oreka.tn",
       "name": "Oreka",
-      "imap": {
-        "host": "imap.oreka.tn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.oreka.tn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.oreka.tn",
+      "smtp": "smtp.oreka.tn"
     },
     {
       "domain": "globalnet.tn",
       "name": "GlobalNet",
-      "imap": {
-        "host": "imap.globalnet.tn",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.globalnet.tn",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.globalnet.tn",
+      "smtp": "smtp.globalnet.tn"
     }
   ]
 }

@@ -5,198 +5,86 @@
     {
       "domain": "tin.it",
       "name": "Tiscali Italia",
-      "imap": {
-        "host": "imap.tin.it",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tin.it",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tin.it",
+      "smtp": "smtp.tin.it"
     },
     {
       "domain": "tiscali.it",
       "name": "Tiscali",
-      "imap": {
-        "host": "imap.tiscali.it",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tiscali.it",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tiscali.it",
+      "smtp": "smtp.tiscali.it"
     },
     {
       "domain": "libero.it",
       "name": "Libero",
-      "imap": {
-        "host": "imap.libero.it",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.libero.it",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.libero.it",
+      "smtp": "smtp.libero.it"
     },
     {
       "domain": "virgilio.it",
       "name": "Virgilio",
-      "imap": {
-        "host": "imap.virgilio.it",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.virgilio.it",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.virgilio.it",
+      "smtp": "smtp.virgilio.it"
     },
     {
       "domain": "alice.it",
       "name": "Alice Italia",
-      "imap": {
-        "host": "imap.alice.it",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.alice.it",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.alice.it",
+      "smtp": "smtp.alice.it"
     },
     {
       "domain": "telecomitalia.it",
       "name": "Telecom Italia",
-      "imap": {
-        "host": "imap.telecomitalia.it",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telecomitalia.it",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telecomitalia.it",
+      "smtp": "smtp.telecomitalia.it"
     },
     {
       "domain": "tim.it",
       "name": "TIM",
-      "imap": {
-        "host": "imap.tim.it",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tim.it",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tim.it",
+      "smtp": "smtp.tim.it"
     },
     {
       "domain": "wind.it",
       "name": "Wind Italia",
-      "imap": {
-        "host": "imap.wind.it",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.wind.it",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.wind.it",
+      "smtp": "smtp.wind.it"
     },
     {
       "domain": "infostrada.it",
       "name": "Infostrada",
-      "imap": {
-        "host": "imap.infostrada.it",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.infostrada.it",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.infostrada.it",
+      "smtp": "smtp.infostrada.it"
     },
     {
       "domain": "vodafone.it",
       "name": "Vodafone Italia",
-      "imap": {
-        "host": "imap.vodafone.it",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vodafone.it",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vodafone.it",
+      "smtp": "smtp.vodafone.it"
     },
     {
       "domain": "fastwebnet.it",
       "name": "Fastweb",
-      "imap": {
-        "host": "imap.fastwebnet.it",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.fastwebnet.it",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.fastwebnet.it",
+      "smtp": "smtp.fastwebnet.it"
     },
     {
       "domain": "poste.it",
       "name": "Poste Italiane",
-      "imap": {
-        "host": "imap.poste.it",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.poste.it",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.poste.it",
+      "smtp": "smtp.poste.it"
     },
     {
       "domain": "pec.poste.it",
       "name": "PEC Poste Italiane",
-      "imap": {
-        "host": "imap.pec.poste.it",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pec.poste.it",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.pec.poste.it",
+      "smtp": "smtp.pec.poste.it"
     },
     {
       "domain": "unibo.it",
       "name": "Universita di Bologna",
-      "imap": {
-        "host": "imap.unibo.it",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unibo.it",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unibo.it",
+      "smtp": "smtp.unibo.it"
     }
   ]
 }

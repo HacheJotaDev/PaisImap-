@@ -5,58 +5,80 @@
     {
       "domain": "haititelecom.com",
       "name": "Haiti Telecom",
-      "imap": {
-        "host": "imap.haititelecom.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.haititelecom.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.haititelecom.com",
+      "smtp": "smtp.haititelecom.com"
     },
     {
       "domain": "digicelhaiti.com",
       "name": "Digicel Haiti",
-      "imap": {
-        "host": "imap.digicelhaiti.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digicelhaiti.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digicelhaiti.com",
+      "smtp": "smtp.digicelhaiti.com"
     },
     {
       "domain": "natcom.ht",
       "name": "Natcom Haiti",
-      "imap": {
-        "host": "imap.natcom.ht",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.natcom.ht",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.natcom.ht",
+      "smtp": "smtp.natcom.ht"
     },
     {
       "domain": "accesshaiti.com",
       "name": "Access Haiti",
-      "imap": {
-        "host": "imap.accesshaiti.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.accesshaiti.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.accesshaiti.com",
+      "smtp": "smtp.accesshaiti.com"
+    },
+    {
+      "domain": "voila.ht",
+      "name": "Voila Haiti",
+      "imap": "imap.voila.ht",
+      "smtp": "smtp.voila.ht"
+    },
+    {
+      "domain": "unih.edu.ht",
+      "name": "UNIH Haiti",
+      "imap": "imap.unih.edu.ht",
+      "smtp": "smtp.unih.edu.ht"
+    },
+    {
+      "domain": "ueh.edu.ht",
+      "name": "UEH Haiti",
+      "imap": "imap.ueh.edu.ht",
+      "smtp": "smtp.ueh.edu.ht"
+    },
+    {
+      "domain": "adyge.org",
+      "name": "ADYGE Haiti",
+      "imap": "imap.adyge.org",
+      "smtp": "smtp.adyge.org"
+    },
+    {
+      "domain": "amurt.net",
+      "name": "AMURT Haiti",
+      "imap": "imap.amurt.net",
+      "smtp": "smtp.amurt.net"
+    },
+    {
+      "domain": "fokal.org",
+      "name": "FOKAL Haiti",
+      "imap": "imap.fokal.org",
+      "smtp": "smtp.fokal.org"
+    },
+    {
+      "domain": "lapressehaiti.org",
+      "name": "La Presse Haiti",
+      "imap": "imap.lapressehaiti.org",
+      "smtp": "smtp.lapressehaiti.org"
+    },
+    {
+      "domain": "rondpoint.org",
+      "name": "Rondpoint Haiti",
+      "imap": "imap.rondpoint.org",
+      "smtp": "smtp.rondpoint.org"
+    },
+    {
+      "domain": "haitilibre.com",
+      "name": "Haiti Libre",
+      "imap": "imap.haitilibre.com",
+      "smtp": "smtp.haitilibre.com"
     }
   ]
 }

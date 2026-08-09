@@ -5,142 +5,62 @@
     {
       "domain": "kaztelecom.kz",
       "name": "Kazakhtelecom",
-      "imap": {
-        "host": "imap.kaztelecom.kz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kaztelecom.kz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.kaztelecom.kz",
+      "smtp": "smtp.kaztelecom.kz"
     },
     {
       "domain": "beeline.kz",
       "name": "Beeline Kazakhstan",
-      "imap": {
-        "host": "imap.beeline.kz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.beeline.kz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.beeline.kz",
+      "smtp": "smtp.beeline.kz"
     },
     {
       "domain": "kcell.kz",
       "name": "KCell",
-      "imap": {
-        "host": "imap.kcell.kz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kcell.kz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.kcell.kz",
+      "smtp": "smtp.kcell.kz"
     },
     {
       "domain": "activ.kz",
       "name": "Activ",
-      "imap": {
-        "host": "imap.activ.kz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.activ.kz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.activ.kz",
+      "smtp": "smtp.activ.kz"
     },
     {
       "domain": "nursat.kz",
       "name": "Nursat",
-      "imap": {
-        "host": "imap.nursat.kz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nursat.kz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.nursat.kz",
+      "smtp": "smtp.nursat.kz"
     },
     {
       "domain": "dsl.kz",
       "name": "DSL Kazakhstan",
-      "imap": {
-        "host": "imap.dsl.kz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dsl.kz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.dsl.kz",
+      "smtp": "smtp.dsl.kz"
     },
     {
       "domain": "arn.kz",
       "name": "ARN",
-      "imap": {
-        "host": "imap.arn.kz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.arn.kz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.arn.kz",
+      "smtp": "smtp.arn.kz"
     },
     {
       "domain": "telecom.kz",
       "name": "Telecom Kazakhstan",
-      "imap": {
-        "host": "imap.telecom.kz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telecom.kz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.telecom.kz",
+      "smtp": "smtp.telecom.kz"
     },
     {
       "domain": "alma-ata.kz",
       "name": "Alma-ATA Telecom",
-      "imap": {
-        "host": "imap.alma-ata.kz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.alma-ata.kz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.alma-ata.kz",
+      "smtp": "smtp.alma-ata.kz"
     },
     {
       "domain": "inet.kz",
       "name": "Inet Kazakhstan",
-      "imap": {
-        "host": "imap.inet.kz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.inet.kz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.inet.kz",
+      "smtp": "smtp.inet.kz"
     }
   ]
 }

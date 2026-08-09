@@ -5,58 +5,26 @@
     {
       "domain": "intnet.ne",
       "name": "Niger Telecom (IntNet)",
-      "imap": {
-        "host": "imap.intnet.ne",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.intnet.ne",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.intnet.ne",
+      "smtp": "smtp.intnet.ne"
     },
     {
       "domain": "sahelcom.ne",
       "name": "SahelCom",
-      "imap": {
-        "host": "imap.sahelcom.ne",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sahelcom.ne",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.sahelcom.ne",
+      "smtp": "smtp.sahelcom.ne"
     },
     {
       "domain": "niger-telecom.ne",
       "name": "Niger Telecom",
-      "imap": {
-        "host": "imap.niger-telecom.ne",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.niger-telecom.ne",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.niger-telecom.ne",
+      "smtp": "smtp.niger-telecom.ne"
     },
     {
       "domain": "zantel.ne",
       "name": "Zantel Niger",
-      "imap": {
-        "host": "imap.zantel.ne",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.zantel.ne",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.zantel.ne",
+      "smtp": "smtp.zantel.ne"
     }
   ]
 }

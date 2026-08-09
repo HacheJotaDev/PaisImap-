@@ -5,44 +5,20 @@
     {
       "domain": "centrafrique-telecom.cf",
       "name": "Centrafrique Telecom",
-      "imap": {
-        "host": "imap.centrafrique-telecom.cf",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.centrafrique-telecom.cf",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.centrafrique-telecom.cf",
+      "smtp": "smtp.centrafrique-telecom.cf"
     },
     {
       "domain": "moov.africa",
       "name": "Moov Africa (CAF)",
-      "imap": {
-        "host": "imap.moov.africa",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.moov.africa",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.moov.africa",
+      "smtp": "smtp.moov.africa"
     },
     {
       "domain": "centratel.cf",
       "name": "Centratel CAR",
-      "imap": {
-        "host": "imap.centratel.cf",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.centratel.cf",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.centratel.cf",
+      "smtp": "smtp.centratel.cf"
     }
   ]
 }

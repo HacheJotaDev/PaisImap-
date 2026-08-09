@@ -5,240 +5,104 @@
     {
       "domain": "abv.bg",
       "name": "Abv.bg",
-      "imap": {
-        "host": "imap.abv.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.abv.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.abv.bg",
+      "smtp": "smtp.abv.bg"
     },
     {
       "domain": "mail.bg",
       "name": "Mail.bg",
-      "imap": {
-        "host": "imap.mail.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mail.bg",
+      "smtp": "smtp.mail.bg"
     },
     {
       "domain": "gbg.bg",
       "name": "Gbg.bg",
-      "imap": {
-        "host": "imap.gbg.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gbg.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.gbg.bg",
+      "smtp": "smtp.gbg.bg"
     },
     {
       "domain": "spnet.net",
       "name": "SPNet",
-      "imap": {
-        "host": "imap.spnet.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.spnet.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.spnet.net",
+      "smtp": "smtp.spnet.net"
     },
     {
       "domain": "dir.bg",
       "name": "Dir.bg",
-      "imap": {
-        "host": "imap.dir.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dir.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.dir.bg",
+      "smtp": "smtp.dir.bg"
     },
     {
       "domain": "state.bg",
       "name": "State.bg",
-      "imap": {
-        "host": "imap.state.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.state.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.state.bg",
+      "smtp": "smtp.state.bg"
     },
     {
       "domain": "plovdiv.bg",
       "name": "Plovdiv.bg",
-      "imap": {
-        "host": "imap.plovdiv.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.plovdiv.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.plovdiv.bg",
+      "smtp": "smtp.plovdiv.bg"
     },
     {
       "domain": "spisanie.com",
       "name": "Spisanie.com",
-      "imap": {
-        "host": "imap.spisanie.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.spisanie.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.spisanie.com",
+      "smtp": "smtp.spisanie.com"
     },
     {
       "domain": "datamax.bg",
       "name": "Datamax",
-      "imap": {
-        "host": "imap.datamax.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.datamax.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.datamax.bg",
+      "smtp": "smtp.datamax.bg"
     },
     {
       "domain": "bol.bg",
       "name": "Bol.bg",
-      "imap": {
-        "host": "imap.bol.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bol.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bol.bg",
+      "smtp": "smtp.bol.bg"
     },
     {
       "domain": "vipmail.bg",
       "name": "Vipmail.bg",
-      "imap": {
-        "host": "imap.vipmail.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vipmail.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vipmail.bg",
+      "smtp": "smtp.vipmail.bg"
     },
     {
       "domain": "mtel.bg",
       "name": "A1/m:tel Bulgaria",
-      "imap": {
-        "host": "imap.mtel.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mtel.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mtel.bg",
+      "smtp": "smtp.mtel.bg"
     },
     {
       "domain": "globul.bg",
       "name": "Globul/Telenor",
-      "imap": {
-        "host": "imap.globul.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.globul.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.globul.bg",
+      "smtp": "smtp.globul.bg"
     },
     {
       "domain": "vivacom.bg",
       "name": "Vivacom",
-      "imap": {
-        "host": "imap.vivacom.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vivacom.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vivacom.bg",
+      "smtp": "smtp.vivacom.bg"
     },
     {
       "domain": "uabg.bg",
       "name": "Sofia University",
-      "imap": {
-        "host": "imap.uabg.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uabg.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uabg.bg",
+      "smtp": "smtp.uabg.bg"
     },
     {
       "domain": "tu-sofia.bg",
       "name": "TU Sofia",
-      "imap": {
-        "host": "imap.tu-sofia.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tu-sofia.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tu-sofia.bg",
+      "smtp": "smtp.tu-sofia.bg"
     },
     {
       "domain": "mu-sofia.bg",
       "name": "MU Sofia",
-      "imap": {
-        "host": "imap.mu-sofia.bg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mu-sofia.bg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mu-sofia.bg",
+      "smtp": "smtp.mu-sofia.bg"
     }
   ]
 }

@@ -5,114 +5,92 @@
     {
       "domain": "ice.co.cr",
       "name": "ICE Costa Rica",
-      "imap": {
-        "host": "imap.ice.co.cr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ice.co.cr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ice.co.cr",
+      "smtp": "smtp.ice.co.cr"
     },
     {
       "domain": "racsa.co.cr",
       "name": "RACSA",
-      "imap": {
-        "host": "imap.racsa.co.cr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.racsa.co.cr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.racsa.co.cr",
+      "smtp": "smtp.racsa.co.cr"
     },
     {
       "domain": "ucr.ac.cr",
       "name": "Universidad de Costa Rica",
-      "imap": {
-        "host": "imap.ucr.ac.cr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ucr.ac.cr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ucr.ac.cr",
+      "smtp": "smtp.ucr.ac.cr"
     },
     {
       "domain": "amnet.co.cr",
       "name": "Amnet Costa Rica",
-      "imap": {
-        "host": "imap.amnet.co.cr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.amnet.co.cr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.amnet.co.cr",
+      "smtp": "smtp.amnet.co.cr"
     },
     {
       "domain": "kolbi.cr",
       "name": "Kolbi (ICE)",
-      "imap": {
-        "host": "imap.kolbi.cr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kolbi.cr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.kolbi.cr",
+      "smtp": "smtp.kolbi.cr"
     },
     {
       "domain": "tigo.com.cr",
       "name": "Tigo Costa Rica",
-      "imap": {
-        "host": "imap.tigo.com.cr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tigo.com.cr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tigo.com.cr",
+      "smtp": "smtp.tigo.com.cr"
     },
     {
       "domain": "claro.com.cr",
       "name": "Claro Costa Rica",
-      "imap": {
-        "host": "imap.claro.com.cr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.claro.com.cr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.claro.com.cr",
+      "smtp": "smtp.claro.com.cr"
     },
     {
       "domain": "movistar.com.cr",
       "name": "Movistar Costa Rica",
-      "imap": {
-        "host": "imap.movistar.com.cr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.movistar.com.cr",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.movistar.com.cr",
+      "smtp": "smtp.movistar.com.cr"
+    },
+    {
+      "domain": "cabletica.com",
+      "name": "Cabletica",
+      "imap": "imap.cabletica.com",
+      "smtp": "smtp.cabletica.com"
+    },
+    {
+      "domain": "tucr.ac.cr",
+      "name": "TUCR",
+      "imap": "imap.tucr.ac.cr",
+      "smtp": "smtp.tucr.ac.cr"
+    },
+    {
+      "domain": "una.ac.cr",
+      "name": "UNA Costa Rica",
+      "imap": "imap.una.ac.cr",
+      "smtp": "smtp.una.ac.cr"
+    },
+    {
+      "domain": "uned.ac.cr",
+      "name": "UNED Costa Rica",
+      "imap": "imap.uned.ac.cr",
+      "smtp": "smtp.uned.ac.cr"
+    },
+    {
+      "domain": "inia.ac.cr",
+      "name": "INIA",
+      "imap": "imap.inia.ac.cr",
+      "smtp": "smtp.inia.ac.cr"
+    },
+    {
+      "domain": "latam.cr",
+      "name": "Latam CR",
+      "imap": "imap.latam.cr",
+      "smtp": "smtp.latam.cr"
+    },
+    {
+      "domain": "crnet.cr",
+      "name": "CRNet",
+      "imap": "imap.crnet.cr",
+      "smtp": "smtp.crnet.cr"
     }
   ]
 }

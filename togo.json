@@ -5,44 +5,20 @@
     {
       "domain": "togotel.tg",
       "name": "Togo Telecom",
-      "imap": {
-        "host": "imap.togotel.tg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.togotel.tg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.togotel.tg",
+      "smtp": "smtp.togotel.tg"
     },
     {
       "domain": "togocom.tg",
       "name": "Togocom",
-      "imap": {
-        "host": "imap.togocom.tg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.togocom.tg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.togocom.tg",
+      "smtp": "smtp.togocom.tg"
     },
     {
       "domain": "cafetel.tg",
       "name": "Cafetel Togo",
-      "imap": {
-        "host": "imap.cafetel.tg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cafetel.tg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.cafetel.tg",
+      "smtp": "smtp.cafetel.tg"
     }
   ]
 }

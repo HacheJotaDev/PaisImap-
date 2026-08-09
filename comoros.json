@@ -5,30 +5,14 @@
     {
       "domain": "comorestelecom.km",
       "name": "Comores Telecom",
-      "imap": {
-        "host": "imap.comorestelecom.km",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.comorestelecom.km",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.comorestelecom.km",
+      "smtp": "smtp.comorestelecom.km"
     },
     {
       "domain": "intsy.km",
       "name": "INTSY Comores",
-      "imap": {
-        "host": "imap.intsy.km",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.intsy.km",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.intsy.km",
+      "smtp": "smtp.intsy.km"
     }
   ]
 }

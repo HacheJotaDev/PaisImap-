@@ -5,282 +5,122 @@
     {
       "domain": "i.ua",
       "name": "i.ua",
-      "imap": {
-        "host": "imap.i.ua",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.i.ua",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.i.ua",
+      "smtp": "smtp.i.ua"
     },
     {
       "domain": "meta.ua",
       "name": "Meta.ua",
-      "imap": {
-        "host": "imap.meta.ua",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.meta.ua",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.meta.ua",
+      "smtp": "smtp.meta.ua"
     },
     {
       "domain": "ukr.net",
       "name": "Ukr.net",
-      "imap": {
-        "host": "imap.ukr.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ukr.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ukr.net",
+      "smtp": "smtp.ukr.net"
     },
     {
       "domain": "ex.ua",
       "name": "Ex.ua",
-      "imap": {
-        "host": "imap.ex.ua",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ex.ua",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ex.ua",
+      "smtp": "smtp.ex.ua"
     },
     {
       "domain": "freemail.ua",
       "name": "Freemail UA",
-      "imap": {
-        "host": "imap.freemail.ua",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.freemail.ua",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.freemail.ua",
+      "smtp": "smtp.freemail.ua"
     },
     {
       "domain": "kp.ua",
       "name": "KP.ua",
-      "imap": {
-        "host": "imap.kp.ua",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kp.ua",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.kp.ua",
+      "smtp": "smtp.kp.ua"
     },
     {
       "domain": "bigmir.net",
       "name": "Bigmir.net",
-      "imap": {
-        "host": "imap.bigmir.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bigmir.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bigmir.net",
+      "smtp": "smtp.bigmir.net"
     },
     {
       "domain": "email.ua",
       "name": "Email.ua",
-      "imap": {
-        "host": "imap.email.ua",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.email.ua",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.email.ua",
+      "smtp": "smtp.email.ua"
     },
     {
       "domain": "voliacable.com",
       "name": "Volia Cable",
-      "imap": {
-        "host": "imap.voliacable.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.voliacable.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.voliacable.com",
+      "smtp": "smtp.voliacable.com"
     },
     {
       "domain": "kyivstar.net",
       "name": "Kyivstar",
-      "imap": {
-        "host": "imap.kyivstar.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kyivstar.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.kyivstar.net",
+      "smtp": "smtp.kyivstar.net"
     },
     {
       "domain": "velton.ua",
       "name": "Velton",
-      "imap": {
-        "host": "imap.velton.ua",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.velton.ua",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.velton.ua",
+      "smtp": "smtp.velton.ua"
     },
     {
       "domain": "te.net.ua",
       "name": "TE.net.ua",
-      "imap": {
-        "host": "imap.te.net.ua",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.te.net.ua",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.te.net.ua",
+      "smtp": "smtp.te.net.ua"
     },
     {
       "domain": "lanet.ua",
       "name": "Lanet",
-      "imap": {
-        "host": "imap.lanet.ua",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.lanet.ua",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.lanet.ua",
+      "smtp": "smtp.lanet.ua"
     },
     {
       "domain": "lanta.me",
       "name": "Lanta",
-      "imap": {
-        "host": "imap.lanta.me",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.lanta.me",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.lanta.me",
+      "smtp": "smtp.lanta.me"
     },
     {
       "domain": "freenet.kiev.ua",
       "name": "Freenet Kyiv",
-      "imap": {
-        "host": "imap.freenet.kiev.ua",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.freenet.kiev.ua",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.freenet.kiev.ua",
+      "smtp": "smtp.freenet.kiev.ua"
     },
     {
       "domain": "ukrtel.net",
       "name": "UkrTel",
-      "imap": {
-        "host": "imap.ukrtel.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ukrtel.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ukrtel.net",
+      "smtp": "smtp.ukrtel.net"
     },
     {
       "domain": "dtek.com",
       "name": "DTEK",
-      "imap": {
-        "host": "imap.dtek.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dtek.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.dtek.com",
+      "smtp": "smtp.dtek.com"
     },
     {
       "domain": "ukrtelecom.ua",
       "name": "Ukrtelecom",
-      "imap": {
-        "host": "imap.ukrtelecom.ua",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ukrtelecom.ua",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ukrtelecom.ua",
+      "smtp": "smtp.ukrtelecom.ua"
     },
     {
       "domain": "kpi.ua",
       "name": "KPI Kyiv",
-      "imap": {
-        "host": "imap.kpi.ua",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kpi.ua",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.kpi.ua",
+      "smtp": "smtp.kpi.ua"
     },
     {
       "domain": "univ.kiev.ua",
       "name": "Kyiv National University (KNU)",
-      "imap": {
-        "host": "imap.univ.kiev.ua",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.univ.kiev.ua",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.univ.kiev.ua",
+      "smtp": "smtp.univ.kiev.ua"
     }
   ]
 }

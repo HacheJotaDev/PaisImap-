@@ -5,44 +5,20 @@
     {
       "domain": "simnet.is",
       "name": "Simnet",
-      "imap": {
-        "host": "imap.simnet.is",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.simnet.is",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.simnet.is",
+      "smtp": "smtp.simnet.is"
     },
     {
       "domain": "siminn.is",
       "name": "Siminn",
-      "imap": {
-        "host": "imap.siminn.is",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.siminn.is",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.siminn.is",
+      "smtp": "smtp.siminn.is"
     },
     {
       "domain": "hi.is",
       "name": "University of Iceland",
-      "imap": {
-        "host": "imap.hi.is",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.hi.is",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.hi.is",
+      "smtp": "smtp.hi.is"
     }
   ]
 }

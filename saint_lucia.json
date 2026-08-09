@@ -5,44 +5,20 @@
     {
       "domain": "flowstlucia.com",
       "name": "FLOW St. Lucia",
-      "imap": {
-        "host": "imap.flowstlucia.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.flowstlucia.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.flowstlucia.com",
+      "smtp": "smtp.flowstlucia.com"
     },
     {
       "domain": "digicelstlucia.com",
       "name": "Digicel St. Lucia",
-      "imap": {
-        "host": "imap.digicelstlucia.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digicelstlucia.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digicelstlucia.com",
+      "smtp": "smtp.digicelstlucia.com"
     },
     {
       "domain": "cablelucie.com",
       "name": "Cable Lucie",
-      "imap": {
-        "host": "imap.cablelucie.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cablelucie.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cablelucie.com",
+      "smtp": "smtp.cablelucie.com"
     }
   ]
 }

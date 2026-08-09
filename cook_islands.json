@@ -5,30 +5,14 @@
     {
       "domain": "oyster.net.ck",
       "name": "Oyster Telecom Cook Islands",
-      "imap": {
-        "host": "imap.oyster.net.ck",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.oyster.net.ck",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.oyster.net.ck",
+      "smtp": "smtp.oyster.net.ck"
     },
     {
       "domain": "telecomcook.com",
       "name": "Telecom Cook Islands",
-      "imap": {
-        "host": "imap.telecomcook.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telecomcook.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.telecomcook.com",
+      "smtp": "smtp.telecomcook.com"
     }
   ]
 }

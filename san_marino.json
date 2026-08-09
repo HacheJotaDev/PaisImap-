@@ -5,44 +5,20 @@
     {
       "domain": "smintel.sm",
       "name": "SMIntel San Marino",
-      "imap": {
-        "host": "imap.smintel.sm",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.smintel.sm",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.smintel.sm",
+      "smtp": "smtp.smintel.sm"
     },
     {
       "domain": "telecom.sm",
       "name": "Telecom San Marino",
-      "imap": {
-        "host": "imap.telecom.sm",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telecom.sm",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telecom.sm",
+      "smtp": "smtp.telecom.sm"
     },
     {
       "domain": "omniway.sm",
       "name": "Omniway SM",
-      "imap": {
-        "host": "imap.omniway.sm",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.omniway.sm",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.omniway.sm",
+      "smtp": "smtp.omniway.sm"
     }
   ]
 }

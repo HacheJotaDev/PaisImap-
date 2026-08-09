@@ -5,72 +5,32 @@
     {
       "domain": "link.net",
       "name": "Link Egypt",
-      "imap": {
-        "host": "imap.link.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.link.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.link.net",
+      "smtp": "smtp.link.net"
     },
     {
       "domain": "fci.bu.edu.eg",
       "name": "Cairo University (FCI)",
-      "imap": {
-        "host": "imap.fci.bu.edu.eg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.fci.bu.edu.eg",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.fci.bu.edu.eg",
+      "smtp": "smtp.fci.bu.edu.eg"
     },
     {
       "domain": "ewe.com.eg",
       "name": "Egypt Web (EWE)",
-      "imap": {
-        "host": "imap.ewe.com.eg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ewe.com.eg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ewe.com.eg",
+      "smtp": "smtp.ewe.com.eg"
     },
     {
       "domain": "nile-online.com",
       "name": "Nile Online",
-      "imap": {
-        "host": "imap.nile-online.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nile-online.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.nile-online.com",
+      "smtp": "smtp.nile-online.com"
     },
     {
       "domain": "tedata.net",
       "name": "TE Data",
-      "imap": {
-        "host": "imap.tedata.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tedata.net",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.tedata.net",
+      "smtp": "smtp.tedata.net"
     }
   ]
 }

@@ -5,464 +5,200 @@
     {
       "domain": "docomo.ne.jp",
       "name": "NTT Docomo",
-      "imap": {
-        "host": "imap.spmode.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.spmode.ne.jp",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.spmode.ne.jp",
+      "smtp": "smtp.spmode.ne.jp"
     },
     {
       "domain": "ezweb.ne.jp",
       "name": "au EZweb",
-      "imap": {
-        "host": "imap.ezweb.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ezweb.ne.jp",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ezweb.ne.jp",
+      "smtp": "smtp.ezweb.ne.jp"
     },
     {
       "domain": "softbank.ne.jp",
       "name": "Softbank",
-      "imap": {
-        "host": "imap.softbank.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.softbank.ne.jp",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.softbank.ne.jp",
+      "smtp": "smtp.softbank.ne.jp"
     },
     {
       "domain": "i.softbank.jp",
       "name": "Softbank iPhone",
-      "imap": {
-        "host": "imap.i.softbank.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.i.softbank.jp",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.i.softbank.jp",
+      "smtp": "smtp.i.softbank.jp"
     },
     {
       "domain": "ocn.ne.jp",
       "name": "OCN NTT",
-      "imap": {
-        "host": "imap.ocn.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ocn.ne.jp",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ocn.ne.jp",
+      "smtp": "smtp.ocn.ne.jp"
     },
     {
       "domain": "plala.or.jp",
       "name": "Plala NTT",
-      "imap": {
-        "host": "imap.plala.or.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.plala.or.jp",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.plala.or.jp",
+      "smtp": "smtp.plala.or.jp"
     },
     {
       "domain": "nifty.com",
       "name": "Nifty (Fujitsu)",
-      "imap": {
-        "host": "imap.nifty.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nifty.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.nifty.com",
+      "smtp": "smtp.nifty.com"
     },
     {
       "domain": "ybb.ne.jp",
       "name": "Yahoo BB",
-      "imap": {
-        "host": "imap.ybb.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ybb.ne.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ybb.ne.jp",
+      "smtp": "smtp.ybb.ne.jp"
     },
     {
       "domain": "biglobe.ne.jp",
       "name": "BIGLOBE",
-      "imap": {
-        "host": "imap.biglobe.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.biglobe.ne.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.biglobe.ne.jp",
+      "smtp": "smtp.biglobe.ne.jp"
     },
     {
       "domain": "lycos.co.jp",
       "name": "Lycos Japan",
-      "imap": {
-        "host": "imap.lycos.co.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.lycos.co.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.lycos.co.jp",
+      "smtp": "smtp.lycos.co.jp"
     },
     {
       "domain": "goo.ne.jp",
       "name": "Goo (NTT)",
-      "imap": {
-        "host": "imap.goo.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.goo.ne.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.goo.ne.jp",
+      "smtp": "smtp.goo.ne.jp"
     },
     {
       "domain": "infoseek.co.jp",
       "name": "Infoseek Japan",
-      "imap": {
-        "host": "imap.infoseek.co.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.infoseek.co.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.infoseek.co.jp",
+      "smtp": "smtp.infoseek.co.jp"
     },
     {
       "domain": "dwango.co.jp",
       "name": "DWANGO (Niconico)",
-      "imap": {
-        "host": "imap.dwango.co.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dwango.co.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.dwango.co.jp",
+      "smtp": "smtp.dwango.co.jp"
     },
     {
       "domain": "kddi.com",
       "name": "KDDI",
-      "imap": {
-        "host": "imap.kddi.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kddi.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.kddi.com",
+      "smtp": "smtp.kddi.com"
     },
     {
       "domain": "ntt.com",
       "name": "NTT Communications",
-      "imap": {
-        "host": "imap.ntt.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ntt.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ntt.com",
+      "smtp": "smtp.ntt.com"
     },
     {
       "domain": "jp-t.ne.jp",
       "name": "NTT Japan-T",
-      "imap": {
-        "host": "imap.jp-t.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.jp-t.ne.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.jp-t.ne.jp",
+      "smtp": "smtp.jp-t.ne.jp"
     },
     {
       "domain": "ymobile.ne.jp",
       "name": "Y!mobile (SoftBank)",
-      "imap": {
-        "host": "imap.ymobile.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ymobile.ne.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ymobile.ne.jp",
+      "smtp": "smtp.ymobile.ne.jp"
     },
     {
       "domain": "dion.ne.jp",
       "name": "DION (KDDI)",
-      "imap": {
-        "host": "imap.dion.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.dion.ne.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.dion.ne.jp",
+      "smtp": "smtp.dion.ne.jp"
     },
     {
       "domain": "rakuten.co.jp",
       "name": "Rakuten",
-      "imap": {
-        "host": "imap.rakuten.co.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.rakuten.co.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.rakuten.co.jp",
+      "smtp": "smtp.rakuten.co.jp"
     },
     {
       "domain": "nifty.ne.jp",
       "name": "Nifty @nifty",
-      "imap": {
-        "host": "imap.nifty.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nifty.ne.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.nifty.ne.jp",
+      "smtp": "smtp.nifty.ne.jp"
     },
     {
       "domain": "vodafone.ne.jp",
       "name": "Vodafone Japan (SoftBank)",
-      "imap": {
-        "host": "imap.vodafone.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vodafone.ne.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.vodafone.ne.jp",
+      "smtp": "smtp.vodafone.ne.jp"
     },
     {
       "domain": "willcom.com",
       "name": "Willcom (Y!mobile)",
-      "imap": {
-        "host": "imap.willcom.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.willcom.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.willcom.com",
+      "smtp": "smtp.willcom.com"
     },
     {
       "domain": "pdx.ne.jp",
       "name": "PDX (NTT)",
-      "imap": {
-        "host": "imap.pdx.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pdx.ne.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.pdx.ne.jp",
+      "smtp": "smtp.pdx.ne.jp"
     },
     {
       "domain": "arena.ne.jp",
       "name": "Arena NTT",
-      "imap": {
-        "host": "imap.arena.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.arena.ne.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.arena.ne.jp",
+      "smtp": "smtp.arena.ne.jp"
     },
     {
       "domain": "mopera.net",
       "name": "Mopera (NTT Docomo)",
-      "imap": {
-        "host": "imap.mopera.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mopera.net",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mopera.net",
+      "smtp": "smtp.mopera.net"
     },
     {
       "domain": "emnet.ne.jp",
       "name": "emNet",
-      "imap": {
-        "host": "imap.emnet.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.emnet.ne.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.emnet.ne.jp",
+      "smtp": "smtp.emnet.ne.jp"
     },
     {
       "domain": "so-net.ne.jp",
       "name": "So-net (Sony)",
-      "imap": {
-        "host": "imap.so-net.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.so-net.ne.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.so-net.ne.jp",
+      "smtp": "smtp.so-net.ne.jp"
     },
     {
       "domain": "hi-ho.ne.jp",
       "name": "Hi-Ho (KDDI)",
-      "imap": {
-        "host": "imap.hi-ho.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.hi-ho.ne.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.hi-ho.ne.jp",
+      "smtp": "smtp.hi-ho.ne.jp"
     },
     {
       "domain": "pikara.ne.jp",
       "name": "Pikara (KDDI)",
-      "imap": {
-        "host": "imap.pikara.ne.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pikara.ne.jp",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.pikara.ne.jp",
+      "smtp": "smtp.pikara.ne.jp"
     },
     {
       "domain": "u-tokyo.ac.jp",
       "name": "University of Tokyo",
-      "imap": {
-        "host": "imap.u-tokyo.ac.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.u-tokyo.ac.jp",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.u-tokyo.ac.jp",
+      "smtp": "smtp.u-tokyo.ac.jp"
     },
     {
       "domain": "kyoto-u.ac.jp",
       "name": "Kyoto University",
-      "imap": {
-        "host": "imap.kyoto-u.ac.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kyoto-u.ac.jp",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.kyoto-u.ac.jp",
+      "smtp": "smtp.kyoto-u.ac.jp"
     },
     {
       "domain": "osaka-u.ac.jp",
       "name": "Osaka University",
-      "imap": {
-        "host": "imap.osaka-u.ac.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.osaka-u.ac.jp",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.osaka-u.ac.jp",
+      "smtp": "smtp.osaka-u.ac.jp"
     },
     {
       "domain": "kobe-u.ac.jp",
       "name": "Kobe University",
-      "imap": {
-        "host": "imap.kobe-u.ac.jp",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kobe-u.ac.jp",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.kobe-u.ac.jp",
+      "smtp": "smtp.kobe-u.ac.jp"
     }
   ]
 }

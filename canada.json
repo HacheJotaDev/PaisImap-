@@ -5,100 +5,470 @@
     {
       "domain": "shaw.ca",
       "name": "Shaw Communications",
-      "imap": {
-        "host": "imap.shaw.ca",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.shaw.ca",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.shaw.ca",
+      "smtp": "smtp.shaw.ca"
     },
     {
       "domain": "rogers.com",
       "name": "Rogers",
-      "imap": {
-        "host": "imap.rogers.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.rogers.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.rogers.com",
+      "smtp": "smtp.rogers.com"
     },
     {
       "domain": "bell.net",
       "name": "Bell Canada",
-      "imap": {
-        "host": "imap.bell.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bell.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bell.net",
+      "smtp": "smtp.bell.net"
     },
     {
       "domain": "sympatico.ca",
       "name": "Bell Sympatico",
-      "imap": {
-        "host": "imap.bell.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bell.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bell.net",
+      "smtp": "smtp.bell.net"
     },
     {
       "domain": "videotron.ca",
       "name": "Videotron",
-      "imap": {
-        "host": "imap.videotron.ca",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.videotron.ca",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.videotron.ca",
+      "smtp": "smtp.videotron.ca"
     },
     {
       "domain": "telus.net",
       "name": "Telus",
-      "imap": {
-        "host": "imap.telus.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telus.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telus.net",
+      "smtp": "smtp.telus.net"
     },
     {
       "domain": "cogeco.ca",
       "name": "Cogeco",
-      "imap": {
-        "host": "imap.cogeco.ca",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cogeco.ca",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cogeco.ca",
+      "smtp": "smtp.cogeco.ca"
+    },
+    {
+      "domain": "telus.com",
+      "name": "Telus",
+      "imap": "imap.telus.com",
+      "smtp": "smtp.telus.com"
+    },
+    {
+      "domain": "bell.ca",
+      "name": "Bell Canada",
+      "imap": "imap.bell.ca",
+      "smtp": "smtp.bell.ca"
+    },
+    {
+      "domain": "xplornet.com",
+      "name": "Xplornet",
+      "imap": "imap.xplornet.com",
+      "smtp": "smtp.xplornet.com"
+    },
+    {
+      "domain": "distributel.ca",
+      "name": "Distributel",
+      "imap": "imap.distributel.ca",
+      "smtp": "smtp.distributel.ca"
+    },
+    {
+      "domain": "start.ca",
+      "name": "Start.ca",
+      "imap": "imap.start.ca",
+      "smtp": "smtp.start.ca"
+    },
+    {
+      "domain": "ebox.ca",
+      "name": "Ebox",
+      "imap": "imap.ebox.ca",
+      "smtp": "smtp.ebox.ca"
+    },
+    {
+      "domain": "bellaliant.net",
+      "name": "Bell Aliant",
+      "imap": "imap.bellaliant.net",
+      "smtp": "smtp.bellaliant.net"
+    },
+    {
+      "domain": "sasktel.com",
+      "name": "SaskTel",
+      "imap": "imap.sasktel.com",
+      "smtp": "smtp.sasktel.com"
+    },
+    {
+      "domain": "tbaytel.net",
+      "name": "Tbaytel",
+      "imap": "imap.tbaytel.net",
+      "smtp": "smtp.tbaytel.net"
+    },
+    {
+      "domain": "northwestel.net",
+      "name": "Northwestel",
+      "imap": "imap.northwestel.net",
+      "smtp": "smtp.northwestel.net"
+    },
+    {
+      "domain": "koodo.com",
+      "name": "Koodo",
+      "imap": "imap.koodo.com",
+      "smtp": "smtp.koodo.com"
+    },
+    {
+      "domain": "freedommobile.ca",
+      "name": "Freedom Mobile",
+      "imap": "imap.freedommobile.ca",
+      "smtp": "smtp.freedommobile.ca"
+    },
+    {
+      "domain": "virginmobile.ca",
+      "name": "Virgin Mobile Canada",
+      "imap": "imap.virginmobile.ca",
+      "smtp": "smtp.virginmobile.ca"
+    },
+    {
+      "domain": "fido.ca",
+      "name": "Fido",
+      "imap": "imap.fido.ca",
+      "smtp": "smtp.fido.ca"
+    },
+    {
+      "domain": "chatr.com",
+      "name": "Chatr",
+      "imap": "imap.chatr.com",
+      "smtp": "smtp.chatr.com"
+    },
+    {
+      "domain": "publicmobile.ca",
+      "name": "Public Mobile",
+      "imap": "imap.publicmobile.ca",
+      "smtp": "smtp.publicmobile.ca"
+    },
+    {
+      "domain": "carrytel.ca",
+      "name": "Carry Telecom",
+      "imap": "imap.carrytel.ca",
+      "smtp": "smtp.carrytel.ca"
+    },
+    {
+      "domain": "oxio.ca",
+      "name": "Oxio",
+      "imap": "imap.oxio.ca",
+      "smtp": "smtp.oxio.ca"
+    },
+    {
+      "domain": "brazol.com",
+      "name": "Brazol",
+      "imap": "imap.brazol.com",
+      "smtp": "smtp.brazol.com"
+    },
+    {
+      "domain": "teksavvy.com",
+      "name": "Teksavvy",
+      "imap": "imap.teksavvy.com",
+      "smtp": "smtp.teksavvy.com"
+    },
+    {
+      "domain": "aci.ca",
+      "name": "ACI",
+      "imap": "imap.aci.ca",
+      "smtp": "smtp.aci.ca"
+    },
+    {
+      "domain": "vmedia.ca",
+      "name": "VMedia",
+      "imap": "imap.vmedia.ca",
+      "smtp": "smtp.vmedia.ca"
+    },
+    {
+      "domain": "cannettel.com",
+      "name": "Cannettel",
+      "imap": "imap.cannettel.com",
+      "smtp": "smtp.cannettel.com"
+    },
+    {
+      "domain": "lightspeed.ca",
+      "name": "Lightspeed",
+      "imap": "imap.lightspeed.ca",
+      "smtp": "smtp.lightspeed.ca"
+    },
+    {
+      "domain": "velcom.ca",
+      "name": "Velcom",
+      "imap": "imap.velcom.ca",
+      "smtp": "smtp.velcom.ca"
+    },
+    {
+      "domain": "eisp.ca",
+      "name": "EISP",
+      "imap": "imap.eisp.ca",
+      "smtp": "smtp.eisp.ca"
+    },
+    {
+      "domain": "utoronto.ca",
+      "name": "University of Toronto",
+      "imap": "imap.utoronto.ca",
+      "smtp": "smtp.utoronto.ca"
+    },
+    {
+      "domain": "ubc.ca",
+      "name": "UBC",
+      "imap": "imap.ubc.ca",
+      "smtp": "smtp.ubc.ca"
+    },
+    {
+      "domain": "mcgill.ca",
+      "name": "McGill",
+      "imap": "imap.mcgill.ca",
+      "smtp": "smtp.mcgill.ca"
+    },
+    {
+      "domain": "uwaterloo.ca",
+      "name": "University of Waterloo",
+      "imap": "imap.uwaterloo.ca",
+      "smtp": "smtp.uwaterloo.ca"
+    },
+    {
+      "domain": "ualberta.ca",
+      "name": "University of Alberta",
+      "imap": "imap.ualberta.ca",
+      "smtp": "smtp.ualberta.ca"
+    },
+    {
+      "domain": "ucalgary.ca",
+      "name": "University of Calgary",
+      "imap": "imap.ucalgary.ca",
+      "smtp": "smtp.ucalgary.ca"
+    },
+    {
+      "domain": "uottawa.ca",
+      "name": "uOttawa",
+      "imap": "imap.uottawa.ca",
+      "smtp": "smtp.uottawa.ca"
+    },
+    {
+      "domain": "queensu.ca",
+      "name": "Queen's University",
+      "imap": "imap.queensu.ca",
+      "smtp": "smtp.queensu.ca"
+    },
+    {
+      "domain": "dal.ca",
+      "name": "Dalhousie",
+      "imap": "imap.dal.ca",
+      "smtp": "smtp.dal.ca"
+    },
+    {
+      "domain": "sfu.ca",
+      "name": "Simon Fraser",
+      "imap": "imap.sfu.ca",
+      "smtp": "smtp.sfu.ca"
+    },
+    {
+      "domain": "uvic.ca",
+      "name": "UVic",
+      "imap": "imap.uvic.ca",
+      "smtp": "smtp.uvic.ca"
+    },
+    {
+      "domain": "mun.ca",
+      "name": "Memorial University",
+      "imap": "imap.mun.ca",
+      "smtp": "smtp.mun.ca"
+    },
+    {
+      "domain": "usask.ca",
+      "name": "University of Saskatchewan",
+      "imap": "imap.usask.ca",
+      "smtp": "smtp.usask.ca"
+    },
+    {
+      "domain": "umanitoba.ca",
+      "name": "University of Manitoba",
+      "imap": "imap.umanitoba.ca",
+      "smtp": "smtp.umanitoba.ca"
+    },
+    {
+      "domain": "uwinnipeg.ca",
+      "name": "University of Winnipeg",
+      "imap": "imap.uwinnipeg.ca",
+      "smtp": "smtp.uwinnipeg.ca"
+    },
+    {
+      "domain": "uregina.ca",
+      "name": "University of Regina",
+      "imap": "imap.uregina.ca",
+      "smtp": "smtp.uregina.ca"
+    },
+    {
+      "domain": "carleton.ca",
+      "name": "Carleton",
+      "imap": "imap.carleton.ca",
+      "smtp": "smtp.carleton.ca"
+    },
+    {
+      "domain": "uwo.ca",
+      "name": "Western University",
+      "imap": "imap.uwo.ca",
+      "smtp": "smtp.uwo.ca"
+    },
+    {
+      "domain": "mcmaster.ca",
+      "name": "McMaster",
+      "imap": "imap.mcmaster.ca",
+      "smtp": "smtp.mcmaster.ca"
+    },
+    {
+      "domain": "uoguelph.ca",
+      "name": "University of Guelph",
+      "imap": "imap.uoguelph.ca",
+      "smtp": "smtp.uoguelph.ca"
+    },
+    {
+      "domain": "brocku.ca",
+      "name": "Brock",
+      "imap": "imap.brocku.ca",
+      "smtp": "smtp.brocku.ca"
+    },
+    {
+      "domain": "ontariotechu.ca",
+      "name": "Ontario Tech",
+      "imap": "imap.ontariotechu.ca",
+      "smtp": "smtp.ontariotechu.ca"
+    },
+    {
+      "domain": "tmu.ca",
+      "name": "Toronto Metropolitan",
+      "imap": "imap.tmu.ca",
+      "smtp": "smtp.tmu.ca"
+    },
+    {
+      "domain": "yorku.ca",
+      "name": "York University",
+      "imap": "imap.yorku.ca",
+      "smtp": "smtp.yorku.ca"
+    },
+    {
+      "domain": "concordia.ca",
+      "name": "Concordia",
+      "imap": "imap.concordia.ca",
+      "smtp": "smtp.concordia.ca"
+    },
+    {
+      "domain": "usherbrooke.ca",
+      "name": "U Sherbrooke",
+      "imap": "imap.usherbrooke.ca",
+      "smtp": "smtp.usherbrooke.ca"
+    },
+    {
+      "domain": "ulaval.ca",
+      "name": "Universite Laval",
+      "imap": "imap.ulaval.ca",
+      "smtp": "smtp.ulaval.ca"
+    },
+    {
+      "domain": "umontreal.ca",
+      "name": "UdeM",
+      "imap": "imap.umontreal.ca",
+      "smtp": "smtp.umontreal.ca"
+    },
+    {
+      "domain": "uqam.ca",
+      "name": "UQAM",
+      "imap": "imap.uqam.ca",
+      "smtp": "smtp.uqam.ca"
+    },
+    {
+      "domain": "etsmtl.ca",
+      "name": "ETS Montreal",
+      "imap": "imap.etsmtl.ca",
+      "smtp": "smtp.etsmtl.ca"
+    },
+    {
+      "domain": "polymtl.ca",
+      "name": "Polytechnique Montreal",
+      "imap": "imap.polymtl.ca",
+      "smtp": "smtp.polymtl.ca"
+    },
+    {
+      "domain": "unb.ca",
+      "name": "University of New Brunswick",
+      "imap": "imap.unb.ca",
+      "smtp": "smtp.unb.ca"
+    },
+    {
+      "domain": "smu.ca",
+      "name": "Saint Mary's",
+      "imap": "imap.smu.ca",
+      "smtp": "smtp.smu.ca"
+    },
+    {
+      "domain": "capilanou.ca",
+      "name": "Capilano",
+      "imap": "imap.capilanou.ca",
+      "smtp": "smtp.capilanou.ca"
+    },
+    {
+      "domain": "ufv.ca",
+      "name": "UFV",
+      "imap": "imap.ufv.ca",
+      "smtp": "smtp.ufv.ca"
+    },
+    {
+      "domain": "tru.ca",
+      "name": "TRU",
+      "imap": "imap.tru.ca",
+      "smtp": "smtp.tru.ca"
+    },
+    {
+      "domain": "viu.ca",
+      "name": "VIU",
+      "imap": "imap.viu.ca",
+      "smtp": "smtp.viu.ca"
+    },
+    {
+      "domain": "unbc.ca",
+      "name": "UNBC",
+      "imap": "imap.unbc.ca",
+      "smtp": "smtp.unbc.ca"
+    },
+    {
+      "domain": "gc.ca",
+      "name": "Government of Canada",
+      "imap": "imap.gc.ca",
+      "smtp": "smtp.gc.ca"
+    },
+    {
+      "domain": "canada.ca",
+      "name": "Canada.ca",
+      "imap": "imap.canada.ca",
+      "smtp": "smtp.canada.ca"
+    },
+    {
+      "domain": "rcmp-grc.gc.ca",
+      "name": "RCMP",
+      "imap": "imap.rcmp-grc.gc.ca",
+      "smtp": "smtp.rcmp-grc.gc.ca"
+    },
+    {
+      "domain": "forces.gc.ca",
+      "name": "Canadian Forces",
+      "imap": "imap.forces.gc.ca",
+      "smtp": "smtp.forces.gc.ca"
+    },
+    {
+      "domain": "cra-arc.gc.ca",
+      "name": "CRA",
+      "imap": "imap.cra-arc.gc.ca",
+      "smtp": "smtp.cra-arc.gc.ca"
+    },
+    {
+      "domain": "ircc.canada.ca",
+      "name": "IRCC",
+      "imap": "imap.ircc.canada.ca",
+      "smtp": "smtp.ircc.canada.ca"
+    },
+    {
+      "domain": "isc.gc.ca",
+      "name": "ISC",
+      "imap": "imap.isc.gc.ca",
+      "smtp": "smtp.isc.gc.ca"
     }
   ]
 }

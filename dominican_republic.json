@@ -5,86 +5,110 @@
     {
       "domain": "claro.com.do",
       "name": "Claro Dominicana",
-      "imap": {
-        "host": "imap.claro.com.do",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.claro.com.do",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.claro.com.do",
+      "smtp": "smtp.claro.com.do"
     },
     {
       "domain": "codetel.net.do",
       "name": "Codetel (Claro)",
-      "imap": {
-        "host": "imap.codetel.net.do",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.codetel.net.do",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.codetel.net.do",
+      "smtp": "smtp.codetel.net.do"
     },
     {
       "domain": "viva.com.do",
       "name": "Viva Dominicana",
-      "imap": {
-        "host": "imap.viva.com.do",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.viva.com.do",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.viva.com.do",
+      "smtp": "smtp.viva.com.do"
     },
     {
       "domain": "tricom.net.do",
       "name": "Tricom Dominicana",
-      "imap": {
-        "host": "imap.tricom.net.do",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tricom.net.do",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tricom.net.do",
+      "smtp": "smtp.tricom.net.do"
     },
     {
       "domain": "digiceldo.com",
       "name": "Digicel Dominicana",
-      "imap": {
-        "host": "imap.digiceldo.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digiceldo.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.digiceldo.com",
+      "smtp": "smtp.digiceldo.com"
     },
     {
       "domain": "uasd.edu.do",
       "name": "UASD",
-      "imap": {
-        "host": "imap.uasd.edu.do",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uasd.edu.do",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uasd.edu.do",
+      "smtp": "smtp.uasd.edu.do"
+    },
+    {
+      "domain": "tricom.net",
+      "name": "Tricom",
+      "imap": "imap.tricom.net",
+      "smtp": "smtp.tricom.net"
+    },
+    {
+      "domain": "altice.com.do",
+      "name": "Altice Dominicana",
+      "imap": "imap.altice.com.do",
+      "smtp": "smtp.altice.com.do"
+    },
+    {
+      "domain": "intec.edu.do",
+      "name": "INTEC",
+      "imap": "imap.intec.edu.do",
+      "smtp": "smtp.intec.edu.do"
+    },
+    {
+      "domain": "unphu.edu.do",
+      "name": "UNPHU",
+      "imap": "imap.unphu.edu.do",
+      "smtp": "smtp.unphu.edu.do"
+    },
+    {
+      "domain": "uces.edu.do",
+      "name": "UCES",
+      "imap": "imap.uces.edu.do",
+      "smtp": "smtp.uces.edu.do"
+    },
+    {
+      "domain": "unibe.edu.do",
+      "name": "UNIBE",
+      "imap": "imap.unibe.edu.do",
+      "smtp": "smtp.unibe.edu.do"
+    },
+    {
+      "domain": "uce.edu.do",
+      "name": "UCE",
+      "imap": "imap.uce.edu.do",
+      "smtp": "smtp.uce.edu.do"
+    },
+    {
+      "domain": "una.edu.do",
+      "name": "UNA",
+      "imap": "imap.una.edu.do",
+      "smtp": "smtp.una.edu.do"
+    },
+    {
+      "domain": "oye.do",
+      "name": "Oye Dominicana",
+      "imap": "imap.oye.do",
+      "smtp": "smtp.oye.do"
+    },
+    {
+      "domain": "seaboard.do",
+      "name": "Seaboard",
+      "imap": "imap.seaboard.do",
+      "smtp": "smtp.seaboard.do"
+    },
+    {
+      "domain": "verizon.com.do",
+      "name": "Verizon DO",
+      "imap": "imap.verizon.com.do",
+      "smtp": "smtp.verizon.com.do"
+    },
+    {
+      "domain": "orange.com.do",
+      "name": "Orange DO",
+      "imap": "imap.orange.com.do",
+      "smtp": "smtp.orange.com.do"
     }
   ]
 }

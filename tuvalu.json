@@ -5,30 +5,14 @@
     {
       "domain": "tuvalu.tv",
       "name": "Tuvalu Telecom",
-      "imap": {
-        "host": "imap.tuvalu.tv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tuvalu.tv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tuvalu.tv",
+      "smtp": "smtp.tuvalu.tv"
     },
     {
       "domain": "tuvaluislands.com",
       "name": "Tuvalu Islands",
-      "imap": {
-        "host": "imap.tuvaluislands.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tuvaluislands.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tuvaluislands.com",
+      "smtp": "smtp.tuvaluislands.com"
     }
   ]
 }

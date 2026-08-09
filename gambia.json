@@ -5,44 +5,20 @@
     {
       "domain": "gamtel.gm",
       "name": "Gamtel",
-      "imap": {
-        "host": "imap.gamtel.gm",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gamtel.gm",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.gamtel.gm",
+      "smtp": "smtp.gamtel.gm"
     },
     {
       "domain": "gamcell.gm",
       "name": "Gamcell",
-      "imap": {
-        "host": "imap.gamcell.gm",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gamcell.gm",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.gamcell.gm",
+      "smtp": "smtp.gamcell.gm"
     },
     {
       "domain": "quantumnet.gm",
       "name": "QuantumNet Gambia",
-      "imap": {
-        "host": "imap.quantumnet.gm",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.quantumnet.gm",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.quantumnet.gm",
+      "smtp": "smtp.quantumnet.gm"
     }
   ]
 }

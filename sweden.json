@@ -5,86 +5,38 @@
     {
       "domain": "telia.com",
       "name": "Telia",
-      "imap": {
-        "host": "imap.telia.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telia.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telia.com",
+      "smtp": "smtp.telia.com"
     },
     {
       "domain": "swipnet.se",
       "name": "Telia Swipnet",
-      "imap": {
-        "host": "imap.swipnet.se",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.swipnet.se",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.swipnet.se",
+      "smtp": "smtp.swipnet.se"
     },
     {
       "domain": "spray.se",
       "name": "Spray",
-      "imap": {
-        "host": "imap.spray.se",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.spray.se",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.spray.se",
+      "smtp": "smtp.spray.se"
     },
     {
       "domain": "telia.se",
       "name": "Telia SE",
-      "imap": {
-        "host": "imap.telia.se",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telia.se",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telia.se",
+      "smtp": "smtp.telia.se"
     },
     {
       "domain": "comhem.se",
       "name": "Comhem",
-      "imap": {
-        "host": "imap.comhem.se",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.comhem.se",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.comhem.se",
+      "smtp": "smtp.comhem.se"
     },
     {
       "domain": "bredbandsbolaget.se",
       "name": "Bredbandsbolaget",
-      "imap": {
-        "host": "imap.bredbandsbolaget.se",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bredbandsbolaget.se",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bredbandsbolaget.se",
+      "smtp": "smtp.bredbandsbolaget.se"
     }
   ]
 }

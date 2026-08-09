@@ -5,72 +5,32 @@
     {
       "domain": "qatar.net.qa",
       "name": "Qatar Telecom",
-      "imap": {
-        "host": "imap.qatar.net.qa",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.qatar.net.qa",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.qatar.net.qa",
+      "smtp": "smtp.qatar.net.qa"
     },
     {
       "domain": "ooredoo.qa",
       "name": "Ooredoo Qatar",
-      "imap": {
-        "host": "imap.ooredoo.qa",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ooredoo.qa",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ooredoo.qa",
+      "smtp": "smtp.ooredoo.qa"
     },
     {
       "domain": "vodafone.qa",
       "name": "Vodafone Qatar",
-      "imap": {
-        "host": "imap.vodafone.qa",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vodafone.qa",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.vodafone.qa",
+      "smtp": "smtp.vodafone.qa"
     },
     {
       "domain": "qtel.com.qa",
       "name": "Qtel (Ooredoo legacy)",
-      "imap": {
-        "host": "imap.qtel.com.qa",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.qtel.com.qa",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.qtel.com.qa",
+      "smtp": "smtp.qtel.com.qa"
     },
     {
       "domain": "diwan.gov.qa",
       "name": "Diwan Government",
-      "imap": {
-        "host": "imap.diwan.gov.qa",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.diwan.gov.qa",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.diwan.gov.qa",
+      "smtp": "smtp.diwan.gov.qa"
     }
   ]
 }

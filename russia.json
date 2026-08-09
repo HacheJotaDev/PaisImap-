@@ -5,184 +5,80 @@
     {
       "domain": "yandex.ru",
       "name": "Yandex Mail",
-      "imap": {
-        "host": "imap.yandex.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.yandex.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.yandex.com",
+      "smtp": "smtp.yandex.com"
     },
     {
       "domain": "mail.ru",
       "name": "Mail.ru",
-      "imap": {
-        "host": "imap.mail.ru",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.ru",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mail.ru",
+      "smtp": "smtp.mail.ru"
     },
     {
       "domain": "inbox.ru",
       "name": "Inbox.ru",
-      "imap": {
-        "host": "imap.inbox.ru",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.inbox.ru",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.inbox.ru",
+      "smtp": "smtp.inbox.ru"
     },
     {
       "domain": "list.ru",
       "name": "List.ru",
-      "imap": {
-        "host": "imap.list.ru",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.list.ru",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.list.ru",
+      "smtp": "smtp.list.ru"
     },
     {
       "domain": "bk.ru",
       "name": "BK.ru",
-      "imap": {
-        "host": "imap.bk.ru",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bk.ru",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bk.ru",
+      "smtp": "smtp.bk.ru"
     },
     {
       "domain": "rambler.ru",
       "name": "Rambler",
-      "imap": {
-        "host": "imap.rambler.ru",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.rambler.ru",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.rambler.ru",
+      "smtp": "smtp.rambler.ru"
     },
     {
       "domain": "lenta.ru",
       "name": "Lenta Mail",
-      "imap": {
-        "host": "imap.lenta.ru",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.lenta.ru",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.lenta.ru",
+      "smtp": "smtp.lenta.ru"
     },
     {
       "domain": "km.ru",
       "name": "KM.ru",
-      "imap": {
-        "host": "imap.km.ru",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.km.ru",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.km.ru",
+      "smtp": "smtp.km.ru"
     },
     {
       "domain": "land.ru",
       "name": "Land.ru",
-      "imap": {
-        "host": "imap.land.ru",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.land.ru",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.land.ru",
+      "smtp": "smtp.land.ru"
     },
     {
       "domain": "smtp.ru",
       "name": "SMTP.ru",
-      "imap": {
-        "host": "imap.smtp.ru",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.smtp.ru",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.smtp.ru",
+      "smtp": "smtp.smtp.ru"
     },
     {
       "domain": "ya.ru",
       "name": "Ya.ru (Yandex)",
-      "imap": {
-        "host": "imap.ya.ru",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ya.ru",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ya.ru",
+      "smtp": "smtp.ya.ru"
     },
     {
       "domain": "narod.ru",
       "name": "Narod.ru (Yandex)",
-      "imap": {
-        "host": "imap.narod.ru",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.narod.ru",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.narod.ru",
+      "smtp": "smtp.narod.ru"
     },
     {
       "domain": "nm.ru",
       "name": "NM.ru",
-      "imap": {
-        "host": "imap.nm.ru",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nm.ru",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.nm.ru",
+      "smtp": "smtp.nm.ru"
     }
   ]
 }

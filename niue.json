@@ -5,30 +5,14 @@
     {
       "domain": "niue.nu",
       "name": "Internet Niue",
-      "imap": {
-        "host": "imap.niue.nu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.niue.nu",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.niue.nu",
+      "smtp": "smtp.niue.nu"
     },
     {
       "domain": "rockinternet.nu",
       "name": "Rock Internet Niue",
-      "imap": {
-        "host": "imap.rockinternet.nu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.rockinternet.nu",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.rockinternet.nu",
+      "smtp": "smtp.rockinternet.nu"
     }
   ]
 }

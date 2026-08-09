@@ -5,58 +5,26 @@
     {
       "domain": "bt.bt",
       "name": "Bhutan Telecom",
-      "imap": {
-        "host": "imap.bt.bt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bt.bt",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.bt.bt",
+      "smtp": "smtp.bt.bt"
     },
     {
       "domain": "tashicell.com.bt",
       "name": "TashiCell",
-      "imap": {
-        "host": "imap.tashicell.com.bt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tashicell.com.bt",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.tashicell.com.bt",
+      "smtp": "smtp.tashicell.com.bt"
     },
     {
       "domain": "tbc.com.bt",
       "name": "Tashi Business",
-      "imap": {
-        "host": "imap.tbc.com.bt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tbc.com.bt",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.tbc.com.bt",
+      "smtp": "smtp.tbc.com.bt"
     },
     {
       "domain": "druknet.bt",
       "name": "DrukNet",
-      "imap": {
-        "host": "imap.druknet.bt",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.druknet.bt",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.druknet.bt",
+      "smtp": "smtp.druknet.bt"
     }
   ]
 }

@@ -5,58 +5,26 @@
     {
       "domain": "telesur.sr",
       "name": "Telesur Suriname",
-      "imap": {
-        "host": "imap.telesur.sr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telesur.sr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telesur.sr",
+      "smtp": "smtp.telesur.sr"
     },
     {
       "domain": "digicelsr.com",
       "name": "Digicel Suriname",
-      "imap": {
-        "host": "imap.digicelsr.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digicelsr.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digicelsr.com",
+      "smtp": "smtp.digicelsr.com"
     },
     {
       "domain": "iovs.sr",
       "name": "State Telecom Suriname",
-      "imap": {
-        "host": "imap.iovs.sr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.iovs.sr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.iovs.sr",
+      "smtp": "smtp.iovs.sr"
     },
     {
       "domain": "gds.sr",
       "name": "GDS Suriname",
-      "imap": {
-        "host": "imap.gds.sr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gds.sr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.gds.sr",
+      "smtp": "smtp.gds.sr"
     }
   ]
 }

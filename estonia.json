@@ -5,128 +5,56 @@
     {
       "domain": "mail.ee",
       "name": "Mail.ee",
-      "imap": {
-        "host": "imap.mail.ee",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.ee",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mail.ee",
+      "smtp": "smtp.mail.ee"
     },
     {
       "domain": "hot.ee",
       "name": "Hot.ee",
-      "imap": {
-        "host": "imap.hot.ee",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.hot.ee",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.hot.ee",
+      "smtp": "smtp.hot.ee"
     },
     {
       "domain": "neti.ee",
       "name": "Neti.ee",
-      "imap": {
-        "host": "imap.neti.ee",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.neti.ee",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.neti.ee",
+      "smtp": "smtp.neti.ee"
     },
     {
       "domain": "online.ee",
       "name": "Online.ee",
-      "imap": {
-        "host": "imap.online.ee",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.online.ee",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.online.ee",
+      "smtp": "smtp.online.ee"
     },
     {
       "domain": "delfi.ee",
       "name": "Delfi.ee",
-      "imap": {
-        "host": "imap.delfi.ee",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.delfi.ee",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.delfi.ee",
+      "smtp": "smtp.delfi.ee"
     },
     {
       "domain": "eesti.ee",
       "name": "Eesti.ee",
-      "imap": {
-        "host": "imap.eesti.ee",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.eesti.ee",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.eesti.ee",
+      "smtp": "smtp.eesti.ee"
     },
     {
       "domain": "e-post.ee",
       "name": "E-post.ee",
-      "imap": {
-        "host": "imap.e-post.ee",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.e-post.ee",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.e-post.ee",
+      "smtp": "smtp.e-post.ee"
     },
     {
       "domain": "ut.ee",
       "name": "University of Tartu",
-      "imap": {
-        "host": "imap.ut.ee",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ut.ee",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ut.ee",
+      "smtp": "smtp.ut.ee"
     },
     {
       "domain": "taltech.ee",
       "name": "TalTech",
-      "imap": {
-        "host": "imap.taltech.ee",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.taltech.ee",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.taltech.ee",
+      "smtp": "smtp.taltech.ee"
     }
   ]
 }

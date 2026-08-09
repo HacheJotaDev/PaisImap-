@@ -5,142 +5,62 @@
     {
       "domain": "orange.fr",
       "name": "Orange France",
-      "imap": {
-        "host": "imap.orange.fr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.orange.fr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.orange.fr",
+      "smtp": "smtp.orange.fr"
     },
     {
       "domain": "wanadoo.fr",
       "name": "Wanadoo Orange",
-      "imap": {
-        "host": "imap.orange.fr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.orange.fr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.orange.fr",
+      "smtp": "smtp.orange.fr"
     },
     {
       "domain": "free.fr",
       "name": "Free Iliad",
-      "imap": {
-        "host": "imap.free.fr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.free.fr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.free.fr",
+      "smtp": "smtp.free.fr"
     },
     {
       "domain": "sfr.fr",
       "name": "SFR",
-      "imap": {
-        "host": "imap.sfr.fr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sfr.fr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.sfr.fr",
+      "smtp": "smtp.sfr.fr"
     },
     {
       "domain": "neuf.fr",
       "name": "Neuf SFR",
-      "imap": {
-        "host": "imap.sfr.fr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sfr.fr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.sfr.fr",
+      "smtp": "smtp.sfr.fr"
     },
     {
       "domain": "laposte.net",
       "name": "La Poste",
-      "imap": {
-        "host": "imap.laposte.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.laposte.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.laposte.net",
+      "smtp": "smtp.laposte.net"
     },
     {
       "domain": "club-internet.fr",
       "name": "Club Internet SFR",
-      "imap": {
-        "host": "imap.sfr.fr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sfr.fr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.sfr.fr",
+      "smtp": "smtp.sfr.fr"
     },
     {
       "domain": "bbox.fr",
       "name": "Bouygues Bbox",
-      "imap": {
-        "host": "imap.bbox.fr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bbox.fr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bbox.fr",
+      "smtp": "smtp.bbox.fr"
     },
     {
       "domain": "bouyguestelecom.fr",
       "name": "Bouygues Telecom",
-      "imap": {
-        "host": "imap.bouyguestelecom.fr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bouyguestelecom.fr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bouyguestelecom.fr",
+      "smtp": "smtp.bouyguestelecom.fr"
     },
     {
       "domain": "numericable.fr",
       "name": "Numericable SFR",
-      "imap": {
-        "host": "imap.numericable.fr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.numericable.fr",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.numericable.fr",
+      "smtp": "smtp.numericable.fr"
     }
   ]
 }

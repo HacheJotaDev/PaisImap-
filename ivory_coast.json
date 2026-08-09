@@ -5,58 +5,26 @@
     {
       "domain": "aviso.ci",
       "name": "Aviso CI",
-      "imap": {
-        "host": "imap.aviso.ci",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.aviso.ci",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.aviso.ci",
+      "smtp": "smtp.aviso.ci"
     },
     {
       "domain": "ci.online.ci",
       "name": "Cote d'Ivoire Online",
-      "imap": {
-        "host": "imap.ci.online.ci",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ci.online.ci",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ci.online.ci",
+      "smtp": "smtp.ci.online.ci"
     },
     {
       "domain": "afribone.ci",
       "name": "Afribone CI",
-      "imap": {
-        "host": "imap.afribone.ci",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.afribone.ci",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.afribone.ci",
+      "smtp": "smtp.afribone.ci"
     },
     {
       "domain": "canarplus.ci",
       "name": "Canarplus CI",
-      "imap": {
-        "host": "imap.canarplus.ci",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.canarplus.ci",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.canarplus.ci",
+      "smtp": "smtp.canarplus.ci"
     }
   ]
 }

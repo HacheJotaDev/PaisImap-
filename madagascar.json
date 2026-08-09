@@ -5,58 +5,26 @@
     {
       "domain": "telecom-madagascar.mg",
       "name": "Telma Madagascar",
-      "imap": {
-        "host": "imap.telecom-madagascar.mg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telecom-madagascar.mg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.telecom-madagascar.mg",
+      "smtp": "smtp.telecom-madagascar.mg"
     },
     {
       "domain": "orange.mg",
       "name": "Orange Madagascar",
-      "imap": {
-        "host": "imap.orange.mg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.orange.mg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.orange.mg",
+      "smtp": "smtp.orange.mg"
     },
     {
       "domain": "airtel.mg",
       "name": "Airtel Madagascar",
-      "imap": {
-        "host": "imap.airtel.mg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.airtel.mg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.airtel.mg",
+      "smtp": "smtp.airtel.mg"
     },
     {
       "domain": "blueline.mg",
       "name": "Blueline",
-      "imap": {
-        "host": "imap.blueline.mg",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.blueline.mg",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.blueline.mg",
+      "smtp": "smtp.blueline.mg"
     }
   ]
 }

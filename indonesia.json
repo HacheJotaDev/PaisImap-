@@ -5,282 +5,122 @@
     {
       "domain": "plasa.com",
       "name": "Plasa Telkom",
-      "imap": {
-        "host": "imap.plasa.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.plasa.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.plasa.com",
+      "smtp": "smtp.plasa.com"
     },
     {
       "domain": "telkom.net",
       "name": "Telkom Indonesia",
-      "imap": {
-        "host": "imap.telkom.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telkom.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telkom.net",
+      "smtp": "smtp.telkom.net"
     },
     {
       "domain": "indosat.net",
       "name": "Indosat",
-      "imap": {
-        "host": "imap.indosat.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.indosat.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.indosat.net",
+      "smtp": "smtp.indosat.net"
     },
     {
       "domain": "cbn.net.id",
       "name": "CBN Indonesia",
-      "imap": {
-        "host": "imap.cbn.net.id",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cbn.net.id",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cbn.net.id",
+      "smtp": "smtp.cbn.net.id"
     },
     {
       "domain": "telkom.net.id",
       "name": "Telkom Indonesia",
-      "imap": {
-        "host": "imap.telkom.net.id",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telkom.net.id",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.telkom.net.id",
+      "smtp": "smtp.telkom.net.id"
     },
     {
       "domain": "indosat.net.id",
       "name": "Indosat Ooredoo",
-      "imap": {
-        "host": "imap.indosat.net.id",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.indosat.net.id",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.indosat.net.id",
+      "smtp": "smtp.indosat.net.id"
     },
     {
       "domain": "xl.co.id",
       "name": "XL Axiata",
-      "imap": {
-        "host": "imap.xl.co.id",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.xl.co.id",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.xl.co.id",
+      "smtp": "smtp.xl.co.id"
     },
     {
       "domain": "smartfren.com",
       "name": "Smartfren",
-      "imap": {
-        "host": "imap.smartfren.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.smartfren.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.smartfren.com",
+      "smtp": "smtp.smartfren.com"
     },
     {
       "domain": "3.co.id",
       "name": "Tri (3 Indonesia)",
-      "imap": {
-        "host": "imap.3.co.id",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.3.co.id",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.3.co.id",
+      "smtp": "smtp.3.co.id"
     },
     {
       "domain": "biznet.com",
       "name": "Biznet",
-      "imap": {
-        "host": "imap.biznet.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.biznet.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.biznet.com",
+      "smtp": "smtp.biznet.com"
     },
     {
       "domain": "firstmedia.com",
       "name": "First Media",
-      "imap": {
-        "host": "imap.firstmedia.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.firstmedia.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.firstmedia.com",
+      "smtp": "smtp.firstmedia.com"
     },
     {
       "domain": "kompas.com",
       "name": "Kompas",
-      "imap": {
-        "host": "imap.kompas.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kompas.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.kompas.com",
+      "smtp": "smtp.kompas.com"
     },
     {
       "domain": "detik.com",
       "name": "Detik",
-      "imap": {
-        "host": "imap.detik.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.detik.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.detik.com",
+      "smtp": "smtp.detik.com"
     },
     {
       "domain": "ui.ac.id",
       "name": "Universitas Indonesia",
-      "imap": {
-        "host": "imap.ui.ac.id",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ui.ac.id",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ui.ac.id",
+      "smtp": "smtp.ui.ac.id"
     },
     {
       "domain": "itb.ac.id",
       "name": "ITB",
-      "imap": {
-        "host": "imap.itb.ac.id",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.itb.ac.id",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.itb.ac.id",
+      "smtp": "smtp.itb.ac.id"
     },
     {
       "domain": "ugm.ac.id",
       "name": "UGM",
-      "imap": {
-        "host": "imap.ugm.ac.id",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ugm.ac.id",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ugm.ac.id",
+      "smtp": "smtp.ugm.ac.id"
     },
     {
       "domain": "ub.ac.id",
       "name": "UB",
-      "imap": {
-        "host": "imap.ub.ac.id",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ub.ac.id",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ub.ac.id",
+      "smtp": "smtp.ub.ac.id"
     },
     {
       "domain": "its.ac.id",
       "name": "ITS",
-      "imap": {
-        "host": "imap.its.ac.id",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.its.ac.id",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.its.ac.id",
+      "smtp": "smtp.its.ac.id"
     },
     {
       "domain": "unair.ac.id",
       "name": "Universitas Airlangga",
-      "imap": {
-        "host": "imap.unair.ac.id",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unair.ac.id",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unair.ac.id",
+      "smtp": "smtp.unair.ac.id"
     },
     {
       "domain": "unpad.ac.id",
       "name": "Universitas Padjadjaran",
-      "imap": {
-        "host": "imap.unpad.ac.id",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unpad.ac.id",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unpad.ac.id",
+      "smtp": "smtp.unpad.ac.id"
     }
   ]
 }

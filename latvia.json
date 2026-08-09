@@ -5,156 +5,68 @@
     {
       "domain": "inbox.lv",
       "name": "Inbox.lv",
-      "imap": {
-        "host": "imap.inbox.lv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.inbox.lv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.inbox.lv",
+      "smtp": "smtp.inbox.lv"
     },
     {
       "domain": "mail.lv",
       "name": "Mail.lv",
-      "imap": {
-        "host": "imap.mail.lv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mail.lv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mail.lv",
+      "smtp": "smtp.mail.lv"
     },
     {
       "domain": "apollo.lv",
       "name": "Apollo.lv",
-      "imap": {
-        "host": "imap.apollo.lv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.apollo.lv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.apollo.lv",
+      "smtp": "smtp.apollo.lv"
     },
     {
       "domain": "one.lv",
       "name": "Tele2 Latvia",
-      "imap": {
-        "host": "imap.one.lv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.one.lv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.one.lv",
+      "smtp": "smtp.one.lv"
     },
     {
       "domain": "tvm.lv",
       "name": "TVM.lv",
-      "imap": {
-        "host": "imap.tvm.lv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tvm.lv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tvm.lv",
+      "smtp": "smtp.tvm.lv"
     },
     {
       "domain": "delfi.lv",
       "name": "Delfi.lv",
-      "imap": {
-        "host": "imap.delfi.lv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.delfi.lv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.delfi.lv",
+      "smtp": "smtp.delfi.lv"
     },
     {
       "domain": "lmt.lv",
       "name": "LMT",
-      "imap": {
-        "host": "imap.lmt.lv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.lmt.lv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.lmt.lv",
+      "smtp": "smtp.lmt.lv"
     },
     {
       "domain": "bite.lv",
       "name": "Bite Latvia",
-      "imap": {
-        "host": "imap.bite.lv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bite.lv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bite.lv",
+      "smtp": "smtp.bite.lv"
     },
     {
       "domain": "latnet.lv",
       "name": "Latnet",
-      "imap": {
-        "host": "imap.latnet.lv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.latnet.lv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.latnet.lv",
+      "smtp": "smtp.latnet.lv"
     },
     {
       "domain": "lu.lv",
       "name": "University of Latvia",
-      "imap": {
-        "host": "imap.lu.lv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.lu.lv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.lu.lv",
+      "smtp": "smtp.lu.lv"
     },
     {
       "domain": "rtu.lv",
       "name": "Riga Technical University",
-      "imap": {
-        "host": "imap.rtu.lv",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.rtu.lv",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.rtu.lv",
+      "smtp": "smtp.rtu.lv"
     }
   ]
 }

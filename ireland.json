@@ -5,58 +5,26 @@
     {
       "domain": "eircom.net",
       "name": "Eircom",
-      "imap": {
-        "host": "imap.eircom.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.eircom.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.eircom.net",
+      "smtp": "smtp.eircom.net"
     },
     {
       "domain": "o2.ie",
       "name": "O2 Ireland",
-      "imap": {
-        "host": "imap.o2.ie",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.o2.ie",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.o2.ie",
+      "smtp": "smtp.o2.ie"
     },
     {
       "domain": "vodafone.ie",
       "name": "Vodafone Ireland",
-      "imap": {
-        "host": "imap.vodafone.ie",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vodafone.ie",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vodafone.ie",
+      "smtp": "smtp.vodafone.ie"
     },
     {
       "domain": "eir.ie",
       "name": "Eir",
-      "imap": {
-        "host": "imap.eir.ie",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.eir.ie",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.eir.ie",
+      "smtp": "smtp.eir.ie"
     }
   ]
 }

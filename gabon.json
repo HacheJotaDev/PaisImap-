@@ -5,44 +5,20 @@
     {
       "domain": "gabontelecom.ga",
       "name": "Gabon Telecom",
-      "imap": {
-        "host": "imap.gabontelecom.ga",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gabontelecom.ga",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.gabontelecom.ga",
+      "smtp": "smtp.gabontelecom.ga"
     },
     {
       "domain": "airtel.ga",
       "name": "Airtel Gabon",
-      "imap": {
-        "host": "imap.airtel.ga",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.airtel.ga",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.airtel.ga",
+      "smtp": "smtp.airtel.ga"
     },
     {
       "domain": "moov.ga",
       "name": "Moov Gabon",
-      "imap": {
-        "host": "imap.moov.ga",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.moov.ga",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.moov.ga",
+      "smtp": "smtp.moov.ga"
     }
   ]
 }

@@ -5,44 +5,20 @@
     {
       "domain": "tele.gl",
       "name": "Tele Greenland",
-      "imap": {
-        "host": "imap.tele.gl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tele.gl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tele.gl",
+      "smtp": "smtp.tele.gl"
     },
     {
       "domain": "apa.gl",
       "name": "APA Greenland",
-      "imap": {
-        "host": "imap.apa.gl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.apa.gl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.apa.gl",
+      "smtp": "smtp.apa.gl"
     },
     {
       "domain": "olympic.gl",
       "name": "Olympic Greenland",
-      "imap": {
-        "host": "imap.olympic.gl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.olympic.gl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.olympic.gl",
+      "smtp": "smtp.olympic.gl"
     }
   ]
 }

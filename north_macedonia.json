@@ -5,86 +5,38 @@
     {
       "domain": "mt.com.mk",
       "name": "Makedonski Telekom",
-      "imap": {
-        "host": "imap.mt.com.mk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mt.com.mk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mt.com.mk",
+      "smtp": "smtp.mt.com.mk"
     },
     {
       "domain": "t-home.mk",
       "name": "T-Home Macedonia",
-      "imap": {
-        "host": "imap.t-home.mk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.t-home.mk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.t-home.mk",
+      "smtp": "smtp.t-home.mk"
     },
     {
       "domain": "neobee.mk",
       "name": "NeoBee",
-      "imap": {
-        "host": "imap.neobee.mk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.neobee.mk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.neobee.mk",
+      "smtp": "smtp.neobee.mk"
     },
     {
       "domain": "on.net.mk",
       "name": "ONE Macedonia",
-      "imap": {
-        "host": "imap.on.net.mk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.on.net.mk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.on.net.mk",
+      "smtp": "smtp.on.net.mk"
     },
     {
       "domain": "makedonski-telekom.mk",
       "name": "Makedonski Telekom",
-      "imap": {
-        "host": "imap.makedonski-telekom.mk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.makedonski-telekom.mk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.makedonski-telekom.mk",
+      "smtp": "smtp.makedonski-telekom.mk"
     },
     {
       "domain": "ukim.edu.mk",
       "name": "UKIM",
-      "imap": {
-        "host": "imap.ukim.edu.mk",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ukim.edu.mk",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ukim.edu.mk",
+      "smtp": "smtp.ukim.edu.mk"
     }
   ]
 }

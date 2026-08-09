@@ -5,86 +5,38 @@
     {
       "domain": "rediffmail.com",
       "name": "Rediffmail",
-      "imap": {
-        "host": "imap.rediffmail.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.rediffmail.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.rediffmail.com",
+      "smtp": "smtp.rediffmail.com"
     },
     {
       "domain": "indiatimes.com",
       "name": "Indiatimes",
-      "imap": {
-        "host": "imap.indiatimes.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.indiatimes.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.indiatimes.com",
+      "smtp": "smtp.indiatimes.com"
     },
     {
       "domain": "airtelmail.in",
       "name": "Airtel Mail",
-      "imap": {
-        "host": "imap.airtelmail.in",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.airtelmail.in",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.airtelmail.in",
+      "smtp": "smtp.airtelmail.in"
     },
     {
       "domain": "vsnl.net",
       "name": "VSNL (Tata)",
-      "imap": {
-        "host": "imap.vsnl.net",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vsnl.net",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vsnl.net",
+      "smtp": "smtp.vsnl.net"
     },
     {
       "domain": "mtnl.net.in",
       "name": "MTNL",
-      "imap": {
-        "host": "imap.mtnl.net.in",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mtnl.net.in",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.mtnl.net.in",
+      "smtp": "smtp.mtnl.net.in"
     },
     {
       "domain": "bsnl.in",
       "name": "BSNL",
-      "imap": {
-        "host": "imap.bsnl.in",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bsnl.in",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bsnl.in",
+      "smtp": "smtp.bsnl.in"
     }
   ]
 }

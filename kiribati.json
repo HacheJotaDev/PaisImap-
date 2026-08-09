@@ -5,30 +5,14 @@
     {
       "domain": "tsrl.net.ki",
       "name": "TSRL Kiribati Telecom",
-      "imap": {
-        "host": "imap.tsrl.net.ki",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tsrl.net.ki",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tsrl.net.ki",
+      "smtp": "smtp.tsrl.net.ki"
     },
     {
       "domain": "vodafone.ki",
       "name": "Vodafone Kiribati",
-      "imap": {
-        "host": "imap.vodafone.ki",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vodafone.ki",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vodafone.ki",
+      "smtp": "smtp.vodafone.ki"
     }
   ]
 }

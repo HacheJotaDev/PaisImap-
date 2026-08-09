@@ -5,44 +5,20 @@
     {
       "domain": "mauritel.mr",
       "name": "Mauritel",
-      "imap": {
-        "host": "imap.mauritel.mr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mauritel.mr",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mauritel.mr",
+      "smtp": "smtp.mauritel.mr"
     },
     {
       "domain": "chinguitel.mr",
       "name": "Chinguitel",
-      "imap": {
-        "host": "imap.chinguitel.mr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.chinguitel.mr",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.chinguitel.mr",
+      "smtp": "smtp.chinguitel.mr"
     },
     {
       "domain": "mattel.mr",
       "name": "Mattel Mauritania",
-      "imap": {
-        "host": "imap.mattel.mr",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mattel.mr",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mattel.mr",
+      "smtp": "smtp.mattel.mr"
     }
   ]
 }

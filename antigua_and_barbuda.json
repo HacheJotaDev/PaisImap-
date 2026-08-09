@@ -5,44 +5,20 @@
     {
       "domain": "antiguabarbuda.com",
       "name": "APUA/FLOW Antigua",
-      "imap": {
-        "host": "imap.antiguabarbuda.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.antiguabarbuda.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.antiguabarbuda.com",
+      "smtp": "smtp.antiguabarbuda.com"
     },
     {
       "domain": "digicelantigua.com",
       "name": "Digicel Antigua",
-      "imap": {
-        "host": "imap.digicelantigua.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digicelantigua.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digicelantigua.com",
+      "smtp": "smtp.digicelantigua.com"
     },
     {
       "domain": "flowantigua.com",
       "name": "FLOW Antigua",
-      "imap": {
-        "host": "imap.flowantigua.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.flowantigua.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.flowantigua.com",
+      "smtp": "smtp.flowantigua.com"
     }
   ]
 }

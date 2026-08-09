@@ -5,170 +5,74 @@
     {
       "domain": "go.com.jo",
       "name": "GO Telecom",
-      "imap": {
-        "host": "imap.go.com.jo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.go.com.jo",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.go.com.jo",
+      "smtp": "smtp.go.com.jo"
     },
     {
       "domain": "batelco.jo",
       "name": "Batelco Jordan",
-      "imap": {
-        "host": "imap.batelco.jo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.batelco.jo",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.batelco.jo",
+      "smtp": "smtp.batelco.jo"
     },
     {
       "domain": "umni.jo",
       "name": "UMNIA",
-      "imap": {
-        "host": "imap.umni.jo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.umni.jo",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.umni.jo",
+      "smtp": "smtp.umni.jo"
     },
     {
       "domain": "zain.jo",
       "name": "Zain Jordan",
-      "imap": {
-        "host": "imap.zain.jo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.zain.jo",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.zain.jo",
+      "smtp": "smtp.zain.jo"
     },
     {
       "domain": "orange.jo",
       "name": "Orange Jordan",
-      "imap": {
-        "host": "imap.orange.jo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.orange.jo",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.orange.jo",
+      "smtp": "smtp.orange.jo"
     },
     {
       "domain": "net.jo",
       "name": "Net Jordan",
-      "imap": {
-        "host": "imap.net.jo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.net.jo",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.net.jo",
+      "smtp": "smtp.net.jo"
     },
     {
       "domain": "icon.jo",
       "name": "Icon Jo",
-      "imap": {
-        "host": "imap.icon.jo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.icon.jo",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.icon.jo",
+      "smtp": "smtp.icon.jo"
     },
     {
       "domain": "wanadoo.jo",
       "name": "Wanadoo Jordan",
-      "imap": {
-        "host": "imap.wanadoo.jo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.wanadoo.jo",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.wanadoo.jo",
+      "smtp": "smtp.wanadoo.jo"
     },
     {
       "domain": "nets1.com",
       "name": "Nets1",
-      "imap": {
-        "host": "imap.nets1.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nets1.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.nets1.com",
+      "smtp": "smtp.nets1.com"
     },
     {
       "domain": "hu.edu.jo",
       "name": "Hashemite University",
-      "imap": {
-        "host": "imap.hu.edu.jo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.hu.edu.jo",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.hu.edu.jo",
+      "smtp": "smtp.hu.edu.jo"
     },
     {
       "domain": "ju.edu.jo",
       "name": "University of Jordan",
-      "imap": {
-        "host": "imap.ju.edu.jo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ju.edu.jo",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ju.edu.jo",
+      "smtp": "smtp.ju.edu.jo"
     },
     {
       "domain": "just.edu.jo",
       "name": "Jordan University of Science & Technology",
-      "imap": {
-        "host": "imap.just.edu.jo",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.just.edu.jo",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.just.edu.jo",
+      "smtp": "smtp.just.edu.jo"
     }
   ]
 }

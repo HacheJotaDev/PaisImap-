@@ -5,58 +5,26 @@
     {
       "domain": "skantelecom.com",
       "name": "SKAN Telecom",
-      "imap": {
-        "host": "imap.skantelecom.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.skantelecom.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.skantelecom.com",
+      "smtp": "smtp.skantelecom.com"
     },
     {
       "domain": "flowkn.com",
       "name": "FLOW St. Kitts & Nevis",
-      "imap": {
-        "host": "imap.flowkn.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.flowkn.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.flowkn.com",
+      "smtp": "smtp.flowkn.com"
     },
     {
       "domain": "digicelkn.com",
       "name": "Digicel St. Kitts & Nevis",
-      "imap": {
-        "host": "imap.digicelkn.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digicelkn.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digicelkn.com",
+      "smtp": "smtp.digicelkn.com"
     },
     {
       "domain": "ckbeltel.com",
       "name": "CKB Telco",
-      "imap": {
-        "host": "imap.ckbeltel.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ckbeltel.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ckbeltel.com",
+      "smtp": "smtp.ckbeltel.com"
     }
   ]
 }

@@ -5,44 +5,20 @@
     {
       "domain": "zamnet.zm",
       "name": "Zamnet",
-      "imap": {
-        "host": "imap.zamnet.zm",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.zamnet.zm",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.zamnet.zm",
+      "smtp": "smtp.zamnet.zm"
     },
     {
       "domain": "mtnzm.co.zm",
       "name": "MTN Zambia",
-      "imap": {
-        "host": "imap.mtnzm.co.zm",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mtnzm.co.zm",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mtnzm.co.zm",
+      "smtp": "smtp.mtnzm.co.zm"
     },
     {
       "domain": "airtel.zm",
       "name": "Airtel Zambia",
-      "imap": {
-        "host": "imap.airtel.zm",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.airtel.zm",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.airtel.zm",
+      "smtp": "smtp.airtel.zm"
     }
   ]
 }

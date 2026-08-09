@@ -5,44 +5,20 @@
     {
       "domain": "malitel.ml",
       "name": "Malitel",
-      "imap": {
-        "host": "imap.malitel.ml",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.malitel.ml",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.malitel.ml",
+      "smtp": "smtp.malitel.ml"
     },
     {
       "domain": "orange.ml",
       "name": "Orange Mali",
-      "imap": {
-        "host": "imap.orange.ml",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.orange.ml",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.orange.ml",
+      "smtp": "smtp.orange.ml"
     },
     {
       "domain": "sotelma.ml",
       "name": "Sotelma Mali",
-      "imap": {
-        "host": "imap.sotelma.ml",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sotelma.ml",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.sotelma.ml",
+      "smtp": "smtp.sotelma.ml"
     }
   ]
 }

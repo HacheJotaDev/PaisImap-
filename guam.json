@@ -5,58 +5,26 @@
     {
       "domain": "guamtelecom.com",
       "name": "GTA Guam",
-      "imap": {
-        "host": "imap.guamtelecom.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.guamtelecom.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.guamtelecom.com",
+      "smtp": "smtp.guamtelecom.com"
     },
     {
       "domain": "docomo-pacific.com",
       "name": "Docomo Pacific Guam",
-      "imap": {
-        "host": "imap.docomo-pacific.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.docomo-pacific.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.docomo-pacific.com",
+      "smtp": "smtp.docomo-pacific.com"
     },
     {
       "domain": "docomopacific.com",
       "name": "Docomo Pacific Guam",
-      "imap": {
-        "host": "imap.docomopacific.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.docomopacific.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.docomopacific.com",
+      "smtp": "smtp.docomopacific.com"
     },
     {
       "domain": "gta.gu",
       "name": "GTA Guam",
-      "imap": {
-        "host": "imap.gta.gu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.gta.gu",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.gta.gu",
+      "smtp": "smtp.gta.gu"
     }
   ]
 }

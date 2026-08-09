@@ -5,44 +5,20 @@
     {
       "domain": "vatican.va",
       "name": "Vatican",
-      "imap": {
-        "host": "imap.vatican.va",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vatican.va",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vatican.va",
+      "smtp": "smtp.vatican.va"
     },
     {
       "domain": "osservatoreromano.va",
       "name": "Osservatore Romano",
-      "imap": {
-        "host": "imap.osservatoreromano.va",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.osservatoreromano.va",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.osservatoreromano.va",
+      "smtp": "smtp.osservatoreromano.va"
     },
     {
       "domain": "holysee.va",
       "name": "Holy See",
-      "imap": {
-        "host": "imap.holysee.va",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.holysee.va",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.holysee.va",
+      "smtp": "smtp.holysee.va"
     }
   ]
 }

@@ -5,44 +5,20 @@
     {
       "domain": "yemen.net.ye",
       "name": "Yemen Net",
-      "imap": {
-        "host": "imap.yemen.net.ye",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.yemen.net.ye",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.yemen.net.ye",
+      "smtp": "smtp.yemen.net.ye"
     },
     {
       "domain": "yementelecom.ye",
       "name": "Yemen Telecom",
-      "imap": {
-        "host": "imap.yementelecom.ye",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.yementelecom.ye",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.yementelecom.ye",
+      "smtp": "smtp.yementelecom.ye"
     },
     {
       "domain": "sabafoon.ye",
       "name": "SabaFoon Yemen",
-      "imap": {
-        "host": "imap.sabafoon.ye",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.sabafoon.ye",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.sabafoon.ye",
+      "smtp": "smtp.sabafoon.ye"
     }
   ]
 }

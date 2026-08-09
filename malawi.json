@@ -5,44 +5,20 @@
     {
       "domain": "malawi-telecom.mw",
       "name": "Malawi Telecom",
-      "imap": {
-        "host": "imap.malawi-telecom.mw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.malawi-telecom.mw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.malawi-telecom.mw",
+      "smtp": "smtp.malawi-telecom.mw"
     },
     {
       "domain": "airtel.mw",
       "name": "Airtel Malawi",
-      "imap": {
-        "host": "imap.airtel.mw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.airtel.mw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.airtel.mw",
+      "smtp": "smtp.airtel.mw"
     },
     {
       "domain": "tnmsmart.mw",
       "name": "TNM Smart",
-      "imap": {
-        "host": "imap.tnmsmart.mw",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tnmsmart.mw",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.tnmsmart.mw",
+      "smtp": "smtp.tnmsmart.mw"
     }
   ]
 }

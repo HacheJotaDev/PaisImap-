@@ -5,114 +5,50 @@
     {
       "domain": "ziggo.nl",
       "name": "Ziggo",
-      "imap": {
-        "host": "imap.ziggo.nl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ziggo.nl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ziggo.nl",
+      "smtp": "smtp.ziggo.nl"
     },
     {
       "domain": "upcmail.nl",
       "name": "UPC Mail",
-      "imap": {
-        "host": "imap.upcmail.nl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.upcmail.nl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.upcmail.nl",
+      "smtp": "smtp.upcmail.nl"
     },
     {
       "domain": "xs4all.nl",
       "name": "XS4ALL",
-      "imap": {
-        "host": "imap.xs4all.nl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.xs4all.nl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.xs4all.nl",
+      "smtp": "smtp.xs4all.nl"
     },
     {
       "domain": "planet.nl",
       "name": "Planet Internet",
-      "imap": {
-        "host": "imap.planet.nl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.planet.nl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.planet.nl",
+      "smtp": "smtp.planet.nl"
     },
     {
       "domain": "home.nl",
       "name": "Home.nl",
-      "imap": {
-        "host": "imap.home.nl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.home.nl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.home.nl",
+      "smtp": "smtp.home.nl"
     },
     {
       "domain": "kpnmail.nl",
       "name": "KPN Mail",
-      "imap": {
-        "host": "imap.kpnmail.nl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.kpnmail.nl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.kpnmail.nl",
+      "smtp": "smtp.kpnmail.nl"
     },
     {
       "domain": "online.nl",
       "name": "Online.nl",
-      "imap": {
-        "host": "imap.online.nl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.online.nl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.online.nl",
+      "smtp": "smtp.online.nl"
     },
     {
       "domain": "hetnet.nl",
       "name": "Het Net",
-      "imap": {
-        "host": "imap.hetnet.nl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.hetnet.nl",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.hetnet.nl",
+      "smtp": "smtp.hetnet.nl"
     }
   ]
 }

@@ -5,72 +5,32 @@
     {
       "domain": "connect.com.fj",
       "name": "Connect Fiji",
-      "imap": {
-        "host": "imap.connect.com.fj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.connect.com.fj",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.connect.com.fj",
+      "smtp": "smtp.connect.com.fj"
     },
     {
       "domain": "vodafone.com.fj",
       "name": "Vodafone Fiji",
-      "imap": {
-        "host": "imap.vodafone.com.fj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vodafone.com.fj",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vodafone.com.fj",
+      "smtp": "smtp.vodafone.com.fj"
     },
     {
       "domain": "digicel.com.fj",
       "name": "Digicel Fiji",
-      "imap": {
-        "host": "imap.digicel.com.fj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.digicel.com.fj",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.digicel.com.fj",
+      "smtp": "smtp.digicel.com.fj"
     },
     {
       "domain": "fiji-telecom.fj",
       "name": "Fiji Telecom",
-      "imap": {
-        "host": "imap.fiji-telecom.fj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.fiji-telecom.fj",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.fiji-telecom.fj",
+      "smtp": "smtp.fiji-telecom.fj"
     },
     {
       "domain": "usp.ac.fj",
       "name": "University of the South Pacific",
-      "imap": {
-        "host": "imap.usp.ac.fj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.usp.ac.fj",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.usp.ac.fj",
+      "smtp": "smtp.usp.ac.fj"
     }
   ]
 }

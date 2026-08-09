@@ -5,58 +5,26 @@
     {
       "domain": "somtel.so",
       "name": "Somtel",
-      "imap": {
-        "host": "imap.somtel.so",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.somtel.so",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.somtel.so",
+      "smtp": "smtp.somtel.so"
     },
     {
       "domain": "hormuud.com.so",
       "name": "Hormuud Telecom",
-      "imap": {
-        "host": "imap.hormuud.com.so",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.hormuud.com.so",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.hormuud.com.so",
+      "smtp": "smtp.hormuud.com.so"
     },
     {
       "domain": "nationlink.net.so",
       "name": "NationLink",
-      "imap": {
-        "host": "imap.nationlink.net.so",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nationlink.net.so",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.nationlink.net.so",
+      "smtp": "smtp.nationlink.net.so"
     },
     {
       "domain": "golis-telecom.so",
       "name": "Golis Telecom",
-      "imap": {
-        "host": "imap.golis-telecom.so",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.golis-telecom.so",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.golis-telecom.so",
+      "smtp": "smtp.golis-telecom.so"
     }
   ]
 }

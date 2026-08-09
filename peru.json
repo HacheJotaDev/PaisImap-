@@ -5,254 +5,110 @@
     {
       "domain": "movistar.com.pe",
       "name": "Movistar Peru",
-      "imap": {
-        "host": "imap.movistar.com.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.movistar.com.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.movistar.com.pe",
+      "smtp": "smtp.movistar.com.pe"
     },
     {
       "domain": "claro.com.pe",
       "name": "Claro Peru",
-      "imap": {
-        "host": "imap.claro.com.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.claro.com.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.claro.com.pe",
+      "smtp": "smtp.claro.com.pe"
     },
     {
       "domain": "bitel.com.pe",
       "name": "Bitel Peru",
-      "imap": {
-        "host": "imap.bitel.com.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.bitel.com.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.bitel.com.pe",
+      "smtp": "smtp.bitel.com.pe"
     },
     {
       "domain": "unedu.pe",
       "name": "UNI Peru",
-      "imap": {
-        "host": "imap.un.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.un.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.un.edu.pe",
+      "smtp": "smtp.un.edu.pe"
     },
     {
       "domain": "pucp.edu.pe",
       "name": "PUCP",
-      "imap": {
-        "host": "imap.pucp.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pucp.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.pucp.edu.pe",
+      "smtp": "smtp.pucp.edu.pe"
     },
     {
       "domain": "correo.pucp.edu.pe",
       "name": "PUCP Correo",
-      "imap": {
-        "host": "imap.correo.pucp.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.correo.pucp.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.correo.pucp.edu.pe",
+      "smtp": "smtp.correo.pucp.edu.pe"
     },
     {
       "domain": "upc.edu.pe",
       "name": "Universidad Peruana de Ciencias Aplicadas",
-      "imap": {
-        "host": "imap.upc.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.upc.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.upc.edu.pe",
+      "smtp": "smtp.upc.edu.pe"
     },
     {
       "domain": "uni.edu.pe",
       "name": "Universidad Nacional de Ingenieria",
-      "imap": {
-        "host": "imap.uni.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uni.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uni.edu.pe",
+      "smtp": "smtp.uni.edu.pe"
     },
     {
       "domain": "ulima.edu.pe",
       "name": "Universidad de Lima",
-      "imap": {
-        "host": "imap.ulima.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ulima.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.ulima.edu.pe",
+      "smtp": "smtp.ulima.edu.pe"
     },
     {
       "domain": "utp.edu.pe",
       "name": "Universidad Tecnologica del Peru",
-      "imap": {
-        "host": "imap.utp.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.utp.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.utp.edu.pe",
+      "smtp": "smtp.utp.edu.pe"
     },
     {
       "domain": "unmsm.edu.pe",
       "name": "Universidad Nacional Mayor de San Marcos",
-      "imap": {
-        "host": "imap.unmsm.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unmsm.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unmsm.edu.pe",
+      "smtp": "smtp.unmsm.edu.pe"
     },
     {
       "domain": "unap.edu.pe",
       "name": "Universidad Nacional del Altiplano",
-      "imap": {
-        "host": "imap.unap.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unap.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unap.edu.pe",
+      "smtp": "smtp.unap.edu.pe"
     },
     {
       "domain": "unalm.edu.pe",
       "name": "Universidad Nacional Agraria La Molina",
-      "imap": {
-        "host": "imap.unalm.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unalm.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unalm.edu.pe",
+      "smtp": "smtp.unalm.edu.pe"
     },
     {
       "domain": "udep.edu.pe",
       "name": "Universidad de Piura",
-      "imap": {
-        "host": "imap.udep.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.udep.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.udep.edu.pe",
+      "smtp": "smtp.udep.edu.pe"
     },
     {
       "domain": "unsa.edu.pe",
       "name": "Universidad Nacional de San Agustin",
-      "imap": {
-        "host": "imap.unsa.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unsa.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unsa.edu.pe",
+      "smtp": "smtp.unsa.edu.pe"
     },
     {
       "domain": "unjbg.edu.pe",
       "name": "Universidad Nacional Jorge Basadre",
-      "imap": {
-        "host": "imap.unjbg.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unjbg.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unjbg.edu.pe",
+      "smtp": "smtp.unjbg.edu.pe"
     },
     {
       "domain": "unt.edu.pe",
       "name": "Universidad Nacional de Trujillo",
-      "imap": {
-        "host": "imap.unt.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unt.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unt.edu.pe",
+      "smtp": "smtp.unt.edu.pe"
     },
     {
       "domain": "upn.edu.pe",
       "name": "Universidad Pedagogica Nacional",
-      "imap": {
-        "host": "imap.upn.edu.pe",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.upn.edu.pe",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.upn.edu.pe",
+      "smtp": "smtp.upn.edu.pe"
     }
   ]
 }

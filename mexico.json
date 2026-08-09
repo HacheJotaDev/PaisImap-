@@ -5,58 +5,308 @@
     {
       "domain": "prodigy.net.mx",
       "name": "Telmex Prodigy",
-      "imap": {
-        "host": "imap.prodigy.net.mx",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.prodigy.net.mx",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.prodigy.net.mx",
+      "smtp": "smtp.prodigy.net.mx"
     },
     {
       "domain": "unam.mx",
       "name": "UNAM",
-      "imap": {
-        "host": "imap.unam.mx",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unam.mx",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unam.mx",
+      "smtp": "smtp.unam.mx"
     },
     {
       "domain": "itesm.mx",
       "name": "Tec de Monterrey",
-      "imap": {
-        "host": "outlook.office365.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.office365.com",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "outlook.office365.com",
+      "smtp": "smtp.office365.com"
     },
     {
       "domain": "uanl.mx",
       "name": "UANL",
-      "imap": {
-        "host": "imap.uanl.mx",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uanl.mx",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uanl.mx",
+      "smtp": "smtp.uanl.mx"
+    },
+    {
+      "domain": "izzi.mx",
+      "name": "Izzi Telecom",
+      "imap": "imap.izzi.mx",
+      "smtp": "smtp.izzi.mx"
+    },
+    {
+      "domain": "totalplay.mx",
+      "name": "Totalplay",
+      "imap": "imap.totalplay.mx",
+      "smtp": "smtp.totalplay.mx"
+    },
+    {
+      "domain": "megacable.com.mx",
+      "name": "Megacable",
+      "imap": "imap.megacable.com.mx",
+      "smtp": "smtp.megacable.com.mx"
+    },
+    {
+      "domain": "uninet.net.mx",
+      "name": "Uninet Telmex",
+      "imap": "imap.uninet.net.mx",
+      "smtp": "smtp.uninet.net.mx"
+    },
+    {
+      "domain": "telcel.com",
+      "name": "Telcel",
+      "imap": "imap.telcel.com",
+      "smtp": "smtp.telcel.com"
+    },
+    {
+      "domain": "movistar.com.mx",
+      "name": "Movistar Mexico",
+      "imap": "imap.movistar.com.mx",
+      "smtp": "smtp.movistar.com.mx"
+    },
+    {
+      "domain": "att.com.mx",
+      "name": "AT&T Mexico",
+      "imap": "imap.att.com.mx",
+      "smtp": "smtp.att.com.mx"
+    },
+    {
+      "domain": "axtel.com",
+      "name": "Axtel",
+      "imap": "imap.axtel.com",
+      "smtp": "smtp.axtel.com"
+    },
+    {
+      "domain": "cablevision.com.mx",
+      "name": "Cablevision Izzi",
+      "imap": "imap.cablevision.com.mx",
+      "smtp": "smtp.cablevision.com.mx"
+    },
+    {
+      "domain": "cablemas.com",
+      "name": "Cablemas",
+      "imap": "imap.cablemas.com",
+      "smtp": "smtp.cablemas.com"
+    },
+    {
+      "domain": "maxcom.com.mx",
+      "name": "Maxcom",
+      "imap": "imap.maxcom.com.mx",
+      "smtp": "smtp.maxcom.com.mx"
+    },
+    {
+      "domain": "infinitum.com.mx",
+      "name": "Infinitum Telmex",
+      "imap": "imap.infinitum.com.mx",
+      "smtp": "smtp.infinitum.com.mx"
+    },
+    {
+      "domain": "telnor.com",
+      "name": "Telnor",
+      "imap": "imap.telnor.com",
+      "smtp": "smtp.telnor.com"
+    },
+    {
+      "domain": "alestra.com.mx",
+      "name": "Alestra",
+      "imap": "imap.alestra.com.mx",
+      "smtp": "smtp.alestra.com.mx"
+    },
+    {
+      "domain": "protel.com.mx",
+      "name": "Protel",
+      "imap": "imap.protel.com.mx",
+      "smtp": "smtp.protel.com.mx"
+    },
+    {
+      "domain": "marcatel.com.mx",
+      "name": "Marcatel",
+      "imap": "imap.marcatel.com.mx",
+      "smtp": "smtp.marcatel.com.mx"
+    },
+    {
+      "domain": "ipn.mx",
+      "name": "IPN",
+      "imap": "imap.ipn.mx",
+      "smtp": "smtp.ipn.mx"
+    },
+    {
+      "domain": "uam.mx",
+      "name": "UAM",
+      "imap": "imap.uam.mx",
+      "smtp": "smtp.uam.mx"
+    },
+    {
+      "domain": "udeg.mx",
+      "name": "Universidad de Guadalajara",
+      "imap": "imap.udeg.mx",
+      "smtp": "smtp.udeg.mx"
+    },
+    {
+      "domain": "buap.mx",
+      "name": "BUAP",
+      "imap": "imap.buap.mx",
+      "smtp": "smtp.buap.mx"
+    },
+    {
+      "domain": "uaemex.mx",
+      "name": "UAEMex",
+      "imap": "imap.uaemex.mx",
+      "smtp": "smtp.uaemex.mx"
+    },
+    {
+      "domain": "uabc.mx",
+      "name": "UABC",
+      "imap": "imap.uabc.mx",
+      "smtp": "smtp.uabc.mx"
+    },
+    {
+      "domain": "uv.mx",
+      "name": "Universidad Veracruzana",
+      "imap": "imap.uv.mx",
+      "smtp": "smtp.uv.mx"
+    },
+    {
+      "domain": "uach.mx",
+      "name": "Universidad de Chihuahua",
+      "imap": "imap.uach.mx",
+      "smtp": "smtp.uach.mx"
+    },
+    {
+      "domain": "uaslp.mx",
+      "name": "UASLP",
+      "imap": "imap.uaslp.mx",
+      "smtp": "smtp.uaslp.mx"
+    },
+    {
+      "domain": "udg.mx",
+      "name": "UDG",
+      "imap": "imap.udg.mx",
+      "smtp": "smtp.udg.mx"
+    },
+    {
+      "domain": "tec.mx",
+      "name": "Tec de Monterrey",
+      "imap": "imap.tec.mx",
+      "smtp": "smtp.tec.mx"
+    },
+    {
+      "domain": "uson.mx",
+      "name": "Universidad de Sonora",
+      "imap": "imap.uson.mx",
+      "smtp": "smtp.uson.mx"
+    },
+    {
+      "domain": "uady.mx",
+      "name": "UADY",
+      "imap": "imap.uady.mx",
+      "smtp": "smtp.uady.mx"
+    },
+    {
+      "domain": "ujat.mx",
+      "name": "UJAT",
+      "imap": "imap.ujat.mx",
+      "smtp": "smtp.ujat.mx"
+    },
+    {
+      "domain": "umich.mx",
+      "name": "UMich",
+      "imap": "imap.umich.mx",
+      "smtp": "smtp.umich.mx"
+    },
+    {
+      "domain": "uaa.mx",
+      "name": "UAA",
+      "imap": "imap.uaa.mx",
+      "smtp": "smtp.uaa.mx"
+    },
+    {
+      "domain": "uaz.mx",
+      "name": "UAZ",
+      "imap": "imap.uaz.mx",
+      "smtp": "smtp.uaz.mx"
+    },
+    {
+      "domain": "sedena.gob.mx",
+      "name": "SEDENA",
+      "imap": "imap.sedena.gob.mx",
+      "smtp": "smtp.sedena.gob.mx"
+    },
+    {
+      "domain": "sep.gob.mx",
+      "name": "SEP",
+      "imap": "imap.sep.gob.mx",
+      "smtp": "smtp.sep.gob.mx"
+    },
+    {
+      "domain": "shcp.gob.mx",
+      "name": "SHCP",
+      "imap": "imap.shcp.gob.mx",
+      "smtp": "smtp.shcp.gob.mx"
+    },
+    {
+      "domain": "sct.gob.mx",
+      "name": "SCT",
+      "imap": "imap.sct.gob.mx",
+      "smtp": "smtp.sct.gob.mx"
+    },
+    {
+      "domain": "salud.gob.mx",
+      "name": "Salud Mexico",
+      "imap": "imap.salud.gob.mx",
+      "smtp": "smtp.salud.gob.mx"
+    },
+    {
+      "domain": "sre.gob.mx",
+      "name": "SRE",
+      "imap": "imap.sre.gob.mx",
+      "smtp": "smtp.sre.gob.mx"
+    },
+    {
+      "domain": "ss.gob.mx",
+      "name": "SS Mexico",
+      "imap": "imap.ss.gob.mx",
+      "smtp": "smtp.ss.gob.mx"
+    },
+    {
+      "domain": "doa.gob.mx",
+      "name": "DOA",
+      "imap": "imap.doa.gob.mx",
+      "smtp": "smtp.doa.gob.mx"
+    },
+    {
+      "domain": "pgr.gob.mx",
+      "name": "PGR",
+      "imap": "imap.pgr.gob.mx",
+      "smtp": "smtp.pgr.gob.mx"
+    },
+    {
+      "domain": "impi.gob.mx",
+      "name": "IMPI",
+      "imap": "imap.impi.gob.mx",
+      "smtp": "smtp.impi.gob.mx"
+    },
+    {
+      "domain": "ine.gob.mx",
+      "name": "INE",
+      "imap": "imap.ine.gob.mx",
+      "smtp": "smtp.ine.gob.mx"
+    },
+    {
+      "domain": "inai.gob.mx",
+      "name": "INAI",
+      "imap": "imap.inai.gob.mx",
+      "smtp": "smtp.inai.gob.mx"
+    },
+    {
+      "domain": "cfe.gob.mx",
+      "name": "CFE",
+      "imap": "imap.cfe.gob.mx",
+      "smtp": "smtp.cfe.gob.mx"
+    },
+    {
+      "domain": "pemex.com",
+      "name": "PEMEX",
+      "imap": "imap.pemex.com",
+      "smtp": "smtp.pemex.com"
     }
   ]
 }

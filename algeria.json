@@ -5,100 +5,44 @@
     {
       "domain": "djazzmail.dz",
       "name": "Djazzmail",
-      "imap": {
-        "host": "imap.djazzmail.dz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.djazzmail.dz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.djazzmail.dz",
+      "smtp": "smtp.djazzmail.dz"
     },
     {
       "domain": "ooredoo.dz",
       "name": "Ooredoo Algeria",
-      "imap": {
-        "host": "imap.ooredoo.dz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ooredoo.dz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ooredoo.dz",
+      "smtp": "smtp.ooredoo.dz"
     },
     {
       "domain": "mobilis.dz",
       "name": "Mobilis",
-      "imap": {
-        "host": "imap.mobilis.dz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.mobilis.dz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.mobilis.dz",
+      "smtp": "smtp.mobilis.dz"
     },
     {
       "domain": "djezzy.dz",
       "name": "Djezzy",
-      "imap": {
-        "host": "imap.djezzy.dz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.djezzy.dz",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.djezzy.dz",
+      "smtp": "smtp.djezzy.dz"
     },
     {
       "domain": "unistra.dz",
       "name": "Universite Alger",
-      "imap": {
-        "host": "imap.unistra.dz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.unistra.dz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.unistra.dz",
+      "smtp": "smtp.unistra.dz"
     },
     {
       "domain": "cerist.dz",
       "name": "CERIST Algeria",
-      "imap": {
-        "host": "imap.cerist.dz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.cerist.dz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.cerist.dz",
+      "smtp": "smtp.cerist.dz"
     },
     {
       "domain": "uanl.edu.dz",
       "name": "UANL Algeria",
-      "imap": {
-        "host": "imap.uanl.edu.dz",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.uanl.edu.dz",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.uanl.edu.dz",
+      "smtp": "smtp.uanl.edu.dz"
     }
   ]
 }

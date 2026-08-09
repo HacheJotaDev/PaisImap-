@@ -5,86 +5,38 @@
     {
       "domain": "tj-telecom.tj",
       "name": "Tajik Telecom",
-      "imap": {
-        "host": "imap.tj-telecom.tj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tj-telecom.tj",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.tj-telecom.tj",
+      "smtp": "smtp.tj-telecom.tj"
     },
     {
       "domain": "tcell.tj",
       "name": "TCell",
-      "imap": {
-        "host": "imap.tcell.tj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tcell.tj",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.tcell.tj",
+      "smtp": "smtp.tcell.tj"
     },
     {
       "domain": "babilon-tj.com",
       "name": "Babilon-T",
-      "imap": {
-        "host": "imap.babilon-tj.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.babilon-tj.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.babilon-tj.com",
+      "smtp": "smtp.babilon-tj.com"
     },
     {
       "domain": "somoncom.tj",
       "name": "Somoncom",
-      "imap": {
-        "host": "imap.somoncom.tj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.somoncom.tj",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.somoncom.tj",
+      "smtp": "smtp.somoncom.tj"
     },
     {
       "domain": "intra.tj",
       "name": "Intra Tajikistan",
-      "imap": {
-        "host": "imap.intra.tj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.intra.tj",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.intra.tj",
+      "smtp": "smtp.intra.tj"
     },
     {
       "domain": "maxcom.tj",
       "name": "Maxcom",
-      "imap": {
-        "host": "imap.maxcom.tj",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.maxcom.tj",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.maxcom.tj",
+      "smtp": "smtp.maxcom.tj"
     }
   ]
 }

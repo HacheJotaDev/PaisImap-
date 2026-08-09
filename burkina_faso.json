@@ -5,58 +5,26 @@
     {
       "domain": "fasonet.bf",
       "name": "FasoNet",
-      "imap": {
-        "host": "imap.fasonet.bf",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.fasonet.bf",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.fasonet.bf",
+      "smtp": "smtp.fasonet.bf"
     },
     {
       "domain": "burkina-telecom.bf",
       "name": "Burkina Telecom",
-      "imap": {
-        "host": "imap.burkina-telecom.bf",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.burkina-telecom.bf",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.burkina-telecom.bf",
+      "smtp": "smtp.burkina-telecom.bf"
     },
     {
       "domain": "ouagalay.bf",
       "name": "Ouagalay",
-      "imap": {
-        "host": "imap.ouagalay.bf",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ouagalay.bf",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ouagalay.bf",
+      "smtp": "smtp.ouagalay.bf"
     },
     {
       "domain": "onatel.bf",
       "name": "ONATEL Burkina",
-      "imap": {
-        "host": "imap.onatel.bf",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.onatel.bf",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.onatel.bf",
+      "smtp": "smtp.onatel.bf"
     }
   ]
 }

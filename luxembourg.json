@@ -5,86 +5,38 @@
     {
       "domain": "pt.lu",
       "name": "POST Luxembourg",
-      "imap": {
-        "host": "imap.pt.lu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.pt.lu",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.pt.lu",
+      "smtp": "smtp.pt.lu"
     },
     {
       "domain": "tango.lu",
       "name": "Tango",
-      "imap": {
-        "host": "imap.tango.lu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.tango.lu",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.tango.lu",
+      "smtp": "smtp.tango.lu"
     },
     {
       "domain": "vo.lu",
       "name": "VOO Luxembourg",
-      "imap": {
-        "host": "imap.vo.lu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.vo.lu",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.vo.lu",
+      "smtp": "smtp.vo.lu"
     },
     {
       "domain": "telenet.lu",
       "name": "Telenet Luxembourg",
-      "imap": {
-        "host": "imap.telenet.lu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telenet.lu",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.telenet.lu",
+      "smtp": "smtp.telenet.lu"
     },
     {
       "domain": "university.lu",
       "name": "University of Luxembourg",
-      "imap": {
-        "host": "imap.university.lu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.university.lu",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.university.lu",
+      "smtp": "smtp.university.lu"
     },
     {
       "domain": "restena.lu",
       "name": "RESTENA",
-      "imap": {
-        "host": "imap.restena.lu",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.restena.lu",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.restena.lu",
+      "smtp": "smtp.restena.lu"
     }
   ]
 }

@@ -5,30 +5,14 @@
     {
       "domain": "timor-telecom.tl",
       "name": "Timor Telecom",
-      "imap": {
-        "host": "imap.timor-telecom.tl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.timor-telecom.tl",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.timor-telecom.tl",
+      "smtp": "smtp.timor-telecom.tl"
     },
     {
       "domain": "telkomcel.tl",
       "name": "Telkomcel TL",
-      "imap": {
-        "host": "imap.telkomcel.tl",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.telkomcel.tl",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.telkomcel.tl",
+      "smtp": "smtp.telkomcel.tl"
     }
   ]
 }

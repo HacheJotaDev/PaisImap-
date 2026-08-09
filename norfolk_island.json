@@ -5,44 +5,20 @@
     {
       "domain": "norfolkjet.nf",
       "name": "Norfolk Jet",
-      "imap": {
-        "host": "imap.norfolkjet.nf",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.norfolkjet.nf",
-        "port": 587,
-        "ssl": false
-      }
+      "imap": "imap.norfolkjet.nf",
+      "smtp": "smtp.norfolkjet.nf"
     },
     {
       "domain": "norfolktele.com",
       "name": "Norfolk Telecom",
-      "imap": {
-        "host": "imap.norfolktele.com",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.norfolktele.com",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.norfolktele.com",
+      "smtp": "smtp.norfolktele.com"
     },
     {
       "domain": "islandnet.nf",
       "name": "IslandNet Norfolk",
-      "imap": {
-        "host": "imap.islandnet.nf",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.islandnet.nf",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.islandnet.nf",
+      "smtp": "smtp.islandnet.nf"
     }
   ]
 }

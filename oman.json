@@ -5,100 +5,44 @@
     {
       "domain": "omanet.om",
       "name": "Omanet",
-      "imap": {
-        "host": "imap.omanet.om",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.omanet.om",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.omanet.om",
+      "smtp": "smtp.omanet.om"
     },
     {
       "domain": "omantel.om",
       "name": "Omantel",
-      "imap": {
-        "host": "imap.omantel.om",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.omantel.om",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.omantel.om",
+      "smtp": "smtp.omantel.om"
     },
     {
       "domain": "oman-telecom.om",
       "name": "Oman Telecom",
-      "imap": {
-        "host": "imap.oman-telecom.om",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.oman-telecom.om",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.oman-telecom.om",
+      "smtp": "smtp.oman-telecom.om"
     },
     {
       "domain": "ooredoo.om",
       "name": "Ooredoo Oman",
-      "imap": {
-        "host": "imap.ooredoo.om",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.ooredoo.om",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.ooredoo.om",
+      "smtp": "smtp.ooredoo.om"
     },
     {
       "domain": "awasr.om",
       "name": "Awasr",
-      "imap": {
-        "host": "imap.awasr.om",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.awasr.om",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.awasr.om",
+      "smtp": "smtp.awasr.om"
     },
     {
       "domain": "omantel.net.om",
       "name": "Omantel Net",
-      "imap": {
-        "host": "imap.omantel.net.om",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.omantel.net.om",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.omantel.net.om",
+      "smtp": "smtp.omantel.net.om"
     },
     {
       "domain": "nawras.om",
       "name": "Nawras (Ooredoo)",
-      "imap": {
-        "host": "imap.nawras.om",
-        "port": 993,
-        "ssl": true
-      },
-      "smtp": {
-        "host": "smtp.nawras.om",
-        "port": 465,
-        "ssl": true
-      }
+      "imap": "imap.nawras.om",
+      "smtp": "smtp.nawras.om"
     }
   ]
 }
