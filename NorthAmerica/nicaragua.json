@@ -1,0 +1,42 @@
+{
+  "country": "Nicaragua",
+  "code": "NI",
+  "providers": [
+    {
+      "domain": "claro.com.ni",
+      "name": "Claro Nicaragua",
+      "imap": "imap.claro.com.ni",
+      "smtp": "smtp.claro.com.ni"
+    },
+    {
+      "domain": "movistar.com.ni",
+      "name": "Movistar Nicaragua",
+      "imap": "imap.movistar.com.ni",
+      "smtp": "smtp.movistar.com.ni"
+    },
+    {
+      "domain": "tigo.com.ni",
+      "name": "Tigo Nicaragua",
+      "imap": "imap.tigo.com.ni",
+      "smtp": "smtp.tigo.com.ni"
+    },
+    {
+      "domain": "enitel.com.ni",
+      "name": "ENITEL Nicaragua",
+      "imap": "imap.enitel.com.ni",
+      "smtp": "smtp.enitel.com.ni"
+    },
+    {
+      "domain": "nitel.com.ni",
+      "name": "Nitel Nicaragua",
+      "imap": "imap.nitel.com.ni",
+      "smtp": "smtp.nitel.com.ni"
+    },
+    {
+      "domain": "bce.com.ni",
+      "name": "BCE Nicaragua",
+      "imap": "imap.bce.com.ni",
+      "smtp": "smtp.bce.com.ni"
+    }
+  ]
+}

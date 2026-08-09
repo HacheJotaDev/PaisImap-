@@ -1,0 +1,60 @@
+{
+  "country": "Trinidad and Tobago",
+  "code": "TT",
+  "providers": [
+    {
+      "domain": "tstt.co.tt",
+      "name": "TSTT",
+      "imap": "imap.tstt.co.tt",
+      "smtp": "smtp.tstt.co.tt"
+    },
+    {
+      "domain": "flow.tt",
+      "name": "FLOW Trinidad & Tobago",
+      "imap": "imap.flow.tt",
+      "smtp": "smtp.flow.tt"
+    },
+    {
+      "domain": "digiceltt.com",
+      "name": "Digicel Trinidad & Tobago",
+      "imap": "imap.digiceltt.com",
+      "smtp": "smtp.digiceltt.com"
+    },
+    {
+      "domain": "namracott.com",
+      "name": "Namraco TT",
+      "imap": "imap.namracott.com",
+      "smtp": "smtp.namracott.com"
+    },
+    {
+      "domain": "greenetworkstt.com",
+      "name": "Green Networks TT",
+      "imap": "imap.greenetworkstt.com",
+      "smtp": "smtp.greenetworkstt.com"
+    },
+    {
+      "domain": "nalis.gov.tt",
+      "name": "NALIS",
+      "imap": "imap.nalis.gov.tt",
+      "smtp": "smtp.nalis.gov.tt"
+    },
+    {
+      "domain": "tntg.gov.tt",
+      "name": "TNTG",
+      "imap": "imap.tntg.gov.tt",
+      "smtp": "smtp.tntg.gov.tt"
+    },
+    {
+      "domain": "tstp.org.tt",
+      "name": "TSTP",
+      "imap": "imap.tstp.org.tt",
+      "smtp": "smtp.tstp.org.tt"
+    },
+    {
+      "domain": "caribbeanjobs.com",
+      "name": "CaribbeanJobs TT",
+      "imap": "imap.caribbeanjobs.com",
+      "smtp": "smtp.caribbeanjobs.com"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "country": "Algeria",
+  "code": "DZ",
+  "providers": [
+    {
+      "domain": "djazzmail.dz",
+      "name": "Djazzmail",
+      "imap": "imap.djazzmail.dz",
+      "smtp": "smtp.djazzmail.dz"
+    },
+    {
+      "domain": "ooredoo.dz",
+      "name": "Ooredoo Algeria",
+      "imap": "imap.ooredoo.dz",
+      "smtp": "smtp.ooredoo.dz"
+    },
+    {
+      "domain": "mobilis.dz",
+      "name": "Mobilis",
+      "imap": "imap.mobilis.dz",
+      "smtp": "smtp.mobilis.dz"
+    },
+    {
+      "domain": "djezzy.dz",
+      "name": "Djezzy",
+      "imap": "imap.djezzy.dz",
+      "smtp": "smtp.djezzy.dz"
+    },
+    {
+      "domain": "cerist.dz",
+      "name": "CERIST Algeria",
+      "imap": "imap.cerist.dz",
+      "smtp": "smtp.cerist.dz"
+    }
+  ]
+}

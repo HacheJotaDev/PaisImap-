@@ -1,0 +1,90 @@
+{
+  "country": "Puerto Rico",
+  "code": "PR",
+  "providers": [
+    {
+      "domain": "coqui.net",
+      "name": "Coqui Net Puerto Rico",
+      "imap": "imap.coqui.net",
+      "smtp": "smtp.coqui.net"
+    },
+    {
+      "domain": "mail.pr",
+      "name": "Mail Puerto Rico",
+      "imap": "imap.mail.pr",
+      "smtp": "smtp.mail.pr"
+    },
+    {
+      "domain": "westernbbpr.com",
+      "name": "Western Broadband PR",
+      "imap": "imap.westernbbpr.com",
+      "smtp": "smtp.westernbbpr.com"
+    },
+    {
+      "domain": "libertypr.net",
+      "name": "Liberty Puerto Rico",
+      "imap": "imap.libertypr.net",
+      "smtp": "smtp.libertypr.net"
+    },
+    {
+      "domain": "clarnet.com",
+      "name": "Claro PR",
+      "imap": "imap.clarnet.com",
+      "smtp": "smtp.clarnet.com"
+    },
+    {
+      "domain": "caribe.net",
+      "name": "Caribe Net",
+      "imap": "imap.caribe.net",
+      "smtp": "smtp.caribe.net"
+    },
+    {
+      "domain": "prtc.net",
+      "name": "PRTC",
+      "imap": "imap.prtc.net",
+      "smtp": "smtp.prtc.net"
+    },
+    {
+      "domain": "wapa.tv",
+      "name": "WAPA TV",
+      "imap": "imap.wapa.tv",
+      "smtp": "smtp.wapa.tv"
+    },
+    {
+      "domain": "noticel.com",
+      "name": "Noticel",
+      "imap": "imap.noticel.com",
+      "smtp": "smtp.noticel.com"
+    },
+    {
+      "domain": "emersonpr.com",
+      "name": "Emerson PR",
+      "imap": "imap.emersonpr.com",
+      "smtp": "smtp.emersonpr.com"
+    },
+    {
+      "domain": "iprnet.com",
+      "name": "IPRNet",
+      "imap": "imap.iprnet.com",
+      "smtp": "smtp.iprnet.com"
+    },
+    {
+      "domain": "aadnetpr.com",
+      "name": "AADNet PR",
+      "imap": "imap.aadnetpr.com",
+      "smtp": "smtp.aadnetpr.com"
+    },
+    {
+      "domain": "prepa.com",
+      "name": "PREPA",
+      "imap": "imap.prepa.com",
+      "smtp": "smtp.prepa.com"
+    },
+    {
+      "domain": "aic.pr",
+      "name": "AIC Puerto Rico",
+      "imap": "imap.aic.pr",
+      "smtp": "smtp.aic.pr"
+    }
+  ]
+}

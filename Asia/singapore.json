@@ -1,0 +1,42 @@
+{
+  "country": "Singapore",
+  "code": "SG",
+  "providers": [
+    {
+      "domain": "singnet.com.sg",
+      "name": "SingNet",
+      "imap": "imap.singnet.com.sg",
+      "smtp": "smtp.singnet.com.sg"
+    },
+    {
+      "domain": "pacific.net.sg",
+      "name": "Pacific Internet",
+      "imap": "imap.pacific.net.sg",
+      "smtp": "smtp.pacific.net.sg"
+    },
+    {
+      "domain": "viewqwest.com",
+      "name": "ViewQwest",
+      "imap": "imap.viewqwest.com",
+      "smtp": "smtp.viewqwest.com"
+    },
+    {
+      "domain": "myrepublic.com.sg",
+      "name": "MyRepublic",
+      "imap": "imap.myrepublic.com.sg",
+      "smtp": "smtp.myrepublic.com.sg"
+    },
+    {
+      "domain": "vodafone.com.sg",
+      "name": "Vodafone Singapore",
+      "imap": "imap.vodafone.com.sg",
+      "smtp": "smtp.vodafone.com.sg"
+    },
+    {
+      "domain": "m1.com.sg",
+      "name": "M1",
+      "imap": "imap.m1.com.sg",
+      "smtp": "smtp.m1.com.sg"
+    }
+  ]
+}

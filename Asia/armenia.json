@@ -1,0 +1,48 @@
+{
+  "country": "Armenia",
+  "code": "AM",
+  "providers": [
+    {
+      "domain": "armentel.am",
+      "name": "ArmenTel (Beeline)",
+      "imap": "imap.armentel.am",
+      "smtp": "smtp.armentel.am"
+    },
+    {
+      "domain": "vivacell.am",
+      "name": "VivaCell MTS",
+      "imap": "imap.vivacell.am",
+      "smtp": "smtp.vivacell.am"
+    },
+    {
+      "domain": "ucom.am",
+      "name": "Ucom",
+      "imap": "imap.ucom.am",
+      "smtp": "smtp.ucom.am"
+    },
+    {
+      "domain": "gnc.am",
+      "name": "GNC-ALFA",
+      "imap": "imap.gnc.am",
+      "smtp": "smtp.gnc.am"
+    },
+    {
+      "domain": "arminco.com",
+      "name": "Arminco",
+      "imap": "imap.arminco.com",
+      "smtp": "smtp.arminco.com"
+    },
+    {
+      "domain": "web.am",
+      "name": "Web Armenia",
+      "imap": "imap.web.am",
+      "smtp": "smtp.web.am"
+    },
+    {
+      "domain": "freenet.am",
+      "name": "Freenet Armenia",
+      "imap": "imap.freenet.am",
+      "smtp": "smtp.freenet.am"
+    }
+  ]
+}

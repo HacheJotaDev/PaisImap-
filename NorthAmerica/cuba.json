@@ -1,0 +1,186 @@
+{
+  "country": "Cuba",
+  "code": "CU",
+  "providers": [
+    {
+      "domain": "infocom.etecsa.cu",
+      "name": "ETECSA Infocom",
+      "imap": "imap.infocom.etecsa.cu",
+      "smtp": "smtp.infocom.etecsa.cu"
+    },
+    {
+      "domain": "enet.cu",
+      "name": "ETECSA Enet",
+      "imap": "imap.enet.cu",
+      "smtp": "smtp.enet.cu"
+    },
+    {
+      "domain": "cubarte.cu",
+      "name": "Cubarte",
+      "imap": "imap.cubarte.cu",
+      "smtp": "smtp.cubarte.cu"
+    },
+    {
+      "domain": "infomed.sld.cu",
+      "name": "Infomed Cuba",
+      "imap": "imap.infomed.sld.cu",
+      "smtp": "smtp.infomed.sld.cu"
+    },
+    {
+      "domain": "sld.cu",
+      "name": "SLD Cuba",
+      "imap": "imap.sld.cu",
+      "smtp": "smtp.sld.cu"
+    },
+    {
+      "domain": "acimed.cu",
+      "name": "ACIMED Cuba",
+      "imap": "imap.acimed.cu",
+      "smtp": "smtp.acimed.cu"
+    },
+    {
+      "domain": "udg.cu",
+      "name": "UDG Cuba",
+      "imap": "imap.udg.cu",
+      "smtp": "smtp.udg.cu"
+    },
+    {
+      "domain": "isc.cu",
+      "name": "ISC Cuba",
+      "imap": "imap.isc.cu",
+      "smtp": "smtp.isc.cu"
+    },
+    {
+      "domain": "cuper.cu",
+      "name": "CUPer",
+      "imap": "imap.cuper.cu",
+      "smtp": "smtp.cuper.cu"
+    },
+    {
+      "domain": "telemundo.cu",
+      "name": "Telemundo Cuba",
+      "imap": "imap.telemundo.cu",
+      "smtp": "smtp.telemundo.cu"
+    },
+    {
+      "domain": "islagrande.cu",
+      "name": "Isla Grande",
+      "imap": "imap.islagrande.cu",
+      "smtp": "smtp.islagrande.cu"
+    },
+    {
+      "domain": "citma.cu",
+      "name": "CITMA",
+      "imap": "imap.citma.cu",
+      "smtp": "smtp.citma.cu"
+    },
+    {
+      "domain": "fcmfajardo.cu",
+      "name": "FCMF",
+      "imap": "imap.fcmfajardo.cu",
+      "smtp": "smtp.fcmfajardo.cu"
+    },
+    {
+      "domain": "ispca.rimed.cu",
+      "name": "RIMED",
+      "imap": "imap.ispca.rimed.cu",
+      "smtp": "smtp.ispca.rimed.cu"
+    },
+    {
+      "domain": "mw.sld.cu",
+      "name": "MINSAP",
+      "imap": "imap.mw.sld.cu",
+      "smtp": "smtp.mw.sld.cu"
+    },
+    {
+      "domain": "finlay.cu",
+      "name": "Finlay",
+      "imap": "imap.finlay.cu",
+      "smtp": "smtp.finlay.cu"
+    },
+    {
+      "domain": "cei.uh.cu",
+      "name": "CEI UH",
+      "imap": "imap.cei.uh.cu",
+      "smtp": "smtp.cei.uh.cu"
+    },
+    {
+      "domain": "tesa.cu",
+      "name": "TESA",
+      "imap": "imap.tesa.cu",
+      "smtp": "smtp.tesa.cu"
+    },
+    {
+      "domain": "telesur.cu",
+      "name": "Telesur Cuba",
+      "imap": "imap.telesur.cu",
+      "smtp": "smtp.telesur.cu"
+    },
+    {
+      "domain": "radiorebelde.cu",
+      "name": "Radio Rebelde",
+      "imap": "imap.radiorebelde.cu",
+      "smtp": "smtp.radiorebelde.cu"
+    },
+    {
+      "domain": "granma.cu",
+      "name": "Granma",
+      "imap": "imap.granma.cu",
+      "smtp": "smtp.granma.cu"
+    },
+    {
+      "domain": "juventudrebelde.cu",
+      "name": "Juventud Rebelde",
+      "imap": "imap.juventudrebelde.cu",
+      "smtp": "smtp.juventudrebelde.cu"
+    },
+    {
+      "domain": "idict.cu",
+      "name": "IDICT",
+      "imap": "imap.idict.cu",
+      "smtp": "smtp.idict.cu"
+    },
+    {
+      "domain": "sidor.sld.cu",
+      "name": "SIDOR",
+      "imap": "imap.sidor.sld.cu",
+      "smtp": "smtp.sidor.sld.cu"
+    },
+    {
+      "domain": "transnet.cu",
+      "name": "Transnet",
+      "imap": "imap.transnet.cu",
+      "smtp": "smtp.transnet.cu"
+    },
+    {
+      "domain": "desoft.cu",
+      "name": "DESOFT",
+      "imap": "imap.desoft.cu",
+      "smtp": "smtp.desoft.cu"
+    },
+    {
+      "domain": "etecsa.cu",
+      "name": "ETECSA",
+      "imap": "imap.etecsa.cu",
+      "smtp": "smtp.etecsa.cu"
+    },
+    {
+      "domain": "finlay.sld.cu",
+      "name": "Finlay SLD",
+      "imap": "imap.finlay.sld.cu",
+      "smtp": "smtp.finlay.sld.cu"
+    },
+    {
+      "domain": "cip.cu",
+      "name": "CIP",
+      "imap": "imap.cip.cu",
+      "smtp": "smtp.cip.cu"
+    },
+    {
+      "domain": "insmet.cu",
+      "name": "INSMET",
+      "imap": "imap.insmet.cu",
+      "smtp": "smtp.insmet.cu"
+    }
+  ]
+}

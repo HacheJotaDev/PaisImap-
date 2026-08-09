@@ -1,0 +1,102 @@
+{
+  "country": "Bulgaria",
+  "code": "BG",
+  "providers": [
+    {
+      "domain": "abv.bg",
+      "name": "Abv.bg",
+      "imap": "imap.abv.bg",
+      "smtp": "smtp.abv.bg"
+    },
+    {
+      "domain": "mail.bg",
+      "name": "Mail.bg",
+      "imap": "imap.mail.bg",
+      "smtp": "smtp.mail.bg"
+    },
+    {
+      "domain": "gbg.bg",
+      "name": "Gbg.bg",
+      "imap": "imap.gbg.bg",
+      "smtp": "smtp.gbg.bg"
+    },
+    {
+      "domain": "spnet.net",
+      "name": "SPNet",
+      "imap": "imap.spnet.net",
+      "smtp": "smtp.spnet.net"
+    },
+    {
+      "domain": "dir.bg",
+      "name": "Dir.bg",
+      "imap": "imap.dir.bg",
+      "smtp": "smtp.dir.bg"
+    },
+    {
+      "domain": "state.bg",
+      "name": "State.bg",
+      "imap": "imap.state.bg",
+      "smtp": "smtp.state.bg"
+    },
+    {
+      "domain": "plovdiv.bg",
+      "name": "Plovdiv.bg",
+      "imap": "imap.plovdiv.bg",
+      "smtp": "smtp.plovdiv.bg"
+    },
+    {
+      "domain": "spisanie.com",
+      "name": "Spisanie.com",
+      "imap": "imap.spisanie.com",
+      "smtp": "smtp.spisanie.com"
+    },
+    {
+      "domain": "datamax.bg",
+      "name": "Datamax",
+      "imap": "imap.datamax.bg",
+      "smtp": "smtp.datamax.bg"
+    },
+    {
+      "domain": "bol.bg",
+      "name": "Bol.bg",
+      "imap": "imap.bol.bg",
+      "smtp": "smtp.bol.bg"
+    },
+    {
+      "domain": "vipmail.bg",
+      "name": "Vipmail.bg",
+      "imap": "imap.vipmail.bg",
+      "smtp": "smtp.vipmail.bg"
+    },
+    {
+      "domain": "mtel.bg",
+      "name": "A1/m:tel Bulgaria",
+      "imap": "imap.mtel.bg",
+      "smtp": "smtp.mtel.bg"
+    },
+    {
+      "domain": "globul.bg",
+      "name": "Globul/Telenor",
+      "imap": "imap.globul.bg",
+      "smtp": "smtp.globul.bg"
+    },
+    {
+      "domain": "vivacom.bg",
+      "name": "Vivacom",
+      "imap": "imap.vivacom.bg",
+      "smtp": "smtp.vivacom.bg"
+    },
+    {
+      "domain": "tu-sofia.bg",
+      "name": "TU Sofia",
+      "imap": "imap.tu-sofia.bg",
+      "smtp": "smtp.tu-sofia.bg"
+    },
+    {
+      "domain": "mu-sofia.bg",
+      "name": "MU Sofia",
+      "imap": "imap.mu-sofia.bg",
+      "smtp": "smtp.mu-sofia.bg"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "country": "Greece",
+  "code": "GR",
+  "providers": [
+    {
+      "domain": "otenet.gr",
+      "name": "OTEnet",
+      "imap": "imap.otenet.gr",
+      "smtp": "smtp.otenet.gr"
+    },
+    {
+      "domain": "forthnet.gr",
+      "name": "Forthnet",
+      "imap": "imap.forthnet.gr",
+      "smtp": "smtp.forthnet.gr"
+    },
+    {
+      "domain": "hol.gr",
+      "name": "HOL.gr",
+      "imap": "imap.hol.gr",
+      "smtp": "smtp.hol.gr"
+    },
+    {
+      "domain": "spark.gr",
+      "name": "Spark",
+      "imap": "imap.spark.gr",
+      "smtp": "smtp.spark.gr"
+    },
+    {
+      "domain": "cosmote.gr",
+      "name": "Cosmote",
+      "imap": "imap.cosmote.gr",
+      "smtp": "smtp.cosmote.gr"
+    },
+    {
+      "domain": "wind.gr",
+      "name": "Wind/Vodafone GR",
+      "imap": "imap.wind.gr",
+      "smtp": "smtp.wind.gr"
+    },
+    {
+      "domain": "vodafone.gr",
+      "name": "Vodafone Greece",
+      "imap": "imap.vodafone.gr",
+      "smtp": "smtp.vodafone.gr"
+    },
+    {
+      "domain": "nova.gr",
+      "name": "Nova Greece",
+      "imap": "imap.nova.gr",
+      "smtp": "smtp.nova.gr"
+    },
+    {
+      "domain": "panafonet.gr",
+      "name": "Panafonet",
+      "imap": "imap.panafonet.gr",
+      "smtp": "smtp.panafonet.gr"
+    },
+    {
+      "domain": "hellas-on-line.gr",
+      "name": "Hellas On-Line",
+      "imap": "imap.hellas-on-line.gr",
+      "smtp": "smtp.hellas-on-line.gr"
+    },
+    {
+      "domain": "ntua.gr",
+      "name": "NTUA",
+      "imap": "imap.ntua.gr",
+      "smtp": "smtp.ntua.gr"
+    },
+    {
+      "domain": "aueb.gr",
+      "name": "AUEB",
+      "imap": "imap.aueb.gr",
+      "smtp": "smtp.aueb.gr"
+    },
+    {
+      "domain": "uowm.gr",
+      "name": "UOWM",
+      "imap": "imap.uowm.gr",
+      "smtp": "smtp.uowm.gr"
+    }
+  ]
+}

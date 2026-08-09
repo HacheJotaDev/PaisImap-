@@ -1,0 +1,42 @@
+{
+  "country": "Honduras",
+  "code": "HN",
+  "providers": [
+    {
+      "domain": "tigohn.com",
+      "name": "Tigo Honduras",
+      "imap": "imap.tigohn.com",
+      "smtp": "smtp.tigohn.com"
+    },
+    {
+      "domain": "claro.com.hn",
+      "name": "Claro Honduras",
+      "imap": "imap.claro.com.hn",
+      "smtp": "smtp.claro.com.hn"
+    },
+    {
+      "domain": "tigo.com.hn",
+      "name": "Tigo Honduras",
+      "imap": "imap.tigo.com.hn",
+      "smtp": "smtp.tigo.com.hn"
+    },
+    {
+      "domain": "digicelhn.com",
+      "name": "Digicel Honduras",
+      "imap": "imap.digicelhn.com",
+      "smtp": "smtp.digicelhn.com"
+    },
+    {
+      "domain": "movistar.com.hn",
+      "name": "Movistar Honduras",
+      "imap": "imap.movistar.com.hn",
+      "smtp": "smtp.movistar.com.hn"
+    },
+    {
+      "domain": "hondutel.hn",
+      "name": "Hondutel",
+      "imap": "imap.hondutel.hn",
+      "smtp": "smtp.hondutel.hn"
+    }
+  ]
+}

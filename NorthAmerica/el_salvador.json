@@ -1,0 +1,30 @@
+{
+  "country": "El Salvador",
+  "code": "SV",
+  "providers": [
+    {
+      "domain": "tigo.com.sv",
+      "name": "Tigo El Salvador",
+      "imap": "imap.tigo.com.sv",
+      "smtp": "smtp.tigo.com.sv"
+    },
+    {
+      "domain": "claro.com.sv",
+      "name": "Claro El Salvador",
+      "imap": "imap.claro.com.sv",
+      "smtp": "smtp.claro.com.sv"
+    },
+    {
+      "domain": "movistar.com.sv",
+      "name": "Movistar El Salvador",
+      "imap": "imap.movistar.com.sv",
+      "smtp": "smtp.movistar.com.sv"
+    },
+    {
+      "domain": "digicelsv.com",
+      "name": "Digicel El Salvador",
+      "imap": "imap.digicelsv.com",
+      "smtp": "smtp.digicelsv.com"
+    }
+  ]
+}

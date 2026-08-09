@@ -1,0 +1,12 @@
+{
+  "country": "Palau",
+  "code": "PW",
+  "providers": [
+    {
+      "domain": "palau-telecom.com",
+      "name": "Palau Telecom",
+      "imap": "imap.palau-telecom.com",
+      "smtp": "smtp.palau-telecom.com"
+    }
+  ]
+}

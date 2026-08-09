@@ -1,0 +1,54 @@
+{
+  "country": "Panama",
+  "code": "PA",
+  "providers": [
+    {
+      "domain": "cableonda.net",
+      "name": "Cable Onda",
+      "imap": "imap.cableonda.net",
+      "smtp": "smtp.cableonda.net"
+    },
+    {
+      "domain": "cwpanama.net",
+      "name": "Cable & Wireless Panama",
+      "imap": "imap.cwpanama.net",
+      "smtp": "smtp.cwpanama.net"
+    },
+    {
+      "domain": "movistar.com.pa",
+      "name": "Movistar Panama",
+      "imap": "imap.movistar.com.pa",
+      "smtp": "smtp.movistar.com.pa"
+    },
+    {
+      "domain": "claro.com.pa",
+      "name": "Claro Panama",
+      "imap": "imap.claro.com.pa",
+      "smtp": "smtp.claro.com.pa"
+    },
+    {
+      "domain": "digicel.com.pa",
+      "name": "Digicel Panama",
+      "imap": "imap.digicel.com.pa",
+      "smtp": "smtp.digicel.com.pa"
+    },
+    {
+      "domain": "masmovil.pa",
+      "name": "Mas Movil Panama",
+      "imap": "imap.masmovil.pa",
+      "smtp": "smtp.masmovil.pa"
+    },
+    {
+      "domain": "latam.pa",
+      "name": "Latam Panama",
+      "imap": "imap.latam.pa",
+      "smtp": "smtp.latam.pa"
+    },
+    {
+      "domain": "tropigas.com.pa",
+      "name": "Tropigas",
+      "imap": "imap.tropigas.com.pa",
+      "smtp": "smtp.tropigas.com.pa"
+    }
+  ]
+}

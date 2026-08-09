@@ -1,0 +1,30 @@
+{
+  "country": "Afghanistan",
+  "code": "AF",
+  "providers": [
+    {
+      "domain": "afghan-wireless.com",
+      "name": "Afghan Wireless",
+      "imap": "imap.afghan-wireless.com",
+      "smtp": "smtp.afghan-wireless.com"
+    },
+    {
+      "domain": "roshan.af",
+      "name": "Roshan",
+      "imap": "imap.roshan.af",
+      "smtp": "smtp.roshan.af"
+    },
+    {
+      "domain": "etisalat.af",
+      "name": "Etisalat Afghanistan",
+      "imap": "imap.etisalat.af",
+      "smtp": "smtp.etisalat.af"
+    },
+    {
+      "domain": "mtn.af",
+      "name": "MTN Afghanistan",
+      "imap": "imap.mtn.af",
+      "smtp": "smtp.mtn.af"
+    }
+  ]
+}

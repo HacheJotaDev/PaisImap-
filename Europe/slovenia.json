@@ -1,0 +1,48 @@
+{
+  "country": "Slovenia",
+  "code": "SI",
+  "providers": [
+    {
+      "domain": "siol.net",
+      "name": "SiOL",
+      "imap": "imap.siol.net",
+      "smtp": "smtp.siol.net"
+    },
+    {
+      "domain": "arnes.si",
+      "name": "Arnes",
+      "imap": "imap.arnes.si",
+      "smtp": "smtp.arnes.si"
+    },
+    {
+      "domain": "najdi.si",
+      "name": "Najdi",
+      "imap": "imap.najdi.si",
+      "smtp": "smtp.najdi.si"
+    },
+    {
+      "domain": "t-2.net",
+      "name": "T-2",
+      "imap": "imap.t-2.net",
+      "smtp": "smtp.t-2.net"
+    },
+    {
+      "domain": "telemach.si",
+      "name": "Telemach",
+      "imap": "imap.telemach.si",
+      "smtp": "smtp.telemach.si"
+    },
+    {
+      "domain": "ami.si",
+      "name": "AMI",
+      "imap": "imap.ami.si",
+      "smtp": "smtp.ami.si"
+    },
+    {
+      "domain": "luka.si",
+      "name": "Luka",
+      "imap": "imap.luka.si",
+      "smtp": "smtp.luka.si"
+    }
+  ]
+}

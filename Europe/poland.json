@@ -1,0 +1,150 @@
+{
+  "country": "Poland",
+  "code": "PL",
+  "providers": [
+    {
+      "domain": "wp.pl",
+      "name": "Wirtualna Polska",
+      "imap": "imap.wp.pl",
+      "smtp": "smtp.wp.pl"
+    },
+    {
+      "domain": "onet.pl",
+      "name": "Onet.pl",
+      "imap": "imap.onet.pl",
+      "smtp": "smtp.onet.pl"
+    },
+    {
+      "domain": "poczta.fm",
+      "name": "Poczta FM",
+      "imap": "imap.poczta.fm",
+      "smtp": "smtp.poczta.fm"
+    },
+    {
+      "domain": "op.pl",
+      "name": "Orange Polska",
+      "imap": "imap.op.pl",
+      "smtp": "smtp.op.pl"
+    },
+    {
+      "domain": "tlen.pl",
+      "name": "Tlen.pl",
+      "imap": "imap.tlen.pl",
+      "smtp": "smtp.tlen.pl"
+    },
+    {
+      "domain": "o2.pl",
+      "name": "o2.pl",
+      "imap": "imap.o2.pl",
+      "smtp": "smtp.o2.pl"
+    },
+    {
+      "domain": "gazeta.pl",
+      "name": "Gazeta.pl",
+      "imap": "imap.gazeta.pl",
+      "smtp": "smtp.gazeta.pl"
+    },
+    {
+      "domain": "interia.pl",
+      "name": "Interia.pl",
+      "imap": "imap.interia.pl",
+      "smtp": "smtp.interia.pl"
+    },
+    {
+      "domain": "poczta.onet.pl",
+      "name": "Poczta Onet",
+      "imap": "imap.poczta.onet.pl",
+      "smtp": "smtp.poczta.onet.pl"
+    },
+    {
+      "domain": "poczta.wp.pl",
+      "name": "WP Poczta",
+      "imap": "imap.poczta.wp.pl",
+      "smtp": "smtp.poczta.wp.pl"
+    },
+    {
+      "domain": "neostrada.pl",
+      "name": "Orange Neostrada",
+      "imap": "imap.neostrada.pl",
+      "smtp": "smtp.neostrada.pl"
+    },
+    {
+      "domain": "tvn.pl",
+      "name": "TVN",
+      "imap": "imap.tvn.pl",
+      "smtp": "smtp.tvn.pl"
+    },
+    {
+      "domain": "polbox.pl",
+      "name": "Polbox",
+      "imap": "imap.polbox.pl",
+      "smtp": "smtp.polbox.pl"
+    },
+    {
+      "domain": "amorki.pl",
+      "name": "Amorki.pl",
+      "imap": "imap.amorki.pl",
+      "smtp": "smtp.amorki.pl"
+    },
+    {
+      "domain": "poczta.interia.pl",
+      "name": "Poczta Interia",
+      "imap": "imap.poczta.interia.pl",
+      "smtp": "smtp.poczta.interia.pl"
+    },
+    {
+      "domain": "chello.pl",
+      "name": "UPC Poland (Chello)",
+      "imap": "imap.chello.pl",
+      "smtp": "smtp.chello.pl"
+    },
+    {
+      "domain": "netia.pl",
+      "name": "Netia",
+      "imap": "imap.netia.pl",
+      "smtp": "smtp.netia.pl"
+    },
+    {
+      "domain": "inea.pl",
+      "name": "Inea",
+      "imap": "imap.inea.pl",
+      "smtp": "smtp.inea.pl"
+    },
+    {
+      "domain": "multimedia.pl",
+      "name": "Multimedia",
+      "imap": "imap.multimedia.pl",
+      "smtp": "smtp.multimedia.pl"
+    },
+    {
+      "domain": "exatel.pl",
+      "name": "Exatel",
+      "imap": "imap.exatel.pl",
+      "smtp": "smtp.exatel.pl"
+    },
+    {
+      "domain": "tp.pl",
+      "name": "Telekomunikacja Polska",
+      "imap": "imap.tp.pl",
+      "smtp": "smtp.tp.pl"
+    },
+    {
+      "domain": "gts.pl",
+      "name": "GTS Poland",
+      "imap": "imap.gts.pl",
+      "smtp": "smtp.gts.pl"
+    },
+    {
+      "domain": "home.pl",
+      "name": "home.pl",
+      "imap": "imap.home.pl",
+      "smtp": "smtp.home.pl"
+    },
+    {
+      "domain": "umk.pl",
+      "name": "UMK Torun",
+      "imap": "imap.umk.pl",
+      "smtp": "smtp.umk.pl"
+    }
+  ]
+}

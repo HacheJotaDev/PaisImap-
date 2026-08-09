@@ -1,0 +1,48 @@
+{
+  "country": "Argentina",
+  "code": "AR",
+  "providers": [
+    {
+      "domain": "fibertel.com.ar",
+      "name": "Fibertel",
+      "imap": "imap.fibertel.com.ar",
+      "smtp": "smtp.fibertel.com.ar"
+    },
+    {
+      "domain": "speedy.com.ar",
+      "name": "Speedy",
+      "imap": "imap.speedy.com.ar",
+      "smtp": "smtp.speedy.com.ar"
+    },
+    {
+      "domain": "arnet.com.ar",
+      "name": "Arnet",
+      "imap": "imap.arnet.com.ar",
+      "smtp": "smtp.arnet.com.ar"
+    },
+    {
+      "domain": "telecentro.net.ar",
+      "name": "Telecentro",
+      "imap": "imap.telecentro.net.ar",
+      "smtp": "smtp.telecentro.net.ar"
+    },
+    {
+      "domain": "ciudad.com.ar",
+      "name": "Ciudad",
+      "imap": "imap.ciudad.com.ar",
+      "smtp": "smtp.ciudad.com.ar"
+    },
+    {
+      "domain": "infovia.com.ar",
+      "name": "Infovia",
+      "imap": "imap.infovia.com.ar",
+      "smtp": "smtp.infovia.com.ar"
+    },
+    {
+      "domain": "ambar.com.ar",
+      "name": "Ambar Telecom Argentina",
+      "imap": "imap.ambar.com.ar",
+      "smtp": "smtp.ambar.com.ar"
+    }
+  ]
+}

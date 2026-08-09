@@ -1,0 +1,18 @@
+{
+  "country": "Ethiopia",
+  "code": "ET",
+  "providers": [
+    {
+      "domain": "ethio-telecom.et",
+      "name": "Ethio Telecom",
+      "imap": "imap.ethio-telecom.et",
+      "smtp": "smtp.ethio-telecom.et"
+    },
+    {
+      "domain": "ethiopianairlines.com",
+      "name": "Ethiopian Airlines",
+      "imap": "imap.ethiopianairlines.com",
+      "smtp": "smtp.ethiopianairlines.com"
+    }
+  ]
+}

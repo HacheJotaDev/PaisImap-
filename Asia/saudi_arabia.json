@@ -1,0 +1,84 @@
+{
+  "country": "Saudi Arabia",
+  "code": "SA",
+  "providers": [
+    {
+      "domain": "naseej.com",
+      "name": "Naseej",
+      "imap": "imap.naseej.com",
+      "smtp": "smtp.naseej.com"
+    },
+    {
+      "domain": "stc.com.sa",
+      "name": "Saudi Telecom Company (STC)",
+      "imap": "imap.stc.com.sa",
+      "smtp": "smtp.stc.com.sa"
+    },
+    {
+      "domain": "mobily.com.sa",
+      "name": "Mobily",
+      "imap": "imap.mobily.com.sa",
+      "smtp": "smtp.mobily.com.sa"
+    },
+    {
+      "domain": "zain.sa",
+      "name": "Zain Saudi Arabia",
+      "imap": "imap.zain.sa",
+      "smtp": "smtp.zain.sa"
+    },
+    {
+      "domain": "go.sa",
+      "name": "GO Saudi",
+      "imap": "imap.go.sa",
+      "smtp": "smtp.go.sa"
+    },
+    {
+      "domain": "elm.sa",
+      "name": "ELM",
+      "imap": "imap.elm.sa",
+      "smtp": "smtp.elm.sa"
+    },
+    {
+      "domain": "sawa.sa",
+      "name": "STC Sawa",
+      "imap": "imap.sawa.sa",
+      "smtp": "smtp.sawa.sa"
+    },
+    {
+      "domain": "itc.com.sa",
+      "name": "Integrated Telecom Co (ITC)",
+      "imap": "imap.itc.com.sa",
+      "smtp": "smtp.itc.com.sa"
+    },
+    {
+      "domain": "mobily.sa",
+      "name": "Mobily SA",
+      "imap": "imap.mobily.sa",
+      "smtp": "smtp.mobily.sa"
+    },
+    {
+      "domain": "watani.com.sa",
+      "name": "Watani Telecom",
+      "imap": "imap.watani.com.sa",
+      "smtp": "smtp.watani.com.sa"
+    },
+    {
+      "domain": "zajil.com.sa",
+      "name": "Zajil Telecom",
+      "imap": "imap.zajil.com.sa",
+      "smtp": "smtp.zajil.com.sa"
+    },
+    {
+      "domain": "najiz.sa",
+      "name": "Najiz",
+      "imap": "imap.najiz.sa",
+      "smtp": "smtp.najiz.sa"
+    },
+    {
+      "domain": "bahri.sa",
+      "name": "Bahri",
+      "imap": "imap.bahri.sa",
+      "smtp": "smtp.bahri.sa"
+    }
+  ]
+}

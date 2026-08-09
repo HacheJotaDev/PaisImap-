@@ -1,0 +1,66 @@
+{
+  "country": "Costa Rica",
+  "code": "CR",
+  "providers": [
+    {
+      "domain": "ice.co.cr",
+      "name": "ICE Costa Rica",
+      "imap": "imap.ice.co.cr",
+      "smtp": "smtp.ice.co.cr"
+    },
+    {
+      "domain": "racsa.co.cr",
+      "name": "RACSA",
+      "imap": "imap.racsa.co.cr",
+      "smtp": "smtp.racsa.co.cr"
+    },
+    {
+      "domain": "amnet.co.cr",
+      "name": "Amnet Costa Rica",
+      "imap": "imap.amnet.co.cr",
+      "smtp": "smtp.amnet.co.cr"
+    },
+    {
+      "domain": "kolbi.cr",
+      "name": "Kolbi (ICE)",
+      "imap": "imap.kolbi.cr",
+      "smtp": "smtp.kolbi.cr"
+    },
+    {
+      "domain": "tigo.com.cr",
+      "name": "Tigo Costa Rica",
+      "imap": "imap.tigo.com.cr",
+      "smtp": "smtp.tigo.com.cr"
+    },
+    {
+      "domain": "claro.com.cr",
+      "name": "Claro Costa Rica",
+      "imap": "imap.claro.com.cr",
+      "smtp": "smtp.claro.com.cr"
+    },
+    {
+      "domain": "movistar.com.cr",
+      "name": "Movistar Costa Rica",
+      "imap": "imap.movistar.com.cr",
+      "smtp": "smtp.movistar.com.cr"
+    },
+    {
+      "domain": "cabletica.com",
+      "name": "Cabletica",
+      "imap": "imap.cabletica.com",
+      "smtp": "smtp.cabletica.com"
+    },
+    {
+      "domain": "latam.cr",
+      "name": "Latam CR",
+      "imap": "imap.latam.cr",
+      "smtp": "smtp.latam.cr"
+    },
+    {
+      "domain": "crnet.cr",
+      "name": "CRNet",
+      "imap": "imap.crnet.cr",
+      "smtp": "smtp.crnet.cr"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "country": "Tuvalu",
+  "code": "TU",
+  "providers": [
+    {
+      "domain": "tuvaluislands.com",
+      "name": "Tuvalu Islands",
+      "imap": "imap.tuvaluislands.com",
+      "smtp": "smtp.tuvaluislands.com"
+    }
+  ]
+}

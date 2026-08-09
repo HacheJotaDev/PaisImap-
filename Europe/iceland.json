@@ -1,0 +1,12 @@
+{
+  "country": "Iceland",
+  "code": "IS",
+  "providers": [
+    {
+      "domain": "simnet.is",
+      "name": "Simnet",
+      "imap": "imap.simnet.is",
+      "smtp": "smtp.simnet.is"
+    }
+  ]
+}

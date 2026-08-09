@@ -1,0 +1,30 @@
+{
+  "country": "Montenegro",
+  "code": "ME",
+  "providers": [
+    {
+      "domain": "crnogorskitelekom.me",
+      "name": "Crnogorski Telekom",
+      "imap": "imap.crnogorskitelekom.me",
+      "smtp": "smtp.crnogorskitelekom.me"
+    },
+    {
+      "domain": "t-com.me",
+      "name": "T-Com Montenegro",
+      "imap": "imap.t-com.me",
+      "smtp": "smtp.t-com.me"
+    },
+    {
+      "domain": "mtel.me",
+      "name": "m:tel Montenegro",
+      "imap": "imap.mtel.me",
+      "smtp": "smtp.mtel.me"
+    },
+    {
+      "domain": "one.me",
+      "name": "One Montenegro",
+      "imap": "imap.one.me",
+      "smtp": "smtp.one.me"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "country": "Malta",
+  "code": "MT",
+  "providers": [
+    {
+      "domain": "onvol.net",
+      "name": "OnVol",
+      "imap": "imap.onvol.net",
+      "smtp": "smtp.onvol.net"
+    },
+    {
+      "domain": "maltanet.net",
+      "name": "GO Maltanet",
+      "imap": "imap.maltanet.net",
+      "smtp": "smtp.maltanet.net"
+    },
+    {
+      "domain": "vodafone.com.mt",
+      "name": "Vodafone Malta",
+      "imap": "imap.vodafone.com.mt",
+      "smtp": "smtp.vodafone.com.mt"
+    },
+    {
+      "domain": "melita.com",
+      "name": "Melita",
+      "imap": "imap.melita.com",
+      "smtp": "smtp.melita.com"
+    },
+    {
+      "domain": "mdi.com.mt",
+      "name": "MDI Malta",
+      "imap": "imap.mdi.com.mt",
+      "smtp": "smtp.mdi.com.mt"
+    }
+  ]
+}

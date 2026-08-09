@@ -1,0 +1,84 @@
+{
+  "country": "New Zealand",
+  "code": "NZ",
+  "providers": [
+    {
+      "domain": "xtra.co.nz",
+      "name": "Xtra (Spark)",
+      "imap": "imap.xtra.co.nz",
+      "smtp": "smtp.xtra.co.nz"
+    },
+    {
+      "domain": "vodafone.co.nz",
+      "name": "Vodafone NZ",
+      "imap": "imap.vodafone.co.nz",
+      "smtp": "smtp.vodafone.co.nz"
+    },
+    {
+      "domain": "ihug.co.nz",
+      "name": "iHug",
+      "imap": "imap.ihug.co.nz",
+      "smtp": "smtp.ihug.co.nz"
+    },
+    {
+      "domain": "orcon.net.nz",
+      "name": "Orcon",
+      "imap": "imap.orcon.net.nz",
+      "smtp": "smtp.orcon.net.nz"
+    },
+    {
+      "domain": "slingshot.co.nz",
+      "name": "Slingshot",
+      "imap": "imap.slingshot.co.nz",
+      "smtp": "smtp.slingshot.co.nz"
+    },
+    {
+      "domain": "snap.net.nz",
+      "name": "Snap (2degrees)",
+      "imap": "imap.snap.net.nz",
+      "smtp": "smtp.snap.net.nz"
+    },
+    {
+      "domain": "spark.co.nz",
+      "name": "Spark New Zealand",
+      "imap": "imap.spark.co.nz",
+      "smtp": "smtp.spark.co.nz"
+    },
+    {
+      "domain": "skinny.co.nz",
+      "name": "Skinny NZ",
+      "imap": "imap.skinny.co.nz",
+      "smtp": "smtp.skinny.co.nz"
+    },
+    {
+      "domain": "maxnet.co.nz",
+      "name": "Maxnet NZ",
+      "imap": "imap.maxnet.co.nz",
+      "smtp": "smtp.maxnet.co.nz"
+    },
+    {
+      "domain": "compass.net.nz",
+      "name": "Compass NZ",
+      "imap": "imap.compass.net.nz",
+      "smtp": "smtp.compass.net.nz"
+    },
+    {
+      "domain": "paradise.net.nz",
+      "name": "Paradise Net (Vodafone)",
+      "imap": "imap.paradise.net.nz",
+      "smtp": "smtp.paradise.net.nz"
+    },
+    {
+      "domain": "clear.net.nz",
+      "name": "Clear Net NZ",
+      "imap": "imap.clear.net.nz",
+      "smtp": "smtp.clear.net.nz"
+    },
+    {
+      "domain": "actrix.co.nz",
+      "name": "Actrix NZ",
+      "imap": "imap.actrix.co.nz",
+      "smtp": "smtp.actrix.co.nz"
+    }
+  ]
+}

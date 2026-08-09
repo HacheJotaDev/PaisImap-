@@ -1,0 +1,24 @@
+{
+  "country": "Finland",
+  "code": "FI",
+  "providers": [
+    {
+      "domain": "saunalahti.fi",
+      "name": "Saunalahti (Elisa)",
+      "imap": "imap.saunalahti.fi",
+      "smtp": "smtp.saunalahti.fi"
+    },
+    {
+      "domain": "elisa.fi",
+      "name": "Elisa",
+      "imap": "imap.elisa.fi",
+      "smtp": "smtp.elisa.fi"
+    },
+    {
+      "domain": "welho.com",
+      "name": "Welho",
+      "imap": "imap.welho.com",
+      "smtp": "smtp.welho.com"
+    }
+  ]
+}

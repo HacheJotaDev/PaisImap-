@@ -1,0 +1,36 @@
+{
+  "country": "Luxembourg",
+  "code": "LU",
+  "providers": [
+    {
+      "domain": "pt.lu",
+      "name": "POST Luxembourg",
+      "imap": "imap.pt.lu",
+      "smtp": "smtp.pt.lu"
+    },
+    {
+      "domain": "tango.lu",
+      "name": "Tango",
+      "imap": "imap.tango.lu",
+      "smtp": "smtp.tango.lu"
+    },
+    {
+      "domain": "vo.lu",
+      "name": "VOO Luxembourg",
+      "imap": "imap.vo.lu",
+      "smtp": "smtp.vo.lu"
+    },
+    {
+      "domain": "telenet.lu",
+      "name": "Telenet Luxembourg",
+      "imap": "imap.telenet.lu",
+      "smtp": "smtp.telenet.lu"
+    },
+    {
+      "domain": "restena.lu",
+      "name": "RESTENA",
+      "imap": "imap.restena.lu",
+      "smtp": "smtp.restena.lu"
+    }
+  ]
+}

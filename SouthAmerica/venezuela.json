@@ -1,0 +1,48 @@
+{
+  "country": "Venezuela",
+  "code": "VE",
+  "providers": [
+    {
+      "domain": "cantv.net",
+      "name": "CANTV",
+      "imap": "imap.cantv.net",
+      "smtp": "smtp.cantv.net"
+    },
+    {
+      "domain": "movistar.com.ve",
+      "name": "Movistar Venezuela",
+      "imap": "imap.movistar.com.ve",
+      "smtp": "smtp.movistar.com.ve"
+    },
+    {
+      "domain": "movilnet.com.ve",
+      "name": "Movilnet",
+      "imap": "imap.movilnet.com.ve",
+      "smtp": "smtp.movilnet.com.ve"
+    },
+    {
+      "domain": "intercable.net.ve",
+      "name": "InterCable",
+      "imap": "imap.intercable.net.ve",
+      "smtp": "smtp.intercable.net.ve"
+    },
+    {
+      "domain": "cantv.com.ve",
+      "name": "CANTV Venezuela",
+      "imap": "imap.cantv.com.ve",
+      "smtp": "smtp.cantv.com.ve"
+    },
+    {
+      "domain": "digitel.com.ve",
+      "name": "Digitel Venezuela",
+      "imap": "imap.digitel.com.ve",
+      "smtp": "smtp.digitel.com.ve"
+    },
+    {
+      "domain": "inter.com.ve",
+      "name": "Inter Venezuela",
+      "imap": "imap.inter.com.ve",
+      "smtp": "smtp.inter.com.ve"
+    }
+  ]
+}

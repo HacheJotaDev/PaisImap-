@@ -1,0 +1,42 @@
+{
+  "country": "Belarus",
+  "code": "BY",
+  "providers": [
+    {
+      "domain": "beltelecom.by",
+      "name": "Beltelecom",
+      "imap": "imap.beltelecom.by",
+      "smtp": "smtp.beltelecom.by"
+    },
+    {
+      "domain": "mtis.by",
+      "name": "MTS Belarus",
+      "imap": "imap.mtis.by",
+      "smtp": "smtp.mtis.by"
+    },
+    {
+      "domain": "velcom.by",
+      "name": "A1 Belarus (Velcom)",
+      "imap": "imap.velcom.by",
+      "smtp": "smtp.velcom.by"
+    },
+    {
+      "domain": "life.com.by",
+      "name": "life:) Belarus",
+      "imap": "imap.life.com.by",
+      "smtp": "smtp.life.com.by"
+    },
+    {
+      "domain": "unibel.by",
+      "name": "UniBel",
+      "imap": "imap.unibel.by",
+      "smtp": "smtp.unibel.by"
+    },
+    {
+      "domain": "bntu.by",
+      "name": "BNTU",
+      "imap": "imap.bntu.by",
+      "smtp": "smtp.bntu.by"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "country": "China",
+  "code": "CN",
+  "providers": [
+    {
+      "domain": "163.com",
+      "name": "NetEase 163",
+      "imap": "imap.163.com",
+      "smtp": "smtp.163.com"
+    },
+    {
+      "domain": "126.com",
+      "name": "NetEase 126",
+      "imap": "imap.126.com",
+      "smtp": "smtp.126.com"
+    },
+    {
+      "domain": "qq.com",
+      "name": "Tencent QQ",
+      "imap": "imap.qq.com",
+      "smtp": "smtp.qq.com"
+    },
+    {
+      "domain": "foxmail.com",
+      "name": "Foxmail (Tencent)",
+      "imap": "imap.qq.com",
+      "smtp": "smtp.qq.com"
+    },
+    {
+      "domain": "sina.com",
+      "name": "Sina Mail",
+      "imap": "imap.sina.com",
+      "smtp": "smtp.sina.com"
+    },
+    {
+      "domain": "sohu.com",
+      "name": "Sohu Mail",
+      "imap": "imap.sohu.com",
+      "smtp": "smtp.sohu.com"
+    },
+    {
+      "domain": "aliyun.com",
+      "name": "Aliyun Mail",
+      "imap": "imap.aliyun.com",
+      "smtp": "smtp.aliyun.com"
+    },
+    {
+      "domain": "tom.com",
+      "name": "Tom Mail",
+      "imap": "imap.tom.com",
+      "smtp": "smtp.tom.com"
+    },
+    {
+      "domain": "yeah.net",
+      "name": "NetEase Yeah",
+      "imap": "imap.yeah.net",
+      "smtp": "smtp.yeah.net"
+    },
+    {
+      "domain": "189.cn",
+      "name": "China Telecom 189",
+      "imap": "imap.189.cn",
+      "smtp": "smtp.189.cn"
+    },
+    {
+      "domain": "139.com",
+      "name": "China Mobile 139",
+      "imap": "imap.139.com",
+      "smtp": "smtp.139.com"
+    },
+    {
+      "domain": "wo.cn",
+      "name": "China Unicom Wo",
+      "imap": "imap.wo.cn",
+      "smtp": "smtp.wo.cn"
+    },
+    {
+      "domain": "xinhua.org",
+      "name": "Xinhua News",
+      "imap": "imap.xinhua.org",
+      "smtp": "smtp.xinhua.org"
+    },
+    {
+      "domain": "people.com.cn",
+      "name": "People's Daily",
+      "imap": "imap.people.com.cn",
+      "smtp": "smtp.people.com.cn"
+    },
+    {
+      "domain": "21cn.com",
+      "name": "21CN Mail",
+      "imap": "imap.21cn.com",
+      "smtp": "smtp.21cn.com"
+    },
+    {
+      "domain": "china.com",
+      "name": "China Mail",
+      "imap": "imap.china.com",
+      "smtp": "smtp.china.com"
+    },
+    {
+      "domain": "sogou.com",
+      "name": "Sogou Mail",
+      "imap": "imap.sogou.com",
+      "smtp": "smtp.sogou.com"
+    },
+    {
+      "domain": "263.net",
+      "name": "263 Mail",
+      "imap": "imap.263.net",
+      "smtp": "smtp.263.net"
+    }
+  ]
+}

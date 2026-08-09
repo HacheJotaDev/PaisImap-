@@ -1,0 +1,72 @@
+{
+  "country": "Bangladesh",
+  "code": "BD",
+  "providers": [
+    {
+      "domain": "grameenphone.com",
+      "name": "Grameenphone",
+      "imap": "imap.grameenphone.com",
+      "smtp": "smtp.grameenphone.com"
+    },
+    {
+      "domain": "banglalink.net",
+      "name": "Banglalink",
+      "imap": "imap.banglalink.net",
+      "smtp": "smtp.banglalink.net"
+    },
+    {
+      "domain": "robi.com.bd",
+      "name": "Robi (Axiata)",
+      "imap": "imap.robi.com.bd",
+      "smtp": "smtp.robi.com.bd"
+    },
+    {
+      "domain": "airtel.bd",
+      "name": "Airtel Bangladesh",
+      "imap": "imap.airtel.bd",
+      "smtp": "smtp.airtel.bd"
+    },
+    {
+      "domain": "teletalk.com.bd",
+      "name": "Teletalk (BTCL)",
+      "imap": "imap.teletalk.com.bd",
+      "smtp": "smtp.teletalk.com.bd"
+    },
+    {
+      "domain": "bdonline.com",
+      "name": "BD Online",
+      "imap": "imap.bdonline.com",
+      "smtp": "smtp.bdonline.com"
+    },
+    {
+      "domain": "dhaka.net",
+      "name": "Dhaka Net",
+      "imap": "imap.dhaka.net",
+      "smtp": "smtp.dhaka.net"
+    },
+    {
+      "domain": "citechco.net",
+      "name": "CitechCo",
+      "imap": "imap.citechco.net",
+      "smtp": "smtp.citechco.net"
+    },
+    {
+      "domain": "qubee.com.bd",
+      "name": "Qubee",
+      "imap": "imap.qubee.com.bd",
+      "smtp": "smtp.qubee.com.bd"
+    },
+    {
+      "domain": "link3.net",
+      "name": "Link3 Technologies",
+      "imap": "imap.link3.net",
+      "smtp": "smtp.link3.net"
+    },
+    {
+      "domain": "amberit.net",
+      "name": "AmberIT",
+      "imap": "imap.amberit.net",
+      "smtp": "smtp.amberit.net"
+    }
+  ]
+}

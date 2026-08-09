@@ -1,0 +1,36 @@
+{
+  "country": "North Macedonia",
+  "code": "MK",
+  "providers": [
+    {
+      "domain": "mt.com.mk",
+      "name": "Makedonski Telekom",
+      "imap": "imap.mt.com.mk",
+      "smtp": "smtp.mt.com.mk"
+    },
+    {
+      "domain": "t-home.mk",
+      "name": "T-Home Macedonia",
+      "imap": "imap.t-home.mk",
+      "smtp": "smtp.t-home.mk"
+    },
+    {
+      "domain": "neobee.mk",
+      "name": "NeoBee",
+      "imap": "imap.neobee.mk",
+      "smtp": "smtp.neobee.mk"
+    },
+    {
+      "domain": "on.net.mk",
+      "name": "ONE Macedonia",
+      "imap": "imap.on.net.mk",
+      "smtp": "smtp.on.net.mk"
+    },
+    {
+      "domain": "makedonski-telekom.mk",
+      "name": "Makedonski Telekom",
+      "imap": "imap.makedonski-telekom.mk",
+      "smtp": "smtp.makedonski-telekom.mk"
+    }
+  ]
+}

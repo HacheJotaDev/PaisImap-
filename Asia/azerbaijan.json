@@ -1,0 +1,54 @@
+{
+  "country": "Azerbaijan",
+  "code": "AZ",
+  "providers": [
+    {
+      "domain": "baktelecom.az",
+      "name": "Baktelecom",
+      "imap": "imap.baktelecom.az",
+      "smtp": "smtp.baktelecom.az"
+    },
+    {
+      "domain": "azercell.com",
+      "name": "Azercell",
+      "imap": "imap.azercell.com",
+      "smtp": "smtp.azercell.com"
+    },
+    {
+      "domain": "bakcell.com",
+      "name": "Bakcell",
+      "imap": "imap.bakcell.com",
+      "smtp": "smtp.bakcell.com"
+    },
+    {
+      "domain": "adanet.az",
+      "name": "Adanet",
+      "imap": "imap.adanet.az",
+      "smtp": "smtp.adanet.az"
+    },
+    {
+      "domain": "nar.az",
+      "name": "Nar Mobile",
+      "imap": "imap.nar.az",
+      "smtp": "smtp.nar.az"
+    },
+    {
+      "domain": "aztelekom.az",
+      "name": "Aztelekom",
+      "imap": "imap.aztelekom.az",
+      "smtp": "smtp.aztelekom.az"
+    },
+    {
+      "domain": "catel.az",
+      "name": "Catel",
+      "imap": "imap.catel.az",
+      "smtp": "smtp.catel.az"
+    },
+    {
+      "domain": "unec.az",
+      "name": "ASOIU",
+      "imap": "imap.unec.az",
+      "smtp": "smtp.unec.az"
+    }
+  ]
+}

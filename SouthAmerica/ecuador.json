@@ -1,0 +1,24 @@
+{
+  "country": "Ecuador",
+  "code": "EC",
+  "providers": [
+    {
+      "domain": "tigo.com.ec",
+      "name": "Tigo Ecuador",
+      "imap": "imap.tigo.com.ec",
+      "smtp": "smtp.tigo.com.ec"
+    },
+    {
+      "domain": "movistar.com.ec",
+      "name": "Movistar Ecuador",
+      "imap": "imap.movistar.com.ec",
+      "smtp": "smtp.movistar.com.ec"
+    },
+    {
+      "domain": "cnt.net.ec",
+      "name": "CNT Ecuador",
+      "imap": "imap.cnt.net.ec",
+      "smtp": "smtp.cnt.net.ec"
+    }
+  ]
+}

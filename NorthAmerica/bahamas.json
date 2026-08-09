@@ -1,0 +1,60 @@
+{
+  "country": "Bahamas",
+  "code": "BS",
+  "providers": [
+    {
+      "domain": "cablebahamas.com",
+      "name": "Cable Bahamas",
+      "imap": "imap.cablebahamas.com",
+      "smtp": "smtp.cablebahamas.com"
+    },
+    {
+      "domain": "btc.bs",
+      "name": "BTC Bahamas",
+      "imap": "imap.btc.bs",
+      "smtp": "smtp.btc.bs"
+    },
+    {
+      "domain": "columbus.co",
+      "name": "Columbus Bahamas",
+      "imap": "imap.columbus.co",
+      "smtp": "smtp.columbus.co"
+    },
+    {
+      "domain": "islandcom.bs",
+      "name": "IslandCom Bahamas",
+      "imap": "imap.islandcom.bs",
+      "smtp": "smtp.islandcom.bs"
+    },
+    {
+      "domain": "bluehill.net.bs",
+      "name": "BlueHill Bahamas",
+      "imap": "imap.bluehill.net.bs",
+      "smtp": "smtp.bluehill.net.bs"
+    },
+    {
+      "domain": "digicelbahamas.com",
+      "name": "Digicel Bahamas",
+      "imap": "imap.digicelbahamas.com",
+      "smtp": "smtp.digicelbahamas.com"
+    },
+    {
+      "domain": "aliv.com",
+      "name": "ALIV Bahamas",
+      "imap": "imap.aliv.com",
+      "smtp": "smtp.aliv.com"
+    },
+    {
+      "domain": "broadbandbs.com",
+      "name": "Broadband BS",
+      "imap": "imap.broadbandbs.com",
+      "smtp": "smtp.broadbandbs.com"
+    },
+    {
+      "domain": "bahamaslocal.com",
+      "name": "Bahamas Local",
+      "imap": "imap.bahamaslocal.com",
+      "smtp": "smtp.bahamaslocal.com"
+    }
+  ]
+}

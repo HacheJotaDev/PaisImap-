@@ -1,0 +1,30 @@
+{
+  "country": "Bolivia",
+  "code": "BO",
+  "providers": [
+    {
+      "domain": "entel.bo",
+      "name": "Entel Bolivia",
+      "imap": "imap.entel.bo",
+      "smtp": "smtp.entel.bo"
+    },
+    {
+      "domain": "tigo.com.bo",
+      "name": "Tigo Bolivia",
+      "imap": "imap.tigo.com.bo",
+      "smtp": "smtp.tigo.com.bo"
+    },
+    {
+      "domain": "viva.com.bo",
+      "name": "Viva Bolivia",
+      "imap": "imap.viva.com.bo",
+      "smtp": "smtp.viva.com.bo"
+    },
+    {
+      "domain": "comteco.com.bo",
+      "name": "COMTECO Bolivia",
+      "imap": "imap.comteco.com.bo",
+      "smtp": "smtp.comteco.com.bo"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "country": "Cyprus",
+  "code": "CY",
+  "providers": [
+    {
+      "domain": "cytanet.com.cy",
+      "name": "Cytanet",
+      "imap": "imap.cytanet.com.cy",
+      "smtp": "smtp.cytanet.com.cy"
+    },
+    {
+      "domain": "primehome.com",
+      "name": "Primetel",
+      "imap": "imap.primehome.com",
+      "smtp": "smtp.primehome.com"
+    },
+    {
+      "domain": "cablenet.com.cy",
+      "name": "Cablenet",
+      "imap": "imap.cablenet.com.cy",
+      "smtp": "smtp.cablenet.com.cy"
+    },
+    {
+      "domain": "mtncyprus.com",
+      "name": "MTN Cyprus",
+      "imap": "imap.mtncyprus.com",
+      "smtp": "smtp.mtncyprus.com"
+    },
+    {
+      "domain": "epic.com.cy",
+      "name": "Epic Cyprus",
+      "imap": "imap.epic.com.cy",
+      "smtp": "smtp.epic.com.cy"
+    },
+    {
+      "domain": "otenet.com.cy",
+      "name": "Cytanet/Cyta",
+      "imap": "imap.otenet.com.cy",
+      "smtp": "smtp.otenet.com.cy"
+    }
+  ]
+}

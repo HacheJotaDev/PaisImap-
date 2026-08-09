@@ -1,0 +1,120 @@
+{
+  "country": "Ukraine",
+  "code": "UA",
+  "providers": [
+    {
+      "domain": "i.ua",
+      "name": "i.ua",
+      "imap": "imap.i.ua",
+      "smtp": "smtp.i.ua"
+    },
+    {
+      "domain": "meta.ua",
+      "name": "Meta.ua",
+      "imap": "imap.meta.ua",
+      "smtp": "smtp.meta.ua"
+    },
+    {
+      "domain": "ukr.net",
+      "name": "Ukr.net",
+      "imap": "imap.ukr.net",
+      "smtp": "smtp.ukr.net"
+    },
+    {
+      "domain": "ex.ua",
+      "name": "Ex.ua",
+      "imap": "imap.ex.ua",
+      "smtp": "smtp.ex.ua"
+    },
+    {
+      "domain": "freemail.ua",
+      "name": "Freemail UA",
+      "imap": "imap.freemail.ua",
+      "smtp": "smtp.freemail.ua"
+    },
+    {
+      "domain": "kp.ua",
+      "name": "KP.ua",
+      "imap": "imap.kp.ua",
+      "smtp": "smtp.kp.ua"
+    },
+    {
+      "domain": "bigmir.net",
+      "name": "Bigmir.net",
+      "imap": "imap.bigmir.net",
+      "smtp": "smtp.bigmir.net"
+    },
+    {
+      "domain": "email.ua",
+      "name": "Email.ua",
+      "imap": "imap.email.ua",
+      "smtp": "smtp.email.ua"
+    },
+    {
+      "domain": "voliacable.com",
+      "name": "Volia Cable",
+      "imap": "imap.voliacable.com",
+      "smtp": "smtp.voliacable.com"
+    },
+    {
+      "domain": "kyivstar.net",
+      "name": "Kyivstar",
+      "imap": "imap.kyivstar.net",
+      "smtp": "smtp.kyivstar.net"
+    },
+    {
+      "domain": "velton.ua",
+      "name": "Velton",
+      "imap": "imap.velton.ua",
+      "smtp": "smtp.velton.ua"
+    },
+    {
+      "domain": "te.net.ua",
+      "name": "TE.net.ua",
+      "imap": "imap.te.net.ua",
+      "smtp": "smtp.te.net.ua"
+    },
+    {
+      "domain": "lanet.ua",
+      "name": "Lanet",
+      "imap": "imap.lanet.ua",
+      "smtp": "smtp.lanet.ua"
+    },
+    {
+      "domain": "lanta.me",
+      "name": "Lanta",
+      "imap": "imap.lanta.me",
+      "smtp": "smtp.lanta.me"
+    },
+    {
+      "domain": "freenet.kiev.ua",
+      "name": "Freenet Kyiv",
+      "imap": "imap.freenet.kiev.ua",
+      "smtp": "smtp.freenet.kiev.ua"
+    },
+    {
+      "domain": "ukrtel.net",
+      "name": "UkrTel",
+      "imap": "imap.ukrtel.net",
+      "smtp": "smtp.ukrtel.net"
+    },
+    {
+      "domain": "dtek.com",
+      "name": "DTEK",
+      "imap": "imap.dtek.com",
+      "smtp": "smtp.dtek.com"
+    },
+    {
+      "domain": "ukrtelecom.ua",
+      "name": "Ukrtelecom",
+      "imap": "imap.ukrtelecom.ua",
+      "smtp": "smtp.ukrtelecom.ua"
+    },
+    {
+      "domain": "kpi.ua",
+      "name": "KPI Kyiv",
+      "imap": "imap.kpi.ua",
+      "smtp": "smtp.kpi.ua"
+    }
+  ]
+}

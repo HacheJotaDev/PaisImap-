@@ -1,0 +1,108 @@
+{
+  "country": "Czech Republic",
+  "code": "CZ",
+  "providers": [
+    {
+      "domain": "seznam.cz",
+      "name": "Seznam",
+      "imap": "imap.seznam.cz",
+      "smtp": "smtp.seznam.cz"
+    },
+    {
+      "domain": "email.cz",
+      "name": "Email.cz",
+      "imap": "imap.email.cz",
+      "smtp": "smtp.email.cz"
+    },
+    {
+      "domain": "post.cz",
+      "name": "Czech Post",
+      "imap": "imap.post.cz",
+      "smtp": "smtp.post.cz"
+    },
+    {
+      "domain": "centrum.cz",
+      "name": "Centrum",
+      "imap": "imap.centrum.cz",
+      "smtp": "smtp.centrum.cz"
+    },
+    {
+      "domain": "volny.cz",
+      "name": "Volny",
+      "imap": "imap.volny.cz",
+      "smtp": "smtp.volny.cz"
+    },
+    {
+      "domain": "quick.cz",
+      "name": "Quick.cz",
+      "imap": "imap.quick.cz",
+      "smtp": "smtp.quick.cz"
+    },
+    {
+      "domain": "tiscali.cz",
+      "name": "Tiscali.cz",
+      "imap": "imap.tiscali.cz",
+      "smtp": "smtp.tiscali.cz"
+    },
+    {
+      "domain": "atlas.cz",
+      "name": "Atlas.cz",
+      "imap": "imap.atlas.cz",
+      "smtp": "smtp.atlas.cz"
+    },
+    {
+      "domain": "iol.cz",
+      "name": "IOL.cz",
+      "imap": "imap.iol.cz",
+      "smtp": "smtp.iol.cz"
+    },
+    {
+      "domain": "chello.cz",
+      "name": "UPC Czech (Chello)",
+      "imap": "imap.chello.cz",
+      "smtp": "smtp.chello.cz"
+    },
+    {
+      "domain": "o2.cz",
+      "name": "O2 Czech",
+      "imap": "imap.o2.cz",
+      "smtp": "smtp.o2.cz"
+    },
+    {
+      "domain": "t-mobile.cz",
+      "name": "T-Mobile Czech",
+      "imap": "imap.t-mobile.cz",
+      "smtp": "smtp.t-mobile.cz"
+    },
+    {
+      "domain": "vodafone.cz",
+      "name": "Vodafone Czech",
+      "imap": "imap.vodafone.cz",
+      "smtp": "smtp.vodafone.cz"
+    },
+    {
+      "domain": "vutbr.cz",
+      "name": "VUT Brno",
+      "imap": "imap.vutbr.cz",
+      "smtp": "smtp.vutbr.cz"
+    },
+    {
+      "domain": "zcu.cz",
+      "name": "ZCU Plzen",
+      "imap": "imap.zcu.cz",
+      "smtp": "smtp.zcu.cz"
+    },
+    {
+      "domain": "vscht.cz",
+      "name": "VSCHT Prague",
+      "imap": "imap.vscht.cz",
+      "smtp": "smtp.vscht.cz"
+    },
+    {
+      "domain": "pse.cz",
+      "name": "PSE",
+      "imap": "imap.pse.cz",
+      "smtp": "smtp.pse.cz"
+    }
+  ]
+}

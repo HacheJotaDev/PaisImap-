@@ -1,0 +1,24 @@
+{
+  "country": "Bhutan",
+  "code": "BT",
+  "providers": [
+    {
+      "domain": "bt.bt",
+      "name": "Bhutan Telecom",
+      "imap": "imap.bt.bt",
+      "smtp": "smtp.bt.bt"
+    },
+    {
+      "domain": "tashicell.com.bt",
+      "name": "TashiCell",
+      "imap": "imap.tashicell.com.bt",
+      "smtp": "smtp.tashicell.com.bt"
+    },
+    {
+      "domain": "druknet.bt",
+      "name": "DrukNet",
+      "imap": "imap.druknet.bt",
+      "smtp": "smtp.druknet.bt"
+    }
+  ]
+}

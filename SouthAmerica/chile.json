@@ -1,0 +1,66 @@
+{
+  "country": "Chile",
+  "code": "CL",
+  "providers": [
+    {
+      "domain": "mi.cl",
+      "name": "Mi Chile",
+      "imap": "imap.mi.cl",
+      "smtp": "smtp.mi.cl"
+    },
+    {
+      "domain": "entel.cl",
+      "name": "Entel Chile",
+      "imap": "imap.entel.cl",
+      "smtp": "smtp.entel.cl"
+    },
+    {
+      "domain": "movistar.cl",
+      "name": "Movistar Chile",
+      "imap": "imap.movistar.cl",
+      "smtp": "smtp.movistar.cl"
+    },
+    {
+      "domain": "vtr.cl",
+      "name": "VTR Chile",
+      "imap": "imap.vtr.cl",
+      "smtp": "smtp.vtr.cl"
+    },
+    {
+      "domain": "chile.cl",
+      "name": "Chile.cl",
+      "imap": "imap.chile.cl",
+      "smtp": "smtp.chile.cl"
+    },
+    {
+      "domain": "tie.cl",
+      "name": "TIE Chile",
+      "imap": "imap.tie.cl",
+      "smtp": "smtp.tie.cl"
+    },
+    {
+      "domain": "gtd.cl",
+      "name": "GTD/Manquehue Chile",
+      "imap": "imap.gtd.cl",
+      "smtp": "smtp.gtd.cl"
+    },
+    {
+      "domain": "claro.cl",
+      "name": "Claro Chile",
+      "imap": "imap.claro.cl",
+      "smtp": "smtp.claro.cl"
+    },
+    {
+      "domain": "wom.cl",
+      "name": "WOM Chile",
+      "imap": "imap.wom.cl",
+      "smtp": "smtp.wom.cl"
+    },
+    {
+      "domain": "cam.cl",
+      "name": "CAM Chile",
+      "imap": "imap.cam.cl",
+      "smtp": "smtp.cam.cl"
+    }
+  ]
+}

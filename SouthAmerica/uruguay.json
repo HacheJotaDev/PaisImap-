@@ -1,0 +1,24 @@
+{
+  "country": "Uruguay",
+  "code": "UY",
+  "providers": [
+    {
+      "domain": "antel.com.uy",
+      "name": "Antel Uruguay",
+      "imap": "imap.antel.com.uy",
+      "smtp": "smtp.antel.com.uy"
+    },
+    {
+      "domain": "movistar.com.uy",
+      "name": "Movistar Uruguay",
+      "imap": "imap.movistar.com.uy",
+      "smtp": "smtp.movistar.com.uy"
+    },
+    {
+      "domain": "claro.com.uy",
+      "name": "Claro Uruguay",
+      "imap": "imap.claro.com.uy",
+      "smtp": "smtp.claro.com.uy"
+    }
+  ]
+}

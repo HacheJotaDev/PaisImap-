@@ -1,0 +1,60 @@
+{
+  "country": "Nepal",
+  "code": "NP",
+  "providers": [
+    {
+      "domain": "wlink.com.np",
+      "name": "WorldLink",
+      "imap": "imap.wlink.com.np",
+      "smtp": "smtp.wlink.com.np"
+    },
+    {
+      "domain": "vianet.com.np",
+      "name": "Vianet",
+      "imap": "imap.vianet.com.np",
+      "smtp": "smtp.vianet.com.np"
+    },
+    {
+      "domain": "ntcl.com.np",
+      "name": "Nepal Telecom",
+      "imap": "imap.ntcl.com.np",
+      "smtp": "smtp.ntcl.com.np"
+    },
+    {
+      "domain": "ncell.com",
+      "name": "Ncell",
+      "imap": "imap.ncell.com",
+      "smtp": "smtp.ncell.com"
+    },
+    {
+      "domain": "subisu.net.np",
+      "name": "Subisu",
+      "imap": "imap.subisu.net.np",
+      "smtp": "smtp.subisu.net.np"
+    },
+    {
+      "domain": "weblink.com.np",
+      "name": "Weblink Nepal",
+      "imap": "imap.weblink.com.np",
+      "smtp": "smtp.weblink.com.np"
+    },
+    {
+      "domain": "mercantile.com.np",
+      "name": "Mercantile",
+      "imap": "imap.mercantile.com.np",
+      "smtp": "smtp.mercantile.com.np"
+    },
+    {
+      "domain": "cablenet.com.np",
+      "name": "CableNet Nepal",
+      "imap": "imap.cablenet.com.np",
+      "smtp": "smtp.cablenet.com.np"
+    },
+    {
+      "domain": "eastlink.com.np",
+      "name": "EastLink Nepal",
+      "imap": "imap.eastlink.com.np",
+      "smtp": "smtp.eastlink.com.np"
+    }
+  ]
+}

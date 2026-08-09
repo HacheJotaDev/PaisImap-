@@ -1,0 +1,54 @@
+{
+  "country": "Lebanon",
+  "code": "LB",
+  "providers": [
+    {
+      "domain": "terra.net.lb",
+      "name": "Terra Net",
+      "imap": "imap.terra.net.lb",
+      "smtp": "smtp.terra.net.lb"
+    },
+    {
+      "domain": "cyberia.net.lb",
+      "name": "Cyberia",
+      "imap": "imap.cyberia.net.lb",
+      "smtp": "smtp.cyberia.net.lb"
+    },
+    {
+      "domain": "idm.net.lb",
+      "name": "IDM",
+      "imap": "imap.idm.net.lb",
+      "smtp": "smtp.idm.net.lb"
+    },
+    {
+      "domain": "terra.com.lb",
+      "name": "Terra Lebanon",
+      "imap": "imap.terra.com.lb",
+      "smtp": "smtp.terra.com.lb"
+    },
+    {
+      "domain": "ogero.gov.lb",
+      "name": "Ogero Government",
+      "imap": "imap.ogero.gov.lb",
+      "smtp": "smtp.ogero.gov.lb"
+    },
+    {
+      "domain": "inco.com.lb",
+      "name": "Inco",
+      "imap": "imap.inco.com.lb",
+      "smtp": "smtp.inco.com.lb"
+    },
+    {
+      "domain": "softsolutions.lb",
+      "name": "Soft Solutions",
+      "imap": "imap.softsolutions.lb",
+      "smtp": "smtp.softsolutions.lb"
+    },
+    {
+      "domain": "ispnet.net.lb",
+      "name": "ISP Net Lebanon",
+      "imap": "imap.ispnet.net.lb",
+      "smtp": "smtp.ispnet.net.lb"
+    }
+  ]
+}

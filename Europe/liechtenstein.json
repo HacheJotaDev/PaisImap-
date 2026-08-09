@@ -1,0 +1,18 @@
+{
+  "country": "Liechtenstein",
+  "code": "LI",
+  "providers": [
+    {
+      "domain": "telecom.li",
+      "name": "Telecom Liechtenstein",
+      "imap": "imap.telecom.li",
+      "smtp": "smtp.telecom.li"
+    },
+    {
+      "domain": "llv.li",
+      "name": "LLV Liechtenstein",
+      "imap": "imap.llv.li",
+      "smtp": "smtp.llv.li"
+    }
+  ]
+}

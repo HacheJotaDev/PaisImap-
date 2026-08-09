@@ -1,0 +1,30 @@
+{
+  "country": "Peru",
+  "code": "PE",
+  "providers": [
+    {
+      "domain": "movistar.com.pe",
+      "name": "Movistar Peru",
+      "imap": "imap.movistar.com.pe",
+      "smtp": "smtp.movistar.com.pe"
+    },
+    {
+      "domain": "claro.com.pe",
+      "name": "Claro Peru",
+      "imap": "imap.claro.com.pe",
+      "smtp": "smtp.claro.com.pe"
+    },
+    {
+      "domain": "bitel.com.pe",
+      "name": "Bitel Peru",
+      "imap": "imap.bitel.com.pe",
+      "smtp": "smtp.bitel.com.pe"
+    },
+    {
+      "domain": "unedu.pe",
+      "name": "UNI Peru",
+      "imap": "imap.un.edu.pe",
+      "smtp": "smtp.un.edu.pe"
+    }
+  ]
+}

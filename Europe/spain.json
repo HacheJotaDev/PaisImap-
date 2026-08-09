@@ -1,0 +1,60 @@
+{
+  "country": "Spain",
+  "code": "ES",
+  "providers": [
+    {
+      "domain": "terra.es",
+      "name": "Terra Espana",
+      "imap": "imap.terra.es",
+      "smtp": "smtp.terra.es"
+    },
+    {
+      "domain": "telefonica.net",
+      "name": "Telefonica",
+      "imap": "imap.telefonica.net",
+      "smtp": "smtp.telefonica.net"
+    },
+    {
+      "domain": "movistar.es",
+      "name": "Movistar",
+      "imap": "imap.movistar.es",
+      "smtp": "smtp.movistar.es"
+    },
+    {
+      "domain": "orange.es",
+      "name": "Orange Espana",
+      "imap": "imap.orange.es",
+      "smtp": "smtp.orange.es"
+    },
+    {
+      "domain": "vodafone.es",
+      "name": "Vodafone Espana",
+      "imap": "imap.vodafone.es",
+      "smtp": "smtp.vodafone.es"
+    },
+    {
+      "domain": "ono.com",
+      "name": "ONO Vodafone",
+      "imap": "imap.ono.com",
+      "smtp": "smtp.ono.com"
+    },
+    {
+      "domain": "jazztel.es",
+      "name": "Jazztel Orange",
+      "imap": "imap.jazztel.es",
+      "smtp": "smtp.jazztel.es"
+    },
+    {
+      "domain": "upm.es",
+      "name": "UPM Madrid",
+      "imap": "imap.upm.es",
+      "smtp": "smtp.upm.es"
+    },
+    {
+      "domain": "ucm.es",
+      "name": "UCM Madrid",
+      "imap": "imap.ucm.es",
+      "smtp": "smtp.ucm.es"
+    }
+  ]
+}

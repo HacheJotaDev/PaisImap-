@@ -1,0 +1,36 @@
+{
+  "country": "Colombia",
+  "code": "CO",
+  "providers": [
+    {
+      "domain": "etb.com.co",
+      "name": "ETB Colombia",
+      "imap": "imap.etb.com.co",
+      "smtp": "smtp.etb.com.co"
+    },
+    {
+      "domain": "une.net.co",
+      "name": "UNE",
+      "imap": "imap.une.net.co",
+      "smtp": "smtp.une.net.co"
+    },
+    {
+      "domain": "tigo.com.co",
+      "name": "Tigo Colombia",
+      "imap": "imap.tigo.com.co",
+      "smtp": "smtp.tigo.com.co"
+    },
+    {
+      "domain": "claro.com.co",
+      "name": "Claro Colombia",
+      "imap": "imap.claro.com.co",
+      "smtp": "smtp.claro.com.co"
+    },
+    {
+      "domain": "movistar.com.co",
+      "name": "Movistar Colombia",
+      "imap": "imap.movistar.com.co",
+      "smtp": "smtp.movistar.com.co"
+    }
+  ]
+}

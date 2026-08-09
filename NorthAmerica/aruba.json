@@ -1,0 +1,18 @@
+{
+  "country": "Aruba",
+  "code": "AW",
+  "providers": [
+    {
+      "domain": "setar.aw",
+      "name": "SETAR Aruba",
+      "imap": "imap.setar.aw",
+      "smtp": "smtp.setar.aw"
+    },
+    {
+      "domain": "setarnet.aw",
+      "name": "SetarNet Aruba",
+      "imap": "imap.setarnet.aw",
+      "smtp": "smtp.setarnet.aw"
+    }
+  ]
+}

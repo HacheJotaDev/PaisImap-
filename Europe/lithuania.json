@@ -1,0 +1,60 @@
+{
+  "country": "Lithuania",
+  "code": "LT",
+  "providers": [
+    {
+      "domain": "one.lt",
+      "name": "One.lt",
+      "imap": "imap.one.lt",
+      "smtp": "smtp.one.lt"
+    },
+    {
+      "domain": "takas.lt",
+      "name": "Takas",
+      "imap": "imap.takas.lt",
+      "smtp": "smtp.takas.lt"
+    },
+    {
+      "domain": "delfi.lt",
+      "name": "Delfi Lithuania",
+      "imap": "imap.delfi.lt",
+      "smtp": "smtp.delfi.lt"
+    },
+    {
+      "domain": "mail.lt",
+      "name": "Penki Kontinentai",
+      "imap": "imap.mail.lt",
+      "smtp": "smtp.mail.lt"
+    },
+    {
+      "domain": "omnitel.lt",
+      "name": "Telia Lietuva (Omnitel)",
+      "imap": "imap.omnitel.lt",
+      "smtp": "smtp.omnitel.lt"
+    },
+    {
+      "domain": "bite.lt",
+      "name": "Bite Lietuva",
+      "imap": "imap.bite.lt",
+      "smtp": "smtp.bite.lt"
+    },
+    {
+      "domain": "lrytas.lt",
+      "name": "Lrytas.lt",
+      "imap": "imap.lrytas.lt",
+      "smtp": "smtp.lrytas.lt"
+    },
+    {
+      "domain": "ktu.lt",
+      "name": "KTU",
+      "imap": "imap.ktu.lt",
+      "smtp": "smtp.ktu.lt"
+    },
+    {
+      "domain": "vgtu.lt",
+      "name": "VGTU",
+      "imap": "imap.vgtu.lt",
+      "smtp": "smtp.vgtu.lt"
+    }
+  ]
+}

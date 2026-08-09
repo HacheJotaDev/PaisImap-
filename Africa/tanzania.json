@@ -1,0 +1,36 @@
+{
+  "country": "Tanzania",
+  "code": "TZ",
+  "providers": [
+    {
+      "domain": "vodacom.co.tz",
+      "name": "Vodacom Tanzania",
+      "imap": "imap.vodacom.co.tz",
+      "smtp": "smtp.vodacom.co.tz"
+    },
+    {
+      "domain": "airtel.co.tz",
+      "name": "Airtel Tanzania",
+      "imap": "imap.airtel.co.tz",
+      "smtp": "smtp.airtel.co.tz"
+    },
+    {
+      "domain": "ttcl.co.tz",
+      "name": "TTCL",
+      "imap": "imap.ttcl.co.tz",
+      "smtp": "smtp.ttcl.co.tz"
+    },
+    {
+      "domain": "halotel.co.tz",
+      "name": "Halotel",
+      "imap": "imap.halotel.co.tz",
+      "smtp": "smtp.halotel.co.tz"
+    },
+    {
+      "domain": "zantel.com",
+      "name": "Zantel",
+      "imap": "imap.zantel.com",
+      "smtp": "smtp.zantel.com"
+    }
+  ]
+}

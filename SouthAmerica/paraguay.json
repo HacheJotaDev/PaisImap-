@@ -1,0 +1,36 @@
+{
+  "country": "Paraguay",
+  "code": "PY",
+  "providers": [
+    {
+      "domain": "tigo.com.py",
+      "name": "Tigo Paraguay",
+      "imap": "imap.tigo.com.py",
+      "smtp": "smtp.tigo.com.py"
+    },
+    {
+      "domain": "claro.com.py",
+      "name": "Claro Paraguay",
+      "imap": "imap.claro.com.py",
+      "smtp": "smtp.claro.com.py"
+    },
+    {
+      "domain": "personal.com.py",
+      "name": "Personal Paraguay",
+      "imap": "imap.personal.com.py",
+      "smtp": "smtp.personal.com.py"
+    },
+    {
+      "domain": "copaco.com.py",
+      "name": "COPACO Paraguay",
+      "imap": "imap.copaco.com.py",
+      "smtp": "smtp.copaco.com.py"
+    },
+    {
+      "domain": "voxy.com.py",
+      "name": "Voxeo Paraguay",
+      "imap": "imap.voxy.com.py",
+      "smtp": "smtp.voxy.com.py"
+    }
+  ]
+}

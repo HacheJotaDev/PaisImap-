@@ -1,0 +1,72 @@
+{
+  "country": "Nigeria",
+  "code": "NG",
+  "providers": [
+    {
+      "domain": "ymail.com",
+      "name": "Yahoo YMail",
+      "imap": "imap.mail.yahoo.com",
+      "smtp": "smtp.mail.yahoo.com"
+    },
+    {
+      "domain": "nitda.gov.ng",
+      "name": "NITDA Nigeria",
+      "imap": "imap.nitda.gov.ng",
+      "smtp": "smtp.nitda.gov.ng"
+    },
+    {
+      "domain": "mtnbusiness.ng",
+      "name": "MTN Business Nigeria",
+      "imap": "imap.mtnbusiness.ng",
+      "smtp": "smtp.mtnbusiness.ng"
+    },
+    {
+      "domain": "airtel.ng",
+      "name": "Airtel Nigeria",
+      "imap": "imap.airtel.ng",
+      "smtp": "smtp.airtel.ng"
+    },
+    {
+      "domain": "9mobile.com.ng",
+      "name": "9mobile (Etisalat)",
+      "imap": "imap.9mobile.com.ng",
+      "smtp": "smtp.9mobile.com.ng"
+    },
+    {
+      "domain": "spectranet.com.ng",
+      "name": "Spectranet Nigeria",
+      "imap": "imap.spectranet.com.ng",
+      "smtp": "smtp.spectranet.com.ng"
+    },
+    {
+      "domain": "smile.ng",
+      "name": "Smile Communications",
+      "imap": "imap.smile.ng",
+      "smtp": "smtp.smile.ng"
+    },
+    {
+      "domain": "cobranet.com.ng",
+      "name": "Cobranet",
+      "imap": "imap.cobranet.com.ng",
+      "smtp": "smtp.cobranet.com.ng"
+    },
+    {
+      "domain": "ipnxng.com",
+      "name": "ipNX Nigeria",
+      "imap": "imap.ipnxng.com",
+      "smtp": "smtp.ipnxng.com"
+    },
+    {
+      "domain": "galaxybackbone.com",
+      "name": "Galaxy Backbone",
+      "imap": "imap.galaxybackbone.com",
+      "smtp": "smtp.galaxybackbone.com"
+    },
+    {
+      "domain": "visafone.com",
+      "name": "Visafone",
+      "imap": "imap.visafone.com",
+      "smtp": "smtp.visafone.com"
+    }
+  ]
+}

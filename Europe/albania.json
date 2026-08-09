@@ -1,0 +1,42 @@
+{
+  "country": "Albania",
+  "code": "AL",
+  "providers": [
+    {
+      "domain": "abcom.al",
+      "name": "Albanian Broadband",
+      "imap": "imap.abcom.al",
+      "smtp": "smtp.abcom.al"
+    },
+    {
+      "domain": "adanet.al",
+      "name": "AdaNet",
+      "imap": "imap.adanet.al",
+      "smtp": "smtp.adanet.al"
+    },
+    {
+      "domain": "one.al",
+      "name": "Vodafone Albania (ONE)",
+      "imap": "imap.one.al",
+      "smtp": "smtp.one.al"
+    },
+    {
+      "domain": "telesat.al",
+      "name": "Telesat",
+      "imap": "imap.telesat.al",
+      "smtp": "smtp.telesat.al"
+    },
+    {
+      "domain": "albania-telecom.al",
+      "name": "Albania Telecom",
+      "imap": "imap.albania-telecom.al",
+      "smtp": "smtp.albania-telecom.al"
+    },
+    {
+      "domain": "accl.al",
+      "name": "ACCL",
+      "imap": "imap.accl.al",
+      "smtp": "smtp.accl.al"
+    }
+  ]
+}

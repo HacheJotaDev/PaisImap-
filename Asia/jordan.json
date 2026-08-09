@@ -1,0 +1,60 @@
+{
+  "country": "Jordan",
+  "code": "JO",
+  "providers": [
+    {
+      "domain": "go.com.jo",
+      "name": "GO Telecom",
+      "imap": "imap.go.com.jo",
+      "smtp": "smtp.go.com.jo"
+    },
+    {
+      "domain": "batelco.jo",
+      "name": "Batelco Jordan",
+      "imap": "imap.batelco.jo",
+      "smtp": "smtp.batelco.jo"
+    },
+    {
+      "domain": "umni.jo",
+      "name": "UMNIA",
+      "imap": "imap.umni.jo",
+      "smtp": "smtp.umni.jo"
+    },
+    {
+      "domain": "zain.jo",
+      "name": "Zain Jordan",
+      "imap": "imap.zain.jo",
+      "smtp": "smtp.zain.jo"
+    },
+    {
+      "domain": "orange.jo",
+      "name": "Orange Jordan",
+      "imap": "imap.orange.jo",
+      "smtp": "smtp.orange.jo"
+    },
+    {
+      "domain": "net.jo",
+      "name": "Net Jordan",
+      "imap": "imap.net.jo",
+      "smtp": "smtp.net.jo"
+    },
+    {
+      "domain": "icon.jo",
+      "name": "Icon Jo",
+      "imap": "imap.icon.jo",
+      "smtp": "smtp.icon.jo"
+    },
+    {
+      "domain": "wanadoo.jo",
+      "name": "Wanadoo Jordan",
+      "imap": "imap.wanadoo.jo",
+      "smtp": "smtp.wanadoo.jo"
+    },
+    {
+      "domain": "nets1.com",
+      "name": "Nets1",
+      "imap": "imap.nets1.com",
+      "smtp": "smtp.nets1.com"
+    }
+  ]
+}

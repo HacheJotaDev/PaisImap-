@@ -1,0 +1,60 @@
+{
+  "country": "Sri Lanka",
+  "code": "LK",
+  "providers": [
+    {
+      "domain": "slt.lk",
+      "name": "SLT Sri Lanka",
+      "imap": "imap.slt.lk",
+      "smtp": "smtp.slt.lk"
+    },
+    {
+      "domain": "dialog.lk",
+      "name": "Dialog Axiata",
+      "imap": "imap.dialog.lk",
+      "smtp": "smtp.dialog.lk"
+    },
+    {
+      "domain": "mobitel.lk",
+      "name": "Mobitel",
+      "imap": "imap.mobitel.lk",
+      "smtp": "smtp.mobitel.lk"
+    },
+    {
+      "domain": "airtel.lk",
+      "name": "Airtel Sri Lanka",
+      "imap": "imap.airtel.lk",
+      "smtp": "smtp.airtel.lk"
+    },
+    {
+      "domain": "hutch.lk",
+      "name": "Hutch Sri Lanka",
+      "imap": "imap.hutch.lk",
+      "smtp": "smtp.hutch.lk"
+    },
+    {
+      "domain": "lankabell.com",
+      "name": "Lanka Bell",
+      "imap": "imap.lankabell.com",
+      "smtp": "smtp.lankabell.com"
+    },
+    {
+      "domain": "eax.lk",
+      "name": "EAZYZONE",
+      "imap": "imap.eax.lk",
+      "smtp": "smtp.eax.lk"
+    },
+    {
+      "domain": "sri.lk",
+      "name": "Sri Lanka Domain",
+      "imap": "imap.sri.lk",
+      "smtp": "smtp.sri.lk"
+    },
+    {
+      "domain": "sampath.lk",
+      "name": "Sampath Internet",
+      "imap": "imap.sampath.lk",
+      "smtp": "smtp.sampath.lk"
+    }
+  ]
+}
