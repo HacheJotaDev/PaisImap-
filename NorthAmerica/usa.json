@@ -1,5 +1,5 @@
 {
-  "country": "United States",
+  "country": "US",
   "code": "US",
   "providers": [
     {
@@ -13,6 +13,12 @@
       "name": "A2 Hosting",
       "imap": "imap.a2hosting.com",
       "smtp": "smtp.a2hosting.com"
+    },
+    {
+      "domain": "abac.com",
+      "name": "ABAC",
+      "imap": "imap.abac.com",
+      "smtp": "smtp.abac.com"
     },
     {
       "domain": "accessus.net",
@@ -39,6 +45,12 @@
       "smtp": "smtp.acd.net"
     },
     {
+      "domain": "acmecalifornia.com",
+      "name": "ACM California",
+      "imap": "imap.acmecalifornia.com",
+      "smtp": "smtp.acmecalifornia.com"
+    },
+    {
       "domain": "acmemail.net",
       "name": "ACM Email",
       "imap": "imap.acmemail.net",
@@ -55,6 +67,12 @@
       "name": "ACS World",
       "imap": "imap.acsworld.net",
       "smtp": "smtp.acsworld.net"
+    },
+    {
+      "domain": "activemeter.com",
+      "name": "ActiveMeter",
+      "imap": "imap.activemeter.com",
+      "smtp": "smtp.activemeter.com"
     },
     {
       "domain": "adams.net",
@@ -99,6 +117,18 @@
       "smtp": "smtp.airpipe.net"
     },
     {
+      "domain": "ais.net",
+      "name": "AIS",
+      "imap": "imap.ais.net",
+      "smtp": "smtp.ais.net"
+    },
+    {
+      "domain": "akamai.com",
+      "name": "Akamai",
+      "imap": "imap.akamai.com",
+      "smtp": "smtp.akamai.com"
+    },
+    {
       "domain": "alaska.net",
       "name": "Alaska Communications",
       "imap": "imap.alaska.net",
@@ -111,16 +141,46 @@
       "smtp": "smtp.alliancecom.net"
     },
     {
+      "domain": "allo.com",
+      "name": "ALLO Communications",
+      "imap": "imap.allo.com",
+      "smtp": "smtp.allo.com"
+    },
+    {
+      "domain": "allocommunications.com",
+      "name": "ALLO Communications",
+      "imap": "imap.allo.com",
+      "smtp": "smtp.allo.com"
+    },
+    {
       "domain": "alltel.net",
       "name": "Alltel (AT&T legacy)",
       "imap": "imap.mail.att.net",
       "smtp": "smtp.mail.att.net"
     },
     {
+      "domain": "altavista.com",
+      "name": "AltaVista",
+      "imap": "imap.altavista.com",
+      "smtp": "smtp.altavista.com"
+    },
+    {
       "domain": "alticeusa.com",
       "name": "Altice USA",
       "imap": "imap.alticeusa.com",
       "smtp": "smtp.alticeusa.com"
+    },
+    {
+      "domain": "amazonaws.com",
+      "name": "Amazon AWS",
+      "imap": "imap.amazonaws.com",
+      "smtp": "smtp.amazonaws.com"
+    },
+    {
+      "domain": "ambernetworks.com",
+      "name": "Amber Networks",
+      "imap": "imap.ambernetworks.com",
+      "smtp": "smtp.ambernetworks.com"
     },
     {
       "domain": "americas.net",
@@ -147,10 +207,34 @@
       "smtp": "smtp.apexisp.com"
     },
     {
+      "domain": "appliedi.net",
+      "name": "Appliedi",
+      "imap": "imap.appliedi.net",
+      "smtp": "smtp.appliedi.net"
+    },
+    {
+      "domain": "aracnet.com",
+      "name": "AracNet",
+      "imap": "imap.aracnet.com",
+      "smtp": "smtp.aracnet.com"
+    },
+    {
       "domain": "archives.gov",
       "name": "National Archives",
       "imap": "imap.archives.gov",
       "smtp": "smtp.archives.gov"
+    },
+    {
+      "domain": "armstrong.com",
+      "name": "Armstrong",
+      "imap": "imap.armstrong.com",
+      "smtp": "smtp.armstrong.com"
+    },
+    {
+      "domain": "armstrongonline.com",
+      "name": "Armstrong Online",
+      "imap": "imap.armstrongonline.com",
+      "smtp": "smtp.armstrongonline.com"
     },
     {
       "domain": "army.mil",
@@ -177,10 +261,22 @@
       "smtp": "smtp.astound.com"
     },
     {
+      "domain": "atlantic.net",
+      "name": "Atlantic.Net",
+      "imap": "imap.atlantic.net",
+      "smtp": "smtp.atlantic.net"
+    },
+    {
       "domain": "atlanticbb.net",
       "name": "Atlantic Broadband",
       "imap": "imap.atlanticbb.net",
       "smtp": "smtp.atlanticbb.net"
+    },
+    {
+      "domain": "atlasnetworks.com",
+      "name": "Atlas Networks",
+      "imap": "imap.atlasnetworks.com",
+      "smtp": "smtp.atlasnetworks.com"
     },
     {
       "domain": "att.net",
@@ -201,16 +297,52 @@
       "smtp": "smtp.austin.rr.com"
     },
     {
+      "domain": "axionhost.com",
+      "name": "Axion Host",
+      "imap": "imap.axionhost.com",
+      "smtp": "smtp.axionhost.com"
+    },
+    {
       "domain": "az.rr.com",
       "name": "Arizona Road Runner",
       "imap": "imap.twc.com",
       "smtp": "smtp.twc.com"
     },
     {
+      "domain": "b2xonline.com",
+      "name": "B2X Online",
+      "imap": "imap.b2xonline.com",
+      "smtp": "smtp.b2xonline.com"
+    },
+    {
+      "domain": "ba.net",
+      "name": "Bell Atlantic (Verizon)",
+      "imap": "pop.verizon.net",
+      "smtp": "smtp.verizon.net"
+    },
+    {
+      "domain": "bana Hosting.com",
+      "name": "Bana Hosting",
+      "imap": "imap.banahosting.com",
+      "smtp": "smtp.banahosting.com"
+    },
+    {
+      "domain": "bcfiber.net",
+      "name": "Bountiful City Fiber",
+      "imap": "imap.bcfiber.net",
+      "smtp": "smtp.bcfiber.net"
+    },
+    {
       "domain": "bcpl.net",
       "name": "BCPL",
       "imap": "imap.bcpl.net",
       "smtp": "smtp.bcpl.net"
+    },
+    {
+      "domain": "bellatlantic.net",
+      "name": "Bell Atlantic (Verizon)",
+      "imap": "pop.verizon.net",
+      "smtp": "smtp.verizon.net"
     },
     {
       "domain": "bellsouth.com",
@@ -231,10 +363,22 @@
       "smtp": "smtp.bendbroadband.com"
     },
     {
+      "domain": "bentek.com",
+      "name": "Bentek",
+      "imap": "imap.bentek.com",
+      "smtp": "smtp.bentek.com"
+    },
+    {
       "domain": "bentonrea.com",
       "name": "Benton REA",
       "imap": "imap.bentonrea.com",
       "smtp": "smtp.bentonrea.com"
+    },
+    {
+      "domain": "bernard.com",
+      "name": "Bernard Telephone",
+      "imap": "imap.bernard.com",
+      "smtp": "smtp.bernard.com"
     },
     {
       "domain": "bevcomm.com",
@@ -243,16 +387,52 @@
       "smtp": "smtp.bevcomm.com"
     },
     {
+      "domain": "bfusa.com",
+      "name": "BFUSA",
+      "imap": "imap.bfusa.com",
+      "smtp": "smtp.bfusa.com"
+    },
+    {
       "domain": "bga.com",
       "name": "BGA",
       "imap": "imap.bga.com",
       "smtp": "smtp.bga.com"
     },
     {
+      "domain": "bigmailbox.com",
+      "name": "BigMailbox",
+      "imap": "imap.bigmailbox.com",
+      "smtp": "smtp.bigmailbox.com"
+    },
+    {
+      "domain": "bigriver.net",
+      "name": "Big River",
+      "imap": "imap.bigriver.net",
+      "smtp": "smtp.bigriver.net"
+    },
+    {
+      "domain": "bigrocks.com",
+      "name": "BigRocks",
+      "imap": "imap.bigrocks.com",
+      "smtp": "smtp.bigrocks.com"
+    },
+    {
       "domain": "bigspring.net",
       "name": "BigSpring.net",
       "imap": "imap.bigspring.net",
       "smtp": "smtp.bigspring.net"
+    },
+    {
+      "domain": "binaryblocks.com",
+      "name": "Binary Blocks",
+      "imap": "imap.binaryblocks.com",
+      "smtp": "smtp.binaryblocks.com"
+    },
+    {
+      "domain": "blarg.net",
+      "name": "Blarg",
+      "imap": "imap.blarg.net",
+      "smtp": "smtp.blarg.net"
     },
     {
       "domain": "blazenet.net",
@@ -265,6 +445,12 @@
       "name": "Bluehost",
       "imap": "imap.bluehost.com",
       "smtp": "smtp.bluehost.com"
+    },
+    {
+      "domain": "bluepeak.com",
+      "name": "Bluepeak",
+      "imap": "imap.bluepeak.com",
+      "smtp": "smtp.bluepeak.com"
     },
     {
       "domain": "blueskyweb.com",
@@ -283,6 +469,18 @@
       "name": "Blueyonder (US variant)",
       "imap": "imap.blueyonder.net",
       "smtp": "smtp.blueyonder.net"
+    },
+    {
+      "domain": "bobcares.com",
+      "name": "BobCares",
+      "imap": "imap.bobcares.com",
+      "smtp": "smtp.bobcares.com"
+    },
+    {
+      "domain": "boltwebhosting.com",
+      "name": "Bolt Web Hosting",
+      "imap": "imap.boltwebhosting.com",
+      "smtp": "smtp.boltwebhosting.com"
     },
     {
       "domain": "boone.net",
@@ -321,10 +519,22 @@
       "smtp": "smtp.brightspeed.com"
     },
     {
+      "domain": "broadbandnext.com",
+      "name": "BroadbandNEXT",
+      "imap": "imap.broadbandnext.com",
+      "smtp": "smtp.broadbandnext.com"
+    },
+    {
       "domain": "broadstripe.net",
       "name": "Broadstripe",
       "imap": "imap.broadstripe.net",
       "smtp": "smtp.broadstripe.net"
+    },
+    {
+      "domain": "brownrice.com",
+      "name": "BrownRice",
+      "imap": "imap.brownrice.com",
+      "smtp": "smtp.brownrice.com"
     },
     {
       "domain": "brtc.net",
@@ -339,10 +549,40 @@
       "smtp": "smtp.btcoop.com"
     },
     {
+      "domain": "btiglobal.com",
+      "name": "BTI Global",
+      "imap": "imap.btiglobal.com",
+      "smtp": "smtp.btiglobal.com"
+    },
+    {
+      "domain": "btvtel.com",
+      "name": "Burlington Telecom",
+      "imap": "imap.burlingtontelecom.com",
+      "smtp": "smtp.burlingtontelecom.com"
+    },
+    {
       "domain": "buckeyecom.net",
       "name": "Buckeye CableSystem",
       "imap": "imap.buckeyecom.net",
       "smtp": "smtp.buckeyecom.net"
+    },
+    {
+      "domain": "burlingtontelecom.com",
+      "name": "Burlington Telecom",
+      "imap": "imap.burlingtontelecom.com",
+      "smtp": "smtp.burlingtontelecom.com"
+    },
+    {
+      "domain": "buyvm.net",
+      "name": "BuyVM",
+      "imap": "imap.buyvm.net",
+      "smtp": "smtp.buyvm.net"
+    },
+    {
+      "domain": "buzzhosting.com",
+      "name": "BuzzHosting",
+      "imap": "imap.buzzhosting.com",
+      "smtp": "smtp.buzzhosting.com"
     },
     {
       "domain": "cableone.net",
@@ -375,6 +615,18 @@
       "smtp": "smtp.cambrian.net"
     },
     {
+      "domain": "candyhost.com",
+      "name": "CandyHost",
+      "imap": "imap.candyhost.com",
+      "smtp": "smtp.candyhost.com"
+    },
+    {
+      "domain": "capu.net",
+      "name": "CapuNet",
+      "imap": "imap.capu.net",
+      "smtp": "smtp.capu.net"
+    },
+    {
       "domain": "carolina.net",
       "name": "Carolina.net",
       "imap": "imap.carolina.net",
@@ -385,6 +637,18 @@
       "name": "Carolina Road Runner",
       "imap": "imap.twc.com",
       "smtp": "smtp.twc.com"
+    },
+    {
+      "domain": "cartika.com",
+      "name": "Cartika",
+      "imap": "imap.cartika.com",
+      "smtp": "smtp.cartika.com"
+    },
+    {
+      "domain": "cartikahosting.com",
+      "name": "Cartika",
+      "imap": "imap.cartikahosting.com",
+      "smtp": "smtp.cartikahosting.com"
     },
     {
       "domain": "cascadeaccess.com",
@@ -405,6 +669,12 @@
       "smtp": "smtp.catholic.org"
     },
     {
+      "domain": "cavtel.net",
+      "name": "Cavalier",
+      "imap": "imap.cavtel.net",
+      "smtp": "smtp.cavtel.net"
+    },
+    {
       "domain": "cbnnetworks.com",
       "name": "CBN Networks",
       "imap": "imap.cbnnetworks.com",
@@ -415,6 +685,12 @@
       "name": "CC Comm",
       "imap": "imap.cccomm.com",
       "smtp": "smtp.cccomm.com"
+    },
+    {
+      "domain": "cccountry.net",
+      "name": "CC Country",
+      "imap": "imap.ccountry.net",
+      "smtp": "smtp.ccountry.net"
     },
     {
       "domain": "cci.net",
@@ -441,6 +717,12 @@
       "smtp": "smtp.cdc.gov"
     },
     {
+      "domain": "cellularone.net",
+      "name": "Cellular One",
+      "imap": "imap.cellularone.net",
+      "smtp": "smtp.cellularone.net"
+    },
+    {
       "domain": "centurylink.net",
       "name": "CenturyLink",
       "imap": "mail.centurylink.net",
@@ -465,16 +747,46 @@
       "smtp": "smtp.charter.net"
     },
     {
+      "domain": "chattanooga.net",
+      "name": "Chattanooga EPB",
+      "imap": "imap.epbfi.com",
+      "smtp": "smtp.epbfi.com"
+    },
+    {
+      "domain": "chattanoogaepb.com",
+      "name": "Chattanooga EPB",
+      "imap": "imap.epbfi.com",
+      "smtp": "smtp.epbfi.com"
+    },
+    {
       "domain": "chesnet.net",
       "name": "Chesnet",
       "imap": "imap.chesnet.net",
       "smtp": "smtp.chesnet.net"
     },
     {
+      "domain": "chicagovps.net",
+      "name": "ChicagoVPS",
+      "imap": "imap.chicagovps.net",
+      "smtp": "smtp.chicagovps.net"
+    },
+    {
       "domain": "chilitech.net",
       "name": "ChiliTech",
       "imap": "imap.chilitech.net",
       "smtp": "smtp.chilitech.net"
+    },
+    {
+      "domain": "chorus.net",
+      "name": "Chorus",
+      "imap": "imap.chorus.net",
+      "smtp": "smtp.chorus.net"
+    },
+    {
+      "domain": "ci.net",
+      "name": "Cape Inc",
+      "imap": "imap.ci.net",
+      "smtp": "smtp.ci.net"
     },
     {
       "domain": "cia.gov",
@@ -507,16 +819,46 @@
       "smtp": "smtp.fioptics.com"
     },
     {
+      "domain": "cisfibre.com",
+      "name": "CIS Fibre",
+      "imap": "imap.cisfibre.com",
+      "smtp": "smtp.cisfibre.com"
+    },
+    {
       "domain": "citlink.net",
       "name": "Citizens Link (Frontier)",
       "imap": "imap.frontier.com",
       "smtp": "smtp.frontier.com"
     },
     {
+      "domain": "clearwire.com",
+      "name": "Clearwire",
+      "imap": "pop.gmail.com",
+      "smtp": "smtp.gmail.com"
+    },
+    {
+      "domain": "cloudns.net",
+      "name": "CloudNS",
+      "imap": "imap.cloudns.net",
+      "smtp": "smtp.cloudns.net"
+    },
+    {
       "domain": "cloudways.com",
       "name": "Cloudways",
       "imap": "imap.cloudways.com",
       "smtp": "smtp.cloudways.com"
+    },
+    {
+      "domain": "cnw.com",
+      "name": "CNW",
+      "imap": "imap.cnw.com",
+      "smtp": "smtp.cnw.com"
+    },
+    {
+      "domain": "codero.com",
+      "name": "Codero",
+      "imap": "imap.codero.com",
+      "smtp": "smtp.codero.com"
     },
     {
       "domain": "columbus.rr.com",
@@ -531,16 +873,40 @@
       "smtp": "smtp.comcast.net"
     },
     {
+      "domain": "comcastbusiness.net",
+      "name": "Comcast Business",
+      "imap": "imap.comcast.net",
+      "smtp": "smtp.comcast.net"
+    },
+    {
+      "domain": "comelec.com",
+      "name": "Comelec",
+      "imap": "imap.comelec.com",
+      "smtp": "smtp.comelec.com"
+    },
+    {
       "domain": "commerce.gov",
       "name": "Commerce Dept",
       "imap": "imap.commerce.gov",
       "smtp": "smtp.commerce.gov"
     },
     {
+      "domain": "communityfiber.com",
+      "name": "Community Fiber",
+      "imap": "imap.communityfiber.com",
+      "smtp": "smtp.communityfiber.com"
+    },
+    {
       "domain": "comnetcom.net",
       "name": "ComNetCom (EarthLink)",
       "imap": "pop.comnetcom.net",
       "smtp": "smtpauth.earthlink.net"
+    },
+    {
+      "domain": "compusol.net",
+      "name": "Compusol",
+      "imap": "imap.compusol.net",
+      "smtp": "smtp.compusol.net"
     },
     {
       "domain": "connectnc.net",
@@ -565,6 +931,12 @@
       "name": "Consolidated Telco",
       "imap": "imap.consolidatedtelco.com",
       "smtp": "smtp.consolidatedtelco.com"
+    },
+    {
+      "domain": "contabo.com",
+      "name": "Contabo US",
+      "imap": "imap.contabo.com",
+      "smtp": "smtp.contabo.com"
     },
     {
       "domain": "conwaycorp.net",
@@ -597,10 +969,28 @@
       "smtp": "smtp.coxmail.com"
     },
     {
+      "domain": "cpaneldirect.net",
+      "name": "cPanel Direct",
+      "imap": "imap.cpaneldirect.net",
+      "smtp": "smtp.cpaneldirect.net"
+    },
+    {
+      "domain": "crosslink.net",
+      "name": "CrossLink",
+      "imap": "imap.crosslink.net",
+      "smtp": "smtp.crosslink.net"
+    },
+    {
       "domain": "cruzio.com",
       "name": "Cruzio",
       "imap": "imap.cruzio.com",
       "smtp": "smtp.cruzio.com"
+    },
+    {
+      "domain": "crystaltech.com",
+      "name": "CrystalTech",
+      "imap": "imap.crystaltech.com",
+      "smtp": "smtp.crystaltech.com"
     },
     {
       "domain": "cspire.com",
@@ -609,10 +999,28 @@
       "smtp": "smtp.cspire.com"
     },
     {
+      "domain": "cswnet.com",
+      "name": "CSW Net",
+      "imap": "imap.cswnet.com",
+      "smtp": "smtp.cswnet.com"
+    },
+    {
       "domain": "ctc.net",
       "name": "CTC Communications",
       "imap": "imap.ctc.net",
       "smtp": "smtp.ctc.net"
+    },
+    {
+      "domain": "ctcn.net",
+      "name": "CTC Networks",
+      "imap": "imap.ctcn.net",
+      "smtp": "smtp.ctcn.net"
+    },
+    {
+      "domain": "ctel.net",
+      "name": "CTel",
+      "imap": "imap.ctel.net",
+      "smtp": "smtp.ctel.net"
     },
     {
       "domain": "cts.com",
@@ -639,6 +1047,12 @@
       "smtp": "smtp.cvtel.com"
     },
     {
+      "domain": "cyberstreet.com",
+      "name": "Cyberstreet",
+      "imap": "imap.cyberstreet.com",
+      "smtp": "smtp.cyberstreet.com"
+    },
+    {
       "domain": "cybrzn.com",
       "name": "Cybrzn",
       "imap": "imap.cybrzn.com",
@@ -651,10 +1065,46 @@
       "smtp": "smtp.dakotacomm.net"
     },
     {
+      "domain": "daktel.com",
+      "name": "DakTel",
+      "imap": "imap.daktel.com",
+      "smtp": "smtp.daktel.com"
+    },
+    {
+      "domain": "datacenter.com",
+      "name": "DataCenter.com",
+      "imap": "imap.datacenter.com",
+      "smtp": "smtp.datacenter.com"
+    },
+    {
+      "domain": "datapipe.com",
+      "name": "DataPipe",
+      "imap": "imap.datapipe.com",
+      "smtp": "smtp.datapipe.com"
+    },
+    {
+      "domain": "dayanahost.com",
+      "name": "Dayana Host",
+      "imap": "imap.dayanahost.com",
+      "smtp": "smtp.dayanahost.com"
+    },
+    {
+      "domain": "dconet.com",
+      "name": "DCO Net",
+      "imap": "imap.dconet.com",
+      "smtp": "smtp.dconet.com"
+    },
+    {
       "domain": "dcsi.net",
       "name": "DCSI",
       "imap": "imap.dcsi.net",
       "smtp": "smtp.dcsi.net"
+    },
+    {
+      "domain": "delrio.com",
+      "name": "Del Rio",
+      "imap": "imap.delrio.com",
+      "smtp": "smtp.delrio.com"
     },
     {
       "domain": "desertnet.com",
@@ -673,6 +1123,12 @@
       "name": "DigitalOcean",
       "imap": "imap.digitalocean.com",
       "smtp": "smtp.digitalocean.com"
+    },
+    {
+      "domain": "dimensional.com",
+      "name": "Dimensional",
+      "imap": "imap.dimensional.com",
+      "smtp": "smtp.dimensional.com"
     },
     {
       "domain": "disa.mil",
@@ -705,6 +1161,18 @@
       "smtp": "smtp.dla.mil"
     },
     {
+      "domain": "dmi.net",
+      "name": "DMI",
+      "imap": "imap.dmi.net",
+      "smtp": "smtp.dmi.net"
+    },
+    {
+      "domain": "dnai.com",
+      "name": "DNAI",
+      "imap": "imap.dnai.com",
+      "smtp": "smtp.dnai.com"
+    },
+    {
       "domain": "doj.gov",
       "name": "Justice Dept",
       "imap": "imap.doj.gov",
@@ -723,10 +1191,28 @@
       "smtp": "smtp.dot.gov"
     },
     {
+      "domain": "doteasy.com",
+      "name": "DotEasy",
+      "imap": "imap.doteasy.com",
+      "smtp": "smtp.doteasy.com"
+    },
+    {
+      "domain": "dotster.com",
+      "name": "Dotster",
+      "imap": "imap.dotster.com",
+      "smtp": "smtp.dotster.com"
+    },
+    {
       "domain": "dreamhost.com",
       "name": "DreamHost",
       "imap": "imap.dreamhost.com",
       "smtp": "smtp.dreamhost.com"
+    },
+    {
+      "domain": "dreamsales.com",
+      "name": "DreamSales",
+      "imap": "imap.dreamsales.com",
+      "smtp": "smtp.dreamsales.com"
     },
     {
       "domain": "drizzle.com",
@@ -747,6 +1233,12 @@
       "smtp": "smtp.dtc.net"
     },
     {
+      "domain": "dualcomm.com",
+      "name": "DualComm",
+      "imap": "imap.dualcomm.com",
+      "smtp": "smtp.dualcomm.com"
+    },
+    {
       "domain": "duo-county.com",
       "name": "Duo County Telecom",
       "imap": "imap.duo-county.com",
@@ -765,10 +1257,28 @@
       "smtp": "smtp.eaglecom.net"
     },
     {
+      "domain": "eapps.com",
+      "name": "eApps",
+      "imap": "imap.eapps.com",
+      "smtp": "smtp.eapps.com"
+    },
+    {
       "domain": "earthlink.net",
       "name": "EarthLink",
       "imap": "imap.earthlink.net",
       "smtp": "smtpauth.earthlink.net"
+    },
+    {
+      "domain": "eastlink.ca",
+      "name": "EastLink (US ops)",
+      "imap": "imap.eastlink.ca",
+      "smtp": "smtp.eastlink.ca"
+    },
+    {
+      "domain": "eatel.net",
+      "name": "EATEL",
+      "imap": "imap.eatel.net",
+      "smtp": "smtp.eatel.net"
     },
     {
       "domain": "ed.gov",
@@ -777,10 +1287,46 @@
       "smtp": "smtp.ed.gov"
     },
     {
+      "domain": "edge.net",
+      "name": "EdgeNet",
+      "imap": "imap.edge.net",
+      "smtp": "smtp.edge.net"
+    },
+    {
+      "domain": "edgehost.com",
+      "name": "EdgeHost",
+      "imap": "imap.edgehost.com",
+      "smtp": "smtp.edgehost.com"
+    },
+    {
+      "domain": "ehost.com",
+      "name": "eHost",
+      "imap": "imap.ehost.com",
+      "smtp": "smtp.ehost.com"
+    },
+    {
+      "domain": "einstein.net",
+      "name": "Einstein Internet",
+      "imap": "imap.einstein.net",
+      "smtp": "smtp.einstein.net"
+    },
+    {
+      "domain": "elasticweb.com",
+      "name": "Elastic Web",
+      "imap": "imap.elasticweb.com",
+      "smtp": "smtp.elasticweb.com"
+    },
+    {
       "domain": "elknet.net",
       "name": "ElkNet",
       "imap": "imap.elknet.net",
       "smtp": "smtp.elknet.net"
+    },
+    {
+      "domain": "email.biz",
+      "name": "Email.biz",
+      "imap": "imap.email.biz",
+      "smtp": "smtp.email.biz"
     },
     {
       "domain": "embarqmail.com",
@@ -801,6 +1347,12 @@
       "smtp": "smtp.energy.gov"
     },
     {
+      "domain": "ensim.com",
+      "name": "Ensim",
+      "imap": "imap.ensim.com",
+      "smtp": "smtp.ensim.com"
+    },
+    {
       "domain": "enter.net",
       "name": "Enter.net",
       "imap": "imap.enter.net",
@@ -817,6 +1369,48 @@
       "name": "EPB Fiber",
       "imap": "imap.epbfi.com",
       "smtp": "smtp.epbfi.com"
+    },
+    {
+      "domain": "epix.net",
+      "name": "EPIX",
+      "imap": "imap.epix.net",
+      "smtp": "smtp.epix.net"
+    },
+    {
+      "domain": "erols.com",
+      "name": "Erols",
+      "imap": "imap.erols.com",
+      "smtp": "smtp.erols.com"
+    },
+    {
+      "domain": "eskimo.com",
+      "name": "Eskimo North",
+      "imap": "imap.eskimo.com",
+      "smtp": "smtp.eskimo.com"
+    },
+    {
+      "domain": "eukhost.com",
+      "name": "EUKHost",
+      "imap": "imap.eukhost.com",
+      "smtp": "smtp.eukhost.com"
+    },
+    {
+      "domain": "europa.com",
+      "name": "Europa",
+      "imap": "imap.europa.com",
+      "smtp": "smtp.europa.com"
+    },
+    {
+      "domain": "ev1.net",
+      "name": "EV1",
+      "imap": "imap.ev1.net",
+      "smtp": "smtp.ev1.net"
+    },
+    {
+      "domain": "everyone.net",
+      "name": "Everyone.net",
+      "imap": "imap.everyone.net",
+      "smtp": "smtp.everyone.net"
     },
     {
       "domain": "excite.com",
@@ -849,10 +1443,22 @@
       "smtp": "smtp.fastq.com"
     },
     {
+      "domain": "fastyhost.com",
+      "name": "FastyHost",
+      "imap": "imap.fastyhost.com",
+      "smtp": "smtp.fastyhost.com"
+    },
+    {
       "domain": "fatcow.com",
       "name": "FatCow",
       "imap": "imap.fatcow.com",
       "smtp": "smtp.fatcow.com"
+    },
+    {
+      "domain": "fateback.com",
+      "name": "FateBack",
+      "imap": "imap.fateback.com",
+      "smtp": "smtp.fateback.com"
     },
     {
       "domain": "fbi.gov",
@@ -873,10 +1479,22 @@
       "smtp": "smtp.fda.gov"
     },
     {
+      "domain": "featurehosting.com",
+      "name": "Feature Hosting",
+      "imap": "imap.featurehosting.com",
+      "smtp": "smtp.featurehosting.com"
+    },
+    {
       "domain": "fec.gov",
       "name": "FEC",
       "imap": "imap.fec.gov",
       "smtp": "smtp.fec.gov"
+    },
+    {
+      "domain": "fiam.net",
+      "name": "Fiam",
+      "imap": "imap.fiam.net",
+      "smtp": "smtp.fiam.net"
     },
     {
       "domain": "fidalgo.net",
@@ -885,16 +1503,58 @@
       "smtp": "smtp.fidalgo.net"
     },
     {
+      "domain": "fidnet.com",
+      "name": "Fidnet",
+      "imap": "imap.fidnet.com",
+      "smtp": "smtp.fidnet.com"
+    },
+    {
       "domain": "fioptics.com",
       "name": "Altafiber Fioptics",
       "imap": "imap.fioptics.com",
       "smtp": "smtp.fioptics.com"
     },
     {
+      "domain": "fivearea.com",
+      "name": "Five Area",
+      "imap": "imap.fivearea.com",
+      "smtp": "smtp.fivearea.com"
+    },
+    {
       "domain": "flash.net",
       "name": "AT&T Flash",
       "imap": "imap.mail.att.net",
       "smtp": "smtp.mail.att.net"
+    },
+    {
+      "domain": "flashcom.net",
+      "name": "FlashCom",
+      "imap": "imap.flashcom.net",
+      "smtp": "smtp.flashcom.net"
+    },
+    {
+      "domain": "fluxservices.com",
+      "name": "Flux Services",
+      "imap": "imap.fluxservices.com",
+      "smtp": "smtp.fluxservices.com"
+    },
+    {
+      "domain": "flywheel.com",
+      "name": "Flywheel",
+      "imap": "imap.flywheel.com",
+      "smtp": "smtp.flywheel.com"
+    },
+    {
+      "domain": "frantechsolutions.com",
+      "name": "Frantech Solutions",
+      "imap": "imap.frantechsolutions.com",
+      "smtp": "smtp.frantechsolutions.com"
+    },
+    {
+      "domain": "freewebsitehosting.com",
+      "name": "Free Website Hosting",
+      "imap": "imap.freewebsitehosting.com",
+      "smtp": "smtp.freewebsitehosting.com"
     },
     {
       "domain": "frontier.com",
@@ -909,10 +1569,22 @@
       "smtp": "smtp.frontier.com"
     },
     {
+      "domain": "frontlinehosting.com",
+      "name": "Frontline Hosting",
+      "imap": "imap.frontlinehosting.com",
+      "smtp": "smtp.frontlinehosting.com"
+    },
+    {
       "domain": "ftc.gov",
       "name": "FTC",
       "imap": "imap.ftc.gov",
       "smtp": "smtp.ftc.gov"
+    },
+    {
+      "domain": "ftr.com",
+      "name": "Frontier",
+      "imap": "pop3.frontier.com",
+      "smtp": "smtp.frontier.com"
     },
     {
       "domain": "fullchannel.net",
@@ -921,10 +1593,46 @@
       "smtp": "smtp.fullchannel.net"
     },
     {
+      "domain": "fullnet.com",
+      "name": "FullNet",
+      "imap": "imap.fullnet.com",
+      "smtp": "smtp.fullnet.com"
+    },
+    {
       "domain": "fuse.net",
       "name": "Fuse.net (Altafiber)",
       "imap": "imap.fioptics.com",
       "smtp": "smtp.fioptics.com"
+    },
+    {
+      "domain": "fused.com",
+      "name": "Fused",
+      "imap": "imap.fused.com",
+      "smtp": "smtp.fused.com"
+    },
+    {
+      "domain": "fusionhosting.com",
+      "name": "Fusion Hosting",
+      "imap": "imap.fusionhosting.com",
+      "smtp": "smtp.fusionhosting.com"
+    },
+    {
+      "domain": "futurequest.net",
+      "name": "FutureQuest",
+      "imap": "imap.futurequest.net",
+      "smtp": "smtp.futurequest.net"
+    },
+    {
+      "domain": "g3host.com",
+      "name": "G3Host",
+      "imap": "imap.g3host.com",
+      "smtp": "smtp.g3host.com"
+    },
+    {
+      "domain": "g4tv.com",
+      "name": "G4TV ISP",
+      "imap": "imap.g4tv.com",
+      "smtp": "smtp.g4tv.com"
     },
     {
       "domain": "gao.gov",
@@ -933,10 +1641,70 @@
       "smtp": "smtp.gao.gov"
     },
     {
+      "domain": "gate.net",
+      "name": "Gate.net",
+      "imap": "imap.gate.net",
+      "smtp": "smtp.gate.net"
+    },
+    {
+      "domain": "gatewayhosting.com",
+      "name": "Gateway Hosting",
+      "imap": "imap.gatewayhosting.com",
+      "smtp": "smtp.gatewayhosting.com"
+    },
+    {
+      "domain": "gbis.com",
+      "name": "GBIS",
+      "imap": "imap.gbis.com",
+      "smtp": "smtp.gbis.com"
+    },
+    {
       "domain": "gci.net",
       "name": "GCI Alaska",
       "imap": "imap.gci.net",
       "smtp": "smtp.gci.net"
+    },
+    {
+      "domain": "getwired.net",
+      "name": "GetWired",
+      "imap": "imap.getwired.net",
+      "smtp": "smtp.getwired.net"
+    },
+    {
+      "domain": "gigapros.com",
+      "name": "GigaPros",
+      "imap": "imap.gigapros.com",
+      "smtp": "smtp.gigapros.com"
+    },
+    {
+      "domain": "glis.net",
+      "name": "GLIS",
+      "imap": "imap.glis.net",
+      "smtp": "smtp.glis.net"
+    },
+    {
+      "domain": "gmx.com",
+      "name": "GMX",
+      "imap": "imap.gmx.com",
+      "smtp": "smtp.gmx.com"
+    },
+    {
+      "domain": "gmx.us",
+      "name": "GMX US",
+      "imap": "imap.gmx.com",
+      "smtp": "smtp.gmx.com"
+    },
+    {
+      "domain": "go.com",
+      "name": "Go.com",
+      "imap": "imap.go.com",
+      "smtp": "smtp.go.com"
+    },
+    {
+      "domain": "gobroadband.com",
+      "name": "GoBroadband",
+      "imap": "imap.gobroadband.com",
+      "smtp": "smtp.gobroadband.com"
     },
     {
       "domain": "goconcord.com",
@@ -963,10 +1731,40 @@
       "smtp": "smtp.goldenwest.net"
     },
     {
+      "domain": "googleapis.com",
+      "name": "Google Workspace",
+      "imap": "imap.gmail.com",
+      "smtp": "smtp.gmail.com"
+    },
+    {
+      "domain": "gostatsite.com",
+      "name": "GoStatSite",
+      "imap": "imap.gostatsite.com",
+      "smtp": "smtp.gostatsite.com"
+    },
+    {
+      "domain": "gounwired.com",
+      "name": "GoUnwired",
+      "imap": "imap.gounwired.com",
+      "smtp": "smtp.gounwired.com"
+    },
+    {
+      "domain": "grande.net",
+      "name": "Grande",
+      "imap": "imap.grandecom.com",
+      "smtp": "smtp.grandecom.com"
+    },
+    {
       "domain": "grandecom.com",
       "name": "Grande Communications",
       "imap": "imap.grandecom.com",
       "smtp": "smtp.grandecom.com"
+    },
+    {
+      "domain": "greatbend.net",
+      "name": "Great Bend ISP",
+      "imap": "imap.greatbend.net",
+      "smtp": "smtp.greatbend.net"
     },
     {
       "domain": "greatland.net",
@@ -981,10 +1779,22 @@
       "smtp": "smtp.greengeeks.com"
     },
     {
+      "domain": "greenolivetree.com",
+      "name": "Green Olive Tree",
+      "imap": "imap.greenolivetree.com",
+      "smtp": "smtp.greenolivetree.com"
+    },
+    {
       "domain": "grics.net",
       "name": "GRICS",
       "imap": "imap.grics.net",
       "smtp": "smtp.grics.net"
+    },
+    {
+      "domain": "gridzone.com",
+      "name": "GridZone",
+      "imap": "imap.gridzone.com",
+      "smtp": "smtp.gridzone.com"
     },
     {
       "domain": "grm.net",
@@ -999,6 +1809,12 @@
       "smtp": "smtp.verizon.net"
     },
     {
+      "domain": "gulfnet1.com",
+      "name": "GulfNet",
+      "imap": "imap.gulfnet1.com",
+      "smtp": "smtp.gulfnet1.com"
+    },
+    {
       "domain": "gvtc.com",
       "name": "GVTC Communications",
       "imap": "imap.gvtc.com",
@@ -1009,6 +1825,18 @@
       "name": "GWI",
       "imap": "imap.gwi.net",
       "smtp": "smtp.gwi.net"
+    },
+    {
+      "domain": "halcyon.com",
+      "name": "Halcyon",
+      "imap": "imap.halcyon.com",
+      "smtp": "smtp.halcyon.com"
+    },
+    {
+      "domain": "hamilton.net",
+      "name": "Hamilton Telecommunications",
+      "imap": "imap.hamilton.net",
+      "smtp": "smtp.hamilton.net"
     },
     {
       "domain": "hargray.com",
@@ -1053,10 +1881,34 @@
       "smtp": "smtp.hbci.com"
     },
     {
+      "domain": "hcct.net",
+      "name": "HCCT",
+      "imap": "imap.hcct.net",
+      "smtp": "smtp.hcct.net"
+    },
+    {
+      "domain": "heartlandwireless.com",
+      "name": "Heartland Wireless",
+      "imap": "imap.heartlandwireless.com",
+      "smtp": "smtp.heartlandwireless.com"
+    },
+    {
       "domain": "heartofiowa.net",
       "name": "Heart of Iowa",
       "imap": "imap.heartofiowa.net",
       "smtp": "smtp.heartofiowa.net"
+    },
+    {
+      "domain": "helius.com",
+      "name": "Helius",
+      "imap": "imap.helius.com",
+      "smtp": "smtp.helius.com"
+    },
+    {
+      "domain": "hetzner.com",
+      "name": "Hetzner US",
+      "imap": "imap.hetzner.com",
+      "smtp": "smtp.hetzner.com"
     },
     {
       "domain": "hhs.gov",
@@ -1083,10 +1935,58 @@
       "smtp": "smtp.hintonet.com"
     },
     {
+      "domain": "his.com",
+      "name": "His.com",
+      "imap": "imap.his.com",
+      "smtp": "smtp.his.com"
+    },
+    {
+      "domain": "hivelocity.net",
+      "name": "Hivelocity",
+      "imap": "imap.hivelocity.net",
+      "smtp": "smtp.hivelocity.net"
+    },
+    {
+      "domain": "holtonfiber.com",
+      "name": "Holton Fiber",
+      "imap": "imap.holtonfiber.com",
+      "smtp": "smtp.holtonfiber.com"
+    },
+    {
       "domain": "home.com",
       "name": "Home.com (Excite@Home)",
       "imap": "imap.home.com",
       "smtp": "smtp.home.com"
+    },
+    {
+      "domain": "homestead.com",
+      "name": "Homestead",
+      "imap": "imap.homestead.com",
+      "smtp": "smtp.homestead.com"
+    },
+    {
+      "domain": "hostdepot.com",
+      "name": "HostDepot",
+      "imap": "imap.hostdepot.com",
+      "smtp": "smtp.hostdepot.com"
+    },
+    {
+      "domain": "hostdime.com",
+      "name": "HostDime",
+      "imap": "imap.hostdime.com",
+      "smtp": "smtp.hostdime.com"
+    },
+    {
+      "domain": "hostek.com",
+      "name": "Hostek",
+      "imap": "imap.hostek.com",
+      "smtp": "smtp.hostek.com"
+    },
+    {
+      "domain": "hostfab.com",
+      "name": "HostFab",
+      "imap": "imap.hostfab.com",
+      "smtp": "smtp.hostfab.com"
     },
     {
       "domain": "hostgator.com",
@@ -1095,10 +1995,40 @@
       "smtp": "smtp.hostgator.com"
     },
     {
+      "domain": "hosticon.com",
+      "name": "HostIcon",
+      "imap": "imap.hosticon.com",
+      "smtp": "smtp.hosticon.com"
+    },
+    {
+      "domain": "hosting.com",
+      "name": "Hosting.com",
+      "imap": "imap.hosting.com",
+      "smtp": "smtp.hosting.com"
+    },
+    {
       "domain": "hostinger.com",
       "name": "Hostinger",
       "imap": "imap.hostinger.com",
       "smtp": "smtp.hostinger.com"
+    },
+    {
+      "domain": "hostingsource.com",
+      "name": "Hosting Source",
+      "imap": "imap.hostingsource.com",
+      "smtp": "smtp.hostingsource.com"
+    },
+    {
+      "domain": "hostingzoom.com",
+      "name": "HostingZoom",
+      "imap": "imap.hostingzoom.com",
+      "smtp": "smtp.hostingzoom.com"
+    },
+    {
+      "domain": "hostirian.com",
+      "name": "Hostirian",
+      "imap": "imap.hostirian.com",
+      "smtp": "smtp.hostirian.com"
     },
     {
       "domain": "hostmonster.com",
@@ -1107,16 +2037,52 @@
       "smtp": "smtp.hostmonster.com"
     },
     {
+      "domain": "hostnine.com",
+      "name": "HostNine",
+      "imap": "imap.hostnine.com",
+      "smtp": "smtp.hostnine.com"
+    },
+    {
       "domain": "hostpapa.com",
       "name": "HostPapa",
       "imap": "imap.hostpapa.com",
       "smtp": "smtp.hostpapa.com"
     },
     {
+      "domain": "hostpapa.us",
+      "name": "HostPapa US",
+      "imap": "imap.hostpapa.us",
+      "smtp": "smtp.hostpapa.us"
+    },
+    {
+      "domain": "hostplex.com",
+      "name": "HostPlex",
+      "imap": "imap.hostplex.com",
+      "smtp": "smtp.hostplex.com"
+    },
+    {
+      "domain": "hostrocket.com",
+      "name": "HostRocket",
+      "imap": "imap.hostrocket.com",
+      "smtp": "smtp.hostrocket.com"
+    },
+    {
+      "domain": "hostsitedesign.com",
+      "name": "HostSiteDesign",
+      "imap": "imap.hostsitedesign.com",
+      "smtp": "smtp.hostsitedesign.com"
+    },
+    {
       "domain": "hostwinds.com",
       "name": "HostWinds",
       "imap": "imap.hostwinds.com",
       "smtp": "smtp.hostwinds.com"
+    },
+    {
+      "domain": "hotvoo.com",
+      "name": "HotVoo",
+      "imap": "imap.hotvoo.com",
+      "smtp": "smtp.hotvoo.com"
     },
     {
       "domain": "hover.com",
@@ -1149,10 +2115,22 @@
       "smtp": "smtp.hughes.net"
     },
     {
+      "domain": "hush.com",
+      "name": "Hush",
+      "imap": "imap.hush.com",
+      "smtp": "smtp.hush.com"
+    },
+    {
       "domain": "hushmail.com",
       "name": "Hushmail",
       "imap": "imap.hushmail.com",
       "smtp": "smtp.hushmail.com"
+    },
+    {
+      "domain": "huxcomm.com",
+      "name": "Hux Communication",
+      "imap": "imap.huxcomm.com",
+      "smtp": "smtp.huxcomm.com"
     },
     {
       "domain": "huxcomm.net",
@@ -1161,16 +2139,34 @@
       "smtp": "smtp.huxcomm.net"
     },
     {
+      "domain": "hyperhost.com",
+      "name": "HyperHost",
+      "imap": "imap.hyperhost.com",
+      "smtp": "smtp.hyperhost.com"
+    },
+    {
       "domain": "icc.net",
       "name": "ICC",
       "imap": "imap.icc.net",
       "smtp": "smtp.icc.net"
     },
     {
+      "domain": "icehost.com",
+      "name": "IceHost",
+      "imap": "imap.icehost.com",
+      "smtp": "smtp.icehost.com"
+    },
+    {
       "domain": "icomnet.com",
       "name": "IcomNet",
       "imap": "imap.icomnet.com",
       "smtp": "smtp.icomnet.com"
+    },
+    {
+      "domain": "iconnect.com",
+      "name": "iConnect",
+      "imap": "imap.iconnect.com",
+      "smtp": "smtp.iconnect.com"
     },
     {
       "domain": "icsi.net",
@@ -1185,16 +2181,64 @@
       "smtp": "smtp.idaho.net"
     },
     {
+      "domain": "idiom.com",
+      "name": "Idiom",
+      "imap": "imap.idiom.com",
+      "smtp": "smtp.idiom.com"
+    },
+    {
+      "domain": "idsi.net",
+      "name": "IDSI",
+      "imap": "imap.idsi.net",
+      "smtp": "smtp.idsi.net"
+    },
+    {
       "domain": "iglou.com",
       "name": "IgLou",
       "imap": "imap.iglou.com",
       "smtp": "smtp.iglou.com"
     },
     {
+      "domain": "imhosted.net",
+      "name": "ImHosted",
+      "imap": "imap.imhosted.net",
+      "smtp": "smtp.imhosted.net"
+    },
+    {
       "domain": "imon.net",
       "name": "ImOn Communications",
       "imap": "imap.imon.net",
       "smtp": "smtp.imon.net"
+    },
+    {
+      "domain": "iName.com",
+      "name": "iName",
+      "imap": "imap.iname.com",
+      "smtp": "smtp.iname.com"
+    },
+    {
+      "domain": "incero.com",
+      "name": "Incero",
+      "imap": "imap.incero.com",
+      "smtp": "smtp.incero.com"
+    },
+    {
+      "domain": "incredimail.com",
+      "name": "Incredimail",
+      "imap": "imap.incredimail.com",
+      "smtp": "smtp.incredimail.com"
+    },
+    {
+      "domain": "indra.com",
+      "name": "Indra",
+      "imap": "imap.indra.com",
+      "smtp": "smtp.indra.com"
+    },
+    {
+      "domain": "infoave.net",
+      "name": "InfoAve",
+      "imap": "imap.infoave.net",
+      "smtp": "smtp.infoave.net"
     },
     {
       "domain": "infostations.com",
@@ -1215,10 +2259,22 @@
       "smtp": "smtp.inland.net"
     },
     {
+      "domain": "inmotion.com",
+      "name": "InMotion",
+      "imap": "imap.inmotionhosting.com",
+      "smtp": "smtp.inmotionhosting.com"
+    },
+    {
       "domain": "inmotionhosting.com",
       "name": "InMotion Hosting",
       "imap": "imap.inmotionhosting.com",
       "smtp": "smtp.inmotionhosting.com"
+    },
+    {
+      "domain": "innerhost.com",
+      "name": "InnerHost",
+      "imap": "imap.innerhost.com",
+      "smtp": "smtp.innerhost.com"
     },
     {
       "domain": "inreach.com",
@@ -1257,6 +2313,30 @@
       "smtp": "smtp.interserver.net"
     },
     {
+      "domain": "intrafinity.com",
+      "name": "Intrafinity",
+      "imap": "imap.intrafinity.com",
+      "smtp": "smtp.intrafinity.com"
+    },
+    {
+      "domain": "inukshuk.net",
+      "name": "Inukshuk",
+      "imap": "imap.inukshuk.net",
+      "smtp": "smtp.inukshuk.net"
+    },
+    {
+      "domain": "io.com",
+      "name": "io.com",
+      "imap": "imap.io.com",
+      "smtp": "smtp.io.com"
+    },
+    {
+      "domain": "iol.com",
+      "name": "IOL",
+      "imap": "imap.iol.com",
+      "smtp": "smtp.iol.com"
+    },
+    {
       "domain": "ionos.com",
       "name": "IONOS (1&1)",
       "imap": "imap.ionos.com",
@@ -1269,10 +2349,46 @@
       "smtp": "smtp.iowaconnect.com"
     },
     {
+      "domain": "iowatelecom.net",
+      "name": "Iowa Telecom",
+      "imap": "imap.iowatelecom.net",
+      "smtp": "smtp.iowatelecom.net"
+    },
+    {
       "domain": "ipage.com",
       "name": "iPage",
       "imap": "imap.ipage.com",
       "smtp": "smtp.ipage.com"
+    },
+    {
+      "domain": "ipages.com",
+      "name": "iPage",
+      "imap": "imap.ipage.com",
+      "smtp": "smtp.ipage.com"
+    },
+    {
+      "domain": "ipinc.net",
+      "name": "IP Inc",
+      "imap": "imap.ipinc.net",
+      "smtp": "smtp.ipinc.net"
+    },
+    {
+      "domain": "ipower.com",
+      "name": "iPower",
+      "imap": "imap.ipower.com",
+      "smtp": "smtp.ipower.com"
+    },
+    {
+      "domain": "iserv.net",
+      "name": "iServ",
+      "imap": "imap.iserv.net",
+      "smtp": "smtp.iserv.net"
+    },
+    {
+      "domain": "isomedia.com",
+      "name": "IsoMedia",
+      "imap": "imap.isomedia.com",
+      "smtp": "smtp.isomedia.com"
     },
     {
       "domain": "itel.net",
@@ -1281,10 +2397,34 @@
       "smtp": "smtp.itel.net"
     },
     {
+      "domain": "itexclan.com",
+      "name": "iTexLan",
+      "imap": "imap.itexclan.com",
+      "smtp": "smtp.itexclan.com"
+    },
+    {
       "domain": "itol.com",
       "name": "ITOL",
       "imap": "imap.itol.com",
       "smtp": "smtp.itol.com"
+    },
+    {
+      "domain": "itshosted.com",
+      "name": "ItsHosted",
+      "imap": "imap.itshosted.com",
+      "smtp": "smtp.itshosted.com"
+    },
+    {
+      "domain": "jaguarpc.com",
+      "name": "JaguarPC",
+      "imap": "imap.jaguarpc.com",
+      "smtp": "smtp.jaguarpc.com"
+    },
+    {
+      "domain": "jumba.com",
+      "name": "Jumba",
+      "imap": "imap.jumba.com",
+      "smtp": "smtp.jumba.com"
     },
     {
       "domain": "juno.com",
@@ -1297,6 +2437,12 @@
       "name": "JustHost",
       "imap": "imap.justhost.com",
       "smtp": "smtp.justhost.com"
+    },
+    {
+      "domain": "kansanet.com",
+      "name": "KansaNet",
+      "imap": "imap.kansanet.com",
+      "smtp": "smtp.kansanet.com"
     },
     {
       "domain": "kansas.net",
@@ -1317,10 +2463,28 @@
       "smtp": "smtp.twc.com"
     },
     {
+      "domain": "kcc.net",
+      "name": "KCC Internet",
+      "imap": "imap.kcc.net",
+      "smtp": "smtp.kcc.net"
+    },
+    {
       "domain": "kconline.com",
       "name": "KC Online",
       "imap": "imap.kconline.com",
       "smtp": "smtp.kconline.com"
+    },
+    {
+      "domain": "kendaco.com",
+      "name": "Kendaco",
+      "imap": "imap.kendaco.com",
+      "smtp": "smtp.kendaco.com"
+    },
+    {
+      "domain": "kerio.com",
+      "name": "Kerio",
+      "imap": "imap.kerio.com",
+      "smtp": "smtp.kerio.com"
     },
     {
       "domain": "kineticbywindstream.net",
@@ -1335,6 +2499,12 @@
       "smtp": "smtp.kinsta.com"
     },
     {
+      "domain": "kiwiwireless.com",
+      "name": "Kiwi Wireless",
+      "imap": "imap.kiwiwireless.com",
+      "smtp": "smtp.kiwiwireless.com"
+    },
+    {
       "domain": "knology.net",
       "name": "Knology (WOW!)",
       "imap": "imap.knology.net",
@@ -1345,6 +2515,18 @@
       "name": "KnownHost",
       "imap": "imap.knownhost.com",
       "smtp": "smtp.knownhost.com"
+    },
+    {
+      "domain": "knownsrv.com",
+      "name": "KnownSRV",
+      "imap": "imap.knownsrv.com",
+      "smtp": "smtp.knownsrv.com"
+    },
+    {
+      "domain": "komplex.com",
+      "name": "Komplex",
+      "imap": "imap.komplex.com",
+      "smtp": "smtp.komplex.com"
     },
     {
       "domain": "kooteinet.net",
@@ -1371,16 +2553,40 @@
       "smtp": "smtp.labor.gov"
     },
     {
+      "domain": "lafayettefiber.com",
+      "name": "Lafayette Fiber",
+      "imap": "imap.lafayettefiber.com",
+      "smtp": "smtp.lafayettefiber.com"
+    },
+    {
       "domain": "lakedalelink.net",
       "name": "Lakedale Link",
       "imap": "imap.lakedalelink.net",
       "smtp": "smtp.lakedalelink.net"
     },
     {
+      "domain": "lakefield.net",
+      "name": "Lakefield",
+      "imap": "imap.lakefield.net",
+      "smtp": "smtp.lakefield.net"
+    },
+    {
       "domain": "lakeland.net",
       "name": "Lakeland Communications",
       "imap": "imap.lakeland.net",
       "smtp": "smtp.lakeland.net"
+    },
+    {
+      "domain": "lanapex.com",
+      "name": "Lanapex",
+      "imap": "imap.lanapex.com",
+      "smtp": "smtp.lanapex.com"
+    },
+    {
+      "domain": "las-cruces.org",
+      "name": "Las Cruces",
+      "imap": "imap.las-cruces.org",
+      "smtp": "smtp.las-cruces.org"
     },
     {
       "domain": "lcs.net",
@@ -1407,10 +2613,28 @@
       "smtp": "smtp.linkspeed.net"
     },
     {
+      "domain": "linode.com",
+      "name": "Linode (Akamai)",
+      "imap": "imap.linode.com",
+      "smtp": "smtp.linode.com"
+    },
+    {
+      "domain": "liquidnet.net",
+      "name": "LiquidNet",
+      "imap": "imap.liquidnet.net",
+      "smtp": "smtp.liquidnet.net"
+    },
+    {
       "domain": "liquidweb.com",
       "name": "Liquid Web",
       "imap": "imap.liquidweb.com",
       "smtp": "smtp.liquidweb.com"
+    },
+    {
+      "domain": "lisco.com",
+      "name": "LISCO",
+      "imap": "imap.lisco.com",
+      "smtp": "smtp.lisco.com"
     },
     {
       "domain": "lisco.net",
@@ -1437,10 +2661,28 @@
       "smtp": "smtp.loc.gov"
     },
     {
+      "domain": "lodgenet.com",
+      "name": "LodgeNet",
+      "imap": "imap.lodgenet.com",
+      "smtp": "smtp.lodgenet.com"
+    },
+    {
+      "domain": "longmontfiber.com",
+      "name": "Longmont Fiber",
+      "imap": "imap.nextlight.net",
+      "smtp": "smtp.nextlight.net"
+    },
+    {
       "domain": "loup.net",
       "name": "Loup Telecom",
       "imap": "imap.loup.net",
       "smtp": "smtp.loup.net"
+    },
+    {
+      "domain": "ltdwireless.com",
+      "name": "LTD Wireless",
+      "imap": "imap.ltdwireless.com",
+      "smtp": "smtp.ltdwireless.com"
     },
     {
       "domain": "lth.net",
@@ -1455,10 +2697,34 @@
       "smtp": "smtp.lumen.com"
     },
     {
+      "domain": "lunarpages.com",
+      "name": "LunarPages",
+      "imap": "imap.lunarpages.com",
+      "smtp": "smtp.lunarpages.com"
+    },
+    {
+      "domain": "lUSfiber.net",
+      "name": "LUS Fiber",
+      "imap": "imap.lusfiber.net",
+      "smtp": "smtp.lusfiber.net"
+    },
+    {
       "domain": "lycos.com",
       "name": "Lycos Mail",
       "imap": "imap.lycos.com",
       "smtp": "smtp.mail.lycos.com"
+    },
+    {
+      "domain": "m6.net",
+      "name": "M6",
+      "imap": "imap.m6.net",
+      "smtp": "smtp.m6.net"
+    },
+    {
+      "domain": "ma.ultranet.com",
+      "name": "UltraNet",
+      "imap": "imap.ultranet.com",
+      "smtp": "smtp.ultranet.com"
     },
     {
       "domain": "mail.com",
@@ -1473,6 +2739,18 @@
       "smtp": "smtp.mail.mil"
     },
     {
+      "domain": "mailgun.org",
+      "name": "Mailgun",
+      "imap": "imap.mailgun.org",
+      "smtp": "smtp.mailgun.org"
+    },
+    {
+      "domain": "mailme.com",
+      "name": "MailMe",
+      "imap": "imap.mailme.com",
+      "smtp": "smtp.mailme.com"
+    },
+    {
       "domain": "maine.rr.com",
       "name": "Maine RR",
       "imap": "imap.maine.rr.com",
@@ -1485,10 +2763,28 @@
       "smtp": "smtp.marines.mil"
     },
     {
+      "domain": "masternet.com",
+      "name": "MasterNet",
+      "imap": "imap.masternet.com",
+      "smtp": "smtp.masternet.com"
+    },
+    {
+      "domain": "matrix2000.com",
+      "name": "Matrix2000",
+      "imap": "imap.matrix2000.com",
+      "smtp": "smtp.matrix2000.com"
+    },
+    {
       "domain": "maui.net",
       "name": "Maui Net (Hawaii)",
       "imap": "imap.maui.net",
       "smtp": "smtp.maui.net"
+    },
+    {
+      "domain": "mc.net",
+      "name": "MC.net",
+      "imap": "imap.mc.net",
+      "smtp": "smtp.mc.net"
     },
     {
       "domain": "mchsi.com",
@@ -1497,10 +2793,34 @@
       "smtp": "smtp.mchsi.com"
     },
     {
+      "domain": "mcloud.com",
+      "name": "MCloud",
+      "imap": "imap.mcloud.com",
+      "smtp": "smtp.mcloud.com"
+    },
+    {
+      "domain": "mcs.net",
+      "name": "MCS",
+      "imap": "imap.mcs.net",
+      "smtp": "smtp.mcs.net"
+    },
+    {
       "domain": "mcttelecom.com",
       "name": "MCT Telecom",
       "imap": "imap.mcttelecom.com",
       "smtp": "smtp.mcttelecom.com"
+    },
+    {
+      "domain": "mddhosting.com",
+      "name": "MDDHosting",
+      "imap": "imap.mddhosting.com",
+      "smtp": "smtp.mddhosting.com"
+    },
+    {
+      "domain": "media3.net",
+      "name": "Media3",
+      "imap": "imap.media3.net",
+      "smtp": "smtp.media3.net"
     },
     {
       "domain": "mediacomcc.com",
@@ -1519,6 +2839,24 @@
       "name": "MegaPath",
       "imap": "imap.megapath.net",
       "smtp": "smtp.megapath.com"
+    },
+    {
+      "domain": "megaservers.com",
+      "name": "MegaServers",
+      "imap": "imap.megaservers.com",
+      "smtp": "smtp.megaservers.com"
+    },
+    {
+      "domain": "megatonhosting.com",
+      "name": "Megaton Hosting",
+      "imap": "imap.megatonhosting.com",
+      "smtp": "smtp.megatonhosting.com"
+    },
+    {
+      "domain": "mercury.net",
+      "name": "Mercury Network",
+      "imap": "imap.mercury.net",
+      "smtp": "smtp.mercury.net"
     },
     {
       "domain": "merr.com",
@@ -1551,10 +2889,34 @@
       "smtp": "smtp.metronetinc.com"
     },
     {
+      "domain": "micfo.com",
+      "name": "Micfo",
+      "imap": "imap.micfo.com",
+      "smtp": "smtp.micfo.com"
+    },
+    {
+      "domain": "mich.com",
+      "name": "Mich",
+      "imap": "imap.mich.com",
+      "smtp": "smtp.mich.com"
+    },
+    {
+      "domain": "micron.net",
+      "name": "Micron",
+      "imap": "imap.micron.net",
+      "smtp": "smtp.micron.net"
+    },
+    {
       "domain": "midco.net",
       "name": "Midco",
       "imap": "imap.midco.net",
       "smtp": "smtp.midco.net"
+    },
+    {
+      "domain": "midconetworks.com",
+      "name": "Midco Networks",
+      "imap": "imap.midconetworks.com",
+      "smtp": "smtp.midconetworks.com"
     },
     {
       "domain": "midmaine.com",
@@ -1563,10 +2925,28 @@
       "smtp": "smtp.midmaine.com"
     },
     {
+      "domain": "midphase.com",
+      "name": "MidPhase",
+      "imap": "imap.midphase.com",
+      "smtp": "smtp.midphase.com"
+    },
+    {
       "domain": "midrivers.com",
       "name": "Mid-Rivers Communications",
       "imap": "imap.midrivers.com",
       "smtp": "smtp.midrivers.com"
+    },
+    {
+      "domain": "midwest-wireless.com",
+      "name": "Midwest Wireless",
+      "imap": "imap.midwest-wireless.com",
+      "smtp": "smtp.midwest-wireless.com"
+    },
+    {
+      "domain": "migadu.com",
+      "name": "Migadu",
+      "imap": "imap.migadu.com",
+      "smtp": "smtp.migadu.com"
     },
     {
       "domain": "mindspring.com",
@@ -1581,10 +2961,22 @@
       "smtp": "smtp.mminternet.com"
     },
     {
+      "domain": "mmm.com",
+      "name": "MMM",
+      "imap": "imap.mmm.com",
+      "smtp": "smtp.mmm.com"
+    },
+    {
       "domain": "mn.rr.com",
       "name": "Minnesota Road Runner",
       "imap": "imap.twc.com",
       "smtp": "smtp.twc.com"
+    },
+    {
+      "domain": "mochahost.com",
+      "name": "MochaHost",
+      "imap": "imap.mochahost.com",
+      "smtp": "smtp.mochahost.com"
     },
     {
       "domain": "monad.net",
@@ -1599,6 +2991,24 @@
       "smtp": "smtp.monkeybrains.net"
     },
     {
+      "domain": "monkshost.com",
+      "name": "Monks Host",
+      "imap": "imap.monkshost.com",
+      "smtp": "smtp.monkshost.com"
+    },
+    {
+      "domain": "moolambda.com",
+      "name": "Moolambda",
+      "imap": "imap.moolambda.com",
+      "smtp": "smtp.moolambda.com"
+    },
+    {
+      "domain": "more.net",
+      "name": "MOREnet",
+      "imap": "imap.more.net",
+      "smtp": "smtp.more.net"
+    },
+    {
       "domain": "morrisbb.com",
       "name": "Morris Broadband",
       "imap": "imap.morrisbb.com",
@@ -1611,6 +3021,24 @@
       "smtp": "smtp.mountaincable.net"
     },
     {
+      "domain": "mountainwireless.com",
+      "name": "Mountain Wireless",
+      "imap": "imap.mountainwireless.com",
+      "smtp": "smtp.mountainwireless.com"
+    },
+    {
+      "domain": "msn.tv",
+      "name": "MSN TV",
+      "imap": "imap.msn.tv",
+      "smtp": "smtp.msn.tv"
+    },
+    {
+      "domain": "mt.net",
+      "name": "MT.net",
+      "imap": "imap.mt.net",
+      "smtp": "smtp.mt.net"
+    },
+    {
       "domain": "mtaalaska.com",
       "name": "MTA Alaska",
       "imap": "imap.mtaalaska.com",
@@ -1621,6 +3049,24 @@
       "name": "MTA Alaska (alt)",
       "imap": "imap.mtaonline.net",
       "smtp": "smtp.mtaonline.net"
+    },
+    {
+      "domain": "mtna.com",
+      "name": "MTNA",
+      "imap": "imap.mtna.com",
+      "smtp": "smtp.mtna.com"
+    },
+    {
+      "domain": "mwci.net",
+      "name": "MWCI",
+      "imap": "imap.mwci.net",
+      "smtp": "smtp.mwci.net"
+    },
+    {
+      "domain": "mxroute.com",
+      "name": "MXRoute",
+      "imap": "imap.mxroute.com",
+      "smtp": "smtp.mxroute.com"
     },
     {
       "domain": "mybrctv.com",
@@ -1641,10 +3087,22 @@
       "smtp": "smtp.nextlight.net"
     },
     {
+      "domain": "myriadnetwork.com",
+      "name": "Myriad Network",
+      "imap": "imap.myriadnetwork.com",
+      "smtp": "smtp.myriadnetwork.com"
+    },
+    {
       "domain": "myway.com",
       "name": "MyWay",
       "imap": "imap.myway.com",
       "smtp": "smtp.myway.com"
+    },
+    {
+      "domain": "nai.net",
+      "name": "NAI",
+      "imap": "imap.nai.net",
+      "smtp": "smtp.nai.net"
     },
     {
       "domain": "namecheap.com",
@@ -1677,10 +3135,22 @@
       "smtp": "smtp.navy.mil"
     },
     {
+      "domain": "nbn.net",
+      "name": "NBN",
+      "imap": "imap.nbn.net",
+      "smtp": "smtp.nbn.net"
+    },
+    {
       "domain": "ne.rr.com",
       "name": "Nebraska Road Runner",
       "imap": "imap.twc.com",
       "smtp": "smtp.twc.com"
+    },
+    {
+      "domain": "nebraska.net",
+      "name": "Nebraska.net",
+      "imap": "imap.nebraska.net",
+      "smtp": "smtp.nebraska.net"
     },
     {
       "domain": "nelights.net",
@@ -1693,6 +3163,18 @@
       "name": "Nemont",
       "imap": "imap.nemont.net",
       "smtp": "smtp.nemont.net"
+    },
+    {
+      "domain": "netcorp.com",
+      "name": "NetCorp",
+      "imap": "imap.netcorp.com",
+      "smtp": "smtp.netcorp.com"
+    },
+    {
+      "domain": "netfirms.com",
+      "name": "Netfirms",
+      "imap": "imap.netfirms.com",
+      "smtp": "smtp.netfirms.com"
     },
     {
       "domain": "netins.net",
@@ -1743,6 +3225,12 @@
       "smtp": "smtp.newwavecomm.com"
     },
     {
+      "domain": "nexcess.net",
+      "name": "Nexcess",
+      "imap": "imap.nexcess.net",
+      "smtp": "smtp.nexcess.net"
+    },
+    {
       "domain": "nextechwireless.com",
       "name": "Nextech Wireless",
       "imap": "imap.nextechwireless.com",
@@ -1753,6 +3241,12 @@
       "name": "NextLight (Longmont)",
       "imap": "imap.nextlight.net",
       "smtp": "smtp.nextlight.net"
+    },
+    {
+      "domain": "nexuswireless.com",
+      "name": "Nexus Wireless",
+      "imap": "imap.nexuswireless.com",
+      "smtp": "smtp.nexuswireless.com"
     },
     {
       "domain": "nih.gov",
@@ -1779,16 +3273,46 @@
       "smtp": "smtp.noaa.gov"
     },
     {
+      "domain": "noez.com",
+      "name": "Noez",
+      "imap": "imap.noez.com",
+      "smtp": "smtp.noez.com"
+    },
+    {
+      "domain": "nomadwireless.com",
+      "name": "Nomad Wireless",
+      "imap": "imap.nomadwireless.com",
+      "smtp": "smtp.nomadwireless.com"
+    },
+    {
       "domain": "norlight.com",
       "name": "Norlight",
       "imap": "imap.norlight.com",
       "smtp": "smtp.norlight.com"
     },
     {
+      "domain": "northamptonnet.com",
+      "name": "Northampton Net",
+      "imap": "imap.northamptonnet.com",
+      "smtp": "smtp.northamptonnet.com"
+    },
+    {
       "domain": "northland.net",
       "name": "Northland Communications",
       "imap": "imap.northland.net",
       "smtp": "smtp.northland.net"
+    },
+    {
+      "domain": "northlink.com",
+      "name": "Northlink",
+      "imap": "imap.northlink.com",
+      "smtp": "smtp.northlink.com"
+    },
+    {
+      "domain": "northnet.net",
+      "name": "NorthNet",
+      "imap": "imap.northnet.net",
+      "smtp": "smtp.northnet.net"
     },
     {
       "domain": "northstate.net",
@@ -1809,6 +3333,12 @@
       "smtp": "smtp.northwestlink.net"
     },
     {
+      "domain": "northwestwireless.com",
+      "name": "Northwest Wireless",
+      "imap": "imap.northwestwireless.com",
+      "smtp": "smtp.northwestwireless.com"
+    },
+    {
       "domain": "nrc.gov",
       "name": "NRC",
       "imap": "imap.nrc.gov",
@@ -1819,6 +3349,12 @@
       "name": "NSA",
       "imap": "imap.nsa.gov",
       "smtp": "smtp.nsa.gov"
+    },
+    {
+      "domain": "ntchosting.com",
+      "name": "NTC Hosting",
+      "imap": "imap.ntchosting.com",
+      "smtp": "smtp.ntchosting.com"
     },
     {
       "domain": "ntcnet.com",
@@ -1881,10 +3417,22 @@
       "smtp": "smtp.nycap.rr.com"
     },
     {
+      "domain": "oakhosting.com",
+      "name": "Oak Hosting",
+      "imap": "imap.oakhosting.com",
+      "smtp": "smtp.oakhosting.com"
+    },
+    {
       "domain": "oasisol.com",
       "name": "Oasis Online",
       "imap": "imap.oasisol.com",
       "smtp": "smtp.oasisol.com"
+    },
+    {
+      "domain": "oc:hosting.com",
+      "name": "OC Hosting",
+      "imap": "imap.ochosting.com",
+      "smtp": "smtp.ochosting.com"
     },
     {
       "domain": "octech.net",
@@ -1899,6 +3447,12 @@
       "smtp": "smtp.ohiohills.com"
     },
     {
+      "domain": "olympus.net",
+      "name": "Olympus",
+      "imap": "imap.olympus.net",
+      "smtp": "smtp.olympus.net"
+    },
+    {
       "domain": "omnicity.net",
       "name": "Omnicity",
       "imap": "imap.omnicity.net",
@@ -1909,6 +3463,30 @@
       "name": "OnlineHome (IONOS)",
       "imap": "imap.ionos.com",
       "smtp": "smtp.ionos.com"
+    },
+    {
+      "domain": "onlinetech.com",
+      "name": "Online Tech",
+      "imap": "imap.onlinetech.com",
+      "smtp": "smtp.onlinetech.com"
+    },
+    {
+      "domain": "onramp.net",
+      "name": "OnRamp",
+      "imap": "imap.onramp.net",
+      "smtp": "smtp.onramp.net"
+    },
+    {
+      "domain": "onslowonline.net",
+      "name": "Onslow Online",
+      "imap": "imap.onslowonline.net",
+      "smtp": "smtp.onslowonline.net"
+    },
+    {
+      "domain": "openhosting.com",
+      "name": "Open Hosting",
+      "imap": "imap.openhosting.com",
+      "smtp": "smtp.openhosting.com"
     },
     {
       "domain": "optimum.com",
@@ -1935,10 +3513,52 @@
       "smtp": "smtp.orbitcom.net"
     },
     {
+      "domain": "orcsweb.com",
+      "name": "OrcsWeb",
+      "imap": "imap.orcsweb.com",
+      "smtp": "smtp.orcsweb.com"
+    },
+    {
+      "domain": "oregonfast.net",
+      "name": "Oregon Fast",
+      "imap": "imap.oregonfast.net",
+      "smtp": "smtp.oregonfast.net"
+    },
+    {
+      "domain": "osage.net",
+      "name": "Osage Internet",
+      "imap": "imap.osage.net",
+      "smtp": "smtp.osage.net"
+    },
+    {
+      "domain": "ottertel.com",
+      "name": "OtterTel",
+      "imap": "imap.ottertel.com",
+      "smtp": "smtp.ottertel.com"
+    },
+    {
       "domain": "ottertel.net",
       "name": "Otter Tail Telecom",
       "imap": "imap.ottertel.net",
       "smtp": "smtp.ottertel.net"
+    },
+    {
+      "domain": "outlook.office.com",
+      "name": "Microsoft 365",
+      "imap": "imap.outlook.office365.com",
+      "smtp": "smtp.office365.com"
+    },
+    {
+      "domain": "ovh.us",
+      "name": "OVH US",
+      "imap": "imap.ovh.us",
+      "smtp": "smtp.ovh.us"
+    },
+    {
+      "domain": "oz.net",
+      "name": "Oz.net",
+      "imap": "imap.oz.net",
+      "smtp": "smtp.oz.net"
     },
     {
       "domain": "pa.net",
@@ -1965,10 +3585,22 @@
       "smtp": "smtp.pacific.net"
     },
     {
+      "domain": "pacificbell.com",
+      "name": "Pacific Bell (AT&T)",
+      "imap": "inbound.att.net",
+      "smtp": "outbound.att.net"
+    },
+    {
       "domain": "pacificbell.net",
       "name": "Pacific Bell",
       "imap": "imap.pacificbell.net",
       "smtp": "smtp.pacificbell.net"
+    },
+    {
+      "domain": "pacificrack.com",
+      "name": "PacificRack",
+      "imap": "imap.pacificrack.com",
+      "smtp": "smtp.pacificrack.com"
     },
     {
       "domain": "pacifier.com",
@@ -1977,10 +3609,112 @@
       "smtp": "smtp.ziply.com"
     },
     {
+      "domain": "pactel.com",
+      "name": "PacTel",
+      "imap": "inbound.att.net",
+      "smtp": "outbound.att.net"
+    },
+    {
+      "domain": "pair.com",
+      "name": "PAIR Networks",
+      "imap": "imap.pair.com",
+      "smtp": "smtp.pair.com"
+    },
+    {
+      "domain": "pairnetworks.net",
+      "name": "PAIR Networks",
+      "imap": "imap.pair.com",
+      "smtp": "smtp.pair.com"
+    },
+    {
+      "domain": "pantek.com",
+      "name": "Pantek",
+      "imap": "imap.pantek.com",
+      "smtp": "smtp.pantek.com"
+    },
+    {
+      "domain": "paulbunyan.net",
+      "name": "Paul Bunyan",
+      "imap": "imap.paulbunyan.net",
+      "smtp": "smtp.paulbunyan.net"
+    },
+    {
+      "domain": "pbtcomm.net",
+      "name": "PBT Comm",
+      "imap": "imap.pbtcomm.net",
+      "smtp": "smtp.pbtcomm.com"
+    },
+    {
+      "domain": "peer1.com",
+      "name": "Peer1",
+      "imap": "imap.peer1.com",
+      "smtp": "smtp.peer1.com"
+    },
+    {
       "domain": "peoplepc.com",
       "name": "PeoplePC",
       "imap": "imap.peoplepc.com",
       "smtp": "smtp.peoplepc.com"
+    },
+    {
+      "domain": "perigee.net",
+      "name": "Perigee",
+      "imap": "imap.perigee.net",
+      "smtp": "smtp.perigee.net"
+    },
+    {
+      "domain": "perimeterhosting.com",
+      "name": "Perimeter Hosting",
+      "imap": "imap.perimeterhosting.com",
+      "smtp": "smtp.perimeterhosting.com"
+    },
+    {
+      "domain": "phosphor.com",
+      "name": "Phosphor",
+      "imap": "imap.phosphor.com",
+      "smtp": "smtp.phosphor.com"
+    },
+    {
+      "domain": "phx.nearlyfreespeech.net",
+      "name": "NearlyFreeSpeech",
+      "imap": "imap.phx.nearlyfreespeech.net",
+      "smtp": "smtp.phx.nearlyfreespeech.net"
+    },
+    {
+      "domain": "pineland.net",
+      "name": "Pineland",
+      "imap": "imap.pineland.net",
+      "smtp": "smtp.pineland.net"
+    },
+    {
+      "domain": "pipeline.com",
+      "name": "Pipeline",
+      "imap": "imap.pipeline.com",
+      "smtp": "smtp.pipeline.com"
+    },
+    {
+      "domain": "pixelinternet.co.uk",
+      "name": "Pixel Internet",
+      "imap": "imap.pixelinternet.co.uk",
+      "smtp": "smtp.pixelinternet.co.uk"
+    },
+    {
+      "domain": "planetdomain.com",
+      "name": "PlanetDomain",
+      "imap": "imap.planetdomain.com",
+      "smtp": "smtp.planetdomain.com"
+    },
+    {
+      "domain": "pldi.net",
+      "name": "PLDi",
+      "imap": "imap.pldi.net",
+      "smtp": "smtp.pldi.net"
+    },
+    {
+      "domain": "plugserver.com",
+      "name": "PlugServer",
+      "imap": "imap.plugserver.com",
+      "smtp": "smtp.plugserver.com"
     },
     {
       "domain": "pmt.org",
@@ -2001,16 +3735,52 @@
       "smtp": "smtp.pocketinet.com"
     },
     {
+      "domain": "pointhost.com",
+      "name": "PointHost",
+      "imap": "imap.pointhost.com",
+      "smtp": "smtp.pointhost.com"
+    },
+    {
+      "domain": "pontiac.net",
+      "name": "Pontiac Internet",
+      "imap": "imap.pontiac.net",
+      "smtp": "smtp.pontiac.net"
+    },
+    {
       "domain": "porkbun.com",
       "name": "PorkBun Email",
       "imap": "imap.porkbun.com",
       "smtp": "smtp.porkbun.com"
     },
     {
+      "domain": "postmarkapp.com",
+      "name": "Postmark",
+      "imap": "imap.postmarkapp.com",
+      "smtp": "smtp.postmarkapp.com"
+    },
+    {
+      "domain": "poultney.net",
+      "name": "Poultney",
+      "imap": "imap.poultney.net",
+      "smtp": "smtp.poultney.net"
+    },
+    {
       "domain": "povnet.com",
       "name": "POVNet",
       "imap": "imap.povnet.com",
       "smtp": "smtp.povnet.com"
+    },
+    {
+      "domain": "powweb.com",
+      "name": "PowWeb",
+      "imap": "imap.powweb.com",
+      "smtp": "smtp.powweb.com"
+    },
+    {
+      "domain": "premieronline.com",
+      "name": "Premier Online",
+      "imap": "imap.premieronline.com",
+      "smtp": "smtp.premieronline.com"
     },
     {
       "domain": "premieronline.net",
@@ -2037,16 +3807,34 @@
       "smtp": "smtp.mail.att.net"
     },
     {
+      "domain": "prohosting.com",
+      "name": "ProHosting",
+      "imap": "imap.prohosting.com",
+      "smtp": "smtp.prohosting.com"
+    },
+    {
       "domain": "prtc.org",
       "name": "PRTC",
       "imap": "imap.prtc.org",
       "smtp": "smtp.prtc.org"
     },
     {
+      "domain": "psychz.net",
+      "name": "Psychz Networks",
+      "imap": "imap.psychz.net",
+      "smtp": "smtp.psychz.net"
+    },
+    {
       "domain": "ptd.net",
       "name": "PenTeleData",
       "imap": "imap.ptd.net",
       "smtp": "smtp.ptd.net"
+    },
+    {
+      "domain": "ptialaska.com",
+      "name": "PTI Alaska",
+      "imap": "imap.ptialaska.com",
+      "smtp": "smtp.ptialaska.com"
     },
     {
       "domain": "ptialaska.net",
@@ -2061,10 +3849,40 @@
       "smtp": "smtp.centurylink.net"
     },
     {
+      "domain": "q9.com",
+      "name": "Q9",
+      "imap": "imap.q9.com",
+      "smtp": "smtp.q9.com"
+    },
+    {
       "domain": "qis.net",
       "name": "QIS",
       "imap": "imap.qis.net",
       "smtp": "smtp.qis.net"
+    },
+    {
+      "domain": "quadrahosting.com",
+      "name": "QuadraHosting",
+      "imap": "imap.quadrahosting.com",
+      "smtp": "smtp.quadrahosting.com"
+    },
+    {
+      "domain": "quadranet.com",
+      "name": "QuadraNet",
+      "imap": "imap.quadranet.com",
+      "smtp": "smtp.quadranet.com"
+    },
+    {
+      "domain": "quickpacket.com",
+      "name": "QuickPacket",
+      "imap": "imap.quickpacket.com",
+      "smtp": "smtp.quickpacket.com"
+    },
+    {
+      "domain": "qwest.net",
+      "name": "Qwest (CenturyLink)",
+      "imap": "mail.centurylink.net",
+      "smtp": "smtp.centurylink.net"
     },
     {
       "domain": "rackspace.com",
@@ -2073,10 +3891,28 @@
       "smtp": "smtp.emailsrvr.com"
     },
     {
+      "domain": "rackspacecloud.com",
+      "name": "Rackspace Cloud",
+      "imap": "imap.emailsrvr.com",
+      "smtp": "smtp.emailsrvr.com"
+    },
+    {
+      "domain": "rahul.net",
+      "name": "Rahul",
+      "imap": "imap.rahul.net",
+      "smtp": "smtp.rahul.net"
+    },
+    {
       "domain": "rainierconnect.com",
       "name": "Rainier Connect",
       "imap": "imap.rainierconnect.com",
       "smtp": "smtp.rainierconnect.com"
+    },
+    {
+      "domain": "raksmart.com",
+      "name": "RakSmart",
+      "imap": "imap.raksmart.com",
+      "smtp": "smtp.raksmart.com"
     },
     {
       "domain": "rcn.com",
@@ -2091,10 +3927,40 @@
       "smtp": "smtp.rconnect.com"
     },
     {
+      "domain": "readyhosting.com",
+      "name": "ReadyHosting",
+      "imap": "imap.readyhosting.com",
+      "smtp": "smtp.readyhosting.com"
+    },
+    {
+      "domain": "realtimehost.com",
+      "name": "RealtimeHost",
+      "imap": "imap.realtimehost.com",
+      "smtp": "smtp.realtimehost.com"
+    },
+    {
       "domain": "redclay.com",
       "name": "Red Clay",
       "imap": "imap.redclay.com",
       "smtp": "smtp.redclay.com"
+    },
+    {
+      "domain": "redplaid.com",
+      "name": "RedPlaid",
+      "imap": "imap.redplaid.com",
+      "smtp": "smtp.redplaid.com"
+    },
+    {
+      "domain": "redriverwireless.com",
+      "name": "Red River Wireless",
+      "imap": "imap.redriverwireless.com",
+      "smtp": "smtp.redriverwireless.com"
+    },
+    {
+      "domain": "reflectnetworks.com",
+      "name": "Reflect Networks",
+      "imap": "imap.reflectnetworks.com",
+      "smtp": "smtp.reflectnetworks.com"
     },
     {
       "domain": "regionalnet.net",
@@ -2103,16 +3969,64 @@
       "smtp": "smtp.regionalnet.net"
     },
     {
+      "domain": "register.com",
+      "name": "Register.com",
+      "imap": "imap.register.com",
+      "smtp": "smtp.register.com"
+    },
+    {
+      "domain": "reliablesite.net",
+      "name": "ReliableSite",
+      "imap": "imap.reliablesite.net",
+      "smtp": "smtp.reliablesite.net"
+    },
+    {
+      "domain": "resellerclub.com",
+      "name": "ResellerClub",
+      "imap": "imap.resellerclub.com",
+      "smtp": "smtp.resellerclub.com"
+    },
+    {
+      "domain": "resellernow.com",
+      "name": "ResellerNow",
+      "imap": "imap.resellernow.com",
+      "smtp": "smtp.resellernow.com"
+    },
+    {
+      "domain": "rfci.net",
+      "name": "RFCI",
+      "imap": "imap.rfci.net",
+      "smtp": "smtp.rfci.net"
+    },
+    {
+      "domain": "ripco.com",
+      "name": "Ripco",
+      "imap": "imap.ripco.com",
+      "smtp": "smtp.ripco.com"
+    },
+    {
       "domain": "rittercomm.com",
       "name": "Ritter Communications",
       "imap": "imap.rittercomm.com",
       "smtp": "smtp.rittercomm.com"
     },
     {
+      "domain": "rmi.net",
+      "name": "RMI",
+      "imap": "imap.rmi.net",
+      "smtp": "smtp.rmi.net"
+    },
+    {
       "domain": "roadrunner.com",
       "name": "Road Runner (TWC)",
       "imap": "imap.twc.com",
       "smtp": "smtp.twc.com"
+    },
+    {
+      "domain": "rochen.com",
+      "name": "Rochen",
+      "imap": "imap.rochen.com",
+      "smtp": "smtp.rochen.com"
     },
     {
       "domain": "rochester.rr.com",
@@ -2127,10 +4041,28 @@
       "smtp": "smtp.rockisland.com"
     },
     {
+      "domain": "roofserver.com",
+      "name": "RoofServer",
+      "imap": "imap.roofserver.com",
+      "smtp": "smtp.roofserver.com"
+    },
+    {
+      "domain": "rpa.net",
+      "name": "RPA",
+      "imap": "imap.rpa.net",
+      "smtp": "smtp.rpa.net"
+    },
+    {
       "domain": "rr.com",
       "name": "Road Runner (TWC)",
       "imap": "imap.twc.com",
       "smtp": "smtp.twc.com"
+    },
+    {
+      "domain": "rsts.net",
+      "name": "RSTS",
+      "imap": "imap.rsts.net",
+      "smtp": "smtp.rsts.net"
     },
     {
       "domain": "ruralinfo.net",
@@ -2149,6 +4081,18 @@
       "name": "RuralWave",
       "imap": "imap.ruralwave.com",
       "smtp": "smtp.ruralwave.com"
+    },
+    {
+      "domain": "sacramentoftth.com",
+      "name": "Sacramento FTTH",
+      "imap": "imap.sacramentoftth.com",
+      "smtp": "smtp.sacramentoftth.com"
+    },
+    {
+      "domain": "sagonet.com",
+      "name": "SagoNet",
+      "imap": "imap.sagonet.com",
+      "smtp": "smtp.sagonet.com"
     },
     {
       "domain": "sailinternet.com",
@@ -2175,10 +4119,28 @@
       "smtp": "smtp.mail.att.net"
     },
     {
+      "domain": "sc.rr.com",
+      "name": "SC RoadRunner",
+      "imap": "mail.twc.com",
+      "smtp": "mail.twc.com"
+    },
+    {
       "domain": "scinternet.net",
       "name": "SCInternet",
       "imap": "imap.scinternet.net",
       "smtp": "smtp.scinternet.net"
+    },
+    {
+      "domain": "scn.org",
+      "name": "SCN",
+      "imap": "imap.scn.org",
+      "smtp": "smtp.scn.org"
+    },
+    {
+      "domain": "scruz.net",
+      "name": "SCruz",
+      "imap": "imap.scruz.net",
+      "smtp": "smtp.scruz.net"
     },
     {
       "domain": "sctelcom.com",
@@ -2187,10 +4149,52 @@
       "smtp": "smtp.sctelcom.com"
     },
     {
+      "domain": "sendgrid.net",
+      "name": "SendGrid",
+      "imap": "imap.sendgrid.net",
+      "smtp": "smtp.sendgrid.net"
+    },
+    {
+      "domain": "servage.net",
+      "name": "Servage",
+      "imap": "imap.servage.net",
+      "smtp": "smtp.servage.net"
+    },
+    {
+      "domain": "serverbeach.com",
+      "name": "ServerBeach",
+      "imap": "imap.serverbeach.com",
+      "smtp": "smtp.serverbeach.com"
+    },
+    {
+      "domain": "servercentral.com",
+      "name": "ServerCentral",
+      "imap": "imap.servercentral.com",
+      "smtp": "smtp.servercentral.com"
+    },
+    {
+      "domain": "serverplex.com",
+      "name": "ServerPlex",
+      "imap": "imap.serverplex.com",
+      "smtp": "smtp.serverplex.com"
+    },
+    {
+      "domain": "serverpronto.com",
+      "name": "ServerPronto",
+      "imap": "imap.serverpronto.com",
+      "smtp": "smtp.serverpronto.com"
+    },
+    {
       "domain": "serviceelectric.net",
       "name": "Service Electric",
       "imap": "imap.serviceelectric.net",
       "smtp": "smtp.serviceelectric.net"
+    },
+    {
+      "domain": "servint.com",
+      "name": "ServInt",
+      "imap": "imap.servint.com",
+      "smtp": "smtp.servint.com"
     },
     {
       "domain": "shentel.com",
@@ -2205,6 +4209,30 @@
       "smtp": "smtp.shentel.net"
     },
     {
+      "domain": "shore.net",
+      "name": "Shore.net",
+      "imap": "imap.shore.net",
+      "smtp": "smtp.shore.net"
+    },
+    {
+      "domain": "shorehost.com",
+      "name": "ShoreHost",
+      "imap": "imap.shorehost.com",
+      "smtp": "smtp.shorehost.com"
+    },
+    {
+      "domain": "silicon.com",
+      "name": "Silicon",
+      "imap": "imap.silicon.com",
+      "smtp": "smtp.silicon.com"
+    },
+    {
+      "domain": "silvernet.com",
+      "name": "SilverNet",
+      "imap": "imap.silvernet.com",
+      "smtp": "smtp.silvernet.com"
+    },
+    {
       "domain": "silvernet.net",
       "name": "SilverNet",
       "imap": "imap.silvernet.net",
@@ -2217,16 +4245,46 @@
       "smtp": "smtp.silverstar.com"
     },
     {
+      "domain": "simplehelix.com",
+      "name": "SimpleHelix",
+      "imap": "imap.simplehelix.com",
+      "smtp": "smtp.simplehelix.com"
+    },
+    {
       "domain": "sisna.com",
       "name": "Sisna",
       "imap": "imap.sisna.com",
       "smtp": "smtp.sisna.com"
     },
     {
+      "domain": "site5.com",
+      "name": "Site5",
+      "imap": "imap.site5.com",
+      "smtp": "smtp.site5.com"
+    },
+    {
+      "domain": "sitecube.com",
+      "name": "SiteCube",
+      "imap": "imap.sitecube.com",
+      "smtp": "smtp.sitecube.com"
+    },
+    {
       "domain": "siteground.com",
       "name": "SiteGround",
       "imap": "imap.siteground.com",
       "smtp": "smtp.siteground.com"
+    },
+    {
+      "domain": "sitiserv.com",
+      "name": "SitiServ",
+      "imap": "imap.sitiserv.com",
+      "smtp": "smtp.sitiserv.com"
+    },
+    {
+      "domain": "skyband.com",
+      "name": "SkyBand",
+      "imap": "imap.skyband.com",
+      "smtp": "smtp.skyband.com"
     },
     {
       "domain": "skyrunner.com",
@@ -2239,6 +4297,30 @@
       "name": "SkyWeb",
       "imap": "imap.skyweb.net",
       "smtp": "smtp.skyweb.net"
+    },
+    {
+      "domain": "slip.net",
+      "name": "Slip.net",
+      "imap": "imap.slip.net",
+      "smtp": "smtp.slip.net"
+    },
+    {
+      "domain": "smediahost.com",
+      "name": "SMediaHost",
+      "imap": "imap.smediahost.com",
+      "smtp": "smtp.smediahost.com"
+    },
+    {
+      "domain": "smifi.com",
+      "name": "SMIFI",
+      "imap": "imap.smifi.com",
+      "smtp": "smtp.smifi.com"
+    },
+    {
+      "domain": "smithville.com",
+      "name": "Smithville",
+      "imap": "imap.smithville.com",
+      "smtp": "smtp.smithville.com"
     },
     {
       "domain": "smithville.net",
@@ -2259,6 +4341,12 @@
       "smtp": "smtp.sno-net.com"
     },
     {
+      "domain": "snoislefiber.com",
+      "name": "Sno-Isle Fiber",
+      "imap": "imap.snoislefiber.com",
+      "smtp": "smtp.snoislefiber.com"
+    },
+    {
       "domain": "so.rr.com",
       "name": "Southern Road Runner",
       "imap": "imap.twc.com",
@@ -2269,6 +4357,36 @@
       "name": "Socket Internet",
       "imap": "imap.socket.net",
       "smtp": "smtp.socket.net"
+    },
+    {
+      "domain": "sofast.net",
+      "name": "Sofast",
+      "imap": "imap.sofast.net",
+      "smtp": "smtp.sofast.net"
+    },
+    {
+      "domain": "softcomca.com",
+      "name": "SoftCom",
+      "imap": "imap.softcomca.com",
+      "smtp": "smtp.softcomca.com"
+    },
+    {
+      "domain": "softlayer.com",
+      "name": "SoftLayer (IBM)",
+      "imap": "imap.softlayer.com",
+      "smtp": "smtp.softlayer.com"
+    },
+    {
+      "domain": "solarvps.com",
+      "name": "SolarVPS",
+      "imap": "imap.solarvps.com",
+      "smtp": "smtp.solarvps.com"
+    },
+    {
+      "domain": "solidhost.com",
+      "name": "SolidHost",
+      "imap": "imap.solidhost.com",
+      "smtp": "smtp.solidhost.com"
     },
     {
       "domain": "sonic.net",
@@ -2283,10 +4401,34 @@
       "smtp": "smtp.sonnetech.com"
     },
     {
+      "domain": "sophos.com",
+      "name": "Sophos",
+      "imap": "imap.sophos.com",
+      "smtp": "smtp.sophos.com"
+    },
+    {
       "domain": "sopris.net",
       "name": "Sopris Net",
       "imap": "imap.sopris.net",
       "smtp": "smtp.sopris.net"
+    },
+    {
+      "domain": "sourcehosting.com",
+      "name": "SourceHosting",
+      "imap": "imap.sourcehosting.com",
+      "smtp": "smtp.sourcehosting.com"
+    },
+    {
+      "domain": "sover.net",
+      "name": "SoverNet",
+      "imap": "imap.sover.net",
+      "smtp": "smtp.sover.net"
+    },
+    {
+      "domain": "sparklight.com",
+      "name": "Sparklight",
+      "imap": "imap.sparklight.com",
+      "smtp": "smtp.sparklight.com"
     },
     {
       "domain": "sparklight.net",
@@ -2307,10 +4449,34 @@
       "smtp": "smtp.charter.net"
     },
     {
+      "domain": "speedconnect.com",
+      "name": "SpeedConnect",
+      "imap": "imap.speedconnect.com",
+      "smtp": "smtp.speedconnect.com"
+    },
+    {
       "domain": "speedexunlimited.net",
       "name": "SpeedEx Unlimited",
       "imap": "imap.speedexunlimited.net",
       "smtp": "smtp.speedexunlimited.net"
+    },
+    {
+      "domain": "spinfinity.com",
+      "name": "Spinfinity",
+      "imap": "imap.spinfinity.com",
+      "smtp": "smtp.spinfinity.com"
+    },
+    {
+      "domain": "spiritone.com",
+      "name": "SpiritOne",
+      "imap": "imap.spiritone.com",
+      "smtp": "smtp.spiritone.com"
+    },
+    {
+      "domain": "sprocketdata.com",
+      "name": "SprocketData",
+      "imap": "imap.sprocketdata.com",
+      "smtp": "smtp.sprocketdata.com"
     },
     {
       "domain": "spruce.net",
@@ -2337,6 +4503,18 @@
       "smtp": "smtp.sssnet.com"
     },
     {
+      "domain": "sstelco.com",
+      "name": "South Slope",
+      "imap": "imap.sstelco.com",
+      "smtp": "smtp.sstelco.com"
+    },
+    {
+      "domain": "stablehost.com",
+      "name": "StableHost",
+      "imap": "imap.stablehost.com",
+      "smtp": "smtp.stablehost.com"
+    },
+    {
       "domain": "starband.com",
       "name": "StarBand",
       "imap": "imap.starband.com",
@@ -2349,10 +4527,22 @@
       "smtp": "smtp.stargate.net"
     },
     {
+      "domain": "stargatehosting.com",
+      "name": "Stargate Hosting",
+      "imap": "imap.stargatehosting.com",
+      "smtp": "smtp.stargatehosting.com"
+    },
+    {
       "domain": "starnetinc.com",
       "name": "StarNet Inc",
       "imap": "imap.starnetinc.com",
       "smtp": "smtp.starnetinc.com"
+    },
+    {
+      "domain": "starpower.com",
+      "name": "Starpower",
+      "imap": "imap.starpower.com",
+      "smtp": "smtp.starpower.com"
     },
     {
       "domain": "starstream.net",
@@ -2361,10 +4551,28 @@
       "smtp": "smtp.starstream.net"
     },
     {
+      "domain": "startlogic.com",
+      "name": "StartLogic",
+      "imap": "imap.startlogic.com",
+      "smtp": "smtp.startlogic.com"
+    },
+    {
       "domain": "state.gov",
       "name": "US State Dept",
       "imap": "imap.state.gov",
       "smtp": "smtp.state.gov"
+    },
+    {
+      "domain": "stealthhosting.com",
+      "name": "Stealth Hosting",
+      "imap": "imap.stealthhosting.com",
+      "smtp": "smtp.stealthhosting.com"
+    },
+    {
+      "domain": "stic.net",
+      "name": "STIC",
+      "imap": "imap.stic.net",
+      "smtp": "smtp.stic.net"
     },
     {
       "domain": "stl.rr.com",
@@ -2377,6 +4585,12 @@
       "name": "Southern Tier RR",
       "imap": "imap.stny.rr.com",
       "smtp": "smtp.stny.rr.com"
+    },
+    {
+      "domain": "stripbox.com",
+      "name": "StripBox",
+      "imap": "imap.stripbox.com",
+      "smtp": "smtp.stripbox.com"
     },
     {
       "domain": "suddenlink.com",
@@ -2397,6 +4611,24 @@
       "smtp": "smtp.sunflower.com"
     },
     {
+      "domain": "sunshine.net",
+      "name": "Sunshine Networks",
+      "imap": "imap.sunshine.net",
+      "smtp": "smtp.sunshine.net"
+    },
+    {
+      "domain": "superbhosting.com",
+      "name": "SuperbHosting",
+      "imap": "imap.superbhosting.com",
+      "smtp": "smtp.superbhosting.com"
+    },
+    {
+      "domain": "supranet.com",
+      "name": "SupraNet",
+      "imap": "imap.supranet.com",
+      "smtp": "smtp.supranet.com"
+    },
+    {
       "domain": "surewest.net",
       "name": "Surewest",
       "imap": "imap.mycci.net",
@@ -2415,6 +4647,12 @@
       "smtp": "smtp.surtel.com"
     },
     {
+      "domain": "svalley.com",
+      "name": "S Valley",
+      "imap": "imap.svalley.com",
+      "smtp": "smtp.svalley.com"
+    },
+    {
       "domain": "svic.net",
       "name": "SVIC",
       "imap": "imap.svic.net",
@@ -2425,6 +4663,12 @@
       "name": "AT&T SWBell",
       "imap": "imap.swbell.net",
       "smtp": "smtp.swbell.net"
+    },
+    {
+      "domain": "swifthosting.com",
+      "name": "SwiftHosting",
+      "imap": "imap.swifthosting.com",
+      "smtp": "smtp.swifthosting.com"
     },
     {
       "domain": "swko.net",
@@ -2445,10 +4689,28 @@
       "smtp": "smtp.swva.net"
     },
     {
+      "domain": "symmetricom.net",
+      "name": "Symmetricom",
+      "imap": "imap.symmetricom.com",
+      "smtp": "smtp.symmetricom.com"
+    },
+    {
+      "domain": "tailoredvps.com",
+      "name": "Tailored VPS",
+      "imap": "imap.tailoredvps.com",
+      "smtp": "smtp.tailoredvps.com"
+    },
+    {
       "domain": "tampabay.rr.com",
       "name": "Tampa Bay Road Runner",
       "imap": "imap.twc.com",
       "smtp": "smtp.twc.com"
+    },
+    {
+      "domain": "tangiblehosting.com",
+      "name": "Tangible Hosting",
+      "imap": "imap.tangiblehosting.com",
+      "smtp": "smtp.tangiblehosting.com"
     },
     {
       "domain": "tangitelco.com",
@@ -2493,6 +4755,24 @@
       "smtp": "smtp.techie.com"
     },
     {
+      "domain": "tectonicdomains.com",
+      "name": "Tectonic Domains",
+      "imap": "imap.tectonicdomains.com",
+      "smtp": "smtp.tectonicdomains.com"
+    },
+    {
+      "domain": "tektonic.net",
+      "name": "Tektonic",
+      "imap": "imap.tektonic.net",
+      "smtp": "smtp.tektonic.net"
+    },
+    {
+      "domain": "telaserver.com",
+      "name": "TelaServer",
+      "imap": "imap.telaserver.com",
+      "smtp": "smtp.telaserver.com"
+    },
+    {
       "domain": "telebeep.com",
       "name": "Telebeep",
       "imap": "imap.telebeep.com",
@@ -2505,10 +4785,28 @@
       "smtp": "smtp.telenet.net"
     },
     {
+      "domain": "teleport.com",
+      "name": "Teleport",
+      "imap": "imap.teleport.com",
+      "smtp": "smtp.teleport.com"
+    },
+    {
       "domain": "telerama.com",
       "name": "Telerama",
       "imap": "imap.telerama.com",
       "smtp": "smtp.telerama.com"
+    },
+    {
+      "domain": "telsec.net",
+      "name": "Telsec",
+      "imap": "imap.telsec.net",
+      "smtp": "smtp.telsec.net"
+    },
+    {
+      "domain": "tenthmatrix.com",
+      "name": "TenthMatrix",
+      "imap": "imap.tenthmatrix.com",
+      "smtp": "smtp.tenthmatrix.com"
     },
     {
       "domain": "texas.net",
@@ -2521,6 +4819,54 @@
       "name": "Texoma Communications",
       "imap": "imap.texoma.net",
       "smtp": "smtp.texoma.net"
+    },
+    {
+      "domain": "thecityoftulsafiber.com",
+      "name": "Tulsa Fiber",
+      "imap": "imap.thecityoftulsafiber.com",
+      "smtp": "smtp.thecityoftulsafiber.com"
+    },
+    {
+      "domain": "theplanet.com",
+      "name": "The Planet",
+      "imap": "imap.theplanet.com",
+      "smtp": "smtp.theplanet.com"
+    },
+    {
+      "domain": "thinkhost.com",
+      "name": "ThinkHost",
+      "imap": "imap.thinkhost.com",
+      "smtp": "smtp.thinkhost.com"
+    },
+    {
+      "domain": "thrustvps.com",
+      "name": "ThrustVPS",
+      "imap": "imap.thrustvps.com",
+      "smtp": "smtp.thrustvps.com"
+    },
+    {
+      "domain": "tiac.net",
+      "name": "TIAC",
+      "imap": "imap.tiac.net",
+      "smtp": "smtp.tiac.net"
+    },
+    {
+      "domain": "ticon.net",
+      "name": "Ticon",
+      "imap": "imap.ticon.net",
+      "smtp": "smtp.ticon.net"
+    },
+    {
+      "domain": "tigerhost.com",
+      "name": "TigerHost",
+      "imap": "imap.tigerhost.com",
+      "smtp": "smtp.tigerhost.com"
+    },
+    {
+      "domain": "tinyhosts.com",
+      "name": "TinyHosts",
+      "imap": "imap.tinyhosts.com",
+      "smtp": "smtp.tinyhosts.com"
     },
     {
       "domain": "tm.net",
@@ -2541,6 +4887,36 @@
       "smtp": "smtp.toast.net"
     },
     {
+      "domain": "toledotel.com",
+      "name": "Toledo Tel",
+      "imap": "imap.toledotel.com",
+      "smtp": "smtp.toledotel.com"
+    },
+    {
+      "domain": "totalchoicehosting.com",
+      "name": "TotalChoice Hosting",
+      "imap": "imap.totalchoicehosting.com",
+      "smtp": "smtp.totalchoicehosting.com"
+    },
+    {
+      "domain": "totalserver.com",
+      "name": "TotalServer",
+      "imap": "imap.totalserver.com",
+      "smtp": "smtp.totalserver.com"
+    },
+    {
+      "domain": "trancehost.com",
+      "name": "TranceHost",
+      "imap": "imap.trancehost.com",
+      "smtp": "smtp.trancehost.com"
+    },
+    {
+      "domain": "traverse.net",
+      "name": "Traverse",
+      "imap": "imap.traverse.net",
+      "smtp": "smtp.traverse.net"
+    },
+    {
       "domain": "treas.gov",
       "name": "Treasury",
       "imap": "imap.treas.gov",
@@ -2551,6 +4927,30 @@
       "name": "Triad Road Runner",
       "imap": "imap.twc.com",
       "smtp": "smtp.twc.com"
+    },
+    {
+      "domain": "trib.com",
+      "name": "TRIB",
+      "imap": "imap.trib.com",
+      "smtp": "smtp.trib.com"
+    },
+    {
+      "domain": "trouble-free.net",
+      "name": "Trouble-Free",
+      "imap": "imap.trouble-free.net",
+      "smtp": "smtp.trouble-free.net"
+    },
+    {
+      "domain": "tucows.com",
+      "name": "Tucows",
+      "imap": "imap.tucows.com",
+      "smtp": "smtp.tucows.com"
+    },
+    {
+      "domain": "turnkeyinternet.net",
+      "name": "TurnKey Internet",
+      "imap": "imap.turnkeyinternet.net",
+      "smtp": "smtp.turnkeyinternet.net"
     },
     {
       "domain": "twc.com",
@@ -2565,6 +4965,12 @@
       "smtp": "smtp.twcny.rr.com"
     },
     {
+      "domain": "twd.net",
+      "name": "TWD",
+      "imap": "imap.twd.net",
+      "smtp": "smtp.twd.net"
+    },
+    {
       "domain": "twtel.com",
       "name": "TWTel",
       "imap": "imap.twtel.com",
@@ -2577,16 +4983,64 @@
       "smtp": "smtp.u2online.net"
     },
     {
+      "domain": "ubiquity.net",
+      "name": "Ubiquity",
+      "imap": "imap.ubiquity.net",
+      "smtp": "smtp.ubiquity.net"
+    },
+    {
+      "domain": "ubiquityhosting.com",
+      "name": "Ubiquity Hosting",
+      "imap": "imap.ubiquityhosting.com",
+      "smtp": "smtp.ubiquityhosting.com"
+    },
+    {
+      "domain": "ultrahosting.com",
+      "name": "UltraHosting",
+      "imap": "imap.ultrahosting.com",
+      "smtp": "smtp.ultrahosting.com"
+    },
+    {
+      "domain": "ultranet.com",
+      "name": "UltraNet",
+      "imap": "imap.ultranet.com",
+      "smtp": "smtp.ultranet.com"
+    },
+    {
       "domain": "united.net",
       "name": "United Net",
       "imap": "imap.united.net",
       "smtp": "smtp.united.net"
     },
     {
+      "domain": "unitedhosting.com",
+      "name": "United Hosting",
+      "imap": "imap.unitedhosting.com",
+      "smtp": "smtp.unitedhosting.com"
+    },
+    {
       "domain": "unitelc.com",
       "name": "Unitel Communications",
       "imap": "imap.unitelc.com",
       "smtp": "smtp.unitelc.com"
+    },
+    {
+      "domain": "unixy.net",
+      "name": "Unixy",
+      "imap": "imap.unixy.net",
+      "smtp": "smtp.unixy.net"
+    },
+    {
+      "domain": "unwiredbandwidth.com",
+      "name": "Unwired Bandwidth",
+      "imap": "imap.unwiredbandwidth.com",
+      "smtp": "smtp.unwiredbandwidth.com"
+    },
+    {
+      "domain": "us-host.com",
+      "name": "US-Host",
+      "imap": "imap.us-host.com",
+      "smtp": "smtp.us-host.com"
     },
     {
       "domain": "usa.com",
@@ -2631,6 +5085,12 @@
       "smtp": "smtp.usda.gov"
     },
     {
+      "domain": "usfamily.net",
+      "name": "US Family",
+      "imap": "imap.usfamily.net",
+      "smtp": "smtp.usfamily.net"
+    },
+    {
       "domain": "usgs.gov",
       "name": "USGS",
       "imap": "imap.usgs.gov",
@@ -2655,10 +5115,40 @@
       "smtp": "smtp.usps.gov"
     },
     {
+      "domain": "uswebspace.com",
+      "name": "USWebSpace",
+      "imap": "imap.uswebspace.com",
+      "smtp": "smtp.uswebspace.com"
+    },
+    {
+      "domain": "utahinter.net",
+      "name": "Utah Inter",
+      "imap": "imap.utahinter.net",
+      "smtp": "smtp.utahinter.net"
+    },
+    {
+      "domain": "utopiacity.net",
+      "name": "UTOPIA Fiber",
+      "imap": "imap.utopiacity.net",
+      "smtp": "smtp.utopiacity.net"
+    },
+    {
+      "domain": "utopiafiber.com",
+      "name": "UTOPIA Fiber",
+      "imap": "imap.utopiafiber.com",
+      "smtp": "smtp.utopiafiber.com"
+    },
+    {
       "domain": "va.gov",
       "name": "VA",
       "imap": "imap.va.gov",
       "smtp": "smtp.va.gov"
+    },
+    {
+      "domain": "valinet.com",
+      "name": "ValiNet",
+      "imap": "imap.valinet.com",
+      "smtp": "smtp.valinet.com"
     },
     {
       "domain": "valinet.net",
@@ -2673,6 +5163,36 @@
       "smtp": "smtp.valleytel.com"
     },
     {
+      "domain": "valleywireless.com",
+      "name": "Valley Wireless",
+      "imap": "imap.valleywireless.com",
+      "smtp": "smtp.valleywireless.com"
+    },
+    {
+      "domain": "valvehosting.com",
+      "name": "ValveHosting",
+      "imap": "imap.valvehosting.com",
+      "smtp": "smtp.valvehosting.com"
+    },
+    {
+      "domain": "vaultnetworks.com",
+      "name": "Vault Networks",
+      "imap": "imap.vaultnetworks.com",
+      "smtp": "smtp.vaultnetworks.com"
+    },
+    {
+      "domain": "veero.com",
+      "name": "Veero",
+      "imap": "imap.veero.com",
+      "smtp": "smtp.veero.com"
+    },
+    {
+      "domain": "verio.com",
+      "name": "Verio",
+      "imap": "imap.verio.com",
+      "smtp": "smtp.verio.com"
+    },
+    {
       "domain": "verizon.net",
       "name": "Verizon",
       "imap": "incoming.verizon.net",
@@ -2685,10 +5205,58 @@
       "smtp": "smtp.vermontel.net"
     },
     {
+      "domain": "verticalscope.com",
+      "name": "Vertical Scope",
+      "imap": "imap.verticalscope.com",
+      "smtp": "smtp.verticalscope.com"
+    },
+    {
+      "domain": "vexxhost.com",
+      "name": "Vexxhost",
+      "imap": "imap.vexxhost.com",
+      "smtp": "smtp.vexxhost.com"
+    },
+    {
+      "domain": "vhosting.com",
+      "name": "VHosting",
+      "imap": "imap.vhosting.com",
+      "smtp": "smtp.vhosting.com"
+    },
+    {
+      "domain": "viablehost.com",
+      "name": "ViableHost",
+      "imap": "imap.viablehost.com",
+      "smtp": "smtp.viablehost.com"
+    },
+    {
       "domain": "viasat.com",
       "name": "Viasat Exede",
       "imap": "imap.viasat.com",
       "smtp": "smtp.viasat.com"
+    },
+    {
+      "domain": "vidahost.com",
+      "name": "VidaHost",
+      "imap": "imap.vidahost.com",
+      "smtp": "smtp.vidahost.com"
+    },
+    {
+      "domain": "virpus.com",
+      "name": "Virpus",
+      "imap": "imap.virpus.com",
+      "smtp": "smtp.virpus.com"
+    },
+    {
+      "domain": "visi.com",
+      "name": "Visi",
+      "imap": "imap.visi.com",
+      "smtp": "smtp.visi.com"
+    },
+    {
+      "domain": "vista broadband.com",
+      "name": "Vista Broadband",
+      "imap": "imap.vistabroadband.com",
+      "smtp": "smtp.vistabroadband.com"
     },
     {
       "domain": "vistar.net",
@@ -2697,10 +5265,52 @@
       "smtp": "smtp.vistar.net"
     },
     {
+      "domain": "vividhosting.com",
+      "name": "Vivid Hosting",
+      "imap": "imap.vividhosting.com",
+      "smtp": "smtp.vividhosting.com"
+    },
+    {
       "domain": "vl.com",
       "name": "VL Communications",
       "imap": "imap.vl.com",
       "smtp": "smtp.vl.com"
+    },
+    {
+      "domain": "vnet.net",
+      "name": "VNET",
+      "imap": "imap.vnet.net",
+      "smtp": "smtp.vnet.net"
+    },
+    {
+      "domain": "voicenet.com",
+      "name": "VoiceNet",
+      "imap": "imap.voicenet.com",
+      "smtp": "smtp.voicenet.com"
+    },
+    {
+      "domain": "voxel.net",
+      "name": "Voxel",
+      "imap": "imap.voxel.net",
+      "smtp": "smtp.voxel.net"
+    },
+    {
+      "domain": "vps.net",
+      "name": "VPS.net",
+      "imap": "imap.vps.net",
+      "smtp": "smtp.vps.net"
+    },
+    {
+      "domain": "vpsland.com",
+      "name": "VPSLand",
+      "imap": "imap.vpsland.com",
+      "smtp": "smtp.vpsland.com"
+    },
+    {
+      "domain": "vpslink.com",
+      "name": "VPSLink",
+      "imap": "imap.vpslink.com",
+      "smtp": "smtp.vpslink.com"
     },
     {
       "domain": "vtel.net",
@@ -2739,10 +5349,40 @@
       "smtp": "smtp.wac.net"
     },
     {
+      "domain": "wadea.com",
+      "name": "Wadea",
+      "imap": "imap.wadea.com",
+      "smtp": "smtp.wadea.com"
+    },
+    {
+      "domain": "wang.com",
+      "name": "Wang",
+      "imap": "imap.wang.com",
+      "smtp": "smtp.wang.com"
+    },
+    {
+      "domain": "warpdrive.com",
+      "name": "WarpDrive",
+      "imap": "imap.warpdrive.com",
+      "smtp": "smtp.warpdrive.com"
+    },
+    {
       "domain": "wavecable.com",
       "name": "Wave Broadband (Astound)",
       "imap": "imap.wavecable.com",
       "smtp": "smtp.wavecable.com"
+    },
+    {
+      "domain": "wavedivision.com",
+      "name": "Wave Division",
+      "imap": "imap.wavedivision.com",
+      "smtp": "smtp.wavedivision.com"
+    },
+    {
+      "domain": "waverlyfiber.com",
+      "name": "Waverly Fiber",
+      "imap": "imap.waverlyfiber.com",
+      "smtp": "smtp.waverlyfiber.com"
     },
     {
       "domain": "wavetech.net",
@@ -2755,6 +5395,12 @@
       "name": "WCC",
       "imap": "imap.wcc.net",
       "smtp": "smtp.wcc.net"
+    },
+    {
+      "domain": "wco.com",
+      "name": "WCO",
+      "imap": "imap.wco.com",
+      "smtp": "smtp.wco.com"
     },
     {
       "domain": "wctc.net",
@@ -2787,16 +5433,142 @@
       "smtp": "smtp.web.com"
     },
     {
+      "domain": "webair.com",
+      "name": "Webair",
+      "imap": "imap.webair.com",
+      "smtp": "smtp.webair.com"
+    },
+    {
+      "domain": "webappcabaret.com",
+      "name": "WebAppCabaret",
+      "imap": "imap.webappcabaret.com",
+      "smtp": "smtp.webappcabaret.com"
+    },
+    {
+      "domain": "webcreator.com",
+      "name": "WebCreator",
+      "imap": "imap.webcreator.com",
+      "smtp": "smtp.webcreator.com"
+    },
+    {
+      "domain": "webdynamics.com",
+      "name": "WebDynamics",
+      "imap": "imap.webdynamics.com",
+      "smtp": "smtp.webdynamics.com"
+    },
+    {
+      "domain": "webexposure.com",
+      "name": "WebExposure",
+      "imap": "imap.webexposure.com",
+      "smtp": "smtp.webexposure.com"
+    },
+    {
+      "domain": "webfusion.com",
+      "name": "WebFusion",
+      "imap": "imap.webfusion.com",
+      "smtp": "smtp.webfusion.com"
+    },
+    {
+      "domain": "webhost4life.com",
+      "name": "WebHost4Life",
+      "imap": "imap.webhost4life.com",
+      "smtp": "smtp.webhost4life.com"
+    },
+    {
+      "domain": "webhostingbuzz.com",
+      "name": "WebHostingBuzz",
+      "imap": "imap.webhostingbuzz.com",
+      "smtp": "smtp.webhostingbuzz.com"
+    },
+    {
+      "domain": "webhostinghub.com",
+      "name": "Web Hosting Hub",
+      "imap": "imap.webhostinghub.com",
+      "smtp": "smtp.webhostinghub.com"
+    },
+    {
+      "domain": "webhostingpad.com",
+      "name": "WebHostingPad",
+      "imap": "imap.webhostingpad.com",
+      "smtp": "smtp.webhostingpad.com"
+    },
+    {
+      "domain": "webmaster.com",
+      "name": "WebMaster",
+      "imap": "imap.webmaster.com",
+      "smtp": "smtp.webmaster.com"
+    },
+    {
+      "domain": "webmasters.com",
+      "name": "WebMasters",
+      "imap": "imap.webmasters.com",
+      "smtp": "smtp.webmasters.com"
+    },
+    {
+      "domain": "webnethosting.com",
+      "name": "WebNetHosting",
+      "imap": "imap.webnethosting.com",
+      "smtp": "smtp.webnethosting.com"
+    },
+    {
+      "domain": "websitehosting.com",
+      "name": "Website Hosting",
+      "imap": "imap.websitehosting.com",
+      "smtp": "smtp.websitehosting.com"
+    },
+    {
+      "domain": "websouls.com",
+      "name": "WebSouls",
+      "imap": "imap.websouls.com",
+      "smtp": "smtp.websouls.com"
+    },
+    {
+      "domain": "webspace-hosting.com",
+      "name": "Webspace Hosting",
+      "imap": "imap.webspace-hosting.com",
+      "smtp": "smtp.webspace-hosting.com"
+    },
+    {
+      "domain": "webtv.net",
+      "name": "WebTV",
+      "imap": "imap.webtv.net",
+      "smtp": "smtp.webtv.net"
+    },
+    {
       "domain": "wecnet.com",
       "name": "WEC Net",
       "imap": "imap.wecnet.com",
       "smtp": "smtp.wecnet.com"
     },
     {
+      "domain": "weebly.com",
+      "name": "Weebly",
+      "imap": "imap.weebly.com",
+      "smtp": "smtp.weebly.com"
+    },
+    {
+      "domain": "westfieldfiber.com",
+      "name": "Westfield Fiber",
+      "imap": "imap.westfieldfiber.com",
+      "smtp": "smtp.westfieldfiber.com"
+    },
+    {
+      "domain": "westhost.com",
+      "name": "WestHost",
+      "imap": "imap.westhost.com",
+      "smtp": "smtp.westhost.com"
+    },
+    {
       "domain": "westnet.com",
       "name": "Westnet",
       "imap": "imap.westnet.com",
       "smtp": "smtp.westnet.com"
+    },
+    {
+      "domain": "whhosting.com",
+      "name": "WHHosting",
+      "imap": "imap.whhosting.com",
+      "smtp": "smtp.whhosting.com"
     },
     {
       "domain": "whidbey.net",
@@ -2817,10 +5589,28 @@
       "smtp": "smtp.twc.com"
     },
     {
+      "domain": "wideopenwest.com",
+      "name": "WideOpenWest",
+      "imap": "imap.wowway.com",
+      "smtp": "smtp.wowway.com"
+    },
+    {
+      "domain": "widomaker.com",
+      "name": "Widomaker",
+      "imap": "imap.widomaker.com",
+      "smtp": "smtp.widomaker.com"
+    },
+    {
       "domain": "wildblue.net",
       "name": "WildBlue (Viasat)",
       "imap": "imap.wildblue.net",
       "smtp": "smtp.wildblue.net"
+    },
+    {
+      "domain": "williams-net.com",
+      "name": "Williams-Net",
+      "imap": "imap.williams-net.com",
+      "smtp": "smtp.williams-net.com"
     },
     {
       "domain": "windstream.net",
@@ -2835,10 +5625,40 @@
       "smtp": "smtp.winncom.net"
     },
     {
+      "domain": "wiredtree.com",
+      "name": "WiredTree",
+      "imap": "imap.wiredtree.com",
+      "smtp": "smtp.wiredtree.com"
+    },
+    {
+      "domain": "wirelessbeehive.com",
+      "name": "Wireless Beehive",
+      "imap": "imap.wirelessbeehive.com",
+      "smtp": "smtp.wirelessbeehive.com"
+    },
+    {
       "domain": "wiscnet.net",
       "name": "WiscNet",
       "imap": "imap.wiscnet.net",
       "smtp": "smtp.wiscnet.net"
+    },
+    {
+      "domain": "wispa.org",
+      "name": "WISPA (organization)",
+      "imap": "mail.wispa.org",
+      "smtp": "mail.wispa.org"
+    },
+    {
+      "domain": "wispc.com",
+      "name": "WISPC",
+      "imap": "imap.wispc.com",
+      "smtp": "smtp.wispc.com"
+    },
+    {
+      "domain": "wispc.net",
+      "name": "WISPC",
+      "imap": "imap.wispc.net",
+      "smtp": "smtp.wispc.net"
     },
     {
       "domain": "wisperisp.com",
@@ -2865,6 +5685,12 @@
       "smtp": "smtp.woh.rr.com"
     },
     {
+      "domain": "worldnet.att.net",
+      "name": "AT&T WorldNet",
+      "imap": "inbound.att.net",
+      "smtp": "outbound.att.net"
+    },
+    {
       "domain": "wowway.com",
       "name": "WOW! Internet",
       "imap": "imap.wowway.com",
@@ -2889,10 +5715,22 @@
       "smtp": "smtp.writeme.com"
     },
     {
+      "domain": "wtci.net",
+      "name": "WTCI",
+      "imap": "imap.wtci.net",
+      "smtp": "smtp.wtci.net"
+    },
+    {
       "domain": "wtcil.net",
       "name": "WTCI",
       "imap": "imap.wtcil.net",
       "smtp": "smtp.wtcil.net"
+    },
+    {
+      "domain": "wwa.com",
+      "name": "WWA",
+      "imap": "imap.wwa.com",
+      "smtp": "smtp.wwa.com"
     },
     {
       "domain": "wyan.org",
@@ -2901,10 +5739,52 @@
       "smtp": "smtp.wyan.org"
     },
     {
+      "domain": "wyoming.com",
+      "name": "Wyoming.com",
+      "imap": "imap.wyoming.com",
+      "smtp": "smtp.wyoming.com"
+    },
+    {
+      "domain": "xcalibre.com",
+      "name": "XCalibre",
+      "imap": "imap.xcalibre.com",
+      "smtp": "smtp.xcalibre.com"
+    },
+    {
+      "domain": "xcinet.net",
+      "name": "Xcinet",
+      "imap": "imap.xcinet.net",
+      "smtp": "smtp.xcinet.net"
+    },
+    {
       "domain": "xfinity.com",
       "name": "Xfinity Comcast",
       "imap": "imap.xfinity.com",
       "smtp": "smtp.xfinity.com"
+    },
+    {
+      "domain": "xlhost.com",
+      "name": "XLHost",
+      "imap": "imap.xlhost.com",
+      "smtp": "smtp.xlhost.com"
+    },
+    {
+      "domain": "xmission.com",
+      "name": "XMission",
+      "imap": "imap.xmission.com",
+      "smtp": "smtp.xmission.com"
+    },
+    {
+      "domain": "xnet.com",
+      "name": "XNet",
+      "imap": "imap.xnet.com",
+      "smtp": "smtp.xnet.com"
+    },
+    {
+      "domain": "yahoo.bizmail.yahoo.com",
+      "name": "Yahoo Small Business",
+      "imap": "imap.mail.yahoo.com",
+      "smtp": "smtp.bizmail.yahoo.com"
     },
     {
       "domain": "ykc.com",
@@ -2913,10 +5793,52 @@
       "smtp": "smtp.ykc.com"
     },
     {
+      "domain": "yola.com",
+      "name": "Yola",
+      "imap": "imap.yola.com",
+      "smtp": "smtp.yola.com"
+    },
+    {
+      "domain": "your-site.com",
+      "name": "Your-Site",
+      "imap": "imap.your-site.com",
+      "smtp": "smtp.your-site.com"
+    },
+    {
+      "domain": "zabox.net",
+      "name": "Zabox",
+      "imap": "imap.zabox.net",
+      "smtp": "smtp.zabox.net"
+    },
+    {
       "domain": "zapmedia.com",
       "name": "ZapMedia",
       "imap": "imap.zapmedia.com",
       "smtp": "smtp.zapmedia.com"
+    },
+    {
+      "domain": "zebrohost.com",
+      "name": "ZebroHost",
+      "imap": "imap.zebrohost.com",
+      "smtp": "smtp.zebrohost.com"
+    },
+    {
+      "domain": "zenfolio.com",
+      "name": "Zenfolio",
+      "imap": "imap.zenfolio.com",
+      "smtp": "smtp.zenfolio.com"
+    },
+    {
+      "domain": "zerigo.com",
+      "name": "Zerigo",
+      "imap": "imap.zerigo.com",
+      "smtp": "smtp.zerigo.com"
+    },
+    {
+      "domain": "zettahost.com",
+      "name": "ZettaHost",
+      "imap": "imap.zettahost.com",
+      "smtp": "smtp.zettahost.com"
     },
     {
       "domain": "zianet.com",
@@ -2943,10 +5865,28 @@
       "smtp": "smtp.zipmail.com"
     },
     {
+      "domain": "znaplink.com",
+      "name": "ZnapLink",
+      "imap": "imap.znaplink.com",
+      "smtp": "smtp.znaplink.com"
+    },
+    {
       "domain": "zol.net",
       "name": "ZOL",
       "imap": "imap.zol.net",
       "smtp": "smtp.zol.net"
+    },
+    {
+      "domain": "zoneedit.com",
+      "name": "ZoneEdit",
+      "imap": "imap.zoneedit.com",
+      "smtp": "smtp.zoneedit.com"
+    },
+    {
+      "domain": "zooloop.com",
+      "name": "ZooLoop",
+      "imap": "imap.zooloop.com",
+      "smtp": "smtp.zooloop.com"
     },
     {
       "domain": "zoominternet.net",
